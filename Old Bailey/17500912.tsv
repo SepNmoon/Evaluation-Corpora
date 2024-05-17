@@ -1240,8 +1240,8 @@ summary,0
 Jane,B-pers
 Service,I-pers
 ",",I-pers
-otherwise,I-pers
-Bell,I-pers
+otherwise,0
+Bell,B-pers
 ",",0
 spinster,0
 ",",0
@@ -3618,8 +3618,8 @@ and,0
 Benjamin,B-pers
 Mason,I-pers
 ",",I-pers
-otherwise,I-pers
-Ben,I-pers
+otherwise,0
+Ben,B-pers
 the,I-pers
 Coleheaver,I-pers
 ",",0
@@ -12987,8 +12987,8 @@ Ben,B-pers
 the,I-pers
 Coleheaver,I-pers
 ",",I-pers
-otherwise,I-pers
-Benjamin,I-pers
+otherwise,0
+Benjamin,B-pers
 Mason,I-pers
 ",",0
 was,0
@@ -31197,8 +31197,8 @@ Loyd,I-pers
 ",",0
 and,0
 Moses,B-pers
-otherwise,I-pers
-Boses,I-pers
+otherwise,0
+Boses,B-pers
 Wright,I-pers
 ",",0
 were,0

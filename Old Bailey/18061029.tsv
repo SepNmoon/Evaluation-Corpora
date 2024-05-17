@@ -1007,8 +1007,8 @@ And,0
 ELIZABETH,B-pers
 ASKEW,I-pers
 ",",I-pers
-alias,I-pers
-PRICE,I-pers
+alias,0
+PRICE,B-pers
 ",",0
 for,0
 feloniously,0
@@ -16399,8 +16399,8 @@ Serjeant,0
 JOHN,B-pers
 DAVISON,I-pers
 ",",I-pers
-alias,I-pers
-CHAPMAN,I-pers
+alias,0
+CHAPMAN,B-pers
 ",",0
 was,0
 indicted,0
@@ -26328,8 +26328,8 @@ Thompson,I-pers
 CHARLES,B-pers
 KELLY,I-pers
 ",",I-pers
-alias,I-pers
-JAMES,I-pers
+alias,0
+JAMES,B-pers
 BROWN,I-pers
 ",",0
 was,0
@@ -37922,8 +37922,8 @@ of,0
 William,B-pers
 Flooster,I-pers
 ",",I-pers
-otherwise,I-pers
-William,I-pers
+otherwise,0
+William,B-pers
 Fluster,I-pers
 ",",0
 otherwise,0
@@ -47204,8 +47204,8 @@ Recorder,0
 GEORGE,B-pers
 COOPER,I-pers
 ",",I-pers
-alias,I-pers
-GEORGE,I-pers
+alias,0
+GEORGE,B-pers
 REID,I-pers
 SMITH,I-pers
 ",",0
@@ -47964,8 +47964,8 @@ Ellenborough,0
 MAY,B-pers
 PILKINGTON,I-pers
 ",",I-pers
-alias,I-pers
-KNIGHT,I-pers
+alias,0
+KNIGHT,B-pers
 ",",0
 was,0
 indicted,0

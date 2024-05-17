@@ -1165,8 +1165,8 @@ guilty,0
 Thomas,B-pers
 Cook,I-pers
 ",",I-pers
-alias,I-pers
-Brown,I-pers
+alias,0
+Brown,B-pers
 ",",0
 and,0
 Peter,B-pers
@@ -3047,8 +3047,8 @@ summary,0
 Mary,B-pers
 Nace,I-pers
 ",",I-pers
-alias,I-pers
-White,I-pers
+alias,0
+White,B-pers
 ",",0
 was,0
 tried,0
@@ -3592,8 +3592,8 @@ summary,0
 Gertrude,B-pers
 Smith,I-pers
 ",",I-pers
-alias,I-pers
-Davis,I-pers
+alias,0
+Davis,B-pers
 ",",0
 was,0
 tried,0
@@ -5598,8 +5598,8 @@ summary,0
 Jane,B-pers
 Lark,I-pers
 ",",I-pers
-alias,I-pers
-Lyon,I-pers
+alias,0
+Lyon,B-pers
 ",",0
 tried,0
 for,0
@@ -7301,8 +7301,8 @@ acquitted,0
 Hannah,B-pers
 Woolley,I-pers
 ",",I-pers
-alias,I-pers
-Barry,I-pers
+alias,0
+Barry,B-pers
 ",",0
 was,0
 singly,0
@@ -7771,8 +7771,8 @@ summary,0
 Mary,B-pers
 King,I-pers
 ",",I-pers
-alias,I-pers
-Godman,I-pers
+alias,0
+Godman,B-pers
 ",",0
 was,0
 tried,0
@@ -8057,8 +8057,8 @@ Wife,0
 Hannah,B-pers
 Woolley,I-pers
 ",",I-pers
-alias,I-pers
-Barry,I-pers
+alias,0
+Barry,B-pers
 ",",0
 and,0
 James,B-pers

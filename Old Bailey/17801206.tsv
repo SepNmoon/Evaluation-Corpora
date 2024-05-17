@@ -5867,8 +5867,8 @@ RECORDER,0
 7.,0
 MARY,B-pers
 ",",I-pers
-otherwise,I-pers
-ELIZABETH,I-pers
+otherwise,0
+ELIZABETH,B-pers
 CARPENTER,I-pers
 was,0
 indicted,0
@@ -9769,8 +9769,8 @@ RECORDER,0
 13.,0
 WILLIAM,B-pers
 THOMPSON,I-pers
-otherwise,I-pers
-BENNET,I-pers
+otherwise,0
+BENNET,B-pers
 was,0
 indicted,0
 for,0

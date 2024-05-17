@@ -11307,8 +11307,8 @@ LOUGHBOROUGH,0
 MARY,B-pers
 JACKSON,I-pers
 ",",I-pers
-otherwise,I-pers
-NORTON,I-pers
+otherwise,0
+NORTON,B-pers
 ",",0
 was,0
 indicted,0
@@ -21190,8 +21190,8 @@ LOUGHBOROUGH,0
 WILLIAM,B-pers
 EDWARDS,I-pers
 ",",I-pers
-otherwise,I-pers
-GEORGE,I-pers
+otherwise,0
+GEORGE,B-pers
 ",",0
 was,0
 indicted,0
@@ -24169,8 +24169,8 @@ LOUGHBOROUGH,0
 WILLIAM,B-pers
 PARISH,I-pers
 ",",I-pers
-otherwise,I-pers
-POTTER,I-pers
+otherwise,0
+POTTER,B-pers
 ",",0
 was,0
 indicted,0
@@ -25702,8 +25702,8 @@ RECORDER,0
 951.,0
 GEORGE,B-pers
 SMITH,I-pers
-otherwise,I-pers
-JOHN,I-pers
+otherwise,0
+JOHN,B-pers
 RENSHAW,I-pers
 was,0
 indicted,0
@@ -26555,8 +26555,8 @@ LOUGHBOROUGH,0
 950.,0
 CATHERINE,B-pers
 SPENCER,I-pers
-otherwise,I-pers
-CAMP,I-pers
+otherwise,0
+CAMP,B-pers
 and,0
 SARAH,B-pers
 BAKER,I-pers
@@ -43384,8 +43384,8 @@ LOUGHBOROUGH,0
 971.,0
 WILLIAM,B-pers
 MORRON,I-pers
-otherwise,I-pers
-MURRAY,I-pers
+otherwise,0
+MURRAY,B-pers
 was,0
 indicted,0
 for,0
@@ -60591,8 +60591,8 @@ Dover,0
 974.,0
 JAMES,B-pers
 ",",I-pers
-otherwise,I-pers
-JOSEPH,I-pers
+otherwise,0
+JOSEPH,B-pers
 TREBBIS,I-pers
 ",",0
 and,0
@@ -65914,8 +65914,8 @@ RECORDER,0
 THOMAS,B-pers
 PEARSON,I-pers
 ",",I-pers
-otherwise,I-pers
-PEARCE,I-pers
+otherwise,0
+PEARCE,B-pers
 ",",0
 was,0
 indicted,0

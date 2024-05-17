@@ -3892,8 +3892,8 @@ and,0
 JOHN,B-pers
 CALCOTT,I-pers
 ",",I-pers
-otherwise,I-pers
-COCKET,I-pers
+otherwise,0
+COCKET,B-pers
 ",",0
 were,0
 indicted,0
@@ -5525,8 +5525,8 @@ ASTON,0
 5.,0
 RICHARD,B-pers
 WRIGHT,I-pers
-otherwise,I-pers
-BRENT,I-pers
+otherwise,0
+BRENT,B-pers
 and,0
 BENJAMIN,B-pers
 EYRES,I-pers
@@ -19380,8 +19380,8 @@ GUILTY,0
 39.,0
 THOMAS,B-pers
 FARMER,I-pers
-otherwise,I-pers
-SMITH,I-pers
+otherwise,0
+SMITH,B-pers
 was,0
 indicted,0
 for,0
@@ -20786,8 +20786,8 @@ Num,0
 41.,0
 ANN,B-pers
 FAIRBANK,I-pers
-otherwise,I-pers
-GRANT,I-pers
+otherwise,0
+GRANT,B-pers
 was,0
 indicted,0
 for,0

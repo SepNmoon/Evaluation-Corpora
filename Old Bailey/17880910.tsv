@@ -10219,8 +10219,8 @@ RECORDER,0
 JAMES,B-pers
 SMITH,I-pers
 ",",I-pers
-alias,I-pers
-LACEY,I-pers
+alias,0
+LACEY,B-pers
 ",",0
 was,0
 indicted,0
@@ -29993,8 +29993,8 @@ RECORDER,0
 JOHN,B-pers
 SENNIER,I-pers
 ",",I-pers
-otherwise,I-pers
-SENIOR,I-pers
+otherwise,0
+SENIOR,B-pers
 was,0
 indicted,0
 for,0
@@ -39449,8 +39449,8 @@ and,0
 CHARLES,B-pers
 CHARLES,I-pers
 .,I-pers
-otherwise,I-pers
-STEVENS,I-pers
+otherwise,0
+STEVENS,B-pers
 ",",0
 were,0
 indicted,0
@@ -77356,8 +77356,8 @@ ROSE,0
 599.,0
 JAMES,B-pers
 BALAAM,I-pers
-alias,I-pers
-DARKEY,I-pers
+alias,0
+DARKEY,B-pers
 was,0
 indicted,0
 for,0
@@ -77552,8 +77552,8 @@ MURPHY,I-pers
 and,0
 CATHARINE,B-pers
 MURPHY,I-pers
-alias,I-pers
-BOWMAN,I-pers
+alias,0
+BOWMAN,B-pers
 were,0
 indicted,0
 ",",0
@@ -86620,8 +86620,8 @@ HOTHAM,I-pers
 586,0
 ELIZABETH,B-pers
 ROBINS,I-pers
-alias,I-pers
-RAWLINS,I-pers
+alias,0
+RAWLINS,B-pers
 and,0
 ANN,B-pers
 CAMPBELL,I-pers
@@ -102566,8 +102566,8 @@ GROSE,0
 SAMUEL,B-pers
 SEALE,I-pers
 ",",I-pers
-otherwise,I-pers
-SEALY,I-pers
+otherwise,0
+SEALY,B-pers
 ",",0
 was,0
 indicted,0
@@ -106908,8 +106908,8 @@ fact,0
 ESTHER,B-pers
 MORRIS,I-pers
 ",",I-pers
-otherwise,I-pers
-ESTHER,I-pers
+otherwise,0
+ESTHER,B-pers
 Wife,I-pers
 of,I-pers
 THOMAS,I-pers

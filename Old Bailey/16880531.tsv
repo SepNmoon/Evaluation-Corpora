@@ -603,8 +603,8 @@ summary,0
 ],0
 Ann,B-pers
 Yates,I-pers
-alias,I-pers
-Mills,I-pers
+alias,0
+Mills,B-pers
 ",",0
 of,0
 the,0
@@ -1059,8 +1059,8 @@ and,0
 Rob,B-pers
 .,I-pers
 Pepper,I-pers
-alias,I-pers
-Pebworth,I-pers
+alias,0
+Pebworth,B-pers
 ",",0
 were,0
 indicted,0
@@ -1661,8 +1661,8 @@ Guilty,0
 .,0
 Abigail,B-pers
 Gates,I-pers
-alias,I-pers
-Shakemable,I-pers
+alias,0
+Shakemable,B-pers
 ",",0
 Charles,B-pers
 Eagleston,I-pers
@@ -2241,8 +2241,8 @@ summary,0
 Charles,B-pers
 Hughs,I-pers
 ",",I-pers
-alias,I-pers
-Robinson,I-pers
+alias,0
+Robinson,B-pers
 ",",0
 of,0
 the,0

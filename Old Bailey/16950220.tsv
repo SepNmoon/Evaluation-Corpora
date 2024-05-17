@@ -2868,8 +2868,8 @@ summary,0
 ],0
 John,B-pers
 Davis,I-pers
-alias,I-pers
-Davye,I-pers
+alias,0
+Davye,B-pers
 ",",0
 was,0
 Arraigned,0
@@ -6001,8 +6001,8 @@ summary,0
 Mark,B-pers
 Fenton,I-pers
 ",",I-pers
-alias,I-pers
-Felton,I-pers
+alias,0
+Felton,B-pers
 ",",0
 was,0
 Tryed,0
@@ -7830,8 +7830,8 @@ acquitted,0
 Ann,B-pers
 Banks,I-pers
 ",",I-pers
-alias,I-pers
-Wilson,I-pers
+alias,0
+Wilson,B-pers
 ",",0
 was,0
 tried,0
@@ -9235,8 +9235,8 @@ Sullivan,I-pers
 Daniel,B-pers
 Kane,I-pers
 ",",I-pers
-alias,I-pers
-Kalligan,I-pers
+alias,0
+Kalligan,B-pers
 ",",0
 for,0
 that,0

@@ -8382,8 +8382,8 @@ acquitted,0
 Elizabeth,B-pers
 Lord,I-pers
 ",",I-pers
-alias,I-pers
-Lordwell,I-pers
+alias,0
+Lordwell,B-pers
 ",",0
 of,0
 St.,B-place
@@ -9151,8 +9151,8 @@ Transportation,0
 .,0
 Ralph,B-pers
 Emmery,I-pers
-alias,I-pers
-Emersly,I-pers
+alias,0
+Emersly,B-pers
 ",",0
 of,0
 the,0
@@ -10330,8 +10330,8 @@ summary,0
 Jacob,B-pers
 William,I-pers
 Harris,I-pers
-alias,I-pers
-James,I-pers
+alias,0
+James,B-pers
 Simpson,I-pers
 ",",0
 was,0
@@ -10955,8 +10955,8 @@ her,0
 .,0
 Francis,B-pers
 Fenwick,I-pers
-alias,I-pers
-Peers,I-pers
+alias,0
+Peers,B-pers
 of,0
 the,0
 Parish,0
@@ -11086,8 +11086,8 @@ Fowler,I-pers
 and,0
 Katherine,B-pers
 Laybourn,I-pers
-alias,I-pers
-Phillips,I-pers
+alias,0
+Phillips,B-pers
 ",",0
 of,0
 the,0
@@ -11750,8 +11750,8 @@ Transportation,0
 .,0
 Sarah,B-pers
 Cordell,I-pers
-alias,I-pers
-Elliot,I-pers
+alias,0
+Elliot,B-pers
 ",",0
 of,0
 St.,B-place

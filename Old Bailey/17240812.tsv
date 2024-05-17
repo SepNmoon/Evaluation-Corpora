@@ -1549,8 +1549,8 @@ Transportation,0
 .,0
 Miles,B-pers
 Allison,I-pers
-alias,I-pers
-Coatsworth,I-pers
+alias,0
+Coatsworth,B-pers
 ",",0
 and,0
 Mary,B-pers
@@ -2953,8 +2953,8 @@ Transportation,0
 Ann,B-pers
 Clay,I-pers
 ",",I-pers
-alias,I-pers
-Roberts,I-pers
+alias,0
+Roberts,B-pers
 ",",0
 of,0
 St.,B-place
@@ -6055,8 +6055,8 @@ Transportation,0
 Margaret,B-pers
 Mews,I-pers
 ",",I-pers
-alias,I-pers
-Fetherstone,I-pers
+alias,0
+Fetherstone,B-pers
 ",",0
 of,0
 the,0
@@ -6485,8 +6485,8 @@ Years,0
 Elizabeth,B-pers
 Copney,I-pers
 ",",I-pers
-alias,I-pers
-Cobley,I-pers
+alias,0
+Cobley,B-pers
 ",",0
 of,0
 St.,B-place
@@ -9999,8 +9999,8 @@ of,0
 Joseph,B-pers
 Blake,I-pers
 ",",I-pers
-alias,I-pers
-Blueskin,I-pers
+alias,0
+Blueskin,B-pers
 ",",0
 and,0
 William,B-pers

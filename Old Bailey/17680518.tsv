@@ -1372,8 +1372,8 @@ M.,0
 John,B-pers
 Johnson,I-pers
 ",",I-pers
-otherwise,I-pers
-James,I-pers
+otherwise,0
+James,B-pers
 Coyne,I-pers
 ",",0
 was,0
@@ -17980,8 +17980,8 @@ M.,0
 Elizabeth,B-pers
 Hoskins,I-pers
 ",",I-pers
-otherwise,I-pers
-Helkins,I-pers
+otherwise,0
+Helkins,B-pers
 ",",0
 spinster,0
 ",",0
@@ -20137,8 +20137,8 @@ and,0
 James,B-pers
 Griggs,I-pers
 ",",I-pers
-otherwise,I-pers
-White,I-pers
+otherwise,0
+White,B-pers
 ",",0
 were,0
 indicted,0
@@ -33013,8 +33013,8 @@ of,I-pers
 John,I-pers
 Hindes,I-pers
 ",",I-pers
-otherwise,I-pers
-Mary,I-pers
+otherwise,0
+Mary,B-pers
 Jones,I-pers
 ",",0
 otherwise,0

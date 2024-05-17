@@ -23159,8 +23159,8 @@ ANN,B-pers
 JUDITH,I-pers
 ROY,I-pers
 .,I-pers
-otherwise,I-pers
-ANN,I-pers
+otherwise,0
+ANN,B-pers
 JUDITH,I-pers
 TAYLOR,I-pers
 ",",0
@@ -59459,8 +59459,8 @@ BULLER,0
 337.,0
 ROBERT,B-pers
 HARMISON,I-pers
-otherwise,I-pers
-PERCIVAL,I-pers
+otherwise,0
+PERCIVAL,B-pers
 was,0
 indicted,0
 for,0
@@ -64021,8 +64021,8 @@ RECORDER,0
 340.,0
 SARAH,B-pers
 PENN,I-pers
-otherwise,I-pers
-MACKNARA,I-pers
+otherwise,0
+MACKNARA,B-pers
 was,0
 indicted,0
 for,0
@@ -69685,8 +69685,8 @@ BULLER,0
 JOHN,B-pers
 WILLIAMS,I-pers
 ",",I-pers
-otherwise,I-pers
-SCHOFIELD,I-pers
+otherwise,0
+SCHOFIELD,B-pers
 ",",0
 and,0
 ELEANOR,B-pers
@@ -72700,8 +72700,8 @@ LAWRENCE,0
 348.,0
 MARY,B-pers
 ",",I-pers
-otherwise,I-pers
-MARIA,I-pers
+otherwise,0
+MARIA,B-pers
 HUTCHINSON,I-pers
 ",",0
 was,0
@@ -73301,8 +73301,8 @@ BULLER,0
 349.,0
 MARY,B-pers
 ",",I-pers
-otherwise,I-pers
-MARIA,I-pers
+otherwise,0
+MARIA,B-pers
 HUTCHINSON,I-pers
 ",",0
 was,0
@@ -75573,8 +75573,8 @@ ACQUITTED,0
 BURTON,B-pers
 WOOD,I-pers
 ",",I-pers
-alias,I-pers
-THOMAS,I-pers
+alias,0
+THOMAS,B-pers
 SIMTH,I-pers
 ",",0
 and,0
@@ -118758,8 +118758,8 @@ Clark,I-pers
 Austin,B-pers
 Flowers,I-pers
 ",",I-pers
-otherwise,I-pers
-Young,I-pers
+otherwise,0
+Young,B-pers
 ",",0
 Thomas,B-pers
 Flowers,I-pers

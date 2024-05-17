@@ -19559,8 +19559,8 @@ ASHURST,0
 JOHN,B-pers
 RIGG,I-pers
 ",",I-pers
-otherwise,I-pers
-BIGG,I-pers
+otherwise,0
+BIGG,B-pers
 ",",0
 and,0
 MICHAEL,B-pers
@@ -25592,8 +25592,8 @@ RECORDEER,0
 WILLIAM,B-pers
 COX,I-pers
 ",",I-pers
-otherwise,I-pers
-VANDERPLATY,I-pers
+otherwise,0
+VANDERPLATY,B-pers
 was,0
 indicted,0
 for,0
@@ -38019,8 +38019,8 @@ MOORE,I-pers
 SARAH,B-pers
 PARTRIDGE,I-pers
 ",",I-pers
-otherwise,I-pers
-ROBERTS,I-pers
+otherwise,0
+ROBERTS,B-pers
 ",",0
 and,0
 MARY,B-pers
@@ -87193,8 +87193,8 @@ NORGATE,I-pers
 ",",0
 WILLIAM,B-pers
 CAREY,I-pers
-alias,I-pers
-CADEY,I-pers
+alias,0
+CADEY,B-pers
 were,0
 indicted,0
 for,0
@@ -98184,8 +98184,8 @@ of,0
 Israel,B-pers
 Barew,I-pers
 ",",I-pers
-otherwise,I-pers
-Israel,I-pers
+otherwise,0
+Israel,B-pers
 Barrow,I-pers
 ;,0
 ABRAHAM,B-pers
@@ -106007,8 +106007,8 @@ Also,0
 Daniel,B-pers
 Hickman,I-pers
 ",",I-pers
-alias,I-pers
-Higgins,I-pers
+alias,0
+Higgins,B-pers
 ",",0
 and,0
 Samuel,B-pers
@@ -106136,8 +106136,8 @@ Also,0
 Daniel,B-pers
 Hickman,I-pers
 ",",I-pers
-alias,I-pers
-Higgins,I-pers
+alias,0
+Higgins,B-pers
 ",",0
 and,0
 Samuel,B-pers

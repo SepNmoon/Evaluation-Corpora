@@ -1454,8 +1454,8 @@ mercy,0
 SUSANNAH,B-pers
 WATSON,I-pers
 ",",I-pers
-otherwise,I-pers
-MARLOW,I-pers
+otherwise,0
+MARLOW,B-pers
 ",",0
 and,0
 ANNE,B-pers
@@ -15034,8 +15034,8 @@ SKYNNER,0
 ANNE,B-pers
 VAUGHAN,I-pers
 ",",I-pers
-otherwise,I-pers
-GARLAND,I-pers
+otherwise,0
+GARLAND,B-pers
 ",",0
 was,0
 indicted,0
@@ -40504,8 +40504,8 @@ SKYNNER,0
 EDWARD,B-pers
 LOCH,I-pers
 ",",I-pers
-otherwise,I-pers
-LOACH,I-pers
+otherwise,0
+LOACH,B-pers
 ",",0
 was,0
 indicted,0

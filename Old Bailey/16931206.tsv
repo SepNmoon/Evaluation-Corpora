@@ -540,8 +540,8 @@ summary,0
 George,B-pers
 Green,I-pers
 ",",I-pers
-alias,I-pers
-Allen,I-pers
+alias,0
+Allen,B-pers
 ",",0
 and,0
 William,B-pers
@@ -2127,8 +2127,8 @@ summary,0
 Mary,B-pers
 Stokes,I-pers
 ",",I-pers
-alias,I-pers
-Edwards,I-pers
+alias,0
+Edwards,B-pers
 ",",0
 was,0
 tried,0
@@ -7665,8 +7665,8 @@ summary,0
 Hannah,B-pers
 Brown,I-pers
 ",",I-pers
-alias,I-pers
-Batson,I-pers
+alias,0
+Batson,B-pers
 ",",0
 and,0
 Esther,B-pers
@@ -8121,8 +8121,8 @@ Acquitted,0
 Dorothy,B-pers
 Springall,I-pers
 ",",I-pers
-alias,I-pers
-Springet,I-pers
+alias,0
+Springet,B-pers
 ",",0
 the,0
 Mother,0
@@ -8131,8 +8131,8 @@ and,0
 Susan,B-pers
 Springall,I-pers
 ",",I-pers
-alias,I-pers
-Springet,I-pers
+alias,0
+Springet,B-pers
 ",",0
 the,0
 Daughter,0

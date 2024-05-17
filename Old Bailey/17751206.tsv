@@ -25922,8 +25922,8 @@ December,0
 JOHN,B-pers
 WATSON,I-pers
 ",",I-pers
-otherwise,I-pers
-WILLIAM,I-pers
+otherwise,0
+WILLIAM,B-pers
 DAVIS,I-pers
 ",",0
 indicted,0
@@ -62602,8 +62602,8 @@ ALEXANDER,I-pers
 LYON,B-pers
 ABRAHAMS,I-pers
 ",",I-pers
-otherwise,I-pers
-LYPE,I-pers
+otherwise,0
+LYPE,B-pers
 ",",0
 and,0
 CLARA,B-pers
@@ -64566,8 +64566,8 @@ and,0
 LYON,B-pers
 ABRAHAMS,I-pers
 ",",I-pers
-otherwise,I-pers
-LYPE,I-pers
+otherwise,0
+LYPE,B-pers
 ",",0
 were,0
 a,0
@@ -73049,8 +73049,8 @@ of,I-pers
 THOMAS,I-pers
 GREEN,I-pers
 ",",I-pers
-alias,I-pers
-SMART,I-pers
+alias,0
+SMART,B-pers
 ",",0
 alias,0
 SMART,0

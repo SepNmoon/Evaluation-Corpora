@@ -665,8 +665,8 @@ M.,0
 ),0
 Joseph,B-pers
 ",",I-pers
-otherwise,I-pers
-Thomas,I-pers
+otherwise,0
+Thomas,B-pers
 Smith,I-pers
 ",",0
 was,0
@@ -12632,8 +12632,8 @@ to,I-pers
 John,I-pers
 Sutton,I-pers
 ",",I-pers
-otherwise,I-pers
-Margaret,I-pers
+otherwise,0
+Margaret,B-pers
 Knowland,I-pers
 ",",0
 otherwise,0

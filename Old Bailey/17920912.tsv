@@ -1514,8 +1514,8 @@ summary,0
 JOHN,B-pers
 SMITH,I-pers
 ",",I-pers
-alias,I-pers
-JOHN,I-pers
+alias,0
+JOHN,B-pers
 IRSON,I-pers
 ",",0
 was,0
@@ -16581,8 +16581,8 @@ HOTHAM,I-pers
 THOMAS,B-pers
 STYX,I-pers
 ",",I-pers
-otherwise,I-pers
-WOOD,I-pers
+otherwise,0
+WOOD,B-pers
 ",",0
 and,0
 WILLIAM,B-pers
@@ -20502,8 +20502,8 @@ RECORDER,0
 JOHN,B-pers
 KHEE,I-pers
 ",",I-pers
-alias,I-pers
-COE,I-pers
+alias,0
+COE,B-pers
 ",",0
 was,0
 indicted,0
@@ -20649,8 +20649,8 @@ RECORDER,0
 JEMIMA,B-pers
 ROLFE,I-pers
 ",",I-pers
-alias,I-pers
-WEBB,I-pers
+alias,0
+WEBB,B-pers
 ",",0
 was,0
 indicted,0
@@ -26307,8 +26307,8 @@ HOTHAM,I-pers
 JAMES,B-pers
 SHORE,I-pers
 ",",I-pers
-alias,I-pers
-SHAW,I-pers
+alias,0
+SHAW,B-pers
 ",",0
 was,0
 indicted,0
@@ -34055,8 +34055,8 @@ and,0
 ELIZABETH,B-pers
 CARTER,I-pers
 ",",I-pers
-alias,I-pers
-TURNER,I-pers
+alias,0
+TURNER,B-pers
 was,0
 indicted,0
 for,0

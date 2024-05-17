@@ -1116,8 +1116,8 @@ Prisoner,0
 William,B-pers
 Marjoram,I-pers
 ",",I-pers
-alias,I-pers
-Elias,I-pers
+alias,0
+Elias,B-pers
 Huggady,I-pers
 ",",0
 was,0
@@ -6817,8 +6817,8 @@ and,0
 William,B-pers
 Crafter,I-pers
 ",",I-pers
-alias,I-pers
-Veal,I-pers
+alias,0
+Veal,B-pers
 ",",0
 were,0
 indicted,0
@@ -10475,8 +10475,8 @@ Death,0
 Jane,B-pers
 Keatly,I-pers
 ",",I-pers
-alias,I-pers
-Long,I-pers
+alias,0
+Long,B-pers
 ",",0
 was,0
 indicted,0
@@ -10776,8 +10776,8 @@ Damask,0
 to,0
 Martha,B-pers
 Turner,I-pers
-alias,I-pers
-Boswell,I-pers
+alias,0
+Boswell,B-pers
 ",",0
 (,0
 Sister,0

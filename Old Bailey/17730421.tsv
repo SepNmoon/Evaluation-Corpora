@@ -1896,8 +1896,8 @@ of,I-pers
 Stancey,I-pers
 TONGE,I-pers
 ",",I-pers
-otherwise,I-pers
-Thomas,I-pers
+otherwise,0
+Thomas,B-pers
 Tonge,I-pers
 ",",0
 was,0
@@ -39104,8 +39104,8 @@ M.,0
 MARY,B-pers
 FLOCKHARD,I-pers
 ",",I-pers
-alias,I-pers
-FLOCKHART,I-pers
+alias,0
+FLOCKHART,B-pers
 ",",0
 was,0
 indicted,0

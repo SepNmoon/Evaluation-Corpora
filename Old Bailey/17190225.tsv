@@ -1330,8 +1330,8 @@ Transportation,0
 Jane,B-pers
 Scott,I-pers
 ",",I-pers
-alias,I-pers
-Holloway,I-pers
+alias,0
+Holloway,B-pers
 ",",0
 Ann,B-pers
 Pierce,I-pers
@@ -9359,8 +9359,8 @@ Transportation,0
 .,0
 Elizabeth,B-pers
 Tooly,I-pers
-alias,I-pers
-Sewet,I-pers
+alias,0
+Sewet,B-pers
 ",",0
 of,0
 St.,B-place
@@ -11871,8 +11871,8 @@ Imprisonment,0
 .,0
 John,B-pers
 Filewood,I-pers
-alias,I-pers
-Violet,I-pers
+alias,0
+Violet,B-pers
 ",",0
 of,0
 St.,B-place

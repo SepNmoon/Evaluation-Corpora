@@ -458,8 +458,8 @@ RANN,I-pers
 WILLIAM,B-pers
 DAVIS,I-pers
 ",",I-pers
-otherwise,I-pers
-SCARLET,I-pers
+otherwise,0
+SCARLET,B-pers
 ",",0
 DAVID,B-pers
 MONRO,I-pers
@@ -26737,8 +26737,8 @@ M.,0
 MARY,B-pers
 WORTH,I-pers
 ",",I-pers
-otherwise,I-pers
-BIBEY,I-pers
+otherwise,0
+BIBEY,B-pers
 ",",0
 was,0
 indicted,0
@@ -34396,8 +34396,8 @@ and,0
 CHARLES,B-pers
 THOMPSON,I-pers
 ",",I-pers
-otherwise,I-pers
-GYPSEY,I-pers
+otherwise,0
+GYPSEY,B-pers
 CHARLES,I-pers
 ",",0
 were,0

@@ -2896,8 +2896,8 @@ HOTHAM,I-pers
 ROBERT,B-pers
 LAWDON,I-pers
 ",",I-pers
-otherwise,I-pers
-LEADER,I-pers
+otherwise,0
+LEADER,B-pers
 ",",0
 was,0
 indicted,0
@@ -18736,8 +18736,8 @@ summary,0
 JOHN,B-pers
 MATTHISON,I-pers
 ",",I-pers
-otherwise,I-pers
-MAXWELL,I-pers
+otherwise,0
+MAXWELL,B-pers
 was,0
 indicted,0
 for,0
@@ -43640,8 +43640,8 @@ guilty,0
 ),0
 JAMES,B-pers
 DONNELLY,I-pers
-otherwise,I-pers
-PATRICK,I-pers
+otherwise,0
+PATRICK,B-pers
 DONNELLY,I-pers
 (,0
 upon,0

@@ -2814,8 +2814,8 @@ summary,0
 Thomas,B-pers
 Bartlet,I-pers
 ",",I-pers
-alias,I-pers
-Henry,I-pers
+alias,0
+Henry,B-pers
 Weatly,I-pers
 ",",0
 was,0
@@ -6458,8 +6458,8 @@ Death,0
 James,B-pers
 Stagles,I-pers
 ",",I-pers
-alias,I-pers
-Howard,I-pers
+alias,0
+Howard,B-pers
 ",",0
 of,0
 St.,B-place
@@ -6900,8 +6900,8 @@ Death,0
 Margaret,B-pers
 Wallis,I-pers
 ",",I-pers
-alias,I-pers
-Staining,I-pers
+alias,0
+Staining,B-pers
 ",",0
 was,0
 indicted,0
@@ -11883,8 +11883,8 @@ and,0
 Sarah,B-pers
 Lawson,I-pers
 ",",I-pers
-alias,I-pers
-Clark,I-pers
+alias,0
+Clark,B-pers
 ",",0
 in,0
 Rider,0
@@ -13220,8 +13220,8 @@ summary,0
 Mary,B-pers
 Hopkins,I-pers
 ",",I-pers
-alias,I-pers
-Reaves,I-pers
+alias,0
+Reaves,B-pers
 ",",0
 of,0
 St.,B-place

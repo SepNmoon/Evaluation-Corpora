@@ -24583,8 +24583,8 @@ summary,0
 Mary,B-pers
 Carter,I-pers
 ",",I-pers
-otherwise,I-pers
-Nall,I-pers
+otherwise,0
+Nall,B-pers
 ",",0
 was,0
 indicted,0
@@ -30295,8 +30295,8 @@ on,0
 Alice,B-pers
 Willix,I-pers
 ",",I-pers
-otherwise,I-pers
-Green-field,I-pers
+otherwise,0
+Green-field,B-pers
 ",",0
 otherwise,0
 Green-field,0

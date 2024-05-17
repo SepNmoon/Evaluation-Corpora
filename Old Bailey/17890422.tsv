@@ -28473,8 +28473,8 @@ RECORDER,0
 SUSANNAH,B-pers
 BRAY,I-pers
 ",",I-pers
-alias,I-pers
-GAY,I-pers
+alias,0
+GAY,B-pers
 ",",0
 was,0
 indicted,0
@@ -38023,8 +38023,8 @@ ROSE,0
 WILLIAM,B-pers
 ATRIDE,I-pers
 ",",I-pers
-alias,I-pers
-BARKER,I-pers
+alias,0
+BARKER,B-pers
 ",",0
 was,0
 indicted,0
@@ -48329,8 +48329,8 @@ RECORDER,0
 ELIZABET,B-pers
 SWITHERS,I-pers
 ",",I-pers
-alias,I-pers
-CHARLOTTE,I-pers
+alias,0
+CHARLOTTE,B-pers
 DAVIS,I-pers
 ",",0
 was,0
@@ -67693,8 +67693,8 @@ and,0
 RICHARD,B-pers
 WILEY,I-pers
 ",",I-pers
-alias,I-pers
-VERRY,I-pers
+alias,0
+VERRY,B-pers
 ",",0
 were,0
 indicted,0
@@ -78264,8 +78264,8 @@ done,0
 ELEANOR,B-pers
 KIRVAN,I-pers
 ",",I-pers
-otherwise,I-pers
-CARAVAN,I-pers
+otherwise,0
+CARAVAN,B-pers
 ;,0
 On,0
 condition,0
@@ -78651,8 +78651,8 @@ M'Cormick,I-pers
 Mary,B-pers
 Kimes,I-pers
 ",",I-pers
-alias,I-pers
-Potten,I-pers
+alias,0
+Potten,B-pers
 ;,0
 Mary,B-pers
 Chafey,I-pers
@@ -79484,8 +79484,8 @@ done,0
 ELEANOR,B-pers
 KIRVAN,I-pers
 ",",I-pers
-otherwise,I-pers
-CARAVAN,I-pers
+otherwise,0
+CARAVAN,B-pers
 ;,0
 On,0
 condition,0
@@ -79871,8 +79871,8 @@ M'Cormick,I-pers
 Mary,B-pers
 Kimes,I-pers
 ",",I-pers
-alias,I-pers
-Potten,I-pers
+alias,0
+Potten,B-pers
 ;,0
 Mary,B-pers
 Chafey,I-pers

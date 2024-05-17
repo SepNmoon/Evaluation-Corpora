@@ -562,8 +562,8 @@ summary,0
 ],0
 John,B-pers
 Morgan,I-pers
-alias,I-pers
-Hall,I-pers
+alias,0
+Hall,B-pers
 ",",0
 Indicted,0
 for,0
@@ -696,8 +696,8 @@ summary,0
 ],0
 Sarah,B-pers
 Carter,I-pers
-alias,I-pers
-Eden,I-pers
+alias,0
+Eden,B-pers
 ",",0
 of,0
 St.,B-place
@@ -2884,8 +2884,8 @@ Acquitted,0
 .,0
 Jane,B-pers
 Sally,I-pers
-alias,I-pers
-Tuck,I-pers
+alias,0
+Tuck,B-pers
 ",",0
 Indicted,0
 for,0

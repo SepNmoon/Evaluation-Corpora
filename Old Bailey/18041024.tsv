@@ -23772,8 +23772,8 @@ Recorder,0
 RICHARD,B-pers
 HAYWARD,I-pers
 ",",I-pers
-alias,I-pers
-REGINALD,I-pers
+alias,0
+REGINALD,B-pers
 HARWOOD,I-pers
 ",",0
 was,0
@@ -36290,8 +36290,8 @@ Ellenborough,0
 THOMAS,B-pers
 MORRIS,I-pers
 ",",I-pers
-otherwise,I-pers
-DOCTOR,I-pers
+otherwise,0
+DOCTOR,B-pers
 MORRIS,I-pers
 ",",0
 was,0
@@ -57328,8 +57328,8 @@ Recorder,0
 ANN,B-pers
 ADAMS,I-pers
 ",",I-pers
-alias,I-pers
-RILEY,I-pers
+alias,0
+RILEY,B-pers
 ",",0
 was,0
 indicted,0

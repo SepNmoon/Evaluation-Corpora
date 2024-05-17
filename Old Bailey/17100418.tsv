@@ -417,8 +417,8 @@ her,0
 .,0
 Mary,B-pers
 Walter,I-pers
-alias,I-pers
-Riddal,I-pers
+alias,0
+Riddal,B-pers
 of,0
 St.,B-place
 Martins,I-place
@@ -622,8 +622,8 @@ her,0
 .,0
 Elizabeth,B-pers
 Thomas,I-pers
-alias,I-pers
-Still,I-pers
+alias,0
+Still,B-pers
 ",",0
 and,0
 Catherine,B-pers
@@ -776,8 +776,8 @@ summary,0
 ],0
 Elizabeth,B-pers
 Williams,I-pers
-alias,I-pers
-Green,I-pers
+alias,0
+Green,B-pers
 of,0
 St.,B-place
 Andrew,I-place
@@ -944,8 +944,8 @@ acquitted,0
 .,0
 Elizabeth,B-pers
 Thomas,I-pers
-alias,I-pers
-Read,I-pers
+alias,0
+Read,B-pers
 of,0
 St.,B-place
 Martins,I-place
@@ -2524,8 +2524,8 @@ acquitted,0
 .,0
 Mary,B-pers
 White,I-pers
-alias,I-pers
-Kennet,I-pers
+alias,0
+Kennet,B-pers
 ",",0
 was,0
 indicted,0
@@ -3340,8 +3340,8 @@ summary,0
 ],0
 Ann,B-pers
 Barnes,I-pers
-alias,I-pers
-Frederick,I-pers
+alias,0
+Frederick,B-pers
 ",",0
 of,0
 St.,B-place
@@ -3739,8 +3739,8 @@ acquitted,0
 .,0
 Jane,B-pers
 Edwards,I-pers
-alias,I-pers
-Gordon,I-pers
+alias,0
+Gordon,B-pers
 of,0
 the,0
 Precinct,B-place
@@ -4011,8 +4011,8 @@ summary,0
 ],0
 Mary,B-pers
 Boreman,I-pers
-alias,I-pers
-Essex,I-pers
+alias,0
+Essex,B-pers
 Brown,I-pers
 of,0
 the,0

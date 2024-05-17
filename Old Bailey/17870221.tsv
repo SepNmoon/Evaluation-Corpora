@@ -74583,8 +74583,8 @@ THOMPSON,I-pers
 WILLIAM,B-pers
 WHITE,I-pers
 ",",I-pers
-alias,I-pers
-LOISELLE,I-pers
+alias,0
+LOISELLE,B-pers
 ",",0
 was,0
 indicted,0
@@ -82656,8 +82656,8 @@ property,0
 And,0
 CHARLES,B-pers
 FRIME,I-pers
-otherwise,I-pers
-FRAME,I-pers
+otherwise,0
+FRAME,B-pers
 was,0
 indicted,0
 for,0
@@ -82764,8 +82764,8 @@ house,0
 And,0
 CHARLES,B-pers
 FRIME,I-pers
-otherwise,I-pers
-FRAME,I-pers
+otherwise,0
+FRAME,B-pers
 was,0
 indicted,0
 for,0
@@ -87821,8 +87821,8 @@ RECORDER,0
 ANN,B-pers
 ARBONET,I-pers
 ",",I-pers
-otherwise,I-pers
-BENNETT,I-pers
+otherwise,0
+BENNETT,B-pers
 was,0
 indicted,0
 for,0
@@ -88044,8 +88044,8 @@ JOHNSON,I-pers
 ",",0
 SARAH,B-pers
 YORK,I-pers
-otherwise,I-pers
-HORSEMAN,I-pers
+otherwise,0
+HORSEMAN,B-pers
 and,0
 WILLIAM,B-pers
 COOPER,I-pers
@@ -94699,8 +94699,8 @@ retired,0
 Elizabeth,B-pers
 Warren,I-pers
 ",",I-pers
-alias,I-pers
-Terry,I-pers
+alias,0
+Terry,B-pers
 ",",0
 who,0
 had,0
@@ -95894,8 +95894,8 @@ Nicholls,I-pers
 Elizabeth,B-pers
 Warren,I-pers
 ",",I-pers
-alias,I-pers
-Terry,I-pers
+alias,0
+Terry,B-pers
 ",",0
 who,0
 had,0

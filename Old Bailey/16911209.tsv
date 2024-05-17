@@ -954,8 +954,8 @@ Robbery,0
 Anne,B-pers
 Sampson,I-pers
 ",",I-pers
-alias,I-pers
-Parker,I-pers
+alias,0
+Parker,B-pers
 ",",0
 was,0
 Tryed,0
@@ -2190,8 +2190,8 @@ Guilty,0
 Dorothy,B-pers
 Lord,I-pers
 ",",I-pers
-alias,I-pers
-Atkyns,I-pers
+alias,0
+Atkyns,B-pers
 was,0
 tryed,0
 for,0
@@ -2398,8 +2398,8 @@ and,0
 John,B-pers
 Beamore,I-pers
 ",",I-pers
-alias,I-pers
-Pemore,I-pers
+alias,0
+Pemore,B-pers
 ",",0
 were,0
 both,0
@@ -3626,8 +3626,8 @@ Indictment,0
 John,B-pers
 Wright,I-pers
 ",",I-pers
-alias,I-pers
-Randale,I-pers
+alias,0
+Randale,B-pers
 was,0
 tryed,0
 for,0

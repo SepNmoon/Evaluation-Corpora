@@ -544,8 +544,8 @@ Prisoner,0
 Anne,B-pers
 Bowers,I-pers
 ",",I-pers
-alias,I-pers
-Labrum,I-pers
+alias,0
+Labrum,B-pers
 ",",0
 was,0
 indicted,0
@@ -1931,8 +1931,8 @@ summary,0
 Elizabeth,B-pers
 Woodward,I-pers
 ",",I-pers
-alias,I-pers
-Franklin,I-pers
+alias,0
+Franklin,B-pers
 ",",0
 of,0
 St.,B-place
@@ -2053,8 +2053,8 @@ summary,0
 Grace,B-pers
 Jones,I-pers
 ",",I-pers
-alias,I-pers
-Robinson,I-pers
+alias,0
+Robinson,B-pers
 ",",0
 of,0
 St.,B-place
@@ -2098,8 +2098,8 @@ acquitted,0
 Mary,B-pers
 Cray,I-pers
 ",",I-pers
-alias,I-pers
-Carry,I-pers
+alias,0
+Carry,B-pers
 ",",0
 was,0
 indicted,0
@@ -3919,8 +3919,8 @@ Wife,0
 Elizabeth,B-pers
 Robinson,I-pers
 ",",I-pers
-alias,I-pers
-Cantrel,I-pers
+alias,0
+Cantrel,B-pers
 ",",0
 20,0
 Pounds,0

@@ -4512,8 +4512,8 @@ Transportation,0
 John,B-pers
 Kemp,I-pers
 ",",I-pers
-alias,I-pers
-Kent,I-pers
+alias,0
+Kent,B-pers
 ",",0
 of,0
 St.,B-place
@@ -6307,8 +6307,8 @@ Transportation,0
 John,B-pers
 Stratford,I-pers
 ",",I-pers
-alias,I-pers
-Strafford,I-pers
+alias,0
+Strafford,B-pers
 ",",0
 of,0
 St.,B-place
@@ -6824,8 +6824,8 @@ Transportation,0
 Christina,B-pers
 Rhodes,I-pers
 ",",I-pers
-alias,I-pers
-Rose,I-pers
+alias,0
+Rose,B-pers
 ",",0
 of,0
 St.,B-place

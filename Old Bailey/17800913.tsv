@@ -13144,8 +13144,8 @@ BULLER,0
 457.,0
 GEORGE,B-pers
 LLOYD,I-pers
-otherwise,I-pers
-GEORGE,I-pers
+otherwise,0
+GEORGE,B-pers
 COOK,I-pers
 and,0
 WILLIAM,B-pers
@@ -29647,8 +29647,8 @@ HOTHAM,0
 477.,0
 FRANCES,B-pers
 PARKE,I-pers
-otherwise,I-pers
-SPARKES,I-pers
+otherwise,0
+SPARKES,B-pers
 ",",0
 spinster,0
 ",",0
@@ -31859,8 +31859,8 @@ summary,0
 ",",0
 483.,0
 THOMAS,B-pers
-otherwise,I-pers
-WILLIAM,I-pers
+otherwise,0
+WILLIAM,B-pers
 KIRVIN,I-pers
 and,0
 GEORGE,B-pers
@@ -33535,8 +33535,8 @@ HOTHAM,0
 486.,0
 CATHERINE,B-pers
 WALKER,I-pers
-otherwise,I-pers
-BUTLER,I-pers
+otherwise,0
+BUTLER,B-pers
 was,0
 indicted,0
 for,0
@@ -49065,8 +49065,8 @@ HOTHAM,0
 505.,0
 SARAH,B-pers
 GROVES,I-pers
-otherwise,I-pers
-M'CARDELotherwise,I-pers
+otherwise,0
+M'CARDELotherwise,B-pers
 CLARK,I-pers
 ",",0
 spinster,0
@@ -57962,8 +57962,8 @@ HOTHAM,0
 521.,0
 WILLIAM,B-pers
 STEPHENS,I-pers
-otherwise,I-pers
-GOFF,I-pers
+otherwise,0
+GOFF,B-pers
 and,0
 SAMUEL,B-pers
 FORD,I-pers
@@ -64217,8 +64217,8 @@ NICHOLAS,I-pers
 DE,I-pers
 CRUS,I-pers
 ",",I-pers
-otherwise,I-pers
-DE,I-pers
+otherwise,0
+DE,B-pers
 CRUZE,I-pers
 ",",0
 was,0

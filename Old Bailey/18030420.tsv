@@ -24442,8 +24442,8 @@ Recorder,0
 PATRICK,B-pers
 CRAIG,I-pers
 ",",I-pers
-otherwise,I-pers
-JOHN,I-pers
+otherwise,0
+JOHN,B-pers
 LOFTUS,I-pers
 was,0
 indicted,0
@@ -34400,8 +34400,8 @@ Recorder,0
 341.,0
 JOHN,B-pers
 ",",I-pers
-alias,I-pers
-ARCHIBALD,I-pers
+alias,0
+ARCHIBALD,B-pers
 DEW,I-pers
 was,0
 indicted,0
@@ -50969,8 +50969,8 @@ Serjeant,0
 EDMUND,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-JOHN,I-pers
+otherwise,0
+JOHN,B-pers
 THOMPSON,I-pers
 ",",0
 was,0
@@ -61537,8 +61537,8 @@ Recorder,0
 JOHN,B-pers
 WILLIAMS,I-pers
 ",",I-pers
-alias,I-pers
-AMBROSE,I-pers
+alias,0
+AMBROSE,B-pers
 ",",0
 was,0
 indicted,0
@@ -107790,8 +107790,8 @@ Heath,0
 ROBERT,B-pers
 SMITH,I-pers
 ",",I-pers
-alias,I-pers
-ALEXANDER,I-pers
+alias,0
+ALEXANDER,B-pers
 GORDON,I-pers
 ",",0
 was,0
@@ -138874,8 +138874,8 @@ Recorder,0
 MARY,B-pers
 SMITH,I-pers
 ",",I-pers
-alias,I-pers
-TAYLOR,I-pers
+alias,0
+TAYLOR,B-pers
 ",",0
 was,0
 indicted,0

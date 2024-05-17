@@ -19707,8 +19707,8 @@ RECORDER,0
 GEORGE,B-pers
 MANNING,I-pers
 ",",I-pers
-alias,I-pers
-FRANCIS,I-pers
+alias,0
+FRANCIS,B-pers
 HILL,I-pers
 ",",0
 WILLIAM,B-pers
@@ -71764,8 +71764,8 @@ ACQUITTED,0
 WILLIAM,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-NEWMAN,I-pers
+otherwise,0
+NEWMAN,B-pers
 ",",0
 was,0
 indicted,0

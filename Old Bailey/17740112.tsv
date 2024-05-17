@@ -2733,8 +2733,8 @@ M.,0
 JAMES,B-pers
 TYRER,I-pers
 ",",I-pers
-otherwise,I-pers
-LIVERPOOL,I-pers
+otherwise,0
+LIVERPOOL,B-pers
 ",",0
 was,0
 indicted,0
@@ -15222,8 +15222,8 @@ M.,0
 JOHN,B-pers
 HURCAN,I-pers
 ",",I-pers
-otherwise,I-pers
-HURKHAM,I-pers
+otherwise,0
+HURKHAM,B-pers
 ",",0
 was,0
 indicted,0
@@ -30907,8 +30907,8 @@ and,0
 JAMES,B-pers
 WATSON,I-pers
 ",",I-pers
-otherwise,I-pers
-DUMB,I-pers
+otherwise,0
+DUMB,B-pers
 JEMMY,I-pers
 ",",0
 were,0
@@ -30995,8 +30995,8 @@ L.,0
 THOMAS,B-pers
 MURRELL,I-pers
 ",",I-pers
-otherwise,I-pers
-CLIFF,I-pers
+otherwise,0
+CLIFF,B-pers
 ",",0
 was,0
 indicted,0
@@ -32956,8 +32956,8 @@ M.,0
 JOHN,B-pers
 OSBORN,I-pers
 ",",I-pers
-otherwise,I-pers
-HOBSON,I-pers
+otherwise,0
+HOBSON,B-pers
 ",",0
 was,0
 indicted,0

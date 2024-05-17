@@ -1674,8 +1674,8 @@ and,0
 Mary,B-pers
 Burton,I-pers
 ",",I-pers
-otherwise,I-pers
-Mary,I-pers
+otherwise,0
+Mary,B-pers
 wife,I-pers
 of,I-pers
 James,I-pers
@@ -5318,8 +5318,8 @@ M.,0
 Elizabeth,B-pers
 Ward,I-pers
 ",",I-pers
-otherwise,I-pers
-English,I-pers
+otherwise,0
+English,B-pers
 ",",0
 spinster,0
 ",",0
@@ -9801,11 +9801,11 @@ L.,0
 John,B-pers
 Hutchins,I-pers
 ",",I-pers
-otherwise,I-pers
-Stone,I-pers
+otherwise,0
+Stone,B-pers
 ",",I-pers
-otherwise,I-pers
-Harris,I-pers
+otherwise,0
+Harris,B-pers
 ",",0
 Mariner,0
 ",",0

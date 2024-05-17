@@ -5592,8 +5592,8 @@ Recorder,0
 MARY,B-pers
 PRICE,I-pers
 ",",I-pers
-alias,I-pers
-SANDERS,I-pers
+alias,0
+SANDERS,B-pers
 ",",0
 was,0
 indicted,0
@@ -8470,8 +8470,8 @@ Thompson,0
 ELIZABETH,B-pers
 WILSON,I-pers
 ",",I-pers
-otherwise,I-pers
-GRIFFITHS,I-pers
+otherwise,0
+GRIFFITHS,B-pers
 ",",0
 was,0
 indicted,0
@@ -9671,8 +9671,8 @@ Recorder,0
 WILLIAM,B-pers
 GILL,I-pers
 ",",I-pers
-alias,I-pers
-HEWITT,I-pers
+alias,0
+HEWITT,B-pers
 ",",0
 was,0
 indicted,0
@@ -11792,8 +11792,8 @@ Thompson,0
 JAMES,B-pers
 JONES,I-pers
 ",",I-pers
-otherwise,I-pers
-BURROWES,I-pers
+otherwise,0
+BURROWES,B-pers
 ",",0
 was,0
 indicted,0
@@ -14120,8 +14120,8 @@ Thompson,0
 SUSANNAH,B-pers
 NETTLEFORD,I-pers
 ",",I-pers
-alias,I-pers
-BRADFORD,I-pers
+alias,0
+BRADFORD,B-pers
 ",",0
 was,0
 indicted,0
@@ -45889,8 +45889,8 @@ Recorder,0
 MARY,B-pers
 MATTHEWS,I-pers
 ",",I-pers
-otherwise,I-pers
-the,I-pers
+otherwise,0
+the,B-pers
 wife,I-pers
 of,I-pers
 JOHN,I-pers
@@ -48219,8 +48219,8 @@ and,0
 ANN,B-pers
 HAYNES,I-pers
 ",",I-pers
-otherwise,I-pers
-FOSS,I-pers
+otherwise,0
+FOSS,B-pers
 ",",0
 were,0
 indicted,0
@@ -93672,8 +93672,8 @@ Recorder,0
 CATHHRINE,B-pers
 HARLEY,I-pers
 ",",I-pers
-otherwise,I-pers
-GODDARD,I-pers
+otherwise,0
+GODDARD,B-pers
 ",",0
 was,0
 indicted,0

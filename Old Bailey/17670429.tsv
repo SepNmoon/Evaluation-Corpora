@@ -3569,8 +3569,8 @@ M.,0
 Mary,B-pers
 Dilkill,I-pers
 ",",I-pers
-otherwise,I-pers
-Dolkill,I-pers
+otherwise,0
+Dolkill,B-pers
 ",",0
 was,0
 indicted,0
@@ -7870,8 +7870,8 @@ Sherman,I-pers
 ",",I-pers
 spinster,I-pers
 ",",I-pers
-otherwise,I-pers
-Susanna,I-pers
+otherwise,0
+Susanna,B-pers
 Clayton,I-pers
 ",",0
 spinster,0
@@ -7998,11 +7998,11 @@ M.,0
 Peter,B-pers
 Price,I-pers
 ",",I-pers
-otherwise,I-pers
-Thrift,I-pers
+otherwise,0
+Thrift,B-pers
 ",",I-pers
-otherwise,I-pers
-Church,I-pers
+otherwise,0
+Church,B-pers
 ",",0
 was,0
 indicted,0

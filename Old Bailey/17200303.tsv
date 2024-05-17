@@ -787,8 +787,8 @@ Transportation,0
 Alice,B-pers
 Jones,I-pers
 ",",I-pers
-alias,I-pers
-Evans,I-pers
+alias,0
+Evans,B-pers
 ",",0
 of,0
 St.,B-place
@@ -1075,8 +1075,8 @@ Transportation,0
 Samuel,B-pers
 Dely,I-pers
 ",",I-pers
-alias,I-pers
-Deling,I-pers
+alias,0
+Deling,B-pers
 of,I-pers
 St.,I-pers
 Botolph,I-pers
@@ -3861,11 +3861,11 @@ Transportation,0
 Joseph,B-pers
 Smith,I-pers
 ",",I-pers
-alias,I-pers
-Smithson,I-pers
+alias,0
+Smithson,B-pers
 ",",I-pers
-alias,I-pers
-Horton,I-pers
+alias,0
+Horton,B-pers
 ",",0
 was,0
 indicted,0

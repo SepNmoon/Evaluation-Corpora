@@ -98393,8 +98393,8 @@ RECORDER,0
 EDWARD,B-pers
 LUST,I-pers
 ",",I-pers
-alias,I-pers
-WILSON,I-pers
+alias,0
+WILSON,B-pers
 was,0
 indicted,0
 for,0
@@ -98509,8 +98509,8 @@ sessions,0
 GEORGE,B-pers
 MORRIS,I-pers
 ",",I-pers
-alias,I-pers
-THORPE,I-pers
+alias,0
+THORPE,B-pers
 ",",0
 was,0
 indicted,0
@@ -105786,8 +105786,8 @@ SERJEANT,0
 MARGARET,B-pers
 RIX,I-pers
 ",",I-pers
-otherwise,I-pers
-REX,I-pers
+otherwise,0
+REX,B-pers
 ",",0
 was,0
 indicted,0
@@ -106087,8 +106087,8 @@ SERJEANT,0
 ROBERT,B-pers
 DARNELL,I-pers
 ",",I-pers
-otherwise,I-pers
-ARNOLD,I-pers
+otherwise,0
+ARNOLD,B-pers
 ",",0
 was,0
 indicted,0
@@ -107667,8 +107667,8 @@ RECORDER,0
 JOHN,B-pers
 SPENCER,I-pers
 ",",I-pers
-otherwise,I-pers
-FAIRBROTHER,I-pers
+otherwise,0
+FAIRBROTHER,B-pers
 ",",0
 was,0
 indicted,0
@@ -112523,8 +112523,8 @@ SERJEANT,0
 WILLIAM,B-pers
 JONES,I-pers
 ",",I-pers
-otherwise,I-pers
-BARBER,I-pers
+otherwise,0
+BARBER,B-pers
 ",",0
 was,0
 indicted,0

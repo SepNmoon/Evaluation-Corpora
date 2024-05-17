@@ -431,8 +431,8 @@ Thompson,I-pers
 CHARLES,B-pers
 SEYMOUR,I-pers
 ",",I-pers
-otherwise,I-pers
-CHARLES,I-pers
+otherwise,0
+CHARLES,B-pers
 SEYMOUR,I-pers
 WILSHIRE,I-pers
 ",",0
@@ -1067,8 +1067,8 @@ HOTHAM,0
 CHARLES,B-pers
 SEYMOUR,I-pers
 ",",I-pers
-otherwise,I-pers
-CHARLES,I-pers
+otherwise,0
+CHARLES,B-pers
 SEYMOUR,I-pers
 WILSHIRE,I-pers
 ",",0
@@ -4539,8 +4539,8 @@ SERJEANT,0
 JOHN,B-pers
 MAKWAY,I-pers
 ",",I-pers
-otherwise,I-pers
-MACKVOY,I-pers
+otherwise,0
+MACKVOY,B-pers
 ",",0
 was,0
 indicted,0
@@ -33190,8 +33190,8 @@ KENYON,0
 WILLIAM,B-pers
 CRANFIELD,I-pers
 ",",I-pers
-otherwise,I-pers
-CRANN,I-pers
+otherwise,0
+CRANN,B-pers
 ",",0
 was,0
 indicted,0
@@ -34728,8 +34728,8 @@ HOTHAM,0
 253.,0
 ELIZABETH,B-pers
 ",",I-pers
-otherwise,I-pers
-SARAH,I-pers
+otherwise,0
+SARAH,B-pers
 BROWN,I-pers
 ",",0
 was,0
@@ -55729,8 +55729,8 @@ Underhill,I-pers
 ",",0
 Elizabeth,B-pers
 ",",I-pers
-otherwise,I-pers
-Sarah,I-pers
+otherwise,0
+Sarah,B-pers
 Brown,I-pers
 ",",0
 Ann,B-pers

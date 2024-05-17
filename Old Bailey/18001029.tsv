@@ -5162,8 +5162,8 @@ and,0
 THOMAS,B-pers
 NEROD,I-pers
 ",",I-pers
-alias,I-pers
-WILLIAMS,I-pers
+alias,0
+WILLIAMS,B-pers
 ",",0
 were,0
 indicted,0
@@ -9782,8 +9782,8 @@ HEATH,0
 HONOUR,B-pers
 NEVIN,I-pers
 ",",I-pers
-alias,I-pers
-CONWAY,I-pers
+alias,0
+CONWAY,B-pers
 ",",0
 was,0
 indicted,0
@@ -13702,8 +13702,8 @@ Mr.RECORDER,0
 JOHN,B-pers
 BROWN,I-pers
 ",",I-pers
-otherwise,I-pers
-COMPTE,I-pers
+otherwise,0
+COMPTE,B-pers
 LA,I-pers
 PROVENCE,I-pers
 ",",0
@@ -19256,8 +19256,8 @@ FARNHAM,I-pers
 and,0
 JOHN,B-pers
 ",",I-pers
-alias,I-pers
-WILLIAM,I-pers
+alias,0
+WILLIAM,B-pers
 DAY,I-pers
 ",",0
 were,0
@@ -30208,8 +30208,8 @@ THOMPSON,I-pers
 MARY,B-pers
 DELANY,I-pers
 ",",I-pers
-alias,I-pers
-SMITH,I-pers
+alias,0
+SMITH,B-pers
 ",",0
 was,0
 indicted,0
@@ -50732,8 +50732,8 @@ RECORDER,0
 HENNY,B-pers
 MARTIN,I-pers
 ",",I-pers
-alias,I-pers
-WINTER,I-pers
+alias,0
+WINTER,B-pers
 was,0
 indicted,0
 for,0

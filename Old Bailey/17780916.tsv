@@ -2978,8 +2978,8 @@ ASHHURST,0
 EDWARD,B-pers
 HAROLD,I-pers
 ",",I-pers
-otherwise,I-pers
-SALT,I-pers
+otherwise,0
+SALT,B-pers
 ",",0
 was,0
 indicted,0
@@ -14554,8 +14554,8 @@ and,0
 JOHN,B-pers
 NOSIER,I-pers
 ",",I-pers
-otherwise,I-pers
-NOSEY,I-pers
+otherwise,0
+NOSEY,B-pers
 ",",0
 were,0
 indicted,0
@@ -25876,8 +25876,8 @@ summary,0
 WILLIAM,B-pers
 KENT,I-pers
 ",",I-pers
-otherwise,I-pers
-GREEN,I-pers
+otherwise,0
+GREEN,B-pers
 ",",0
 and,0
 WILLIAM,B-pers

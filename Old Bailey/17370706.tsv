@@ -380,8 +380,8 @@ Acquitted,0
 Charles,B-pers
 Larrimore,I-pers
 ",",I-pers
-otherwise,I-pers
-Philpot,I-pers
+otherwise,0
+Philpot,B-pers
 ",",0
 was,0
 indicted,0
@@ -1651,8 +1651,8 @@ Death,0
 Robert,B-pers
 Gosswell,I-pers
 ",",I-pers
-otherwise,I-pers
-Bob,I-pers
+otherwise,0
+Bob,B-pers
 the,I-pers
 Butcher,I-pers
 ",",0
@@ -1660,8 +1660,8 @@ and,0
 Robert,B-pers
 Barrow,I-pers
 ",",I-pers
-otherwise,I-pers
-Run,I-pers
+otherwise,0
+Run,B-pers
 well,I-pers
 ",",0
 of,0
@@ -13556,8 +13556,8 @@ Acquitted,0
 Elizabeth,B-pers
 Davis,I-pers
 ",",I-pers
-otherwise,I-pers
-Walker,I-pers
+otherwise,0
+Walker,B-pers
 ",",0
 was,0
 indicted,0
@@ -13591,8 +13591,8 @@ Acquitted,0
 Hans,B-pers
 Mac-Connel,I-pers
 ",",I-pers
-otherwise,I-pers
-Connel,I-pers
+otherwise,0
+Connel,B-pers
 ",",0
 of,0
 St,0
@@ -18024,8 +18024,8 @@ summary,0
 William,B-pers
 Hatton,I-pers
 ",",I-pers
-otherwise,I-pers
-Hatter,I-pers
+otherwise,0
+Hatter,B-pers
 ",",0
 of,0
 Ryslip,B-place
@@ -19580,8 +19580,8 @@ Acquitted,0
 Mary,B-pers
 Sharlock,I-pers
 ",",I-pers
-otherwise,I-pers
-Patterson,I-pers
+otherwise,0
+Patterson,B-pers
 ",",0
 was,0
 indicted,0

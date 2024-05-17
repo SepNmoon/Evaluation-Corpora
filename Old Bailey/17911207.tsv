@@ -10990,8 +10990,8 @@ RECORDER,0
 EDWARD,B-pers
 BEAN,I-pers
 ",",I-pers
-otherwise,I-pers
-BROWN,I-pers
+otherwise,0
+BROWN,B-pers
 ",",0
 was,0
 indicted,0
@@ -27543,8 +27543,8 @@ SERJEANT,0
 WILLIAM,B-pers
 WHITE,I-pers
 ",",I-pers
-otherwise,I-pers
-GOLDING,I-pers
+otherwise,0
+GOLDING,B-pers
 ",",0
 was,0
 indicted,0

@@ -2064,8 +2064,8 @@ discharged,0
 2.,0
 JOHN,B-pers
 WILLIAMS,I-pers
-otherwise,I-pers
-MILLER,I-pers
+otherwise,0
+MILLER,B-pers
 and,0
 WILLIAM,B-pers
 WILLIAMS,I-pers
@@ -4200,8 +4200,8 @@ ASHURST,0
 JOHN,B-pers
 MAYO,I-pers
 ",",I-pers
-alias,I-pers
-CHARLES,I-pers
+alias,0
+CHARLES,B-pers
 MORTIMER,I-pers
 ",",0
 was,0
@@ -5214,8 +5214,8 @@ PERRYN,0
 ELIZABETH,B-pers
 BAGNALL,I-pers
 ",",I-pers
-alias,I-pers
-NASH,I-pers
+alias,0
+NASH,B-pers
 ",",0
 was,0
 indicted,0
@@ -16328,8 +16328,8 @@ slanting,0
 JOHN,B-pers
 HARRISON,I-pers
 ",",I-pers
-alias,I-pers
-THOMAS,I-pers
+alias,0
+THOMAS,B-pers
 DAVIS,I-pers
 ",",0
 was,0
@@ -43106,8 +43106,8 @@ PERRYN,0
 JANE,B-pers
 ARCHER,I-pers
 ",",I-pers
-alias,I-pers
-HEWITT,I-pers
+alias,0
+HEWITT,B-pers
 ",",0
 was,0
 indicted,0
@@ -58223,8 +58223,8 @@ RECORDER,0
 86.,0
 WILLIAM,B-pers
 MOUNSLOW,I-pers
-otherwise,I-pers
-HOUNSLOW,I-pers
+otherwise,0
+HOUNSLOW,B-pers
 was,0
 indicted,0
 for,0
@@ -84506,8 +84506,8 @@ ASHURST,0
 116.,0
 WILLIAM,B-pers
 MARRIOTT,I-pers
-otherwise,I-pers
-MAYOT,I-pers
+otherwise,0
+MAYOT,B-pers
 was,0
 indicted,0
 for,0
@@ -84883,8 +84883,8 @@ PERRYN,0
 117.,0
 JAMES,B-pers
 SETKIN,I-pers
-otherwise,I-pers
-SEKEN,I-pers
+otherwise,0
+SEKEN,B-pers
 was,0
 indicted,0
 ",",0

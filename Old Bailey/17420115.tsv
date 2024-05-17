@@ -5817,8 +5817,8 @@ summary,0
 14.,0
 Margaret,B-pers
 Lumley,I-pers
-alias,I-pers
-Burgess,I-pers
+alias,0
+Burgess,B-pers
 ",",0
 of,0
 St.,B-place
@@ -13160,8 +13160,8 @@ Death,0
 31.,0
 Mary,B-pers
 Scot,I-pers
-alias,I-pers
-Waller,I-pers
+alias,0
+Waller,B-pers
 ",",0
 was,0
 indicted,0
@@ -16726,8 +16726,8 @@ acquitted,0
 43.,0
 Ann,B-pers
 Peck,I-pers
-alias,I-pers
-Hodges,I-pers
+alias,0
+Hodges,B-pers
 ",",0
 was,0
 indicted,0
@@ -17441,8 +17441,8 @@ Henry,I-pers
 ),I-pers
 Gray,I-pers
 ",",I-pers
-alias,I-pers
-Elizabeth,I-pers
+alias,0
+Elizabeth,B-pers
 (,I-pers
 the,I-pers
 Wife,I-pers

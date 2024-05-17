@@ -851,8 +851,8 @@ d.,0
 Mary,B-pers
 Heskew,I-pers
 ",",I-pers
-alias,I-pers
-King,I-pers
+alias,0
+King,B-pers
 ",",0
 of,0
 St.,B-place
@@ -3576,8 +3576,8 @@ Prisoner,0
 Thomas,B-pers
 Boston,I-pers
 ",",I-pers
-alias,I-pers
-Wilmer,I-pers
+alias,0
+Wilmer,B-pers
 ",",0
 of,0
 Alhallows,B-place
@@ -6634,8 +6634,8 @@ summary,0
 Elizabeth,B-pers
 Winch,I-pers
 ",",I-pers
-alias,I-pers
-Bilby,I-pers
+alias,0
+Bilby,B-pers
 ",",0
 of,0
 St.,B-place
@@ -10148,8 +10148,8 @@ Wych,I-pers
 Thomas,B-pers
 Andrews,I-pers
 ",",I-pers
-alias,I-pers
-Anderson,I-pers
+alias,0
+Anderson,B-pers
 ",",0
 and,0
 William,B-pers

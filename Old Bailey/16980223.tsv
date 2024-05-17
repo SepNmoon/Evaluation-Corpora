@@ -464,8 +464,8 @@ summary,0
 William,B-pers
 Martin,I-pers
 ",",I-pers
-alias,I-pers
-Peter,I-pers
+alias,0
+Peter,B-pers
 ",",0
 of,0
 the,0
@@ -4069,8 +4069,8 @@ summary,0
 John,B-pers
 Edmonds,I-pers
 ",",I-pers
-alias,I-pers
-Great,I-pers
+alias,0
+Great,B-pers
 Jack,I-pers
 ",",0
 of,0
@@ -7277,8 +7277,8 @@ acquitted,0
 Mary,B-pers
 Gregory,I-pers
 ",",I-pers
-alias,I-pers
-Ewen,I-pers
+alias,0
+Ewen,B-pers
 ",",0
 of,0
 the,0
@@ -7376,8 +7376,8 @@ summary,0
 David,B-pers
 Roberts,I-pers
 ",",I-pers
-alias,I-pers
-Monky,I-pers
+alias,0
+Monky,B-pers
 Davy,I-pers
 ",",0
 of,0

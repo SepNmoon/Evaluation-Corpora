@@ -667,8 +667,8 @@ Transportation,0
 Moses,B-pers
 Ouseman,I-pers
 ",",I-pers
-alias,I-pers
-Souseman,I-pers
+alias,0
+Souseman,B-pers
 ",",0
 a,0
 German,0
@@ -5859,8 +5859,8 @@ Death,0
 Joseph,B-pers
 Blake,I-pers
 ",",I-pers
-alias,I-pers
-Blueskin,I-pers
+alias,0
+Blueskin,B-pers
 ",",0
 of,0
 St.,B-place
@@ -12780,8 +12780,8 @@ Transportation,0
 Simon,B-pers
 Jacobs,I-pers
 ",",I-pers
-alias,I-pers
-Joseph,I-pers
+alias,0
+Joseph,B-pers
 Guest,I-pers
 ",",0
 of,0
@@ -13325,8 +13325,8 @@ Transportation,0
 Isaac,B-pers
 Walsum,I-pers
 ",",I-pers
-alias,I-pers
-Walson,I-pers
+alias,0
+Walson,B-pers
 ",",0
 of,0
 St.,B-place
@@ -13380,8 +13380,8 @@ Transportation,0
 Hannah,B-pers
 Sheppard,I-pers
 ",",I-pers
-alias,I-pers
-Lawson,I-pers
+alias,0
+Lawson,B-pers
 ",",0
 of,0
 St.,B-place

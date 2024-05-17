@@ -1703,8 +1703,8 @@ Acquitted,0
 M.,0
 ),0
 William,B-pers
-alias,I-pers
-Christopher,I-pers
+alias,0
+Christopher,B-pers
 Moreton,I-pers
 ",",0
 and,0
@@ -1829,8 +1829,8 @@ acquitted,0
 M.,0
 ),0
 William,B-pers
-alias,I-pers
-Christopher,I-pers
+alias,0
+Christopher,B-pers
 Moreton,I-pers
 ",",0
 was,0
@@ -7117,8 +7117,8 @@ M.,0
 John,B-pers
 Brine,I-pers
 ",",I-pers
-alias,I-pers
-Brind,I-pers
+alias,0
+Brind,B-pers
 ",",0
 was,0
 indicted,0
@@ -8658,8 +8658,8 @@ M.,0
 James,B-pers
 Dolland,I-pers
 ",",I-pers
-otherwise,I-pers
-Hall,I-pers
+otherwise,0
+Hall,B-pers
 ",",0
 was,0
 indicted,0
@@ -17167,8 +17167,8 @@ M.,0
 ),0
 Francis,B-pers
 Purlieu,I-pers
-otherwise,I-pers
-Penleale,I-pers
+otherwise,0
+Penleale,B-pers
 (,0
 a,0
 Black,0
@@ -17842,8 +17842,8 @@ L.,0
 Samuel,B-pers
 Birt,I-pers
 ",",I-pers
-otherwise,I-pers
-Boyle,I-pers
+otherwise,0
+Boyle,B-pers
 ",",0
 was,0
 indicted,0
@@ -20162,8 +20162,8 @@ Wm,B-pers
 .,I-pers
 English,I-pers
 ",",I-pers
-otherwise,I-pers
-John,I-pers
+otherwise,0
+John,B-pers
 Webber,I-pers
 ",",0
 were,0
@@ -27804,8 +27804,8 @@ M.,0
 Elizabeth,B-pers
 Claxton,I-pers
 ",",I-pers
-otherwise,I-pers
-Bet,I-pers
+otherwise,0
+Bet,B-pers
 Brush,I-pers
 ",",0
 spinster,0

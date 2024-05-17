@@ -53141,8 +53141,8 @@ Heath,0
 MARY,B-pers
 BAKER,I-pers
 ",",I-pers
-alias,I-pers
-MARY,I-pers
+alias,0
+MARY,B-pers
 GOULDING,I-pers
 ",",0
 was,0
@@ -58308,8 +58308,8 @@ Recorder,0
 JOHN,B-pers
 LUASE,I-pers
 ",",I-pers
-alias,I-pers
-LUCASE,I-pers
+alias,0
+LUCASE,B-pers
 ",",0
 JOHN,B-pers
 WESTRAY,I-pers
@@ -64326,8 +64326,8 @@ Recorder,0
 193.,0
 THOMAS,B-pers
 VAUGHAN,I-pers
-alias,I-pers
-THOMAS,I-pers
+alias,0
+THOMAS,B-pers
 SHAFTOE,I-pers
 VAUGHAN,I-pers
 was,0
@@ -66703,8 +66703,8 @@ THOMAS,B-pers
 AINSLEY,I-pers
 VAUGHAN,I-pers
 ",",I-pers
-alias,I-pers
-THOMAS,I-pers
+alias,0
+THOMAS,B-pers
 SHAFTOE,I-pers
 VAUGHAN,I-pers
 ",",0
@@ -66788,8 +66788,8 @@ THOMAS,B-pers
 AINSLEY,I-pers
 VAUGHAN,I-pers
 ",",I-pers
-alias,I-pers
-THOMAS,I-pers
+alias,0
+THOMAS,B-pers
 SHAFTOE,I-pers
 VAUGHAN,I-pers
 ",",0

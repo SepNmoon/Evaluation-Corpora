@@ -4200,8 +4200,8 @@ Mayoralty,0
 THOMAS,B-pers
 JONES,I-pers
 ",",I-pers
-otherwise,I-pers
-EVANS,I-pers
+otherwise,0
+EVANS,B-pers
 ",",0
 was,0
 indicted,0
@@ -9727,8 +9727,8 @@ and,0
 MARY,B-pers
 SAMPSON,I-pers
 ",",I-pers
-otherwise,I-pers
-BUCK,I-pers
+otherwise,0
+BUCK,B-pers
 ",",0
 were,0
 indicted,0
@@ -21762,8 +21762,8 @@ summary,0
 RICHARD,B-pers
 JOHNSON,I-pers
 ",",I-pers
-otherwise,I-pers
-SQUIBB,I-pers
+otherwise,0
+SQUIBB,B-pers
 ",",0
 was,0
 indicted,0
@@ -28643,8 +28643,8 @@ GORBELL,I-pers
 WILLIAM,B-pers
 EASDEN,I-pers
 ",",I-pers
-otherwise,I-pers
-PLUMBE,I-pers
+otherwise,0
+PLUMBE,B-pers
 ",",0
 ELIZABETH,B-pers
 M'DANIEL,I-pers
@@ -32481,8 +32481,8 @@ GUILTY,0
 HANNAH,B-pers
 TWILLER,I-pers
 ",",I-pers
-otherwise,I-pers
-GREEN,I-pers
+otherwise,0
+GREEN,B-pers
 ",",0
 was,0
 indicted,0
@@ -33682,8 +33682,8 @@ and,0
 WILLIAM,B-pers
 EASDON,I-pers
 ",",I-pers
-otherwise,I-pers
-PLUMB,I-pers
+otherwise,0
+PLUMB,B-pers
 ",",0
 were,0
 indicted,0

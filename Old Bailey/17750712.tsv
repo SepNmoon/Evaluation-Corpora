@@ -7381,8 +7381,8 @@ M.,0
 ),0
 SUSANNA,B-pers
 POWELL,I-pers
-otherwise,I-pers
-FARMER,I-pers
+otherwise,0
+FARMER,B-pers
 ",",0
 was,0
 indicted,0
@@ -25799,8 +25799,8 @@ M,0
 ANNE,B-pers
 HARRIS,I-pers
 ",",I-pers
-otherwise,I-pers
-WARE,I-pers
+otherwise,0
+WARE,B-pers
 ",",0
 was,0
 indicted,0

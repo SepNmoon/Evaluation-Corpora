@@ -19286,8 +19286,8 @@ HOTHAM,I-pers
 775.,0
 JOHN,B-pers
 FRAZER,I-pers
-otherwise,I-pers
-FRAZIER,I-pers
+otherwise,0
+FRAZIER,B-pers
 was,0
 indicted,0
 for,0
@@ -45349,8 +45349,8 @@ RECORDER,0
 812.,0
 MARGARET,B-pers
 CAIN,I-pers
-alias,I-pers
-FLINN,I-pers
+alias,0
+FLINN,B-pers
 was,0
 indicted,0
 for,0
@@ -57647,8 +57647,8 @@ JOSEPH,B-pers
 PARKINSON,I-pers
 ",",0
 THOMAS,B-pers
-alias,I-pers
-JOHN,I-pers
+alias,0
+JOHN,B-pers
 WRIGHT,I-pers
 ",",0
 JAMES,B-pers
@@ -58752,8 +58752,8 @@ Wright,I-pers
 ",",0
 William,B-pers
 Charlton,I-pers
-alias,I-pers
-Charington,I-pers
+alias,0
+Charington,B-pers
 ",",0
 Michal,B-pers
 Conner,I-pers
@@ -59218,8 +59218,8 @@ Wright,I-pers
 ",",0
 William,B-pers
 Charlton,I-pers
-alias,I-pers
-Charington,I-pers
+alias,0
+Charington,B-pers
 ",",0
 Michal,B-pers
 Conner,I-pers

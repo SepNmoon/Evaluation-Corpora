@@ -2553,8 +2553,8 @@ Indictment,0
 Rose,B-pers
 Mahon,I-pers
 ",",I-pers
-otherwise,I-pers
-Shepperd,I-pers
+otherwise,0
+Shepperd,B-pers
 ",",0
 and,0
 Joseph,B-pers
@@ -5612,11 +5612,11 @@ summary,0
 John,B-pers
 Maxworth,I-pers
 ",",I-pers
-otherwise,I-pers
-Paddy,I-pers
+otherwise,0
+Paddy,B-pers
 ",",I-pers
-otherwise,I-pers
-Parliament,I-pers
+otherwise,0
+Parliament,B-pers
 Jack,I-pers
 ",",0
 was,0
@@ -9032,8 +9032,8 @@ and,0
 Jane,B-pers
 Daw,I-pers
 ",",I-pers
-otherwise,I-pers
-Hopkins,I-pers
+otherwise,0
+Hopkins,B-pers
 ",",0
 were,0
 indicted,0

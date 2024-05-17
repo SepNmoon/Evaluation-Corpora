@@ -19175,8 +19175,8 @@ NARES,0
 WILLIAM,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-HERBERT,I-pers
+otherwise,0
+HERBERT,B-pers
 ",",0
 and,0
 RICHARD,B-pers
@@ -25153,8 +25153,8 @@ EYRE,I-pers
 MARY,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-PLACK,I-pers
+otherwise,0
+PLACK,B-pers
 ",",0
 was,0
 indicted,0

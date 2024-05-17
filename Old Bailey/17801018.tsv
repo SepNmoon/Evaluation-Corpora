@@ -9415,8 +9415,8 @@ EYRE,I-pers
 570.,0
 RICHARD,B-pers
 HOPGOOD,I-pers
-otherwise,I-pers
-HAPGOOD,I-pers
+otherwise,0
+HAPGOOD,B-pers
 was,0
 indicted,0
 for,0
@@ -20654,8 +20654,8 @@ EYRE,I-pers
 THOMAS,B-pers
 CLEWLEY,I-pers
 ",",I-pers
-otherwise,I-pers
-JOHN,I-pers
+otherwise,0
+JOHN,B-pers
 LANGFORD,I-pers
 ",",0
 was,0
@@ -38945,8 +38945,8 @@ RECORDER,0
 THOMAS,B-pers
 COLLINS,I-pers
 ",",I-pers
-otherwise,I-pers
-JONES,I-pers
+otherwise,0
+JONES,B-pers
 ",",0
 THOMAS,B-pers
 ROBERTS,I-pers

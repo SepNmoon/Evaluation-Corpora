@@ -7489,8 +7489,8 @@ summary,0
 John,B-pers
 Gilbert,I-pers
 ",",I-pers
-alias,I-pers
-Steel,I-pers
+alias,0
+Steel,B-pers
 ",",0
 was,0
 indicted,0
@@ -7581,8 +7581,8 @@ summary,0
 Mary,B-pers
 Toppin,I-pers
 ",",I-pers
-alias,I-pers
-Hackery,I-pers
+alias,0
+Hackery,B-pers
 ",",0
 of,0
 St,B-place
@@ -10451,8 +10451,8 @@ summary,0
 +,0
 Mary,B-pers
 Taper,I-pers
-alias,I-pers
-Huntley,I-pers
+alias,0
+Huntley,B-pers
 ",",0
 of,0
 St,B-place
@@ -14953,8 +14953,8 @@ summary,0
 +,0
 Elizabeth,B-pers
 Evans,I-pers
-alias,I-pers
-Evans,I-pers
+alias,0
+Evans,B-pers
 ",",0
 of,0
 Ealing,B-place
@@ -19801,8 +19801,8 @@ summary,0
 John,B-pers
 Filgon,I-pers
 ",",I-pers
-otherwise,I-pers
-Filgo,I-pers
+otherwise,0
+Filgo,B-pers
 ",",0
 of,0
 Stepney,B-place

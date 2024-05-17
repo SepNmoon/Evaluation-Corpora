@@ -13264,8 +13264,8 @@ GROSE,0
 4.,0
 THOMAS,B-pers
 PEARCE,I-pers
-otherwise,I-pers
-PRICE,I-pers
+otherwise,0
+PRICE,B-pers
 was,0
 indicted,0
 for,0
@@ -31756,8 +31756,8 @@ GROSE,0
 6.,0
 THOMAS,B-pers
 PEARCE,I-pers
-otherwise,I-pers
-PRICE,I-pers
+otherwise,0
+PRICE,B-pers
 was,0
 again,0
 indicted,0
@@ -38249,8 +38249,8 @@ RECORDER,0
 MARIA,B-pers
 FERRES,I-pers
 ",",I-pers
-otherwise,I-pers
-PERRES,I-pers
+otherwise,0
+PERRES,B-pers
 ",",0
 was,0
 indicted,0
@@ -133754,8 +133754,8 @@ GROSE,0
 HENRY,B-pers
 POWEL,I-pers
 ",",I-pers
-otherwise,I-pers
-HENRY,I-pers
+otherwise,0
+HENRY,B-pers
 FOSS,I-pers
 ",",0
 was,0

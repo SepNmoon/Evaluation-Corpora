@@ -424,8 +424,8 @@ Magin,I-pers
 WILLIAM,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-MASON,I-pers
+otherwise,0
+MASON,B-pers
 ",",0
 was,0
 indicted,0
@@ -9456,8 +9456,8 @@ Thompson,0
 WILLIAM,B-pers
 COX,I-pers
 ",",I-pers
-otherwise,I-pers
-COCK,I-pers
+otherwise,0
+COCK,B-pers
 ",",0
 was,0
 indicted,0
@@ -14302,8 +14302,8 @@ Recorder,0
 ELEANOR,B-pers
 KEEFE,I-pers
 ",",I-pers
-alias,I-pers
-WELCH,I-pers
+alias,0
+WELCH,B-pers
 ",",0
 was,0
 indicted,0
@@ -21259,8 +21259,8 @@ Ellenborough,0
 JOHN,B-pers
 EDWARDS,I-pers
 ",",I-pers
-otherwise,I-pers
-EDDOWES,I-pers
+otherwise,0
+EDDOWES,B-pers
 ",",0
 was,0
 indicted,0

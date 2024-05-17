@@ -13141,8 +13141,8 @@ HOTHAM,0
 244.,0
 JOSHUA,B-pers
 ",",I-pers
-otherwise,I-pers
-TAYLOR,I-pers
+otherwise,0
+TAYLOR,B-pers
 HALL,I-pers
 ",",0
 was,0
@@ -31478,8 +31478,8 @@ RECORDER,0
 275.,0
 FORDIA,B-pers
 ",",I-pers
-otherwise,I-pers
-FORDER,I-pers
+otherwise,0
+FORDER,B-pers
 SHEPHERD,I-pers
 was,0
 indicted,0
@@ -32066,8 +32066,8 @@ HOTHAM,0
 276.,0
 FORDIA,B-pers
 ",",I-pers
-otherwise,I-pers
-FORDER,I-pers
+otherwise,0
+FORDER,B-pers
 SHEPHERD,I-pers
 ",",0
 was,0
@@ -51956,8 +51956,8 @@ and,0
 SARAH,B-pers
 SEATON,I-pers
 ",",I-pers
-otherwise,I-pers
-BROWN,I-pers
+otherwise,0
+BROWN,B-pers
 ",",0
 were,0
 indicted,0
@@ -122638,8 +122638,8 @@ RECORDER,0
 MARY,B-pers
 BROWN,I-pers
 ",",I-pers
-otherwise,I-pers
-BASS,I-pers
+otherwise,0
+BASS,B-pers
 ",",0
 was,0
 indicted,0

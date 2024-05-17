@@ -1373,8 +1373,8 @@ summary,0
 JOHN,B-pers
 FREE,I-pers
 ",",I-pers
-otherwise,I-pers
-BEAUMONT,I-pers
+otherwise,0
+BEAUMONT,B-pers
 ",",0
 was,0
 indicted,0
@@ -12647,8 +12647,8 @@ summary,0
 FRANCIS,B-pers
 MERCIER,I-pers
 ",",I-pers
-otherwise,I-pers
-LOUIS,I-pers
+otherwise,0
+LOUIS,B-pers
 LE,I-pers
 BUTTE,I-pers
 ",",0
@@ -26242,8 +26242,8 @@ summary,0
 RICHARD,B-pers
 HARTLEY,I-pers
 ",",I-pers
-otherwise,I-pers
-CORKS,I-pers
+otherwise,0
+CORKS,B-pers
 ",",0
 and,0
 PHILIP,B-pers

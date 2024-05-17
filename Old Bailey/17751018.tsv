@@ -19352,8 +19352,8 @@ L.,0
 SARAH,B-pers
 GUY,I-pers
 ;,I-pers
-otherwise,I-pers
-EDWARDS,I-pers
+otherwise,0
+EDWARDS,B-pers
 ",",0
 was,0
 indicted,0
@@ -19935,8 +19935,8 @@ M.,0
 ALICE,B-pers
 WOOTTON,I-pers
 ",",I-pers
-otherwise,I-pers
-HUDSON,I-pers
+otherwise,0
+HUDSON,B-pers
 ",",0
 was,0
 indicted,0
@@ -30898,8 +30898,8 @@ L.,0
 JAMES,B-pers
 ANSON,I-pers
 ",",I-pers
-otherwise,I-pers
-HARRISON,I-pers
+otherwise,0
+HARRISON,B-pers
 ",",0
 ARTHUR,B-pers
 KING,I-pers
@@ -33960,8 +33960,8 @@ L,0
 ),0
 JOHN,B-pers
 SMITH,I-pers
-otherwise,I-pers
-DOUGHTON,I-pers
+otherwise,0
+DOUGHTON,B-pers
 ",",0
 LEVI,B-pers
 SOLOMON,I-pers

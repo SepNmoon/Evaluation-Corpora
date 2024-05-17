@@ -1365,8 +1365,8 @@ summary,0
 Ann,B-pers
 Rawlinson,I-pers
 ",",I-pers
-alias,I-pers
-Eckington,I-pers
+alias,0
+Eckington,B-pers
 ",",0
 was,0
 Indicted,0
@@ -2725,8 +2725,8 @@ her,0
 Mary,B-pers
 Bignel,I-pers
 ",",I-pers
-alias,I-pers
-Leatherfetch,I-pers
+alias,0
+Leatherfetch,B-pers
 ",",0
 was,0
 Indicted,0
@@ -3825,8 +3825,8 @@ Wood,I-pers
 and,0
 Mary,B-pers
 Bryan,I-pers
-alias,I-pers
-Jones,I-pers
+alias,0
+Jones,B-pers
 ",",0
 were,0
 Indicted,0
@@ -3960,8 +3960,8 @@ of,0
 d.,0
 Mary,B-pers
 Fennel,I-pers
-alias,I-pers
-Sary,I-pers
+alias,0
+Sary,B-pers
 Coats,I-pers
 ",",0
 was,0
@@ -4115,8 +4115,8 @@ summary,0
 ],0
 Jane,B-pers
 Holt,I-pers
-alias,I-pers
-Boult,I-pers
+alias,0
+Boult,B-pers
 ",",0
 of,0
 Islington,B-place

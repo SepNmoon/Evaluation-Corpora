@@ -14755,8 +14755,8 @@ WILLES,0
 CATHERINE,B-pers
 SPENCER,I-pers
 ",",I-pers
-otherwise,I-pers
-KEMP,I-pers
+otherwise,0
+KEMP,B-pers
 ",",0
 with,0
 one,0
@@ -21208,8 +21208,8 @@ of,I-pers
 James,I-pers
 Bridgen,I-pers
 ),I-pers
-otherwise,I-pers
-Ann,I-pers
+otherwise,0
+Ann,B-pers
 Fuller,I-pers
 ),0
 otherwise,0
@@ -35641,8 +35641,8 @@ CHARLES,B-pers
 POTTS,I-pers
 and,0
 BENJAMIN,B-pers
-otherwise,I-pers
-JOHN,I-pers
+otherwise,0
+JOHN,B-pers
 DOUTY,I-pers
 were,0
 indicted,0

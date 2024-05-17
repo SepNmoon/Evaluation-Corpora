@@ -6831,8 +6831,8 @@ M.,0
 Mary,B-pers
 Crawley,I-pers
 ",",I-pers
-otherwise,I-pers
-Flood,I-pers
+otherwise,0
+Flood,B-pers
 ",",0
 spinster,0
 ",",0
@@ -7013,8 +7013,8 @@ M.,0
 Jane,B-pers
 Rebecca,I-pers
 ",",I-pers
-otherwise,I-pers
-Handford,I-pers
+otherwise,0
+Handford,B-pers
 ",",0
 was,0
 indicted,0
@@ -21898,8 +21898,8 @@ Taylor,I-pers
 ",",I-pers
 spinster,I-pers
 ",",I-pers
-otherwise,I-pers
-Elizabeth,I-pers
+otherwise,0
+Elizabeth,B-pers
 wife,I-pers
 of,I-pers
 John,I-pers
@@ -22357,8 +22357,8 @@ M.,0
 ),0
 Dennis,B-pers
 Neal,I-pers
-otherwise,I-pers
-John,I-pers
+otherwise,0
+John,B-pers
 Clark,I-pers
 was,0
 indicted,0
@@ -26905,8 +26905,8 @@ M.,0
 John,B-pers
 Simons,I-pers
 ",",I-pers
-otherwise,I-pers
-",",I-pers
+otherwise,0
+",",B-pers
 Spanish,I-pers
 Jack,I-pers
 ",",0
@@ -28449,8 +28449,8 @@ M.,0
 Susannah,B-pers
 Nisby,I-pers
 ",",I-pers
-otherwise,I-pers
-Sorry,I-pers
+otherwise,0
+Sorry,B-pers
 ",",0
 was,0
 indicted,0
@@ -34387,8 +34387,8 @@ Acquitted,0
 Thomas,B-pers
 Elford,I-pers
 ",",I-pers
-otherwise,I-pers
-William,I-pers
+otherwise,0
+William,B-pers
 Edgel,I-pers
 ",",0
 capitally,0
@@ -34617,8 +34617,8 @@ Scofield,I-pers
 Thomas,B-pers
 Elford,I-pers
 ",",I-pers
-otherwise,I-pers
-William,I-pers
+otherwise,0
+William,B-pers
 Edgel,I-pers
 ",",0
 capitally,0

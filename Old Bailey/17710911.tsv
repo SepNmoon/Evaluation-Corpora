@@ -6128,8 +6128,8 @@ M.,0
 Cornelius,B-pers
 Neale,I-pers
 ",",I-pers
-otherwise,I-pers
-O'Neale,I-pers
+otherwise,0
+O'Neale,B-pers
 and,0
 John,B-pers
 Conway,I-pers
@@ -18887,8 +18887,8 @@ M.,0
 James,B-pers
 May,I-pers
 ",",I-pers
-otherwise,I-pers
-Emanuel,I-pers
+otherwise,0
+Emanuel,B-pers
 Wills,I-pers
 ",",0
 was,0
@@ -25038,8 +25038,8 @@ M.,0
 Mary,B-pers
 Murphy,I-pers
 ",",I-pers
-otherwise,I-pers
-Knight,I-pers
+otherwise,0
+Knight,B-pers
 ",",0
 widow,0
 ",",0
@@ -34868,8 +34868,8 @@ M.,0
 John,B-pers
 Young,I-pers
 ",",I-pers
-otherwise,I-pers
-Smith,I-pers
+otherwise,0
+Smith,B-pers
 was,0
 indicted,0
 for,0

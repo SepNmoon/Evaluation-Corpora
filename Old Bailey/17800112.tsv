@@ -1315,8 +1315,8 @@ summary,0
 44.,0
 JOHN,B-pers
 FRANK,I-pers
-otherwise,I-pers
-FRANKS,I-pers
+otherwise,0
+FRANKS,B-pers
 was,0
 indicted,0
 for,0
@@ -35255,8 +35255,8 @@ summary,0
 77.,0
 MARY,B-pers
 CONWAY,I-pers
-otherwise,I-pers
-NICHOLLS,I-pers
+otherwise,0
+NICHOLLS,B-pers
 was,0
 indicted,0
 for,0

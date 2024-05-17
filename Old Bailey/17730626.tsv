@@ -12569,8 +12569,8 @@ and,0
 CHARLOTTE,B-pers
 BEARD,I-pers
 ",",I-pers
-otherwise,I-pers
-BUTCHER,I-pers
+otherwise,0
+BUTCHER,B-pers
 ",",0
 were,0
 indicted,0
@@ -29325,8 +29325,8 @@ SINCLAIR,I-pers
 ",",I-pers
 spinster,I-pers
 ",",I-pers
-otherwise,I-pers
-SIMPSON,I-pers
+otherwise,0
+SIMPSON,B-pers
 was,0
 indicted,0
 for,0
@@ -40391,8 +40391,8 @@ and,0
 ABRAHAM,B-pers
 STANLEY,I-pers
 ",",I-pers
-otherwise,I-pers
-CHANDLER,I-pers
+otherwise,0
+CHANDLER,B-pers
 ",",0
 were,0
 indicted,0
@@ -40526,8 +40526,8 @@ M.,0
 JOHN,B-pers
 ROWLAND,I-pers
 ",",I-pers
-otherwise,I-pers
-RAWLINS,I-pers
+otherwise,0
+RAWLINS,B-pers
 was,0
 indicted,0
 for,0

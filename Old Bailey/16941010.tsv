@@ -1169,8 +1169,8 @@ guilty,0
 James,B-pers
 Leonard,I-pers
 ",",I-pers
-alias,I-pers
-London,I-pers
+alias,0
+London,B-pers
 ",",0
 James,B-pers
 Elliot,I-pers
@@ -1182,8 +1182,8 @@ and,0
 Elizabeth,B-pers
 Bullen,I-pers
 ",",I-pers
-alias,I-pers
-Middleton,I-pers
+alias,0
+Middleton,B-pers
 ",",0
 were,0
 all,0
@@ -1631,8 +1631,8 @@ summary,0
 Elizabeth,B-pers
 Edwards,I-pers
 ",",I-pers
-alias,I-pers
-Wright,I-pers
+alias,0
+Wright,B-pers
 ",",0
 was,0
 likewise,0
@@ -1907,8 +1907,8 @@ summary,0
 Mary,B-pers
 Morrell,I-pers
 ",",I-pers
-alias,I-pers
-Cambridge,I-pers
+alias,0
+Cambridge,B-pers
 Mall,I-pers
 ",",0
 was,0
@@ -2507,8 +2507,8 @@ acquitted,0
 Ann,B-pers
 Wilson,I-pers
 ",",I-pers
-alias,I-pers
-Mayheu,I-pers
+alias,0
+Mayheu,B-pers
 ",",0
 was,0
 tried,0
@@ -4146,8 +4146,8 @@ and,0
 Jane,B-pers
 White,I-pers
 ",",I-pers
-alias,I-pers
-Bridgeman,I-pers
+alias,0
+Bridgeman,B-pers
 ",",0
 were,0
 Tried,0

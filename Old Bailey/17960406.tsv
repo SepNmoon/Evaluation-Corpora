@@ -2284,8 +2284,8 @@ HOTHAM,I-pers
 JOHN,B-pers
 FAIRBROTHER,I-pers
 ",",I-pers
-otherwise,I-pers
-CORNWALL,I-pers
+otherwise,0
+CORNWALL,B-pers
 ",",0
 was,0
 indicted,0
@@ -3498,8 +3498,8 @@ KENYON,I-pers
 THOMAS,B-pers
 SHUTTLEWOOD,I-pers
 ",",I-pers
-otherwise,I-pers
-SHUTTLEWORTH,I-pers
+otherwise,0
+SHUTTLEWORTH,B-pers
 ",",0
 was,0
 indicted,0
@@ -41556,8 +41556,8 @@ BULLER,0
 JOHN,B-pers
 FISHER,I-pers
 ",",I-pers
-otherwise,I-pers
-GABRIEL,I-pers
+otherwise,0
+GABRIEL,B-pers
 ",",0
 was,0
 indicted,0
@@ -47532,8 +47532,8 @@ RECORDER,0
 SARAH,B-pers
 SCOTT,I-pers
 ",",I-pers
-otherwise,I-pers
-CHAND-LER,I-pers
+otherwise,0
+CHAND-LER,B-pers
 ",",0
 was,0
 indicted,0
@@ -56776,8 +56776,8 @@ HOTHAM,I-pers
 294.,0
 ELIAS,B-pers
 ",",I-pers
-otherwise,I-pers
-ELLIS,I-pers
+otherwise,0
+ELLIS,B-pers
 JONES,I-pers
 was,0
 indicted,0

@@ -410,8 +410,8 @@ GRAVES,I-pers
 ",",0
 JAMES,B-pers
 ",",I-pers
-otherwise,I-pers
-THOMAS,I-pers
+otherwise,0
+THOMAS,B-pers
 FIELD,I-pers
 ",",0
 MARY,B-pers
@@ -18080,8 +18080,8 @@ RECORDER,0
 150.,0
 SARAH,B-pers
 WHITAKER,I-pers
-otherwise,I-pers
-HAMMOND,I-pers
+otherwise,0
+HAMMOND,B-pers
 was,0
 indicted,0
 for,0
@@ -90383,8 +90383,8 @@ THOMPSON,I-pers
 ANN,B-pers
 GANLEY,I-pers
 ",",I-pers
-otherwise,I-pers
-JOHNSON,I-pers
+otherwise,0
+JOHNSON,B-pers
 ",",0
 was,0
 indicted,0

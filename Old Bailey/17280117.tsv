@@ -2741,8 +2741,8 @@ acquitted,0
 Ann,B-pers
 Norcoat,I-pers
 ",",I-pers
-alias,I-pers
-Bell,I-pers
+alias,0
+Bell,B-pers
 ",",0
 was,0
 indicted,0
@@ -2987,8 +2987,8 @@ summary,0
 Elizabeth,B-pers
 Rose,I-pers
 ",",I-pers
-alias,I-pers
-Ross,I-pers
+alias,0
+Ross,B-pers
 ",",0
 was,0
 indicted,0
@@ -5159,8 +5159,8 @@ Death,0
 James,B-pers
 Sherwood,I-pers
 ",",I-pers
-alias,I-pers
-Hobs,I-pers
+alias,0
+Hobs,B-pers
 ",",0
 Elizabeth,B-pers
 Hobs,I-pers

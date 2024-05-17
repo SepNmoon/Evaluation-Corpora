@@ -346,8 +346,8 @@ Wellbeloved,I-pers
 1.,0
 Elizabeth,B-pers
 Aust,I-pers
-alias,I-pers
-Betty,I-pers
+alias,0
+Betty,B-pers
 Lewis,I-pers
 ",",0
 was,0
@@ -3909,8 +3909,8 @@ Death,0
 Hannah,B-pers
 Courtney,I-pers
 ",",I-pers
-otherwise,I-pers
-Oliver,I-pers
+otherwise,0
+Oliver,B-pers
 ",",0
 Ann,B-pers
 Jones,I-pers
@@ -13351,8 +13351,8 @@ summary,0
 David,B-pers
 Stochbury,I-pers
 ",",I-pers
-alias,I-pers
-Touchbury,I-pers
+alias,0
+Touchbury,B-pers
 ",",0
 of,0
 Stepney,B-place
@@ -16805,8 +16805,8 @@ summary,0
 Margaret,B-pers
 Lawlor,I-pers
 ",",I-pers
-alias,I-pers
-Butler,I-pers
+alias,0
+Butler,B-pers
 ",",0
 was,0
 indicted,0

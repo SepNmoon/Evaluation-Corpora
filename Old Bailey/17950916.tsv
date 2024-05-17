@@ -18972,8 +18972,8 @@ RECORDER,0
 380.,0
 CHARLES,B-pers
 JONES,I-pers
-otherwise,I-pers
-DAVIS,I-pers
+otherwise,0
+DAVIS,B-pers
 was,0
 indicted,0
 for,0
@@ -80033,11 +80033,11 @@ RECORDER,0
 GEORGE,B-pers
 TUNSTALL,I-pers
 ",",I-pers
-otherwise,I-pers
-STINSON,I-pers
+otherwise,0
+STINSON,B-pers
 ",",I-pers
-otherwise,I-pers
-TUNSTON,I-pers
+otherwise,0
+TUNSTON,B-pers
 ",",0
 was,0
 indicted,0
@@ -110194,8 +110194,8 @@ RECORDER,0
 WILLIAM,B-pers
 JOE,I-pers
 ",",I-pers
-otherwise,I-pers
-JONES,I-pers
+otherwise,0
+JONES,B-pers
 ",",0
 was,0
 indicted,0

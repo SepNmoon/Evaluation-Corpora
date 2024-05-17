@@ -17838,8 +17838,8 @@ M.,0
 MARY,B-pers
 PARKINSON,I-pers
 ",",I-pers
-otherwise,I-pers
-PERKINS,I-pers
+otherwise,0
+PERKINS,B-pers
 ",",0
 was,0
 indicted,0
@@ -24306,8 +24306,8 @@ M.,0
 ),0
 FRANCIS,B-pers
 ",",I-pers
-otherwise,I-pers
-FRANK,I-pers
+otherwise,0
+FRANK,B-pers
 LEWIS,I-pers
 was,0
 indicted,0

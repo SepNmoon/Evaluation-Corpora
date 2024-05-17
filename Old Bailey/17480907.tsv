@@ -924,8 +924,8 @@ Jury,0
 John,B-pers
 Bew,I-pers
 ",",I-pers
-otherwise,I-pers
-Edwards,I-pers
+otherwise,0
+Edwards,B-pers
 ",",0
 of,0
 St.,B-place
@@ -3256,8 +3256,8 @@ summary,0
 John,B-pers
 Mawden,I-pers
 ",",I-pers
-otherwise,I-pers
-Mowden,I-pers
+otherwise,0
+Mowden,B-pers
 ",",0
 was,0
 indicted,0
@@ -5813,8 +5813,8 @@ summary,0
 Elizabeth,B-pers
 Messenger,I-pers
 ",",I-pers
-otherwise,I-pers
-Ramsay,I-pers
+otherwise,0
+Ramsay,B-pers
 ",",0
 was,0
 indicted,0
@@ -7046,8 +7046,8 @@ Acquitted,0
 Mary,B-pers
 Beshar,I-pers
 ",",I-pers
-otherwise,I-pers
-Bezar,I-pers
+otherwise,0
+Bezar,B-pers
 ",",0
 was,0
 indicted,0
@@ -14013,8 +14013,8 @@ Robert,B-pers
 Cunningham,I-pers
 *,I-pers
 ",",I-pers
-otherwise,I-pers
-Cullingham,I-pers
+otherwise,0
+Cullingham,B-pers
 ",",0
 the,0
 younger,0
@@ -17277,8 +17277,8 @@ Acquitted,0
 Catherine,B-pers
 Winepress,I-pers
 ",",I-pers
-otherwise,I-pers
-Elizabeth,I-pers
+otherwise,0
+Elizabeth,B-pers
 Deare,I-pers
 ",",0
 and,0
@@ -26499,8 +26499,8 @@ summary,0
 John,B-pers
 Roberts,I-pers
 ",",I-pers
-otherwise,I-pers
-Rumph,I-pers
+otherwise,0
+Rumph,B-pers
 ",",0
 of,0
 St.,B-place
@@ -34712,8 +34712,8 @@ things,0
 Elizabeth,B-pers
 Fowler,I-pers
 ",",I-pers
-otherwise,I-pers
-Clements,I-pers
+otherwise,0
+Clements,B-pers
 ",",0
 was,0
 indicted,0

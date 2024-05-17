@@ -8209,8 +8209,8 @@ PERRYN,I-pers
 FRANCIS,B-pers
 DUNN,I-pers
 ",",I-pers
-otherwise,I-pers
-DEPUTY,I-pers
+otherwise,0
+DEPUTY,B-pers
 ",",0
 WILLIAM,B-pers
 ARNOLD,I-pers
@@ -33457,8 +33457,8 @@ RECORDER,0
 JOSEPH,B-pers
 CUISINIERE,I-pers
 ",",I-pers
-otherwise,I-pers
-COOK,I-pers
+otherwise,0
+COOK,B-pers
 ",",0
 was,0
 indicted,0
@@ -57173,8 +57173,8 @@ RECORDER,0
 MARY,B-pers
 MURRAY,I-pers
 ",",I-pers
-otherwise,I-pers
-BARRINGTON,I-pers
+otherwise,0
+BARRINGTON,B-pers
 ",",0
 was,0
 indicted,0
@@ -74009,8 +74009,8 @@ GROSE,0
 SARAH,B-pers
 WILKINSON,I-pers
 ",",I-pers
-otherwise,I-pers
-SMITH,I-pers
+otherwise,0
+SMITH,B-pers
 ",",0
 was,0
 indicted,0
@@ -87299,8 +87299,8 @@ RECORDER,0
 JOHN,B-pers
 PURDY,I-pers
 ",",I-pers
-otherwise,I-pers
-PILKINGTON,I-pers
+otherwise,0
+PILKINGTON,B-pers
 was,0
 indicted,0
 for,0

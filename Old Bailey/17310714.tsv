@@ -5008,8 +5008,8 @@ acquitted,0
 Elizabeth,B-pers
 Armstrong,I-pers
 ",",I-pers
-alias,I-pers
-Little,I-pers
+alias,0
+Little,B-pers
 Bess,I-pers
 ",",0
 of,0
@@ -5396,8 +5396,8 @@ acquitted,0
 Hannah,B-pers
 Wright,I-pers
 ",",I-pers
-alias,I-pers
-Howard,I-pers
+alias,0
+Howard,B-pers
 ",",0
 was,0
 indicted,0
@@ -5784,8 +5784,8 @@ acquitted,0
 Elizabeth,B-pers
 Camfield,I-pers
 ",",I-pers
-alias,I-pers
-Cambel,I-pers
+alias,0
+Cambel,B-pers
 ",",0
 was,0
 indicted,0
@@ -11333,8 +11333,8 @@ Lunacy,0
 Thomas,B-pers
 Granger,I-pers
 ",",I-pers
-alias,I-pers
-Coffil,I-pers
+alias,0
+Coffil,B-pers
 ",",0
 of,0
 St.,B-place
@@ -13468,8 +13468,8 @@ him,0
 William,B-pers
 Yates,I-pers
 ",",I-pers
-alias,I-pers
-Warrington,I-pers
+alias,0
+Warrington,B-pers
 ",",0
 John,B-pers
 Armstrong,I-pers

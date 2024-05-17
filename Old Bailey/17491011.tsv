@@ -7748,8 +7748,8 @@ summary,0
 636.,0
 John,B-pers
 Miller,I-pers
-alias,I-pers
-Sergent,I-pers
+alias,0
+Sergent,B-pers
 was,0
 indicted,0
 for,0
@@ -8964,8 +8964,8 @@ Acquitted,0
 Mary,B-pers
 Godard,I-pers
 ",",I-pers
-alias,I-pers
-Blare,I-pers
+alias,0
+Blare,B-pers
 ",",0
 was,0
 indicted,0
@@ -11342,10 +11342,10 @@ summary,0
 656.,0
 Judith,B-pers
 Carneen,I-pers
-alias,I-pers
-Kelley,I-pers
-alias,I-pers
-Donoly,I-pers
+alias,0
+Kelley,B-pers
+alias,0
+Donoly,B-pers
 ",",0
 spinster,0
 ",",0

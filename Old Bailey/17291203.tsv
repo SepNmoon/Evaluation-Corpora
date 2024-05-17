@@ -4034,8 +4034,8 @@ and,0
 Mary,B-pers
 Williams,I-pers
 ",",I-pers
-alias,I-pers
-Foster,I-pers
+alias,0
+Foster,B-pers
 ",",I-pers
 of,I-pers
 Chiswick,I-pers
@@ -6882,8 +6882,8 @@ summary,0
 Joanna,B-pers
 Wakefield,I-pers
 ",",I-pers
-alias,I-pers
-Johnson,I-pers
+alias,0
+Johnson,B-pers
 ",",0
 of,0
 St.,B-place
@@ -8997,8 +8997,8 @@ summary,0
 ],0
 William,B-pers
 ",",I-pers
-alias,I-pers
-Thomas,I-pers
+alias,0
+Thomas,B-pers
 Jones,I-pers
 ",",0
 of,0
@@ -10082,8 +10082,8 @@ Prisoners,0
 Margaret,B-pers
 Alexander,I-pers
 ",",I-pers
-alias,I-pers
-Elizabeth,I-pers
+alias,0
+Elizabeth,B-pers
 Brown,I-pers
 ",",0
 of,0
@@ -17118,8 +17118,8 @@ them,0
 Ann,B-pers
 Smith,I-pers
 ",",I-pers
-alias,I-pers
-Welling,I-pers
+alias,0
+Welling,B-pers
 ",",0
 of,0
 St.,B-place

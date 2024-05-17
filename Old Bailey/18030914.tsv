@@ -23556,8 +23556,8 @@ Serjeant,0
 MARY,B-pers
 HUTCHINS,I-pers
 ",",I-pers
-alias,I-pers
-GRAY,I-pers
+alias,0
+GRAY,B-pers
 ",",0
 was,0
 indicted,0
@@ -36005,8 +36005,8 @@ Serjeant,0
 .,0
 646.,0
 ROGER,B-pers
-otherwise,I-pers
-DARBY,I-pers
+otherwise,0
+DARBY,B-pers
 BRYANT,I-pers
 was,0
 indicted,0
@@ -41117,8 +41117,8 @@ Serjeant,0
 667.,0
 JOHN,B-pers
 RUSSELL,I-pers
-otherwise,I-pers
-RYAN,I-pers
+otherwise,0
+RYAN,B-pers
 ",",0
 was,0
 indicted,0
@@ -86740,8 +86740,8 @@ EDWARDS,I-pers
 and,0
 WILLIAM,B-pers
 CORTY,I-pers
-alias,I-pers
-SCHOFIELD,I-pers
+alias,0
+SCHOFIELD,B-pers
 ",",0
 were,0
 indicted,0
@@ -93896,8 +93896,8 @@ Hotham,0
 JOHN,B-pers
 SIMPSON,I-pers
 ",",I-pers
-alias,I-pers
-GATEHOUSE,I-pers
+alias,0
+GATEHOUSE,B-pers
 ",",0
 was,0
 indicted,0
@@ -102455,8 +102455,8 @@ EDWARDS,I-pers
 ",",0
 ELIZABETH,B-pers
 EDWARDS,I-pers
-alias,I-pers
-KNIGHT,I-pers
+alias,0
+KNIGHT,B-pers
 ",",0
 and,0
 MARY,B-pers

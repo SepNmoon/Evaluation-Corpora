@@ -4578,8 +4578,8 @@ L.,0
 Robert,B-pers
 Harding,I-pers
 ",",I-pers
-otherwise,I-pers
-Arding,I-pers
+otherwise,0
+Arding,B-pers
 ",",0
 was,0
 indicted,0
@@ -8288,8 +8288,8 @@ M.,0
 Daniel,B-pers
 Lovyer,I-pers
 ",",I-pers
-otherwise,I-pers
-Glovey,I-pers
+otherwise,0
+Glovey,B-pers
 ",",0
 Sarah,B-pers
 Holmes,I-pers
@@ -8309,8 +8309,8 @@ and,0
 Mary,B-pers
 Lovyer,I-pers
 ",",I-pers
-otherwise,I-pers
-Glovey,I-pers
+otherwise,0
+Glovey,B-pers
 ",",0
 were,0
 indicted,0
@@ -14611,8 +14611,8 @@ Churchman,I-pers
 ",",I-pers
 widow,I-pers
 ",",I-pers
-otherwise,I-pers
-Elizabeth,I-pers
+otherwise,0
+Elizabeth,B-pers
 Row,I-pers
 ",",0
 was,0
@@ -23732,8 +23732,8 @@ M.,0
 ),0
 Anne,B-pers
 Coakley,I-pers
-otherwise,I-pers
-Buck,I-pers
+otherwise,0
+Buck,B-pers
 spinster,0
 ",",0
 and,0
@@ -24054,8 +24054,8 @@ Pinckin,I-pers
 ",",I-pers
 spinster,I-pers
 ",",I-pers
-otherwise,I-pers
-wife,I-pers
+otherwise,0
+wife,B-pers
 of,I-pers
 Charles,I-pers
 Cross,I-pers

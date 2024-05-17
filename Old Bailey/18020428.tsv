@@ -2667,8 +2667,8 @@ Recorder,0
 JAMES,B-pers
 JONES,I-pers
 ",",I-pers
-alias,I-pers
-SMITH,I-pers
+alias,0
+SMITH,B-pers
 ",",0
 was,0
 indicted,0
@@ -84590,8 +84590,8 @@ Serjeant,0
 JANE,B-pers
 JUDGE,I-pers
 ",",I-pers
-alias,I-pers
-CANNON,I-pers
+alias,0
+CANNON,B-pers
 ",",0
 and,0
 MARY,B-pers
@@ -91349,8 +91349,8 @@ Serjeant,0
 ANN,B-pers
 HARRIS,I-pers
 ",",I-pers
-alias,I-pers
-COOPER,I-pers
+alias,0
+COOPER,B-pers
 ",",0
 was,0
 indicted,0

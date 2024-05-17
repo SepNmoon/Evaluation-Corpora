@@ -305,8 +305,8 @@ Bocock,I-pers
 1.,0
 John,B-pers
 Smith,I-pers
-otherwise,I-pers
-Simms,I-pers
+otherwise,0
+Simms,B-pers
 ",",0
 was,0
 indicted,0
@@ -1602,8 +1602,8 @@ and,0
 John,B-pers
 Nugent,I-pers
 ",",I-pers
-otherwise,I-pers
-Tipping,I-pers
+otherwise,0
+Tipping,B-pers
 ",",0
 of,0
 St.,B-place
@@ -11819,8 +11819,8 @@ summary,0
 Thomas,B-pers
 Maynard,I-pers
 ",",I-pers
-otherwise,I-pers
-Maikell,I-pers
+otherwise,0
+Maikell,B-pers
 ",",0
 was,0
 indicted,0
@@ -14409,8 +14409,8 @@ and,0
 Peter,B-pers
 Thompson,I-pers
 ",",I-pers
-otherwise,I-pers
-Whitehead,I-pers
+otherwise,0
+Whitehead,B-pers
 ",",0
 were,0
 indicted,0
@@ -16349,8 +16349,8 @@ summary,0
 John,B-pers
 Crockat,I-pers
 ",",I-pers
-otherwise,I-pers
-Rocket,I-pers
+otherwise,0
+Rocket,B-pers
 ",",0
 was,0
 indicted,0

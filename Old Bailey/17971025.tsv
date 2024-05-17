@@ -1066,8 +1066,8 @@ HEATH,0
 JAMES,B-pers
 LEWIS,I-pers
 ",",I-pers
-otherwise,I-pers
-DRUCE,I-pers
+otherwise,0
+DRUCE,B-pers
 ",",0
 was,0
 indicted,0
@@ -1929,8 +1929,8 @@ HOTHAM,I-pers
 MARY,B-pers
 HODGES,I-pers
 ",",I-pers
-otherwise,I-pers
-SUSANNAH,I-pers
+otherwise,0
+SUSANNAH,B-pers
 ROBERTSON,I-pers
 ",",0
 was,0
@@ -8183,8 +8183,8 @@ HEATH,0
 JAMES,B-pers
 LANDRITH,I-pers
 ",",I-pers
-otherwise,I-pers
-JAMES,I-pers
+otherwise,0
+JAMES,B-pers
 GALLOWAY,I-pers
 ",",0
 was,0
@@ -14874,8 +14874,8 @@ HEATH,0
 WILLIAM,B-pers
 COLEMAN,I-pers
 ",",I-pers
-otherwise,I-pers
-MIDDLETON,I-pers
+otherwise,0
+MIDDLETON,B-pers
 ",",0
 and,0
 WILLIAM,B-pers
@@ -32269,8 +32269,8 @@ SMITH,I-pers
 JOHN,B-pers
 SMOKEY,I-pers
 ",",I-pers
-otherwise,I-pers
-SMITH,I-pers
+otherwise,0
+SMITH,B-pers
 ",",0
 and,0
 WILLIAM,B-pers
@@ -34008,8 +34008,8 @@ HOTHAM,I-pers
 JOSEPH,B-pers
 ALLFORD,I-pers
 ",",I-pers
-otherwise,I-pers
-TAYLOR,I-pers
+otherwise,0
+TAYLOR,B-pers
 ALLFORD,I-pers
 ",",0
 was,0
@@ -39547,8 +39547,8 @@ HEATH,0
 WILLIAM,B-pers
 PROCTOR,I-pers
 ",",I-pers
-otherwise,I-pers
-JOSEPH,I-pers
+otherwise,0
+JOSEPH,B-pers
 BURRIDGE,I-pers
 ",",0
 was,0

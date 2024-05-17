@@ -16405,8 +16405,8 @@ of,I-pers
 John,I-pers
 Clark,I-pers
 ",",I-pers
-otherwise,I-pers
-Mary,I-pers
+otherwise,0
+Mary,B-pers
 Pope,I-pers
 ",",0
 otherwise,0
@@ -16774,8 +16774,8 @@ M.,0
 Elizabeth,B-pers
 Wright,I-pers
 ",",I-pers
-otherwise,I-pers
-Wilkerson,I-pers
+otherwise,0
+Wilkerson,B-pers
 ",",0
 widow,0
 ",",0

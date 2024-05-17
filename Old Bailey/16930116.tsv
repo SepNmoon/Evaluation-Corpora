@@ -2555,8 +2555,8 @@ summary,0
 Mary,B-pers
 Wilder,I-pers
 ",",I-pers
-alias,I-pers
-Cole,I-pers
+alias,0
+Cole,B-pers
 ",",0
 Katherine,B-pers
 Davis,I-pers
@@ -3621,8 +3621,8 @@ summary,0
 ],0
 Alice,B-pers
 Page,I-pers
-alias,I-pers
-Fryar,I-pers
+alias,0
+Fryar,B-pers
 ",",0
 was,0
 tryed,0
@@ -4574,8 +4574,8 @@ summary,0
 Elinor,B-pers
 Scriven,I-pers
 ",",I-pers
-alias,I-pers
-Lancaster,I-pers
+alias,0
+Lancaster,B-pers
 ",",0
 was,0
 tried,0
@@ -7438,8 +7438,8 @@ Harris,I-pers
 .,0
 Joanna,B-pers
 Jones,I-pers
-alias,I-pers
-Margaret,I-pers
+alias,0
+Margaret,B-pers
 Moor,I-pers
 .,0
 Thomas,B-pers
@@ -8209,8 +8209,8 @@ Harris,I-pers
 .,0
 Joanna,B-pers
 Jones,I-pers
-alias,I-pers
-Margaret,I-pers
+alias,0
+Margaret,B-pers
 Moor,I-pers
 .,0
 Thomas,B-pers

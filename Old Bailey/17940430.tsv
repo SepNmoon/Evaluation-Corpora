@@ -2147,8 +2147,8 @@ KENYON,0
 232.,0
 JOSEPH,B-pers
 CHALK,I-pers
-otherwise,I-pers
-WALLING,I-pers
+otherwise,0
+WALLING,B-pers
 and,0
 THOMAS,B-pers
 SMART,I-pers
@@ -2891,8 +2891,8 @@ HOTHAM,0
 233.,0
 JOSEPH,B-pers
 CHALK,I-pers
-otherwise,I-pers
-WALLIN,I-pers
+otherwise,0
+WALLIN,B-pers
 and,0
 THOMAS,B-pers
 SMART,I-pers
@@ -5238,8 +5238,8 @@ KENYON,0
 236.,0
 THOMAS,B-pers
 STUNNELL,I-pers
-otherwise,I-pers
-STONEL,I-pers
+otherwise,0
+STONEL,B-pers
 was,0
 indicted,0
 for,0
@@ -14313,8 +14313,8 @@ Wedd,0
 243.,0
 WILLIAM,B-pers
 STOUT,I-pers
-otherwise,I-pers
-SMITH,I-pers
+otherwise,0
+SMITH,B-pers
 was,0
 indicted,0
 for,0
@@ -33039,8 +33039,8 @@ THOMPSON,0
 262.,0
 WILLIAM,B-pers
 SMITH,I-pers
-otherwise,I-pers
-SPARKES,I-pers
+otherwise,0
+SPARKES,B-pers
 was,0
 indicted,0
 for,0
@@ -60218,8 +60218,8 @@ THOMPSON,0
 .,0
 282.,0
 HARRIOTT,B-pers
-otherwise,I-pers
-ELEANOR,I-pers
+otherwise,0
+ELEANOR,B-pers
 MURRAY,I-pers
 was,0
 indicted,0
@@ -71412,8 +71412,8 @@ THOMPSON,0
 .,0
 292.,0
 SAMUEL,B-pers
-otherwise,I-pers
-WILLIAM,I-pers
+otherwise,0
+WILLIAM,B-pers
 TRAMP,I-pers
 was,0
 indicted,0
@@ -89678,8 +89678,8 @@ RECORDER,0
 MARTHA,B-pers
 FISHBOURNE,I-pers
 ",",I-pers
-otherwise,I-pers
-ANN,I-pers
+otherwise,0
+ANN,B-pers
 LOW,I-pers
 was,0
 indicted,0

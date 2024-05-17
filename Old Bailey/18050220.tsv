@@ -446,8 +446,8 @@ English,I-pers
 JOHN,B-pers
 WILSON,I-pers
 ",",I-pers
-alias,I-pers
-WILLIAMS,I-pers
+alias,0
+WILLIAMS,B-pers
 ",",0
 was,0
 indicted,0
@@ -2251,8 +2251,8 @@ Blanc,0
 CHARLES,B-pers
 TAYLOR,I-pers
 ",",I-pers
-alias,I-pers
-CLARKE,I-pers
+alias,0
+CLARKE,B-pers
 ",",0
 was,0
 indicted,0
@@ -38219,8 +38219,8 @@ Blanc,0
 ELIZABETH,B-pers
 CRIMPSHAW,I-pers
 ",",I-pers
-alias,I-pers
-JACKSON,I-pers
+alias,0
+JACKSON,B-pers
 ",",0
 was,0
 indicted,0
@@ -54183,8 +54183,8 @@ Blanc,0
 CATHERINE,B-pers
 HAMILTON,I-pers
 ",",I-pers
-alias,I-pers
-HAMBLETON,I-pers
+alias,0
+HAMBLETON,B-pers
 ",",0
 was,0
 indicted,0

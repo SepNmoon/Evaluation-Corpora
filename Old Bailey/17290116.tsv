@@ -3575,8 +3575,8 @@ Death,0
 Margaret,B-pers
 Jones,I-pers
 ",",I-pers
-alias,I-pers
-Marr,I-pers
+alias,0
+Marr,B-pers
 ",",0
 of,0
 Fulham,B-place
@@ -4258,8 +4258,8 @@ Death,0
 William,B-pers
 James,I-pers
 ",",I-pers
-alias,I-pers
-Ives,I-pers
+alias,0
+Ives,B-pers
 ",",0
 of,0
 Uxbridge,B-place

@@ -8119,8 +8119,8 @@ M.,0
 Gasper,B-pers
 French,I-pers
 ",",I-pers
-otherwise,I-pers
-Baptist,I-pers
+otherwise,0
+Baptist,B-pers
 French,I-pers
 ",",0
 was,0
@@ -10969,8 +10969,8 @@ M.,0
 Elizabeth,B-pers
 Corral,I-pers
 ",",I-pers
-otherwise,I-pers
-Elizabeth,I-pers
+otherwise,0
+Elizabeth,B-pers
 ",",I-pers
 wife,I-pers
 of,I-pers
@@ -32245,8 +32245,8 @@ M.,0
 Thomas,B-pers
 Wise,I-pers
 ",",I-pers
-otherwise,I-pers
-Young,I-pers
+otherwise,0
+Young,B-pers
 ",",0
 was,0
 indicted,0
@@ -36538,8 +36538,8 @@ L.,0
 Benjamin,B-pers
 Stratfod,I-pers
 ",",I-pers
-otherwise,I-pers
-Strafford,I-pers
+otherwise,0
+Strafford,B-pers
 ",",0
 was,0
 indicted,0

@@ -9520,8 +9520,8 @@ and,0
 Thomas,B-pers
 Talbot,I-pers
 ",",I-pers
-otherwise,I-pers
-Crawford,I-pers
+otherwise,0
+Crawford,B-pers
 ",",0
 *,0
 were,0
@@ -11440,8 +11440,8 @@ William,B-pers
 Hatton,I-pers
 ",",I-pers
 ||,I-pers
-otherwise,I-pers
-Forrister,I-pers
+otherwise,0
+Forrister,B-pers
 ",",0
 was,0
 indicted,0
@@ -27995,8 +27995,8 @@ Acq,0
 M.,0
 ),0
 Edmund,B-pers
-otherwise,I-pers
-Edward,I-pers
+otherwise,0
+Edward,B-pers
 Wallis,I-pers
 ",",0
 was,0
@@ -29992,8 +29992,8 @@ M,0
 Abraham,B-pers
 Harding,I-pers
 ",",I-pers
-otherwise,I-pers
-the,I-pers
+otherwise,0
+the,B-pers
 Watch-boy,I-pers
 ",",0
 was,0

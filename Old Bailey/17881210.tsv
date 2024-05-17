@@ -2401,8 +2401,8 @@ WILSON,0
 THOMAS,B-pers
 THRUSH,I-pers
 ",",I-pers
-otherwise,I-pers
-THRUST,I-pers
+otherwise,0
+THRUST,B-pers
 ",",0
 JOHN,B-pers
 MERRYMAN,I-pers
@@ -16726,8 +16726,8 @@ WILSON,0
 JOHN,B-pers
 SENNIER,I-pers
 ",",I-pers
-otherwise,I-pers
-SENIOR,I-pers
+otherwise,0
+SENIOR,B-pers
 ",",0
 was,0
 indicted,0
@@ -32119,8 +32119,8 @@ WILSON,0
 79.,0
 ANN,B-pers
 BONE,I-pers
-otherwise,I-pers
-SMITH,I-pers
+otherwise,0
+SMITH,B-pers
 was,0
 indicted,0
 for,0
@@ -32277,8 +32277,8 @@ WILSON,0
 80.,0
 EDWARD,B-pers
 ANDERSON,I-pers
-otherwise,I-pers
-ATKINSON,I-pers
+otherwise,0
+ATKINSON,B-pers
 was,0
 indicted,0
 for,0
@@ -59906,8 +59906,8 @@ WILSON,0
 95.,0
 JOSEPH,B-pers
 SMITH,I-pers
-alias,I-pers
-EDWARD,I-pers
+alias,0
+EDWARD,B-pers
 HUNT,I-pers
 ",",0
 was,0

@@ -9211,8 +9211,8 @@ summary,0
 Stephen,B-pers
 Ainsworth,I-pers
 ",",I-pers
-otherwise,I-pers
-Hainsworth,I-pers
+otherwise,0
+Hainsworth,B-pers
 ",",0
 was,0
 indicted,0
@@ -10591,8 +10591,8 @@ and,0
 John,B-pers
 Orton,I-pers
 ",",I-pers
-otherwise,I-pers
-Long,I-pers
+otherwise,0
+Long,B-pers
 John,I-pers
 ",",0
 was,0
@@ -11514,8 +11514,8 @@ Indictment,0
 John,B-pers
 Albin,I-pers
 ",",I-pers
-otherwise,I-pers
-Allbone,I-pers
+otherwise,0
+Allbone,B-pers
 ",",0
 was,0
 indicted,0
@@ -15296,8 +15296,8 @@ summary,0
 56.,0
 Edward,B-pers
 Daines,I-pers
-otherwise,I-pers
-Lee,I-pers
+otherwise,0
+Lee,B-pers
 ",",0
 was,0
 indicted,0
@@ -15683,8 +15683,8 @@ Acquitted,0
 Mary,B-pers
 Douglas,I-pers
 ",",I-pers
-otherwise,I-pers
-Mary,I-pers
+otherwise,0
+Mary,B-pers
 the,I-pers
 Wife,I-pers
 of,I-pers
@@ -15910,8 +15910,8 @@ Acquitted,0
 Susan,B-pers
 Parsons,I-pers
 ",",I-pers
-otherwise,I-pers
-Pead,I-pers
+otherwise,0
+Pead,B-pers
 ",",0
 of,0
 St.,B-place
@@ -19416,8 +19416,8 @@ summary,0
 William,B-pers
 Knivington,I-pers
 ",",I-pers
-otherwise,I-pers
-Niverton,I-pers
+otherwise,0
+Niverton,B-pers
 ",",0
 was,0
 indicted,0

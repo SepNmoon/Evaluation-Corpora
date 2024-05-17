@@ -45407,8 +45407,8 @@ SERJEANT,0
 THOMAS,B-pers
 SMITH,I-pers
 .,I-pers
-otherwise,I-pers
-JOHN,I-pers
+otherwise,0
+JOHN,B-pers
 LAW,I-pers
 ",",0
 was,0
@@ -66632,8 +66632,8 @@ RICHARD,B-pers
 DAVID,I-pers
 CRUTCHER,I-pers
 ",",I-pers
-otherwise,I-pers
-CROUCHER,I-pers
+otherwise,0
+CROUCHER,B-pers
 ",",0
 was,0
 indicted,0
@@ -75005,8 +75005,8 @@ ROOKE,0
 SARAH,B-pers
 PAYNE,I-pers
 ",",I-pers
-otherwise,I-pers
-BASKALL,I-pers
+otherwise,0
+BASKALL,B-pers
 ",",0
 was,0
 indicted,0
@@ -94834,8 +94834,8 @@ ASHHURST,0
 SARAH,B-pers
 ROTHERY,I-pers
 ",",I-pers
-otherwise,I-pers
-CLARK,I-pers
+otherwise,0
+CLARK,B-pers
 ",",0
 was,0
 indicted,0

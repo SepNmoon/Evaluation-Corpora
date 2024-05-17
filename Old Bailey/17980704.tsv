@@ -8451,8 +8451,8 @@ LAWRENCE,0
 JOHN,B-pers
 PORTEES,I-pers
 ",",I-pers
-otherwise,I-pers
-DAY,I-pers
+otherwise,0
+DAY,B-pers
 ",",0
 was,0
 indicted,0
@@ -24470,8 +24470,8 @@ LAWRENCE,0
 440.,0
 SUSAN,B-pers
 ",",I-pers
-otherwise,I-pers
-SARAH,I-pers
+otherwise,0
+SARAH,B-pers
 SKELTON,I-pers
 ",",0
 and,0
@@ -25044,8 +25044,8 @@ BULLER,0
 441.,0
 SUSAN,B-pers
 ",",I-pers
-otherwise,I-pers
-SARAH,I-pers
+otherwise,0
+SARAH,B-pers
 SKELTON,I-pers
 ",",0
 and,0
@@ -42411,8 +42411,8 @@ LAWRENCE,0
 MARY-ANN,B-pers
 WINTER,I-pers
 ",",I-pers
-otherwise,I-pers
-STONE,I-pers
+otherwise,0
+STONE,B-pers
 ",",0
 was,0
 indicted,0

@@ -29003,8 +29003,8 @@ WILSON,0
 MARY,B-pers
 ALLEN,I-pers
 ",",I-pers
-alias,I-pers
-CONNER,I-pers
+alias,0
+CONNER,B-pers
 ",",0
 was,0
 indicted,0
@@ -43043,8 +43043,8 @@ years,0
 203.,0
 SARAH,B-pers
 HALL,I-pers
-otherwise,I-pers
-SARAH,I-pers
+otherwise,0
+SARAH,B-pers
 HAMMOND,I-pers
 was,0
 indicted,0
@@ -58160,8 +58160,8 @@ Crofts,I-pers
 And,0
 SARAH,B-pers
 PHILLIPS,I-pers
-otherwise,I-pers
-CONSTANT,I-pers
+otherwise,0
+CONSTANT,B-pers
 was,0
 indicted,0
 for,0

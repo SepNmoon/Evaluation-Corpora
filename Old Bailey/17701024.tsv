@@ -4964,8 +4964,8 @@ M.,0
 Mary,B-pers
 Nuttall,I-pers
 ",",I-pers
-otherwise,I-pers
-Hebborn,I-pers
+otherwise,0
+Hebborn,B-pers
 ",",0
 was,0
 indicted,0
@@ -18110,8 +18110,8 @@ M.,0
 William,B-pers
 Brent,I-pers
 ",",I-pers
-otherwise,I-pers
-Brett,I-pers
+otherwise,0
+Brett,B-pers
 ",",0
 was,0
 indicted,0
@@ -28362,8 +28362,8 @@ Rich,B-pers
 .,I-pers
 Morgan,I-pers
 ",",I-pers
-otherwise,I-pers
-Morgan,I-pers
+otherwise,0
+Morgan,B-pers
 Rowland,I-pers
 ",",0
 was,0
@@ -33571,8 +33571,8 @@ M.,0
 ),0
 James,B-pers
 Flanaghan,I-pers
-otherwise,I-pers
-Courant,I-pers
+otherwise,0
+Courant,B-pers
 ",",0
 was,0
 indicted,0

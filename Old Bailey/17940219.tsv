@@ -5845,8 +5845,8 @@ BRYANT,I-pers
 JAMES,B-pers
 GRIST,I-pers
 ",",I-pers
-otherwise,I-pers
-BUTLER,I-pers
+otherwise,0
+BUTLER,B-pers
 GRIST,I-pers
 ",",0
 and,0
@@ -56815,8 +56815,8 @@ THOMPSON,I-pers
 .,0
 182.,0
 WILLIAM,B-pers
-otherwise,I-pers
-ROBERT,I-pers
+otherwise,0
+ROBERT,B-pers
 KEMP,I-pers
 was,0
 indicted,0
@@ -66166,8 +66166,8 @@ BULLER,0
 184.,0
 THOMAS,B-pers
 GREDNER,I-pers
-otherwise,I-pers
-GARDINER,I-pers
+otherwise,0
+GARDINER,B-pers
 was,0
 indicted,0
 for,0
@@ -88714,8 +88714,8 @@ THOMPSON,0
 WILLIAM,B-pers
 BRATT,I-pers
 ",",I-pers
-otherwise,I-pers
-BRETT,I-pers
+otherwise,0
+BRETT,B-pers
 ",",0
 was,0
 indicted,0
@@ -89310,8 +89310,8 @@ BULLER,0
 205.,0
 HENRY,B-pers
 BRATT,I-pers
-otherwise,I-pers
-BRETT,I-pers
+otherwise,0
+BRETT,B-pers
 ",",0
 was,0
 indicted,0
@@ -95430,8 +95430,8 @@ BULLER,0
 210.,0
 MARY,B-pers
 MEADS,I-pers
-otherwise,I-pers
-WHITE,I-pers
+otherwise,0
+WHITE,B-pers
 was,0
 indicted,0
 for,0

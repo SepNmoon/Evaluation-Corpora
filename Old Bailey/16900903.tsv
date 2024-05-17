@@ -5016,8 +5016,8 @@ discharged,0
 .,0
 Joan,B-pers
 Brown,I-pers
-alias,I-pers
-Varlen,I-pers
+alias,0
+Varlen,B-pers
 ",",0
 was,0
 tryed,0
@@ -5287,8 +5287,8 @@ Acquitted,0
 .,0
 Elizabeth,B-pers
 Jones,I-pers
-alias,I-pers
-Fyrmin,I-pers
+alias,0
+Fyrmin,B-pers
 ",",0
 was,0
 indicted,0
@@ -5380,8 +5380,8 @@ summary,0
 Ann,B-pers
 Hereford,I-pers
 ",",I-pers
-alias,I-pers
-Roberts,I-pers
+alias,0
+Roberts,B-pers
 ",",0
 was,0
 likewise,0

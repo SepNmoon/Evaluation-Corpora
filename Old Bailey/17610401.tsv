@@ -2059,8 +2059,8 @@ spinster,0
 and,0
 Charles,B-pers
 Steward,I-pers
-otherwise,I-pers
-Conner,I-pers
+otherwise,0
+Conner,B-pers
 ",",0
 were,0
 indicted,0
@@ -3308,8 +3308,8 @@ M,0
 Mary,B-pers
 Smith,I-pers
 ",",I-pers
-otherwise,I-pers
-Dixon,I-pers
+otherwise,0
+Dixon,B-pers
 ",",0
 single,0
 woman,0
@@ -3637,8 +3637,8 @@ M.,0
 Isaac,B-pers
 Odeway,I-pers
 ",",I-pers
-otherwise,I-pers
-White,I-pers
+otherwise,0
+White,B-pers
 ",",0
 was,0
 indicted,0
@@ -10268,8 +10268,8 @@ L,0
 Elizabeth,B-pers
 White,I-pers
 ",",I-pers
-otherwise,I-pers
-Barbara,I-pers
+otherwise,0
+Barbara,B-pers
 Stoaks,I-pers
 ",",0
 was,0
@@ -14984,8 +14984,8 @@ of,I-pers
 John,I-pers
 Plateman,I-pers
 ",",I-pers
-otherwise,I-pers
-",",I-pers
+otherwise,0
+",",B-pers
 Ann,I-pers
 Ash,I-pers
 ",",I-pers
@@ -15479,8 +15479,8 @@ M,0
 Elizabeth,B-pers
 Wilkerson,I-pers
 ",",I-pers
-otherwise,I-pers
-Stamps,I-pers
+otherwise,0
+Stamps,B-pers
 ",",0
 was,0
 indicted,0

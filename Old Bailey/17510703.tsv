@@ -6474,8 +6474,8 @@ M.,0
 Richard,B-pers
 Gardner,I-pers
 ",",I-pers
-otherwise,I-pers
-Brown,I-pers
+otherwise,0
+Brown,B-pers
 ",",0
 was,0
 indicted,0
@@ -8425,8 +8425,8 @@ M.,0
 James,B-pers
 Heath,I-pers
 ",",I-pers
-otherwise,I-pers
-Jeffery,I-pers
+otherwise,0
+Jeffery,B-pers
 ",",0
 was,0
 indicted,0
@@ -19533,8 +19533,8 @@ M.,0
 George,B-pers
 Stediford,I-pers
 ",",I-pers
-otherwise,I-pers
-Tediford,I-pers
+otherwise,0
+Tediford,B-pers
 ",",0
 was,0
 indicted,0
@@ -25739,8 +25739,8 @@ and,0
 Daniel,B-pers
 Thoroughgood,I-pers
 ",",I-pers
-otherwise,I-pers
-Dann,I-pers
+otherwise,0
+Dann,B-pers
 the,I-pers
 baker,I-pers
 ",",0
@@ -29607,8 +29607,8 @@ and,0
 John,B-pers
 Tompson,I-pers
 ",",I-pers
-otherwise,I-pers
-Garret,I-pers
+otherwise,0
+Garret,B-pers
 Lawler,I-pers
 ",",0
 were,0

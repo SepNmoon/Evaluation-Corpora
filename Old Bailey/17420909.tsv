@@ -301,8 +301,8 @@ Jackson,I-pers
 Christopher,B-pers
 Peterson,I-pers
 ",",I-pers
-otherwise,I-pers
-Jack,I-pers
+otherwise,0
+Jack,B-pers
 the,I-pers
 Sailor,I-pers
 ",",0
@@ -19959,8 +19959,8 @@ summary,0
 Martha,B-pers
 Johnson,I-pers
 ",",I-pers
-otherwise,I-pers
-Sullivan,I-pers
+otherwise,0
+Sullivan,B-pers
 ",",0
 of,0
 St,B-place
@@ -38227,8 +38227,8 @@ summary,0
 Mary,B-pers
 Neale,I-pers
 ",",I-pers
-otherwise,I-pers
-Jerry,I-pers
+otherwise,0
+Jerry,B-pers
 ",",0
 *,0
 was,0

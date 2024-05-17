@@ -427,8 +427,8 @@ summary,0
 Mary,B-pers
 Booth,I-pers
 ",",I-pers
-alias,I-pers
-Mary,I-pers
+alias,0
+Mary,B-pers
 Service,I-pers
 ",",0
 of,0
@@ -3249,8 +3249,8 @@ summary,0
 Rebecca,B-pers
 Corin,I-pers
 ",",I-pers
-alias,I-pers
-Marshal,I-pers
+alias,0
+Marshal,B-pers
 ",",0
 of,0
 the,0
@@ -4252,8 +4252,8 @@ him,0
 James,B-pers
 Callon,I-pers
 ",",I-pers
-alias,I-pers
-Callow,I-pers
+alias,0
+Callow,B-pers
 of,0
 St.,B-place
 Leonard,I-place

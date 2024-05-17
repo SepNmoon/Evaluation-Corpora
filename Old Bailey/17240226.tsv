@@ -1303,8 +1303,8 @@ him,0
 Mary,B-pers
 Hill,I-pers
 ",",I-pers
-alias,I-pers
-Hilliard,I-pers
+alias,0
+Hilliard,B-pers
 ",",0
 of,0
 the,0
@@ -1400,8 +1400,8 @@ Transportation,0
 Mary,B-pers
 Lees,I-pers
 ",",I-pers
-alias,I-pers
-Hipworth,I-pers
+alias,0
+Hipworth,B-pers
 ",",0
 of,0
 St.,B-place
@@ -1815,8 +1815,8 @@ Transportation,0
 Christian,B-pers
 Adams,I-pers
 ",",I-pers
-alias,I-pers
-Cheesmore,I-pers
+alias,0
+Cheesmore,B-pers
 ",",0
 was,0
 indicted,0
@@ -3060,8 +3060,8 @@ and,0
 Robert,B-pers
 Hambleton,I-pers
 ",",I-pers
-alias,I-pers
-Hammond,I-pers
+alias,0
+Hammond,B-pers
 ",",0
 were,0
 indicted,0
@@ -4623,8 +4623,8 @@ Transportation,0
 Mary,B-pers
 Cowley,I-pers
 ",",I-pers
-alias,I-pers
-Curtis,I-pers
+alias,0
+Curtis,B-pers
 ",",0
 of,0
 St.,B-place
@@ -7244,8 +7244,8 @@ Transportation,0
 Joseph,B-pers
 Smith,I-pers
 ",",I-pers
-alias,I-pers
-Ashbourn,I-pers
+alias,0
+Ashbourn,B-pers
 ",",0
 of,0
 the,0
@@ -7581,8 +7581,8 @@ him,0
 John,B-pers
 Howard,I-pers
 ",",I-pers
-alias,I-pers
-Tailor,I-pers
+alias,0
+Tailor,B-pers
 ",",0
 and,0
 Hannah,B-pers
@@ -16238,8 +16238,8 @@ Transportation,0
 Paul,B-pers
 Eaton,I-pers
 ",",I-pers
-alias,I-pers
-Layton,I-pers
+alias,0
+Layton,B-pers
 ",",0
 of,0
 St.,B-place

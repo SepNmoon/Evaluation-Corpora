@@ -17076,8 +17076,8 @@ summary,0
 JOHN,B-pers
 BENNET,I-pers
 ",",I-pers
-alias,I-pers
-EADE,I-pers
+alias,0
+EADE,B-pers
 ",",0
 was,0
 indicted,0
@@ -20226,8 +20226,8 @@ RECORDER,0
 LYDIA,B-pers
 HALL,I-pers
 ",",I-pers
-otherwise,I-pers
-BROWN,I-pers
+otherwise,0
+BROWN,B-pers
 ",",0
 and,0
 ANN,B-pers
@@ -21122,8 +21122,8 @@ GUILTY,0
 MOSES,B-pers
 EMANUEL,I-pers
 ",",I-pers
-otherwise,I-pers
-MANUEL,I-pers
+otherwise,0
+MANUEL,B-pers
 ",",0
 was,0
 indicted,0
@@ -32655,8 +32655,8 @@ RECORDER,0
 WILLIAM,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-ARCHER,I-pers
+otherwise,0
+ARCHER,B-pers
 ",",0
 and,0
 WILLIAM,B-pers

@@ -2251,8 +2251,8 @@ M.,0
 Mary,B-pers
 Jones,I-pers
 ",",I-pers
-otherwise,I-pers
-Merrit,I-pers
+otherwise,0
+Merrit,B-pers
 ",",0
 spinster,0
 ",",0
@@ -7398,8 +7398,8 @@ Death,0
 Honor,B-pers
 Furness,I-pers
 ",",I-pers
-otherwise,I-pers
-Geary,I-pers
+otherwise,0
+Geary,B-pers
 ",",0
 spinster,0
 ",",0
@@ -10786,8 +10786,8 @@ M.,0
 John,B-pers
 Gore,I-pers
 ",",I-pers
-otherwise,I-pers
-Purcell,I-pers
+otherwise,0
+Purcell,B-pers
 ",",0
 and,0
 Patrick,B-pers
@@ -23766,8 +23766,8 @@ M.,0
 Andrew,B-pers
 Carrol,I-pers
 ",",I-pers
-otherwise,I-pers
-Dutton,I-pers
+otherwise,0
+Dutton,B-pers
 ",",0
 was,0
 indicted,0

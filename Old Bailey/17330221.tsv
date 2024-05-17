@@ -6423,8 +6423,8 @@ Death,0
 Thomas,B-pers
 Bottom,I-pers
 ",",I-pers
-alias,I-pers
-Edgington,I-pers
+alias,0
+Edgington,B-pers
 ",",0
 was,0
 indicted,0
@@ -13396,8 +13396,8 @@ summary,0
 Mary,B-pers
 Golby,I-pers
 ",",I-pers
-alias,I-pers
-Elizabeth,I-pers
+alias,0
+Elizabeth,B-pers
 Golborn,I-pers
 ",",0
 was,0
@@ -13615,8 +13615,8 @@ acquitted,0
 Leonard,B-pers
 Budley,I-pers
 ",",I-pers
-alias,I-pers
-Butler,I-pers
+alias,0
+Butler,B-pers
 ",",0
 and,0
 William,B-pers
@@ -16307,8 +16307,8 @@ summary,0
 Sarah,B-pers
 Malcolm,I-pers
 ",",I-pers
-alias,I-pers
-Mallcombe,I-pers
+alias,0
+Mallcombe,B-pers
 was,0
 indicted,0
 for,0

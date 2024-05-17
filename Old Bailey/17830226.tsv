@@ -46685,8 +46685,8 @@ RECORDER,0
 WILLIAM,B-pers
 ROSE,I-pers
 ",",I-pers
-otherwise,I-pers
-DEADROSE,I-pers
+otherwise,0
+DEADROSE,B-pers
 was,0
 indicted,0
 for,0
@@ -73343,8 +73343,8 @@ MALONE,I-pers
 and,0
 ELIZABETH,B-pers
 BROWN,I-pers
-otherwise,I-pers
-LYONS,I-pers
+otherwise,0
+LYONS,B-pers
 were,0
 indicted,0
 for,0
@@ -85102,8 +85102,8 @@ CHARLES,B-pers
 LAWRENCE,I-pers
 BAREW,I-pers
 ",",I-pers
-otherwise,I-pers
-BARROW,I-pers
+otherwise,0
+BARROW,B-pers
 ",",0
 was,0
 indicted,0

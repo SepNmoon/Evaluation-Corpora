@@ -3835,8 +3835,8 @@ Blanc,0
 JOHN,B-pers
 EDY,I-pers
 ",",I-pers
-alias,I-pers
-JOHN-HUGHES,I-pers
+alias,0
+JOHN-HUGHES,B-pers
 EDY,I-pers
 ",",0
 and,0
@@ -10207,8 +10207,8 @@ Blanc,0
 THOMAS,B-pers
 JONES,I-pers
 ",",I-pers
-alias,I-pers
-SOLOMON,I-pers
+alias,0
+SOLOMON,B-pers
 ROBUS,I-pers
 ",",0
 was,0
@@ -12553,8 +12553,8 @@ Chamber,0
 DANIEL,B-pers
 BESSET,I-pers
 ",",I-pers
-alias,I-pers
-BISEX,I-pers
+alias,0
+BISEX,B-pers
 ",",0
 was,0
 indicted,0
@@ -20871,8 +20871,8 @@ Recorder,0
 JAMES,B-pers
 MORRIS,I-pers
 ",",I-pers
-alias,I-pers
-STOKES,I-pers
+alias,0
+STOKES,B-pers
 ",",0
 was,0
 indicted,0
@@ -48896,8 +48896,8 @@ Serjeant,0
 EDWARD,B-pers
 O'DANNEL,I-pers
 ",",I-pers
-otherwise,I-pers
-O'DONNELL,I-pers
+otherwise,0
+O'DONNELL,B-pers
 ",",0
 was,0
 indicted,0
@@ -77836,8 +77836,8 @@ Hotham,I-pers
 JOHN,B-pers
 EDY,I-pers
 ",",I-pers
-alias,I-pers
-JOHN-HUGHES,I-pers
+alias,0
+JOHN-HUGHES,B-pers
 EDY,I-pers
 ",",0
 and,0

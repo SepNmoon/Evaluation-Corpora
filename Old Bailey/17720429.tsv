@@ -5030,8 +5030,8 @@ M.,0
 JOHN-JAMES,B-pers
 GILBERT,I-pers
 ",",I-pers
-otherwise,I-pers
-PHILLIPS,I-pers
+otherwise,0
+PHILLIPS,B-pers
 ",",0
 was,0
 indicted,0
@@ -7832,8 +7832,8 @@ M.,0
 ),0
 JOHN,B-pers
 CLARK,I-pers
-otherwise,I-pers
-EDMONDS,I-pers
+otherwise,0
+EDMONDS,B-pers
 ",",0
 was,0
 indicted,0
@@ -8751,8 +8751,8 @@ ROACH,I-pers
 ",",I-pers
 spinster,I-pers
 ",",I-pers
-otherwise,I-pers
-ANN,I-pers
+otherwise,0
+ANN,B-pers
 the,I-pers
 wife,I-pers
 of,I-pers
@@ -16262,8 +16262,8 @@ and,0
 JOHN,B-pers
 SHARPLESS,I-pers
 ",",I-pers
-otherwise,I-pers
-HALL,I-pers
+otherwise,0
+HALL,B-pers
 ",",0
 were,0
 indicted,0
@@ -44755,8 +44755,8 @@ M.,0
 JOHN,B-pers
 COLLINS,I-pers
 ",",I-pers
-otherwise,I-pers
-THOMAS,I-pers
+otherwise,0
+THOMAS,B-pers
 JONES,I-pers
 ",",0
 was,0
@@ -45187,8 +45187,8 @@ John,B-pers
 Mans,I-pers
 ",",0
 John,B-pers
-alias,I-pers
-Richard,I-pers
+alias,0
+Richard,B-pers
 Clarke,I-pers
 ",",0
 William,B-pers

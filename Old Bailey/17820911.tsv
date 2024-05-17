@@ -23825,8 +23825,8 @@ and,0
 ROBERT,B-pers
 PARSONS,I-pers
 ",",I-pers
-alias,I-pers
-BOB,I-pers
+alias,0
+BOB,B-pers
 THE,I-pers
 BARBER,I-pers
 THE,0
@@ -29716,8 +29716,8 @@ ASHHURST,0
 512.,0
 MARY,B-pers
 TUCKER,I-pers
-alias,I-pers
-HUMPHRIES,I-pers
+alias,0
+HUMPHRIES,B-pers
 was,0
 indicted,0
 for,0
@@ -30687,8 +30687,8 @@ ASHHURST,0
 515.,0
 JAMES,B-pers
 KENNEDY,I-pers
-alias,I-pers
-MURPHEY,I-pers
+alias,0
+MURPHEY,B-pers
 ",",0
 and,0
 THOMAS,B-pers
@@ -34802,8 +34802,8 @@ BARBER,I-pers
 HENRY,B-pers
 BANTUM,I-pers
 ",",I-pers
-otherwise,I-pers
-TENTON,I-pers
+otherwise,0
+TENTON,B-pers
 ",",0
 ELIZABETH,B-pers
 BRADY,I-pers
@@ -49513,8 +49513,8 @@ HOTHAM,I-pers
 538.,0
 WILLIAM,B-pers
 JONES,I-pers
-alias,I-pers
-PIKE,I-pers
+alias,0
+PIKE,B-pers
 was,0
 indicted,0
 assaulting,0
@@ -56235,8 +56235,8 @@ HOTHAM,I-pers
 .,0
 541.,0
 MARY,B-pers
-alias,I-pers
-MARIA,I-pers
+alias,0
+MARIA,B-pers
 BARRETT,I-pers
 was,0
 indicted,0
@@ -86659,8 +86659,8 @@ RECORDER,0
 THOMAS,B-pers
 RICHARDS,I-pers
 ",",I-pers
-otherwise,I-pers
-KELLY,I-pers
+otherwise,0
+KELLY,B-pers
 ",",0
 and,0
 JOHN,B-pers

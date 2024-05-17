@@ -3056,8 +3056,8 @@ Aldersgate-street,0
 MARY,B-pers
 HARDING,I-pers
 ",",I-pers
-otherwise,I-pers
-CONWAY,I-pers
+otherwise,0
+CONWAY,B-pers
 ",",0
 was,0
 indicted,0
@@ -67147,8 +67147,8 @@ ROOKE,0
 187.,0
 SAMUEL,B-pers
 ",",I-pers
-otherwise,I-pers
-WILLIAM,I-pers
+otherwise,0
+WILLIAM,B-pers
 TRAMP,I-pers
 ",",0
 was,0
@@ -86819,8 +86819,8 @@ perjury,0
 194.,0
 GEORGE,B-pers
 ",",I-pers
-otherwise,I-pers
-WILLIAM,I-pers
+otherwise,0
+WILLIAM,B-pers
 DAVIES,I-pers
 ",",0
 was,0
@@ -93193,8 +93193,8 @@ ACQUITTED,0
 THOMAS,B-pers
 DAVIS,I-pers
 ",",I-pers
-otherwise,I-pers
-EVANS,I-pers
+otherwise,0
+EVANS,B-pers
 .,0
 was,0
 indicted,0
@@ -94084,8 +94084,8 @@ SERJEANT,0
 HENRY,B-pers
 MARSH,I-pers
 ",",I-pers
-otherwise,I-pers
-NASH,I-pers
+otherwise,0
+NASH,B-pers
 ",",0
 and,0
 ELIZABETH,B-pers

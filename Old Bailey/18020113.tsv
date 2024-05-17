@@ -3,8 +3,8 @@
 WILLIAM,B-pers
 PEARCE,I-pers
 ",",I-pers
-alias,I-pers
-BENTON,I-pers
+alias,0
+BENTON,B-pers
 ",",0
 was,0
 indicted,0
@@ -6446,8 +6446,8 @@ Recorder,0
 84.,0
 MARY,B-pers
 ",",I-pers
-alias,I-pers
-ELIZABETH,I-pers
+alias,0
+ELIZABETH,B-pers
 MACDONALD,I-pers
 was,0
 indicted,0
@@ -35103,8 +35103,8 @@ Serjeant,0
 JOHN,B-pers
 WHITMORE,I-pers
 ",",I-pers
-alias,I-pers
-BEVERLEY,I-pers
+alias,0
+BEVERLEY,B-pers
 ",",0
 was,0
 indicted,0
@@ -53012,8 +53012,8 @@ Baron,0
 SARAH,B-pers
 MURPHY,I-pers
 ",",I-pers
-alias,I-pers
-MARTIN,I-pers
+alias,0
+MARTIN,B-pers
 ",",0
 was,0
 indicted,0
@@ -59813,8 +59813,8 @@ Recorder,0
 JOHN,B-pers
 MULLINS,I-pers
 ",",I-pers
-otherwise,I-pers
-MURRAY,I-pers
+otherwise,0
+MURRAY,B-pers
 ",",0
 was,0
 indicted,0
@@ -63213,8 +63213,8 @@ Serjeant,0
 ELIZABETH,B-pers
 FORMISTER,I-pers
 ",",I-pers
-otherwise,I-pers
-FORRESTER,I-pers
+otherwise,0
+FORRESTER,B-pers
 ",",0
 was,0
 indicted,0
@@ -64214,8 +64214,8 @@ Serjeant,0
 JOHN,B-pers
 BAKER,I-pers
 ",",I-pers
-otherwise,I-pers
-EDWARD,I-pers
+otherwise,0
+EDWARD,B-pers
 SHERMAN,I-pers
 ",",0
 was,0
@@ -65547,8 +65547,8 @@ Recorder,0
 THOMAS,B-pers
 WILLIAMS,I-pers
 ",",I-pers
-alias,I-pers
-WILLIAM,I-pers
+alias,0
+WILLIAM,B-pers
 MEYERS,I-pers
 was,0
 indicted,0

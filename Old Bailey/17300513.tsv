@@ -2360,8 +2360,8 @@ Death,0
 Anne,B-pers
 Westwood,I-pers
 ",",I-pers
-alias,I-pers
-Young,I-pers
+alias,0
+Young,B-pers
 ",",0
 wife,0
 of,0
@@ -4201,8 +4201,8 @@ summary,0
 John,B-pers
 Weston,I-pers
 ",",I-pers
-alias,I-pers
-Holton,I-pers
+alias,0
+Holton,B-pers
 ",",0
 and,0
 Thomas,B-pers
@@ -4300,8 +4300,8 @@ acquitted,0
 Mary,B-pers
 Davis,I-pers
 ",",I-pers
-alias,I-pers
-Norton,I-pers
+alias,0
+Norton,B-pers
 ",",0
 of,0
 St.,B-place
@@ -9931,8 +9931,8 @@ Court,0
 William,B-pers
 Wilkins,I-pers
 ",",I-pers
-alias,I-pers
-Milkson,I-pers
+alias,0
+Milkson,B-pers
 ",",0
 Richard,B-pers
 Wagg,I-pers

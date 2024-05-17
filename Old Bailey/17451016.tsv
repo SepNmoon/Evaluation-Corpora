@@ -2166,8 +2166,8 @@ acquitted,0
 Joseph,B-pers
 Howell,I-pers
 ",",I-pers
-otherwise,I-pers
-Lying,I-pers
+otherwise,0
+Lying,B-pers
 Joe,I-pers
 ",",0
 of,0
@@ -3968,8 +3968,8 @@ summary,0
 Mary,B-pers
 Thomas,I-pers
 ",",I-pers
-otherwise,I-pers
-Dells,I-pers
+otherwise,0
+Dells,B-pers
 ",",0
 of,0
 St.,B-place
@@ -9744,8 +9744,8 @@ summary,0
 Grace,B-pers
 Usop,I-pers
 ",",I-pers
-otherwise,I-pers
-Tarras,I-pers
+otherwise,0
+Tarras,B-pers
 ",",0
 of,0
 St,B-place
@@ -9838,8 +9838,8 @@ Leger,I-pers
 and,0
 Magdalen,B-pers
 ",",I-pers
-otherwise,I-pers
-Maudin,I-pers
+otherwise,0
+Maudin,B-pers
 Leger,I-pers
 ",",0
 his,0
@@ -12491,8 +12491,8 @@ born,0
 Martha,B-pers
 Orton,I-pers
 ",",I-pers
-otherwise,I-pers
-Bristow,I-pers
+otherwise,0
+Bristow,B-pers
 ",",0
 of,0
 St.,B-place

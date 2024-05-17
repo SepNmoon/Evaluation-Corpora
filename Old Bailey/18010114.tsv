@@ -8835,8 +8835,8 @@ Graham,0
 PHILIP,B-pers
 GOODENOUGH,I-pers
 ",",I-pers
-alias,I-pers
-PHILIP-GREEN,I-pers
+alias,0
+PHILIP-GREEN,B-pers
 GOODENOUGH,I-pers
 ",",0
 was,0
@@ -17820,8 +17820,8 @@ Thompson,0
 ELIZABETH,B-pers
 GIBBS,I-pers
 ",",I-pers
-alias,I-pers
-GIGNELL,I-pers
+alias,0
+GIGNELL,B-pers
 ",",0
 was,0
 indicted,0
@@ -44782,8 +44782,8 @@ Recorder,0
 126.,0
 WILLIAM,B-pers
 ",",I-pers
-alias,I-pers
-DUCK,I-pers
+alias,0
+DUCK,B-pers
 WYATT,I-pers
 ",",0
 was,0
@@ -44874,8 +44874,8 @@ Thompson,0
 127.,0
 WILLIAM,B-pers
 ",",I-pers
-alias,I-pers
-DUCK,I-pers
+alias,0
+DUCK,B-pers
 WYATT,I-pers
 ",",0
 was,0

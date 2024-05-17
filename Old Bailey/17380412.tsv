@@ -931,8 +931,8 @@ indicted,0
 with,0
 William,B-pers
 Cockran,I-pers
-otherwise,I-pers
-Orkran,I-pers
+otherwise,0
+Orkran,B-pers
 ",",0
 for,0
 stealing,0
@@ -2807,8 +2807,8 @@ Judith,B-pers
 Murray,I-pers
 ",",I-pers
 (,I-pers
-otherwise,I-pers
-Judith,I-pers
+otherwise,0
+Judith,B-pers
 the,I-pers
 Wife,I-pers
 of,I-pers
@@ -5651,8 +5651,8 @@ summary,0
 Ann,B-pers
 Griffiths,I-pers
 ",",I-pers
-otherwise,I-pers
-Perrot,I-pers
+otherwise,0
+Perrot,B-pers
 ",",0
 was,0
 indicted,0
@@ -7266,8 +7266,8 @@ summary,0
 25.,0
 John,B-pers
 Tisoal,I-pers
-otherwise,I-pers
-Irish,I-pers
+otherwise,0
+Irish,B-pers
 John,I-pers
 ",",0
 and,0
@@ -7442,8 +7442,8 @@ summary,0
 Esther,B-pers
 Stevens,I-pers
 ",",I-pers
-otherwise,I-pers
-Nailor,I-pers
+otherwise,0
+Nailor,B-pers
 ",",0
 was,0
 indicted,0
@@ -13917,8 +13917,8 @@ summary,0
 James,B-pers
 Darby,I-pers
 ",",I-pers
-alias,I-pers
-Darley,I-pers
+alias,0
+Darley,B-pers
 ",",0
 was,0
 indicted,0
@@ -15274,8 +15274,8 @@ And,0
 Mary,B-pers
 Perry,I-pers
 ",",I-pers
-otherwise,I-pers
-Peachum,I-pers
+otherwise,0
+Peachum,B-pers
 ",",0
 for,0
 receiving,0

@@ -11368,8 +11368,8 @@ M.,0
 John,B-pers
 Watts,I-pers
 ",",I-pers
-otherwise,I-pers
-John,I-pers
+otherwise,0
+John,B-pers
 Miller,I-pers
 ",",0
 was,0
@@ -11945,8 +11945,8 @@ L.,0
 Elizabeth,B-pers
 Strut,I-pers
 ",",I-pers
-otherwise,I-pers
-Elizabeth,I-pers
+otherwise,0
+Elizabeth,B-pers
 ",",I-pers
 wife,I-pers
 of,I-pers
@@ -13039,8 +13039,8 @@ M.,0
 Elizabeth,B-pers
 Loxham,I-pers
 ",",I-pers
-otherwise,I-pers
-Jane,I-pers
+otherwise,0
+Jane,B-pers
 Gadson,I-pers
 ",",0
 spinster,0
@@ -34144,8 +34144,8 @@ Brophy,I-pers
 and,0
 Joseph,B-pers
 ",",I-pers
-otherwise,I-pers
-Robert,I-pers
+otherwise,0
+Robert,B-pers
 Lloyd,I-pers
 ",",0
 capitally,0
@@ -34396,8 +34396,8 @@ Brophy,I-pers
 and,0
 Joseph,B-pers
 ",",I-pers
-otherwise,I-pers
-Robert,I-pers
+otherwise,0
+Robert,B-pers
 Lloyd,I-pers
 ",",0
 capitally,0

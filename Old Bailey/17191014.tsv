@@ -1513,8 +1513,8 @@ in,0
 persuading,0
 Sarah,B-pers
 Lonsdale,I-pers
-alias,I-pers
-Saunders,I-pers
+alias,0
+Saunders,B-pers
 ",",0
 and,0
 Elizabeth,B-pers
@@ -4251,8 +4251,8 @@ her,0
 John,B-pers
 Moor,I-pers
 ",",I-pers
-alias,I-pers
-James,I-pers
+alias,0
+James,B-pers
 Murray,I-pers
 ",",0
 of,0

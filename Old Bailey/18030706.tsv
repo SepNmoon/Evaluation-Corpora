@@ -22965,8 +22965,8 @@ Rooke,0
 JOHN,B-pers
 THOMPSON,I-pers
 ",",I-pers
-alias,I-pers
-KELLY,I-pers
+alias,0
+KELLY,B-pers
 ",",0
 was,0
 indicted,0
@@ -26859,8 +26859,8 @@ Lawrence,0
 MATTHEW,B-pers
 WEBSTER,I-pers
 ",",I-pers
-otherwise,I-pers
-CHUBBY,I-pers
+otherwise,0
+CHUBBY,B-pers
 ",",0
 was,0
 indicted,0
@@ -32626,8 +32626,8 @@ Lawrence,0
 WILLIAM,B-pers
 LOWE,I-pers
 ",",I-pers
-alias,I-pers
-BAKER,I-pers
+alias,0
+BAKER,B-pers
 ",",0
 was,0
 indicted,0
@@ -36648,8 +36648,8 @@ Lawrence,0
 MARY,B-pers
 BROWN,I-pers
 ",",I-pers
-otherwise,I-pers
-MARY,I-pers
+otherwise,0
+MARY,B-pers
 MOODY,I-pers
 ",",0
 was,0
@@ -46700,8 +46700,8 @@ Lawrence,0
 WILLIAM,B-pers
 DAVIS,I-pers
 ",",I-pers
-otherwise,I-pers
-HART,I-pers
+otherwise,0
+HART,B-pers
 ",",0
 and,0
 TERENCE,B-pers

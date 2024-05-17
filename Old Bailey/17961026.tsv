@@ -18858,8 +18858,8 @@ HEATH,0
 ANDREW,B-pers
 LUST,I-pers
 .,I-pers
-otherwise,I-pers
-WILSON,I-pers
+otherwise,0
+WILSON,B-pers
 ",",0
 was,0
 indicted,0
@@ -22999,8 +22999,8 @@ HOTHAM,I-pers
 WILLIAM,B-pers
 ESCOTT,I-pers
 ",",I-pers
-otherwise,I-pers
-HEATHCOTE,I-pers
+otherwise,0
+HEATHCOTE,B-pers
 ",",0
 was,0
 indicted,0
@@ -31184,8 +31184,8 @@ HEATH,0
 JEREMIAH,B-pers
 VANDESPUNCH,I-pers
 ",",I-pers
-alias,I-pers
-VANDERPUMP,I-pers
+alias,0
+VANDERPUMP,B-pers
 ",",0
 was,0
 indicted,0
@@ -48100,8 +48100,8 @@ fined,0
 Robert,B-pers
 Darnell,I-pers
 ",",I-pers
-alias,I-pers
-Arnold,I-pers
+alias,0
+Arnold,B-pers
 .,0
 The,0
 SESSIONS,0
@@ -48379,6 +48379,6 @@ fined,0
 Robert,B-pers
 Darnell,I-pers
 ",",I-pers
-alias,I-pers
-Arnold,I-pers
+alias,0
+Arnold,B-pers
 .,0

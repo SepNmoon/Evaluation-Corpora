@@ -10897,8 +10897,8 @@ and,0
 JOHN,B-pers
 MILTON,I-pers
 ",",I-pers
-otherwise,I-pers
-MULTON,I-pers
+otherwise,0
+MULTON,B-pers
 ",",0
 were,0
 indicted,0
@@ -28017,8 +28017,8 @@ and,0
 EDWARD,B-pers
 THOMPSON,I-pers
 ",",I-pers
-otherwise,I-pers
-BURNHAM,I-pers
+otherwise,0
+BURNHAM,B-pers
 was,0
 indicted,0
 for,0

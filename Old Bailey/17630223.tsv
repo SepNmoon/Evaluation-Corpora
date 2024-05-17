@@ -4322,8 +4322,8 @@ of,I-pers
 John,I-pers
 Gregory,I-pers
 ",",I-pers
-otherwise,I-pers
-Lucy,I-pers
+otherwise,0
+Lucy,B-pers
 Crane,I-pers
 ",",0
 otherwise,0
@@ -5416,8 +5416,8 @@ L.,0
 ),0
 Elizabeth,B-pers
 ",",I-pers
-otherwise,I-pers
-Esther,I-pers
+otherwise,0
+Esther,B-pers
 Lyon,I-pers
 ",",0
 spinster,0
@@ -5425,8 +5425,8 @@ spinster,0
 and,0
 George,B-pers
 ",",I-pers
-otherwise,I-pers
-Joseph,I-pers
+otherwise,0
+Joseph,B-pers
 Martin,I-pers
 ",",0
 were,0

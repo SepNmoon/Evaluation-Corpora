@@ -3317,8 +3317,8 @@ M.,0
 William,B-pers
 Smith,I-pers
 ",",I-pers
-otherwise,I-pers
-John,I-pers
+otherwise,0
+John,B-pers
 Turner,I-pers
 ",",0
 was,0
@@ -9964,8 +9964,8 @@ M.,0
 James,B-pers
 Chapman,I-pers
 ",",I-pers
-otherwise,I-pers
-Lilley,I-pers
+otherwise,0
+Lilley,B-pers
 ",",0
 Richard,B-pers
 Forsir,I-pers
@@ -15039,8 +15039,8 @@ and,0
 Bridget,B-pers
 Ward,I-pers
 ",",I-pers
-otherwise,I-pers
-wife,I-pers
+otherwise,0
+wife,B-pers
 of,I-pers
 Daniel,I-pers
 Moring,I-pers
@@ -24735,8 +24735,8 @@ and,0
 Charles,B-pers
 Wilkinson,I-pers
 ",",I-pers
-otherwise,I-pers
-Dogood,I-pers
+otherwise,0
+Dogood,B-pers
 ",",0
 were,0
 indicted,0

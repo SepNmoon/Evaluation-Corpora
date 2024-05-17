@@ -122372,8 +122372,8 @@ ACQUITTED,0
 MARY,B-pers
 THOMPSON,I-pers
 ",",I-pers
-otherwise,I-pers
-FRIER,I-pers
+otherwise,0
+FRIER,B-pers
 ",",0
 was,0
 indicted,0
@@ -131049,8 +131049,8 @@ and,0
 THOMAS,B-pers
 JONES,I-pers
 ",",I-pers
-otherwise,I-pers
-MILES,I-pers
+otherwise,0
+MILES,B-pers
 ",",0
 were,0
 indicted,0
@@ -146301,8 +146301,8 @@ OF,0
 JOHN,B-pers
 ROBERTS,I-pers
 ",",I-pers
-otherwise,I-pers
-COLIN,I-pers
+otherwise,0
+COLIN,B-pers
 RECULIST,I-pers
 ",",0
 And,0

@@ -479,8 +479,8 @@ after,0
 Elizabeth,B-pers
 Miller,I-pers
 ",",I-pers
-alias,I-pers
-Lyon,I-pers
+alias,0
+Lyon,B-pers
 ",",0
 of,0
 St.,B-place
@@ -1514,8 +1514,8 @@ and,I-pers
 Elizabeth,I-pers
 his,I-pers
 Wife,I-pers
-alias,I-pers
-",",I-pers
+alias,0
+",",B-pers
 Elizabeth,I-pers
 Reeve,I-pers
 and,0
@@ -2686,8 +2686,8 @@ Death,0
 John,B-pers
 Mitchell,I-pers
 ",",I-pers
-alias,I-pers
-Mitcheller,I-pers
+alias,0
+Mitcheller,B-pers
 ",",0
 of,0
 St.,B-place
@@ -3330,8 +3330,8 @@ Death,0
 Joseph,B-pers
 Cannor,I-pers
 ",",I-pers
-alias,I-pers
-Conner,I-pers
+alias,0
+Conner,B-pers
 of,0
 Isleworth,B-place
 ",",0
@@ -3663,8 +3663,8 @@ her,0
 Elizabeth,B-pers
 Baily,I-pers
 ",",I-pers
-alias,I-pers
-Dillington,I-pers
+alias,0
+Dillington,B-pers
 of,0
 St.,B-place
 Martin,I-place
@@ -4362,8 +4362,8 @@ her,0
 Elizabeth,B-pers
 Brown,I-pers
 ",",I-pers
-alias,I-pers
-White,I-pers
+alias,0
+White,B-pers
 of,0
 St.,B-place
 Clement,I-place
@@ -5540,8 +5540,8 @@ them,0
 Mary,B-pers
 Popler,I-pers
 ",",I-pers
-alias,I-pers
-Poplinton,I-pers
+alias,0
+Poplinton,B-pers
 ",",0
 of,0
 St.,B-place
@@ -10992,8 +10992,8 @@ Spiggot,I-pers
 and,0
 William,B-pers
 Cross,I-pers
-alias,I-pers
-Phillips,I-pers
+alias,0
+Phillips,B-pers
 ",",0
 did,0
 Assault,0

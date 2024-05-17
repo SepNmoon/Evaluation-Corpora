@@ -658,8 +658,8 @@ summary,0
 ],0
 George,B-pers
 Marshal,I-pers
-alias,I-pers
-John,I-pers
+alias,0
+John,B-pers
 Mason,I-pers
 ",",0
 of,0
@@ -1187,8 +1187,8 @@ Wood,I-pers
 and,0
 John,B-pers
 Murth,I-pers
-alias,I-pers
-Mason,I-pers
+alias,0
+Mason,B-pers
 ",",0
 of,0
 St.,B-place
@@ -2289,8 +2289,8 @@ summary,0
 Elizabeth,B-pers
 Young,I-pers
 ",",I-pers
-alias,I-pers
-Saunders,I-pers
+alias,0
+Saunders,B-pers
 ",",0
 of,0
 St.,B-place

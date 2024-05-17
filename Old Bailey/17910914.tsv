@@ -26955,8 +26955,8 @@ SERJEANT,0
 JOHN,B-pers
 HERBERT,I-pers
 ",",I-pers
-otherwise,I-pers
-WILLIAM,I-pers
+otherwise,0
+WILLIAM,B-pers
 MUGGLESTONE,I-pers
 ",",0
 was,0
@@ -71051,8 +71051,8 @@ Life,0
 John,B-pers
 Ryall,I-pers
 ",",I-pers
-alias,I-pers
-George,I-pers
+alias,0
+George,B-pers
 King,I-pers
 ",",0
 James,B-pers
@@ -71075,8 +71075,8 @@ Kelly,I-pers
 ",",0
 William,B-pers
 ",",I-pers
-alias,I-pers
-George,I-pers
+alias,0
+George,B-pers
 Warren,I-pers
 ",",0
 John,B-pers
@@ -71630,8 +71630,8 @@ Life,0
 John,B-pers
 Ryall,I-pers
 ",",I-pers
-alias,I-pers
-George,I-pers
+alias,0
+George,B-pers
 King,I-pers
 ",",0
 James,B-pers
@@ -71654,8 +71654,8 @@ Kelly,I-pers
 ",",0
 William,B-pers
 ",",I-pers
-alias,I-pers
-George,I-pers
+alias,0
+George,B-pers
 Warren,I-pers
 ",",0
 John,B-pers

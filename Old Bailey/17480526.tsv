@@ -6841,8 +6841,8 @@ Catharine,B-pers
 Brooks,I-pers
 >,I-pers
 ",",I-pers
-otherwise,I-pers
-Sharpless,I-pers
+otherwise,0
+Sharpless,B-pers
 ``,I-pers
 /,I-pers
 >,I-pers
@@ -30417,8 +30417,8 @@ summary,0
 Elizabeth,B-pers
 Maccarady,I-pers
 ",",I-pers
-otherwise,I-pers
-Maccavey,I-pers
+otherwise,0
+Maccavey,B-pers
 ",",0
 was,0
 indicted,0
@@ -31415,8 +31415,8 @@ Acquitted,0
 Jane,B-pers
 Thorn,I-pers
 ",",I-pers
-otherwise,I-pers
-Alice,I-pers
+otherwise,0
+Alice,B-pers
 Hawkins,I-pers
 ",",0
 of,0

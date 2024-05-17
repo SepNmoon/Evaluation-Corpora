@@ -16279,8 +16279,8 @@ SERJEANT,0
 ANN,B-pers
 BROWN,I-pers
 ",",I-pers
-alias,I-pers
-M'PHERSON,I-pers
+alias,0
+M'PHERSON,B-pers
 ",",0
 was,0
 indicted,0
@@ -37142,8 +37142,8 @@ RECORDER,0
 135.,0
 GEORGE,B-pers
 SMITH,I-pers
-alias,I-pers
-RICHARD,I-pers
+alias,0
+RICHARD,B-pers
 HANNIBALL,I-pers
 and,0
 ANGELICA,B-pers

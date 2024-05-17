@@ -2251,8 +2251,8 @@ M,0
 ),0
 John,B-pers
 ",",I-pers
-otherwise,I-pers
-Henry,I-pers
+otherwise,0
+Henry,B-pers
 Brown,I-pers
 was,0
 indicted,0
@@ -6375,8 +6375,8 @@ M,0
 ),0
 Mary,B-pers
 ",",I-pers
-otherwise,I-pers
-Clement,I-pers
+otherwise,0
+Clement,B-pers
 ",",I-pers
 wife,I-pers
 of,I-pers
@@ -7088,8 +7088,8 @@ and,0
 Walter,B-pers
 Keen,I-pers
 ",",I-pers
-otherwise,I-pers
-Cane,I-pers
+otherwise,0
+Cane,B-pers
 ",",0
 for,0
 receiving,0
@@ -14844,8 +14844,8 @@ L.,0
 Catharine,B-pers
 Moon,I-pers
 ",",I-pers
-otherwise,I-pers
-Mohun,I-pers
+otherwise,0
+Mohun,B-pers
 ",",0
 was,0
 indicted,0
@@ -28368,8 +28368,8 @@ M,0
 Edward,B-pers
 Merril,I-pers
 ",",I-pers
-otherwise,I-pers
-Deleraunt,I-pers
+otherwise,0
+Deleraunt,B-pers
 ",",0
 was,0
 indicted,0
@@ -32031,8 +32031,8 @@ Armstrong,I-pers
 and,0
 John,B-pers
 ",",I-pers
-otherwise,I-pers
-Thomas,I-pers
+otherwise,0
+Thomas,B-pers
 Welch,I-pers
 ",",0
 were,0

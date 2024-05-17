@@ -25920,8 +25920,8 @@ HEATH,0
 94.,0
 WILLIAM,B-pers
 ",",I-pers
-otherwise,I-pers
-GEORGE,I-pers
+otherwise,0
+GEORGE,B-pers
 ABLETT,I-pers
 ",",0
 was,0
@@ -31322,8 +31322,8 @@ RECORDER,0
 ANN,B-pers
 NICHOLS,I-pers
 ",",I-pers
-otherwise,I-pers
-WILSON,I-pers
+otherwise,0
+WILSON,B-pers
 ",",0
 was,0
 indicted,0
@@ -34442,8 +34442,8 @@ RECORDER,0
 THOMAS,B-pers
 GREEN,I-pers
 ",",I-pers
-otherwise,I-pers
-FULLER,I-pers
+otherwise,0
+FULLER,B-pers
 ",",0
 was,0
 indicted,0
@@ -42299,8 +42299,8 @@ HEATH,0
 FRANCES,B-pers
 FRANCES,I-pers
 ",",I-pers
-otherwise,I-pers
-M'COULL,I-pers
+otherwise,0
+M'COULL,B-pers
 ",",0
 was,0
 indicted,0
@@ -42618,8 +42618,8 @@ LAWRENCE,0
 JAMES,B-pers
 BLAKELY,I-pers
 ",",I-pers
-otherwise,I-pers
-PATRICK,I-pers
+otherwise,0
+PATRICK,B-pers
 BLAKE,I-pers
 ",",0
 MICHAEL,B-pers

@@ -11180,8 +11180,8 @@ Haycraft,I-pers
 Ann,B-pers
 Henley,I-pers
 ",",I-pers
-otherwise,I-pers
-Haycraft,I-pers
+otherwise,0
+Haycraft,B-pers
 ",",0
 Samuel,B-pers
 Smytheman,I-pers
@@ -23215,8 +23215,8 @@ Mary,B-pers
 Shirley,I-pers
 *,I-pers
 ",",I-pers
-otherwise,I-pers
-Catharine,I-pers
+otherwise,0
+Catharine,B-pers
 Davis,I-pers
 ",",0
 of,0
@@ -29274,8 +29274,8 @@ London,I-pers
 ",",I-pers
 Spinster,I-pers
 ",",I-pers
-otherwise,I-pers
-Sarah,I-pers
+otherwise,0
+Sarah,B-pers
 the,I-pers
 wife,I-pers
 of,I-pers
@@ -35595,8 +35595,8 @@ Acquitted,0
 Ann,B-pers
 Barnett,I-pers
 ",",I-pers
-otherwise,I-pers
-Hall,I-pers
+otherwise,0
+Hall,B-pers
 ",",0
 of,0
 St.,B-place
@@ -37242,8 +37242,8 @@ summary,0
 Sarah,B-pers
 Ball,I-pers
 ",",I-pers
-otherwise,I-pers
-Nees,I-pers
+otherwise,0
+Nees,B-pers
 ",",0
 was,0
 indicted,0

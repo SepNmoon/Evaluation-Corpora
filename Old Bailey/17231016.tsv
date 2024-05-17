@@ -2484,8 +2484,8 @@ s.,0
 Transportation,0
 .,0
 Mary,B-pers
-alias,I-pers
-Martha,I-pers
+alias,0
+Martha,B-pers
 Smith,I-pers
 ",",0
 of,0
@@ -9720,8 +9720,8 @@ Transportation,0
 Elizabeth,B-pers
 Mordant,I-pers
 ",",I-pers
-alias,I-pers
-Shields,I-pers
+alias,0
+Shields,B-pers
 ",",0
 of,0
 the,0
@@ -11005,8 +11005,8 @@ and,0
 John,B-pers
 Mackey,I-pers
 ",",I-pers
-alias,I-pers
-Magie,I-pers
+alias,0
+Magie,B-pers
 ",",0
 of,0
 the,0

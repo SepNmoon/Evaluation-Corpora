@@ -18362,8 +18362,8 @@ RECORDER,0
 MARY,B-pers
 HIGGINS,I-pers
 ",",I-pers
-alias,I-pers
-HERRALD,I-pers
+alias,0
+HERRALD,B-pers
 ",",0
 was,0
 indicted,0
@@ -42770,8 +42770,8 @@ RECORDER,0
 ELIZABETH,B-pers
 WELLS,I-pers
 ",",I-pers
-alias,I-pers
-CARLETON,I-pers
+alias,0
+CARLETON,B-pers
 ",",0
 was,0
 indicted,0
@@ -79535,8 +79535,8 @@ ASHURST,0
 ANN,B-pers
 MARSH,I-pers
 ",",I-pers
-otherwise,I-pers
-NEWBY,I-pers
+otherwise,0
+NEWBY,B-pers
 ",",0
 was,0
 indicted,0

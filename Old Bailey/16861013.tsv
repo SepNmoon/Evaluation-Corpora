@@ -915,8 +915,8 @@ summary,0
 Jonathan,B-pers
 Parsons,I-pers
 ",",I-pers
-alias,I-pers
-Parsison,I-pers
+alias,0
+Parsison,B-pers
 ",",0
 of,0
 the,0
@@ -2225,8 +2225,8 @@ summary,0
 ],0
 John,B-pers
 Evans,I-pers
-alias,I-pers
-Clark,I-pers
+alias,0
+Clark,B-pers
 ",",0
 of,0
 the,0
@@ -2885,8 +2885,8 @@ Acquitted,0
 Mary,B-pers
 Covey,I-pers
 ",",I-pers
-alias,I-pers
-Wright,I-pers
+alias,0
+Wright,B-pers
 ",",0
 of,0
 the,0
@@ -3141,8 +3141,8 @@ Acquitted,0
 .,0
 Elizabeth,B-pers
 Brockhouse,I-pers
-alias,I-pers
-Braton,I-pers
+alias,0
+Braton,B-pers
 ",",0
 was,0
 indicted,0

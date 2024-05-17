@@ -13077,8 +13077,8 @@ Recorder,0
 ANN,B-pers
 WILLIAMS,I-pers
 ",",I-pers
-otherwise,I-pers
-MILLAN,I-pers
+otherwise,0
+MILLAN,B-pers
 ",",0
 was,0
 indicted,0
@@ -40622,8 +40622,8 @@ Recorder,0
 WILLIAM,B-pers
 WELLS,I-pers
 ",",I-pers
-otherwise,I-pers
-HARVEY,I-pers
+otherwise,0
+HARVEY,B-pers
 ",",0
 was,0
 indicted,0
@@ -58209,8 +58209,8 @@ Grose,0
 ANN,B-pers
 HUGHES,I-pers
 ",",I-pers
-otherwise,I-pers
-FENTON,I-pers
+otherwise,0
+FENTON,B-pers
 ",",0
 was,0
 indicted,0
@@ -61296,8 +61296,8 @@ and,0
 ANN,B-pers
 MORRO,I-pers
 ",",I-pers
-otherwise,I-pers
-ANN,I-pers
+otherwise,0
+ANN,B-pers
 GREEN,I-pers
 ",",0
 were,0

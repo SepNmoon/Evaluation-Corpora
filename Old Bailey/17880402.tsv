@@ -37172,8 +37172,8 @@ and,0
 JOHN,B-pers
 DELANEY,I-pers
 ",",I-pers
-otherwise,I-pers
-BELLAMY,I-pers
+otherwise,0
+BELLAMY,B-pers
 ",",0
 were,0
 indicted,0
@@ -47314,8 +47314,8 @@ HOTHAM,I-pers
 SARAH,B-pers
 DOVER,I-pers
 ",",I-pers
-otherwise,I-pers
-DORVER,I-pers
+otherwise,0
+DORVER,B-pers
 was,0
 indicted,0
 for,0
@@ -47899,8 +47899,8 @@ summary,0
 WILLIAM,B-pers
 JAMES,I-pers
 ",",I-pers
-alias,I-pers
-LEVI,I-pers
+alias,0
+LEVI,B-pers
 ",",0
 ANN,B-pers
 ALLEN,I-pers
@@ -54380,8 +54380,8 @@ RECORDER,0
 VALENTINE,B-pers
 HARRISON,I-pers
 ",",I-pers
-otherwise,I-pers
-JOHNSON,I-pers
+otherwise,0
+JOHNSON,B-pers
 was,0
 indicted,0
 for,0

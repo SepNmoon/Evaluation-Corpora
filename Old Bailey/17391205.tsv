@@ -9557,8 +9557,8 @@ summary,0
 David,B-pers
 Buck,I-pers
 ",",I-pers
-otherwise,I-pers
-Bell,I-pers
+otherwise,0
+Bell,B-pers
 ",",0
 was,0
 indicted,0
@@ -10077,8 +10077,8 @@ summary,0
 Elizabeth,B-pers
 Pierce,I-pers
 ",",I-pers
-otherwise,I-pers
-Davis,I-pers
+otherwise,0
+Davis,B-pers
 ",",0
 of,0
 St.,B-place
@@ -17304,8 +17304,8 @@ summary,0
 Elizabeth,B-pers
 Holmes,I-pers
 ",",I-pers
-otherwise,I-pers
-Elizabeth,I-pers
+otherwise,0
+Elizabeth,B-pers
 the,I-pers
 Wife,I-pers
 of,I-pers
@@ -21176,8 +21176,8 @@ And,0
 55.,0
 Rebecca,B-pers
 Matthews,I-pers
-alias,I-pers
-Clayton,I-pers
+alias,0
+Clayton,B-pers
 ",",0
 was,0
 indicted,0

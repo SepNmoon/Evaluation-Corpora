@@ -12692,8 +12692,8 @@ HEATH,0
 MARY,B-pers
 NEWLAND,I-pers
 ",",I-pers
-otherwise,I-pers
-LUCAS,I-pers
+otherwise,0
+LUCAS,B-pers
 ",",0
 was,0
 indicted,0
@@ -50721,8 +50721,8 @@ HOTHAM,I-pers
 HENRY,B-pers
 HURFORD,I-pers
 ",",I-pers
-otherwise,I-pers
-BARKER,I-pers
+otherwise,0
+BARKER,B-pers
 ",",0
 and,0
 THOMAS,B-pers
@@ -52740,8 +52740,8 @@ HEATH,0
 MARY,B-pers
 WHITE,I-pers
 ",",I-pers
-alias,I-pers
-MARY,I-pers
+alias,0
+MARY,B-pers
 CARPENTER,I-pers
 was,0
 indicted,0
@@ -54254,8 +54254,8 @@ HOTHAM,I-pers
 THOMAS,B-pers
 HAY,I-pers
 ",",I-pers
-otherwise,I-pers
-DAY,I-pers
+otherwise,0
+DAY,B-pers
 ",",0
 and,0
 JOHN,B-pers

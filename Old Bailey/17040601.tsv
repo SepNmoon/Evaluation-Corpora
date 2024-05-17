@@ -726,8 +726,8 @@ summary,0
 Mary,B-pers
 White,I-pers
 ",",I-pers
-alias,I-pers
-Parker,I-pers
+alias,0
+Parker,B-pers
 ",",0
 of,0
 the,0
@@ -1050,8 +1050,8 @@ summary,0
 Thomas,B-pers
 Hunter,I-pers
 ",",I-pers
-alias,I-pers
-Sir,I-pers
+alias,0
+Sir,B-pers
 Robert,I-pers
 ",",0
 of,0
@@ -1608,8 +1608,8 @@ summary,0
 .,0
 ],0
 Augustin,B-pers
-alias,I-pers
-Sebastian,I-pers
+alias,0
+Sebastian,B-pers
 Rice,I-pers
 of,0
 the,0
@@ -2396,8 +2396,8 @@ summary,0
 ],0
 Mary,B-pers
 Warters,I-pers
-alias,I-pers
-Pines,I-pers
+alias,0
+Pines,B-pers
 and,0
 Martha,B-pers
 Watson,I-pers
@@ -3528,8 +3528,8 @@ summary,0
 Rachel,B-pers
 Griffin,I-pers
 ",",I-pers
-alias,I-pers
-Lewis,I-pers
+alias,0
+Lewis,B-pers
 ",",0
 of,0
 the,0
@@ -4195,8 +4195,8 @@ him,0
 Jane,B-pers
 Smith,I-pers
 ",",I-pers
-alias,I-pers
-Slayman,I-pers
+alias,0
+Slayman,B-pers
 ",",0
 of,0
 the,0
@@ -4258,8 +4258,8 @@ her,0
 Elizabeth,B-pers
 Hewit,I-pers
 ",",I-pers
-alias,I-pers
-Greencourt,I-pers
+alias,0
+Greencourt,B-pers
 ",",0
 of,0
 the,0
@@ -4497,8 +4497,8 @@ summary,0
 Mary,B-pers
 Browne,I-pers
 ",",I-pers
-alias,I-pers
-Deale,I-pers
+alias,0
+Deale,B-pers
 ",",0
 of,0
 the,0

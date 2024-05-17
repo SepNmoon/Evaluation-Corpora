@@ -19352,8 +19352,8 @@ WHEELER,I-pers
 JOHN,B-pers
 MORGAN,I-pers
 ",",I-pers
-otherwise,I-pers
-THOMAS,I-pers
+otherwise,0
+THOMAS,B-pers
 MORRIS,I-pers
 ",",0
 and,0
@@ -33689,8 +33689,8 @@ L.,0
 JOSEPH,B-pers
 ABRAHAMS,I-pers
 ",",I-pers
-otherwise,I-pers
-SOLOMON,I-pers
+otherwise,0
+SOLOMON,B-pers
 ",",0
 was,0
 indicted,0
@@ -39603,8 +39603,8 @@ L.,0
 HANNAH,B-pers
 BROWN,I-pers
 ",",I-pers
-otherwise,I-pers
-SCOTT,I-pers
+otherwise,0
+SCOTT,B-pers
 ",",0
 was,0
 indicted,0
@@ -39958,8 +39958,8 @@ ALEXANDER,B-pers
 LE,I-pers
 CLEREG,I-pers
 ",",I-pers
-otherwise,I-pers
-CLEREG,I-pers
+otherwise,0
+CLEREG,B-pers
 ",",0
 was,0
 indicted,0
@@ -41352,8 +41352,8 @@ L.,0
 JAMES,B-pers
 WATSON,I-pers
 ",",I-pers
-otherwise,I-pers
-DUNNY,I-pers
+otherwise,0
+DUNNY,B-pers
 JEMMY,I-pers
 ",",0
 was,0

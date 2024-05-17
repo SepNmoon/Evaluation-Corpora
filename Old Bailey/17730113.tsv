@@ -2503,8 +2503,8 @@ READ,I-pers
 ",",I-pers
 spinster,I-pers
 ",",I-pers
-otherwise,I-pers
-MARGARET,I-pers
+otherwise,0
+MARGARET,B-pers
 ",",I-pers
 the,I-pers
 wife,I-pers
@@ -6048,8 +6048,8 @@ M.,0
 ),0
 SAMUEL,B-pers
 MALE,I-pers
-otherwise,I-pers
-MAY,I-pers
+otherwise,0
+MAY,B-pers
 ",",0
 and,0
 JAMES,B-pers

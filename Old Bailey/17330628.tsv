@@ -1739,8 +1739,8 @@ Prisoners,0
 Mary,B-pers
 Burness,I-pers
 ",",I-pers
-otherwise,I-pers
-Curtis,I-pers
+otherwise,0
+Curtis,B-pers
 ",",0
 was,0
 indicted,0
@@ -3222,8 +3222,8 @@ Acquitted,0
 Elizabeth,B-pers
 Bains,I-pers
 ",",I-pers
-otherwise,I-pers
-Hays,I-pers
+otherwise,0
+Hays,B-pers
 ",",0
 was,0
 indicted,0
@@ -4995,8 +4995,8 @@ of,0
 William,B-pers
 Sidwell,I-pers
 ",",I-pers
-otherwise,I-pers
-Robinson,I-pers
+otherwise,0
+Robinson,B-pers
 ",",0
 was,0
 indicted,0

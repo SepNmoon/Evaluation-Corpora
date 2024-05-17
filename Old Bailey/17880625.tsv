@@ -4449,8 +4449,8 @@ summary,0
 JOHN,B-pers
 GREENAWAY,I-pers
 ",",I-pers
-alias,I-pers
-GREEN,I-pers
+alias,0
+GREEN,B-pers
 ",",0
 was,0
 indicted,0
@@ -37226,8 +37226,8 @@ and,0
 JOHN,B-pers
 GOGAY,I-pers
 ",",I-pers
-alias,I-pers
-SMITH,I-pers
+alias,0
+SMITH,B-pers
 ",",0
 were,0
 indicted,0
@@ -77257,8 +77257,8 @@ follows,0
 :,0
 JOHN,B-pers
 COGAN,I-pers
-otherwise,I-pers
-JAMES,I-pers
+otherwise,0
+JAMES,B-pers
 COOGAN,I-pers
 ",",0
 you,0

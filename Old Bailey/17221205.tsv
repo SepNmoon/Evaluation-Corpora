@@ -2759,8 +2759,8 @@ her,0
 John,B-pers
 Allen,I-pers
 ",",I-pers
-alias,I-pers
-Henry,I-pers
+alias,0
+Henry,B-pers
 Robinson,I-pers
 ",",0
 of,0
@@ -5965,8 +5965,8 @@ her,0
 Jeremiah,B-pers
 Gates,I-pers
 ",",I-pers
-alias,I-pers
-Peter,I-pers
+alias,0
+Peter,B-pers
 Gates,I-pers
 ",",0
 of,0
@@ -6124,8 +6124,8 @@ Smith,I-pers
 ",",I-pers
 Spinster,I-pers
 ",",I-pers
-alias,I-pers
-Elizabeth,I-pers
+alias,0
+Elizabeth,B-pers
 Burchley,I-pers
 ",",0
 Widow,0
@@ -7766,8 +7766,8 @@ one,0
 Mary,B-pers
 White,I-pers
 ",",I-pers
-alias,I-pers
-Mary,I-pers
+alias,0
+Mary,B-pers
 Davis,I-pers
 ",",0
 Widow,0
@@ -7953,8 +7953,8 @@ whereas,0
 James,B-pers
 Appleby,I-pers
 ",",I-pers
-alias,I-pers
-Appleton,I-pers
+alias,0
+Appleton,B-pers
 was,0
 convicted,0
 of,0

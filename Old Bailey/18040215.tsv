@@ -2893,8 +2893,8 @@ Blanc,0
 JOHN,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-LACEY,I-pers
+otherwise,0
+LACEY,B-pers
 ",",0
 was,0
 indicted,0
@@ -62097,8 +62097,8 @@ Recorder,0
 JOHN,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-RUTT,I-pers
+otherwise,0
+RUTT,B-pers
 ",",0
 was,0
 indicted,0

@@ -16780,8 +16780,8 @@ of,I-pers
 CHARLES,I-pers
 POLLEY,I-pers
 ",",I-pers
-otherwise,I-pers
-POLLARD,I-pers
+otherwise,0
+POLLARD,B-pers
 ",",0
 otherwise,0
 POLLARD,0
@@ -54374,8 +54374,8 @@ Chambre,0
 MARY,B-pers
 MACARTY,I-pers
 ",",I-pers
-otherwise,I-pers
-MACARTNEY,I-pers
+otherwise,0
+MACARTNEY,B-pers
 ",",0
 was,0
 indicted,0
@@ -63535,8 +63535,8 @@ Recorder,0
 JOHN,B-pers
 CLARKE,I-pers
 ",",I-pers
-otherwise,I-pers
-CLARE,I-pers
+otherwise,0
+CLARE,B-pers
 ",",0
 was,0
 indicted,0
@@ -64146,8 +64146,8 @@ Recorder,0
 JOHN,B-pers
 CLARKE,I-pers
 ",",I-pers
-otherwise,I-pers
-CLARE,I-pers
+otherwise,0
+CLARE,B-pers
 ",",0
 was,0
 again,0

@@ -371,8 +371,8 @@ Warden,I-pers
 Robert,B-pers
 Brownjohn,I-pers
 ",",I-pers
-otherwise,I-pers
-Briggenshaw,I-pers
+otherwise,0
+Briggenshaw,B-pers
 Brownjohn,I-pers
 ",",0
 was,0
@@ -3111,8 +3111,8 @@ Death,0
 Joseph,B-pers
 Smithson,I-pers
 ",",I-pers
-otherwise,I-pers
-Smith,I-pers
+otherwise,0
+Smith,B-pers
 ",",0
 was,0
 indicted,0
@@ -14216,8 +14216,8 @@ Oliver,I-pers
 and,0
 John,B-pers
 Parrot,I-pers
-otherwise,I-pers
-Perrot,I-pers
+otherwise,0
+Perrot,B-pers
 ",",0
 were,0
 indicted,0
@@ -20028,8 +20028,8 @@ Death,0
 12.,0
 Robert,B-pers
 ",",I-pers
-otherwise,I-pers
-Briggenshaw,I-pers
+otherwise,0
+Briggenshaw,B-pers
 Brownjohn,I-pers
 ",",0
 James,B-pers

@@ -5103,8 +5103,8 @@ Acquitted,0
 .,0
 Elizabeth,B-pers
 Moor,I-pers
-alias,I-pers
-Cane,I-pers
+alias,0
+Cane,B-pers
 was,0
 tryed,0
 for,0
@@ -7690,8 +7690,8 @@ summary,0
 ],0
 John,B-pers
 Bennet,I-pers
-alias,I-pers
-Freeman,I-pers
+alias,0
+Freeman,B-pers
 ",",0
 but,0
 more,0
@@ -8388,8 +8388,8 @@ John,B-pers
 Johnson,I-pers
 Esq,I-pers
 ;,I-pers
-alias,I-pers
-Captain,I-pers
+alias,0
+Captain,B-pers
 Johnson,I-pers
 ",",0
 alias,0
@@ -9262,8 +9262,8 @@ Pardon,0
 John,B-pers
 Lowbridg,I-pers
 ",",I-pers
-alias,I-pers
-Spencer,I-pers
+alias,0
+Spencer,B-pers
 .,0
 Jane,B-pers
 Eaton,I-pers
@@ -9610,8 +9610,8 @@ Pardon,0
 John,B-pers
 Lowbridg,I-pers
 ",",I-pers
-alias,I-pers
-Spencer,I-pers
+alias,0
+Spencer,B-pers
 .,0
 Jane,B-pers
 Eaton,I-pers

@@ -905,8 +905,8 @@ summary,0
 Lastly,0
 Ann,B-pers
 Slow,I-pers
-alias,I-pers
-Ebram,I-pers
+alias,0
+Ebram,B-pers
 was,0
 indicted,0
 for,0
@@ -1284,10 +1284,10 @@ clear,0
 .,0
 Ann,B-pers
 Saxby,I-pers
-alias,I-pers
-Bell,I-pers
-alias,I-pers
-Cole,I-pers
+alias,0
+Bell,B-pers
+alias,0
+Cole,B-pers
 ",",0
 was,0
 Guilty,0

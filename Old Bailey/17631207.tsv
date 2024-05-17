@@ -1716,8 +1716,8 @@ And,0
 Jane,B-pers
 Blake,I-pers
 ",",I-pers
-otherwise,I-pers
-Buckley,I-pers
+otherwise,0
+Buckley,B-pers
 ",",0
 spinster,0
 ",",0
@@ -5463,8 +5463,8 @@ M.,0
 Solomon,B-pers
 Barnard,I-pers
 ",",I-pers
-otherwise,I-pers
-Barnard,I-pers
+otherwise,0
+Barnard,B-pers
 Solomon,I-pers
 ",",0
 was,0
@@ -24653,8 +24653,8 @@ M.,0
 Elizabeth,B-pers
 Turpin,I-pers
 ",",I-pers
-otherwise,I-pers
-Grange,I-pers
+otherwise,0
+Grange,B-pers
 ",",0
 spinster,0
 ",",0
@@ -28967,8 +28967,8 @@ M.,0
 William,B-pers
 Hanlow,I-pers
 ",",I-pers
-otherwise,I-pers
-Handle,I-pers
+otherwise,0
+Handle,B-pers
 ",",0
 was,0
 indicted,0
@@ -35886,8 +35886,8 @@ M.,0
 ),0
 Jane,B-pers
 ",",I-pers
-alias,I-pers
-Catharine,I-pers
+alias,0
+Catharine,B-pers
 Obrian,I-pers
 ",",0
 spinster,0

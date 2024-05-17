@@ -20173,8 +20173,8 @@ Baron,0
 JANE,B-pers
 WILLIAMS,I-pers
 ",",I-pers
-otherwise,I-pers
-DICKERS,I-pers
+otherwise,0
+DICKERS,B-pers
 was,0
 indicted,0
 ",",0
@@ -30853,8 +30853,8 @@ Baron,0
 MARGARET,B-pers
 MORGAN,I-pers
 ",",I-pers
-alias,I-pers
-MARY,I-pers
+alias,0
+MARY,B-pers
 JONES,I-pers
 was,0
 indicted,0
@@ -32758,8 +32758,8 @@ and,0
 WILLIAM,B-pers
 HOWE,I-pers
 ",",I-pers
-alias,I-pers
-HOWARD,I-pers
+alias,0
+HOWARD,B-pers
 ",",0
 were,0
 indicted,0

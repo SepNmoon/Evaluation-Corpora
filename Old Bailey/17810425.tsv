@@ -3150,8 +3150,8 @@ EYRE,I-pers
 JOHN,B-pers
 OKEY,I-pers
 ",",I-pers
-otherwise,I-pers
-OAKEY,I-pers
+otherwise,0
+OAKEY,B-pers
 ",",0
 was,0
 indicted,0
@@ -8069,8 +8069,8 @@ and,0
 JOHN,B-pers
 KING,I-pers
 ",",I-pers
-otherwise,I-pers
-READ,I-pers
+otherwise,0
+READ,B-pers
 ",",0
 were,0
 indicted,0
@@ -25558,8 +25558,8 @@ GUILTY,0
 MARGARET,B-pers
 MORGAN,I-pers
 ",",I-pers
-otherwise,I-pers
-WEBSTER,I-pers
+otherwise,0
+WEBSTER,B-pers
 ",",0
 was,0
 indicted,0
@@ -26117,8 +26117,8 @@ summary,0
 MARGARET,B-pers
 MORGAN,I-pers
 ",",I-pers
-otherwise,I-pers
-WEBSTER,I-pers
+otherwise,0
+WEBSTER,B-pers
 ",",0
 was,0
 indicted,0
@@ -43353,8 +43353,8 @@ summary,0
 CHARLES,B-pers
 GRIFFITHS,I-pers
 ",",I-pers
-otherwise,I-pers
-ALLEN,I-pers
+otherwise,0
+ALLEN,B-pers
 ",",0
 and,0
 SAMUEL,B-pers
@@ -52606,8 +52606,8 @@ ARCHER,I-pers
 and,0
 THOMAS,B-pers
 ROBERTS,I-pers
-otherwise,I-pers
-JONES,I-pers
+otherwise,0
+JONES,B-pers
 were,0
 indicted,0
 ",",0

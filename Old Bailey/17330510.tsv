@@ -1665,8 +1665,8 @@ summary,0
 Thomas,B-pers
 Jones,I-pers
 ",",I-pers
-otherwise,I-pers
-Jonas,I-pers
+otherwise,0
+Jonas,B-pers
 ",",0
 was,0
 indicted,0
@@ -16315,8 +16315,8 @@ Jackson,I-pers
 and,0
 Jack,B-pers
 ",",I-pers
-otherwise,I-pers
-Crab,I-pers
+otherwise,0
+Crab,B-pers
 Masterman,I-pers
 ",",0
 were,0
@@ -17310,8 +17310,8 @@ Taylor,I-pers
 John,B-pers
 Smithson,I-pers
 ",",I-pers
-alias,I-pers
-Smitton,I-pers
+alias,0
+Smitton,B-pers
 ",",0
 and,0
 Joseph,B-pers
@@ -18785,8 +18785,8 @@ summary,0
 Hannah,B-pers
 Mills,I-pers
 ",",I-pers
-otherwise,I-pers
-Richardson,I-pers
+otherwise,0
+Richardson,B-pers
 ",",0
 was,0
 indicted,0
@@ -19719,8 +19719,8 @@ summary,0
 Thomas,B-pers
 Jones,I-pers
 ",",I-pers
-otherwise,I-pers
-Jonas,I-pers
+otherwise,0
+Jonas,B-pers
 ",",0
 was,0
 a,0

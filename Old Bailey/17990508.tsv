@@ -11535,8 +11535,8 @@ BRIAN,I-pers
 ",",0
 JAMES,B-pers
 BARRY,I-pers
-otherwise,I-pers
-BERRY,I-pers
+otherwise,0
+BERRY,B-pers
 ",",0
 PATRICK,B-pers
 HOLLAND,I-pers
@@ -79959,11 +79959,11 @@ GROSE,0
 ANN,B-pers
 HEWITT,I-pers
 ",",I-pers
-otherwise,I-pers
-FLETCHER,I-pers
+otherwise,0
+FLETCHER,B-pers
 ",",I-pers
-otherwise,I-pers
-SMITH,I-pers
+otherwise,0
+SMITH,B-pers
 ",",0
 was,0
 indicted,0
@@ -80503,8 +80503,8 @@ PERRYN,0
 MARY,B-pers
 SCOTT,I-pers
 ",",I-pers
-otherwise,I-pers
-BROWN,I-pers
+otherwise,0
+BROWN,B-pers
 ",",0
 was,0
 indicted,0

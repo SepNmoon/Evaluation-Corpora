@@ -9904,8 +9904,8 @@ RECORDER,0
 JAMES,B-pers
 COLLINS,I-pers
 ",",I-pers
-otherwise,I-pers
-ROFFE,I-pers
+otherwise,0
+ROFFE,B-pers
 ",",0
 was,0
 indicted,0
@@ -14434,8 +14434,8 @@ and,0
 MARY,B-pers
 MORRIS,I-pers
 ",",I-pers
-otherwise,I-pers
-RUSSEL,I-pers
+otherwise,0
+RUSSEL,B-pers
 ",",0
 were,0
 indicted,0
@@ -28390,8 +28390,8 @@ RECORDER,0
 JOHN,B-pers
 WILLIAMSON,I-pers
 ",",I-pers
-otherwise,I-pers
-Winkle,I-pers
+otherwise,0
+Winkle,B-pers
 ",",0
 JOHN,B-pers
 M'CARTY,I-pers
@@ -47212,8 +47212,8 @@ RECORDER,0
 WILLIAM,B-pers
 PHILLIS,I-pers
 ",",I-pers
-alias,I-pers
-WEVELL,I-pers
+alias,0
+WEVELL,B-pers
 ",",0
 was,0
 indicted,0

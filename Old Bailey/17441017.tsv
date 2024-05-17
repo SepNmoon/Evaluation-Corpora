@@ -6393,8 +6393,8 @@ each,0
 Richard,B-pers
 Lee,I-pers
 ",",I-pers
-otherwise,I-pers
-Country,I-pers
+otherwise,0
+Country,B-pers
 Dick,I-pers
 ",",0
 of,0
@@ -19817,8 +19817,8 @@ Acquitted,0
 Christopher,B-pers
 Miller,I-pers
 ",",I-pers
-otherwise,I-pers
-Jones,I-pers
+otherwise,0
+Jones,B-pers
 ",",0
 of,0
 St.,B-place
@@ -20018,8 +20018,8 @@ acquitted,0
 Mary,B-pers
 Brompton,I-pers
 ",",I-pers
-otherwise,I-pers
-Brompton,I-pers
+otherwise,0
+Brompton,B-pers
 ",",0
 of,0
 Christ-Church,B-place
@@ -21593,8 +21593,8 @@ Ann,B-pers
 Barefoot,I-pers
 ++,I-pers
 ",",I-pers
-otherwise,I-pers
-+,I-pers
+otherwise,0
++,B-pers
 Wells,I-pers
 ",",0
 of,0

@@ -790,8 +790,8 @@ Transportation,0
 James,B-pers
 Mercy,I-pers
 ",",I-pers
-alias,I-pers
-Masse,I-pers
+alias,0
+Masse,B-pers
 ",",0
 of,0
 St.,B-place
@@ -957,8 +957,8 @@ Transportation,0
 Benjamin,B-pers
 Cook,I-pers
 ",",I-pers
-alias,I-pers
-Richard,I-pers
+alias,0
+Richard,B-pers
 Smith,I-pers
 ",",0
 of,0
@@ -1058,8 +1058,8 @@ Transportation,0
 Thomas,B-pers
 Bengodwin,I-pers
 ",",I-pers
-alias,I-pers
-Goodwin,I-pers
+alias,0
+Goodwin,B-pers
 ",",0
 of,0
 St.,B-place
@@ -2306,8 +2306,8 @@ him,0
 .,0
 James,B-pers
 Knapper,I-pers
-alias,I-pers
-How,I-pers
+alias,0
+How,B-pers
 and,0
 Mary,B-pers
 Knapper,I-pers
@@ -2732,8 +2732,8 @@ Transportation,0
 Jane,B-pers
 Chambers,I-pers
 ",",I-pers
-alias,I-pers
-Wilson,I-pers
+alias,0
+Wilson,B-pers
 ",",0
 of,0
 St.,B-place
@@ -5050,8 +5050,8 @@ Transportation,0
 William,B-pers
 Jones,I-pers
 ",",I-pers
-alias,I-pers
-Charles,I-pers
+alias,0
+Charles,B-pers
 Cammel,I-pers
 ",",0
 of,0
@@ -5450,8 +5450,8 @@ him,0
 Winifred,B-pers
 Smith,I-pers
 ",",I-pers
-alias,I-pers
-Ophelia,I-pers
+alias,0
+Ophelia,B-pers
 Smith,I-pers
 ",",0
 of,0
@@ -7924,8 +7924,8 @@ them,0
 George,B-pers
 Davis,I-pers
 ",",I-pers
-alias,I-pers
-Green,I-pers
+alias,0
+Green,B-pers
 ",",0
 of,0
 St.,B-place

@@ -10874,8 +10874,8 @@ PERRYN,I-pers
 JONATHAN,B-pers
 PATE,I-pers
 ",",I-pers
-alias,I-pers
-JARVIS,I-pers
+alias,0
+JARVIS,B-pers
 ",",0
 and,0
 ROBERT,B-pers
@@ -23532,8 +23532,8 @@ PERRYN,I-pers
 THOMAS,B-pers
 JONES,I-pers
 ",",I-pers
-alias,I-pers
-AYRES,I-pers
+alias,0
+AYRES,B-pers
 ",",0
 and,0
 CHARLES,B-pers
@@ -25243,8 +25243,8 @@ said,0
 THOMAS,B-pers
 JONES,I-pers
 ",",I-pers
-otherwise,I-pers
-AYRES,I-pers
+otherwise,0
+AYRES,B-pers
 ",",0
 was,0
 again,0
@@ -25510,8 +25510,8 @@ said,0
 THOMAS,B-pers
 JONES,I-pers
 ",",I-pers
-otherwise,I-pers
-AYRES,I-pers
+otherwise,0
+AYRES,B-pers
 ",",0
 was,0
 again,0
@@ -47419,8 +47419,8 @@ HAMPTON,I-pers
 and,0
 MARY,B-pers
 HARBORNE,I-pers
-alias,I-pers
-HAMPTON,I-pers
+alias,0
+HAMPTON,B-pers
 were,0
 indicted,0
 for,0
@@ -55516,8 +55516,8 @@ PERRYN,I-pers
 MARY,B-pers
 HARBORNE,I-pers
 ",",I-pers
-alias,I-pers
-MARY,I-pers
+alias,0
+MARY,B-pers
 wife,I-pers
 of,I-pers
 RICHARD,I-pers
@@ -56568,8 +56568,8 @@ RECORDER,0
 532.,0
 JAMES,B-pers
 SANDERS,I-pers
-otherwise,I-pers
-JACKSON,I-pers
+otherwise,0
+JACKSON,B-pers
 was,0
 indicted,0
 for,0
@@ -58267,8 +58267,8 @@ RECORDER,0
 SARAH,B-pers
 WOOD,I-pers
 ",",I-pers
-alias,I-pers
-SLADE,I-pers
+alias,0
+SLADE,B-pers
 was,0
 indicted,0
 ",",0

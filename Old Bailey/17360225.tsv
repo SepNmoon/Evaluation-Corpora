@@ -1334,8 +1334,8 @@ summary,0
 Grace,B-pers
 Williams,I-pers
 ",",I-pers
-otherwise,I-pers
-Dun,I-pers
+otherwise,0
+Dun,B-pers
 ",",0
 was,0
 indicted,0
@@ -5157,8 +5157,8 @@ summary,0
 Sarah,B-pers
 Richardson,I-pers
 ",",I-pers
-otherwise,I-pers
-Delaney,I-pers
+otherwise,0
+Delaney,B-pers
 ",",0
 of,0
 St.,B-place
@@ -13817,8 +13817,8 @@ Acquitted,0
 .,0
 41.,0
 Stephen,B-pers
-otherwise,I-pers
-John,I-pers
+otherwise,0
+John,B-pers
 Turner,I-pers
 ",",0
 of,0
@@ -16137,8 +16137,8 @@ summary,0
 William,B-pers
 Tough,I-pers
 ",",I-pers
-otherwise,I-pers
-Toff,I-pers
+otherwise,0
+Toff,B-pers
 ",",0
 of,0
 St.,B-place
@@ -18737,8 +18737,8 @@ Richard,B-pers
 Rutt,I-pers
 .,0
 Isaac,B-pers
-otherwise,I-pers
-Tho,I-pers
+otherwise,0
+Tho,B-pers
 .,I-pers
 Rutt,I-pers
 ",",0

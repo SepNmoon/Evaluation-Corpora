@@ -2953,8 +2953,8 @@ HEATH,0
 MARY,B-pers
 COUCHER,I-pers
 ",",I-pers
-alias,I-pers
-MARY,I-pers
+alias,0
+MARY,B-pers
 CHRISTMAS,I-pers
 was,0
 indicted,0
@@ -13276,8 +13276,8 @@ HEATH,0
 829.,0
 GEORGE,B-pers
 LOVELL,I-pers
-alias,I-pers
-GIPSEY,I-pers
+alias,0
+GIPSEY,B-pers
 GEORGE,I-pers
 was,0
 indicted,0
@@ -23502,8 +23502,8 @@ HEATH,0
 WILLIAM,B-pers
 NOEL,I-pers
 ",",I-pers
-alias,I-pers
-WILLIAMS,I-pers
+alias,0
+WILLIAMS,B-pers
 was,0
 indicted,0
 for,0
@@ -36842,8 +36842,8 @@ HEATH,0
 ROBERT,B-pers
 FOSGATE,I-pers
 ",",I-pers
-otherwise,I-pers
-WILLIAM,I-pers
+otherwise,0
+WILLIAM,B-pers
 JENKINS,I-pers
 ",",0
 was,0
@@ -40647,8 +40647,8 @@ HEATH,0
 THOMAS,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-called,I-pers
+otherwise,0
+called,B-pers
 ",",I-pers
 OXFORD,I-pers
 TOM,I-pers
@@ -46394,8 +46394,8 @@ HEATH,0
 ROBERT,B-pers
 FOSGATE,I-pers
 ",",I-pers
-alias,I-pers
-WILLIAM,I-pers
+alias,0
+WILLIAM,B-pers
 JENKINS,I-pers
 ",",0
 was,0
@@ -54843,8 +54843,8 @@ RECORDER,0
 CHARLOTTE,B-pers
 SIMPSON,I-pers
 ",",I-pers
-otherwise,I-pers
-HALL,I-pers
+otherwise,0
+HALL,B-pers
 ",",0
 was,0
 indicted,0

@@ -12316,10 +12316,10 @@ WILLES,0
 HANNAH,B-pers
 MUMFORD,I-pers
 ",",I-pers
-otherwise,I-pers
-GREEN,I-pers
-otherwise,I-pers
-SMITH,I-pers
+otherwise,0
+GREEN,B-pers
+otherwise,0
+SMITH,B-pers
 ",",0
 was,0
 indicted,0
@@ -56933,8 +56933,8 @@ RECORDER,0
 JOSEPH,B-pers
 WYNN,I-pers
 ",",I-pers
-otherwise,I-pers
-PAYNE,I-pers
+otherwise,0
+PAYNE,B-pers
 ",",0
 was,0
 indicted,0
@@ -58665,8 +58665,8 @@ and,0
 ANN,B-pers
 MOORE,I-pers
 ",",I-pers
-otherwise,I-pers
-PETTY,I-pers
+otherwise,0
+PETTY,B-pers
 ;,0
 were,0
 indicted,0

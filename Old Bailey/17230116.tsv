@@ -3718,8 +3718,8 @@ him,0
 John,B-pers
 Burton,I-pers
 ",",I-pers
-alias,I-pers
-Burton,I-pers
+alias,0
+Burton,B-pers
 of,0
 the,0
 Parish,0
@@ -5191,8 +5191,8 @@ Oakey,I-pers
 John,B-pers
 Levee,I-pers
 ",",I-pers
-alias,I-pers
-Junks,I-pers
+alias,0
+Junks,B-pers
 ",",0
 and,0
 Matth.ew,B-pers
@@ -10451,11 +10451,11 @@ acquitted,0
 Elizabeth,B-pers
 Bates,I-pers
 ",",I-pers
-alias,I-pers
-Chipp,I-pers
+alias,0
+Chipp,B-pers
 ",",I-pers
-alias,I-pers
-Middleton,I-pers
+alias,0
+Middleton,B-pers
 ",",0
 was,0
 indicted,0

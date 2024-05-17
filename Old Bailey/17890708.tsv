@@ -12798,8 +12798,8 @@ person,0
 And,0
 JUDITH,B-pers
 COLEMAN,I-pers
-otherwise,I-pers
-ANTHONY,I-pers
+otherwise,0
+ANTHONY,B-pers
 was,0
 indicted,0
 for,0
@@ -17205,8 +17205,8 @@ WILSON,0
 525.,0
 WILLIAM,B-pers
 SMITH,I-pers
-otherwise,I-pers
-AKIN,I-pers
+otherwise,0
+AKIN,B-pers
 was,0
 indicted,0
 for,0
@@ -21914,8 +21914,8 @@ RECORDER,0
 WILLIAM,B-pers
 PARROT,I-pers
 ",",I-pers
-otherwise,I-pers
-PRICE,I-pers
+otherwise,0
+PRICE,B-pers
 ",",0
 and,0
 EDWARD,B-pers

@@ -2319,8 +2319,8 @@ her,0
 .,0
 Mary,B-pers
 Simrow,I-pers
-alias,I-pers
-Atkins,I-pers
+alias,0
+Atkins,B-pers
 ",",0
 of,0
 the,0
@@ -5751,8 +5751,8 @@ acquitted,0
 Mary,B-pers
 Price,I-pers
 ",",I-pers
-alias,I-pers
-Hartington,I-pers
+alias,0
+Hartington,B-pers
 ",",0
 of,0
 the,0
@@ -6645,8 +6645,8 @@ summary,0
 Mary,B-pers
 Johnson,I-pers
 ",",I-pers
-alias,I-pers
-Howard,I-pers
+alias,0
+Howard,B-pers
 ",",0
 of,0
 the,0
@@ -6713,8 +6713,8 @@ acquitted,0
 John,B-pers
 Dagford,I-pers
 ",",I-pers
-alias,I-pers
-Bentley,I-pers
+alias,0
+Bentley,B-pers
 ",",0
 of,0
 the,0

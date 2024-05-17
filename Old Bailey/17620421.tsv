@@ -749,11 +749,11 @@ M.,0
 Edward,B-pers
 Jewen,I-pers
 ",",I-pers
-otherwise,I-pers
-Chambers,I-pers
+otherwise,0
+Chambers,B-pers
 ",",I-pers
-otherwise,I-pers
-Gordon,I-pers
+otherwise,0
+Gordon,B-pers
 ",",0
 was,0
 indicted,0
@@ -10810,8 +10810,8 @@ M,0
 Benjamin,B-pers
 Snell,I-pers
 ",",I-pers
-otherwise,I-pers
-Dick,I-pers
+otherwise,0
+Dick,B-pers
 Rice,I-pers
 ",",0
 was,0
@@ -21119,8 +21119,8 @@ M.,0
 Elizabeth,B-pers
 Waters,I-pers
 ",",I-pers
-otherwise,I-pers
-Waterhouse,I-pers
+otherwise,0
+Waterhouse,B-pers
 ",",0
 was,0
 indicted,0

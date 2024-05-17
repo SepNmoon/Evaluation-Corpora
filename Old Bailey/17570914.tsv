@@ -1052,8 +1052,8 @@ M.,0
 John,B-pers
 Bradbury,I-pers
 ",",I-pers
-otherwise,I-pers
-Bradley,I-pers
+otherwise,0
+Bradley,B-pers
 ",",0
 was,0
 indicted,0
@@ -2856,8 +2856,8 @@ M.,0
 Martha,B-pers
 Dobbin,I-pers
 ",",I-pers
-otherwise,I-pers
-Carter,I-pers
+otherwise,0
+Carter,B-pers
 ",",0
 widow,0
 ",",0
@@ -5649,8 +5649,8 @@ M.,0
 William,B-pers
 Mooring,I-pers
 ",",I-pers
-otherwise,I-pers
-Gray,I-pers
+otherwise,0
+Gray,B-pers
 ",",0
 was,0
 indicted,0
@@ -56678,8 +56678,8 @@ Scott,I-pers
 John,B-pers
 Bradbury,I-pers
 ",",I-pers
-otherwise,I-pers
-Bradly,I-pers
+otherwise,0
+Bradly,B-pers
 ",",0
 Brent,B-pers
 Coleman,I-pers

@@ -10871,8 +10871,8 @@ Acquitted,0
 George,B-pers
 Veal,I-pers
 ",",I-pers
-alias,I-pers
-Widgeon,I-pers
+alias,0
+Widgeon,B-pers
 ",",0
 was,0
 indicted,0
@@ -13630,8 +13630,8 @@ Cash,I-pers
 ",",0
 Mary,B-pers
 White,I-pers
-alias,I-pers
-Cash,I-pers
+alias,0
+Cash,B-pers
 ",",0
 and,0
 Margaret,B-pers
@@ -15719,8 +15719,8 @@ only,0
 Margaret,B-pers
 Price,I-pers
 ",",I-pers
-alias,I-pers
-Russel,I-pers
+alias,0
+Russel,B-pers
 ",",0
 of,0
 St.,B-place
@@ -16289,8 +16289,8 @@ Special,0
 .,0
 Amy,B-pers
 Harrison,I-pers
-alias,I-pers
-Thance,I-pers
+alias,0
+Thance,B-pers
 ",",0
 of,0
 St.,B-place
@@ -16732,8 +16732,8 @@ acquitted,0
 Margaret,B-pers
 Humphreys,I-pers
 ",",I-pers
-alias,I-pers
-Russel,I-pers
+alias,0
+Russel,B-pers
 ",",0
 of,0
 St.,B-place

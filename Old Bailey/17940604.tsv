@@ -15792,8 +15792,8 @@ THOMPSON,0
 356.,0
 MARTHA,B-pers
 RIDLEY,I-pers
-otherwise,I-pers
-MARTHA,I-pers
+otherwise,0
+MARTHA,B-pers
 FISHER,I-pers
 was,0
 indicted,0
@@ -52818,8 +52818,8 @@ condition,0
 .,0
 Sarah,B-pers
 Eldridge,I-pers
-otherwise,I-pers
-Aldridge,I-pers
+otherwise,0
+Aldridge,B-pers
 ",",0
 Thomas,B-pers
 Bruce,I-pers

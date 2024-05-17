@@ -10921,8 +10921,8 @@ RECORDER,0
 JOHN,B-pers
 BOTT,I-pers
 ",",I-pers
-otherwise,I-pers
-POTT,I-pers
+otherwise,0
+POTT,B-pers
 ",",0
 was,0
 indicted,0
@@ -38741,8 +38741,8 @@ JONES,I-pers
 WILLIAM,B-pers
 GEE,I-pers
 ",",I-pers
-otherwise,I-pers
-GEEVES,I-pers
+otherwise,0
+GEEVES,B-pers
 ",",0
 and,0
 THOMAS,B-pers
@@ -64721,8 +64721,8 @@ GROSE,0
 JAMES,B-pers
 MORGAN,I-pers
 ",",I-pers
-otherwise,I-pers
-MANSFIELD,I-pers
+otherwise,0
+MANSFIELD,B-pers
 ",",0
 was,0
 indicted,0

@@ -21466,8 +21466,8 @@ Recorder,0
 SAMUEL,B-pers
 CARR,I-pers
 ",",I-pers
-otherwise,I-pers
-KERR,I-pers
+otherwise,0
+KERR,B-pers
 ",",0
 was,0
 indicted,0
@@ -33383,8 +33383,8 @@ Serjeant,0
 THOMAS,B-pers
 BLAKE,I-pers
 ",",I-pers
-alias,I-pers
-EVANS,I-pers
+alias,0
+EVANS,B-pers
 ",",0
 and,0
 ROBERT,B-pers
@@ -40330,8 +40330,8 @@ Recorder,0
 JOHN,B-pers
 BIGGS,I-pers
 ",",I-pers
-otherwise,I-pers
-SWAN,I-pers
+otherwise,0
+SWAN,B-pers
 ",",0
 was,0
 indicted,0
@@ -48651,8 +48651,8 @@ Recorder,0
 ELIZABETH,B-pers
 GRAVES,I-pers
 ",",I-pers
-alias,I-pers
-FRENCH,I-pers
+alias,0
+FRENCH,B-pers
 ",",0
 was,0
 indicted,0

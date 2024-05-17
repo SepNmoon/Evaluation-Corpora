@@ -238,8 +238,8 @@ Matthews,I-pers
 John,B-pers
 Wilson,I-pers
 ",",I-pers
-alias,I-pers
-Smith,I-pers
+alias,0
+Smith,B-pers
 ",",0
 of,0
 St.,B-place
@@ -3475,8 +3475,8 @@ him,0
 Elizabeth,B-pers
 Wade,I-pers
 ",",I-pers
-alias,I-pers
-Boucher,I-pers
+alias,0
+Boucher,B-pers
 ",",0
 of,0
 St.,B-place

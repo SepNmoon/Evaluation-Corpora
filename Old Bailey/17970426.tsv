@@ -58714,8 +58714,8 @@ HOTHAM,0
 .,0
 335.,0
 JOHN,B-pers
-otherwise,I-pers
-JOSEPH,I-pers
+otherwise,0
+JOSEPH,B-pers
 CROW,I-pers
 was,0
 indicted,0
@@ -64081,8 +64081,8 @@ HOTHAM,I-pers
 WILLIAM,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-COUNT,I-pers
+otherwise,0
+COUNT,B-pers
 ",",0
 was,0
 indicted,0

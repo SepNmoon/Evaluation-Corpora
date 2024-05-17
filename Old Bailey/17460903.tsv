@@ -5526,8 +5526,8 @@ Acquitted,0
 Margaret,B-pers
 Smith,I-pers
 ",",I-pers
-otherwise,I-pers
-Fletcher,I-pers
+otherwise,0
+Fletcher,B-pers
 ",",0
 was,0
 indicted,0
@@ -8504,8 +8504,8 @@ Anna,B-pers
 Maria,I-pers
 Leverstone,I-pers
 ",",I-pers
-otherwise,I-pers
-Jane,I-pers
+otherwise,0
+Jane,B-pers
 Clark,I-pers
 ",",0
 was,0
@@ -18645,8 +18645,8 @@ Acquitted,0
 John,B-pers
 Pagon,I-pers
 ",",I-pers
-otherwise,I-pers
-Pidgeon,I-pers
+otherwise,0
+Pidgeon,B-pers
 ",",0
 was,0
 indicted,0

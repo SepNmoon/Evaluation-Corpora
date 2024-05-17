@@ -1077,11 +1077,11 @@ Acquitted,0
 Sarah,B-pers
 Lambert,I-pers
 ",",I-pers
-otherwise,I-pers
-Bannister,I-pers
+otherwise,0
+Bannister,B-pers
 ",",I-pers
-otherwise,I-pers
-Potbury,I-pers
+otherwise,0
+Potbury,B-pers
 ",",0
 of,0
 St.,B-place
@@ -6592,8 +6592,8 @@ William,B-pers
 Joseph,I-pers
 Dix,I-pers
 ",",I-pers
-otherwise,I-pers
-Joseph,I-pers
+otherwise,0
+Joseph,B-pers
 William,I-pers
 Dix,I-pers
 ",",0
@@ -19144,8 +19144,8 @@ William,B-pers
 Norman,I-pers
 *,I-pers
 ",",I-pers
-otherwise,I-pers
-Martin,I-pers
+otherwise,0
+Martin,B-pers
 ",",0
 was,0
 indicted,0

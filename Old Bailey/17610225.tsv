@@ -16802,8 +16802,8 @@ on,0
 Ann,B-pers
 Bell,I-pers
 ",",I-pers
-otherwise,I-pers
-Ann,I-pers
+otherwise,0
+Ann,B-pers
 Sharp,I-pers
 ",",0
 otherwise,0
@@ -51316,8 +51316,8 @@ M.,0
 Mary,B-pers
 May,I-pers
 ",",I-pers
-otherwise,I-pers
-Lee,I-pers
+otherwise,0
+Lee,B-pers
 ",",0
 spinster,0
 ",",0
@@ -51407,8 +51407,8 @@ L.,0
 Isaac,B-pers
 Hall,I-pers
 ",",I-pers
-otherwise,I-pers
-Howse,I-pers
+otherwise,0
+Howse,B-pers
 ",",0
 was,0
 indicted,0

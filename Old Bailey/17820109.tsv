@@ -12815,8 +12815,8 @@ RECORDER,0
 GEORGE,B-pers
 PEACH,I-pers
 ",",I-pers
-otherwise,I-pers
-ADAMS,I-pers
+otherwise,0
+ADAMS,B-pers
 ",",0
 and,0
 THOMAS,B-pers
@@ -35604,8 +35604,8 @@ RECORDER,0
 ANN,B-pers
 TOBIN,I-pers
 ",",I-pers
-otherwise,I-pers
-TORBIN,I-pers
+otherwise,0
+TORBIN,B-pers
 ",",0
 was,0
 indicted,0
@@ -52625,8 +52625,8 @@ RECORDER,0
 PHILIP,B-pers
 STEVENS,I-pers
 ",",I-pers
-otherwise,I-pers
-MARCHANT,I-pers
+otherwise,0
+MARCHANT,B-pers
 ",",0
 was,0
 indicted,0

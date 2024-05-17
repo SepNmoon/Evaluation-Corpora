@@ -372,8 +372,8 @@ Turner,I-pers
 HENRIETTA,B-pers
 RADBOURNE,I-pers
 ",",I-pers
-otherwise,I-pers
-GIBBONS,I-pers
+otherwise,0
+GIBBONS,B-pers
 ",",0
 was,0
 indicted,0
@@ -29139,8 +29139,8 @@ child,0
 JOHN,B-pers
 WOODFORD,I-pers
 ",",I-pers
-otherwise,I-pers
-GILBERT,I-pers
+otherwise,0
+GILBERT,B-pers
 BABBAGE,I-pers
 was,0
 indicted,0
@@ -55242,8 +55242,8 @@ RECORDER,0
 600.,0
 SADI,B-pers
 ",",I-pers
-otherwise,I-pers
-called,I-pers
+otherwise,0
+called,B-pers
 GEORGE,I-pers
 HORNE,I-pers
 ",",0
@@ -60529,8 +60529,8 @@ ROSE,0
 JAMES,B-pers
 M'GUIRE,I-pers
 ",",I-pers
-otherwise,I-pers
-THOMAS,I-pers
+otherwise,0
+THOMAS,B-pers
 WHITE,I-pers
 ",",0
 was,0
@@ -93246,8 +93246,8 @@ RECORDER,0
 646.,0
 JOHN,B-pers
 ",",I-pers
-otherwise,I-pers
-JAMES,I-pers
+otherwise,0
+JAMES,B-pers
 COOGAN,I-pers
 was,0
 indicted,0
@@ -97949,8 +97949,8 @@ ROSE,0
 ELIZABETH,B-pers
 SMITH,I-pers
 ",",I-pers
-alias,I-pers
-CAVE,I-pers
+alias,0
+CAVE,B-pers
 ",",0
 and,0
 THOMAS,B-pers

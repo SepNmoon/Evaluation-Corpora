@@ -2547,8 +2547,8 @@ and,0
 FRANCES,B-pers
 HALL,I-pers
 ",",I-pers
-otherwise,I-pers
-FRANCES,I-pers
+otherwise,0
+FRANCES,B-pers
 the,I-pers
 wife,I-pers
 of,I-pers
@@ -4502,8 +4502,8 @@ M.,0
 ),0
 WILLIAM,B-pers
 ASSENT,I-pers
-otherwise,I-pers
-GRANT,I-pers
+otherwise,0
+GRANT,B-pers
 ",",0
 and,0
 WILLIAM,B-pers
@@ -15893,8 +15893,8 @@ of,I-pers
 John,I-pers
 WELSH,I-pers
 ",",I-pers
-otherwise,I-pers
-WALSH,I-pers
+otherwise,0
+WALSH,B-pers
 ",",0
 otherwise,0
 WALSH,0
@@ -32929,8 +32929,8 @@ M.,0
 RICHARD,B-pers
 GRISFORD,I-pers
 ",",I-pers
-otherwise,I-pers
-GAISFORD,I-pers
+otherwise,0
+GAISFORD,B-pers
 ",",0
 and,0
 ELIZABETH,B-pers
@@ -38773,8 +38773,8 @@ summary,0
 ],0
 John,B-pers
 Osborn,I-pers
-alias,I-pers
-Hobson,I-pers
+alias,0
+Hobson,B-pers
 ",",0
 Robert,B-pers
 Simmonds,I-pers
@@ -38785,8 +38785,8 @@ Bishop,I-pers
 and,0
 Thomas,B-pers
 Murrell,I-pers
-alias,I-pers
-Cliffe,I-pers
+alias,0
+Cliffe,B-pers
 ",",0
 formerly,0
 capitally,0
@@ -39170,8 +39170,8 @@ Lees,I-pers
 .,0
 John,B-pers
 Osborn,I-pers
-alias,I-pers
-Hobson,I-pers
+alias,0
+Hobson,B-pers
 ",",0
 Robert,B-pers
 Simmonds,I-pers
@@ -39182,8 +39182,8 @@ Bishop,I-pers
 and,0
 Thomas,B-pers
 Murrell,I-pers
-alias,I-pers
-Cliffe,I-pers
+alias,0
+Cliffe,B-pers
 ",",0
 formerly,0
 capitally,0

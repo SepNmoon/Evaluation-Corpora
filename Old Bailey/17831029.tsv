@@ -4187,8 +4187,8 @@ NARES,0
 JOHN,B-pers
 WALLIS,I-pers
 ",",I-pers
-otherwise,I-pers
-FOX,I-pers
+otherwise,0
+FOX,B-pers
 ",",0
 RICHARD,B-pers
 MARTIN,I-pers
@@ -4197,8 +4197,8 @@ and,0
 FRANCES,B-pers
 WARREN,I-pers
 ",",I-pers
-otherwise,I-pers
-BALLENGER,I-pers
+otherwise,0
+BALLENGER,B-pers
 ",",0
 were,0
 indicted,0
@@ -66607,8 +66607,8 @@ NARES,0
 WILLIAM,B-pers
 SMITH,I-pers
 ",",I-pers
-otherwise,I-pers
-HAYWOOD,I-pers
+otherwise,0
+HAYWOOD,B-pers
 was,0
 indicted,0
 for,0
@@ -90459,8 +90459,8 @@ EYRE,I-pers
 CHARLES,B-pers
 FINNE,I-pers
 ",",I-pers
-otherwise,I-pers
-FRAME,I-pers
+otherwise,0
+FRAME,B-pers
 ",",0
 was,0
 indicted,0
@@ -113049,8 +113049,8 @@ NARES,0
 JOSEPH,B-pers
 LEWIS,I-pers
 ",",I-pers
-otherwise,I-pers
-HARRIS,I-pers
+otherwise,0
+HARRIS,B-pers
 was,0
 indicted,0
 for,0
@@ -122916,8 +122916,8 @@ RECORDER,0
 811.,0
 THOMAS,B-pers
 WILSON,I-pers
-otherwise,I-pers
-HENRY,I-pers
+otherwise,0
+HENRY,B-pers
 HART,I-pers
 was,0
 indicted,0
@@ -123338,8 +123338,8 @@ DAVIS,I-pers
 JOHN,B-pers
 COOPER,I-pers
 ",",I-pers
-alias,I-pers
-SUTHERLAND,I-pers
+alias,0
+SUTHERLAND,B-pers
 ",",0
 and,0
 ROBERT,B-pers

@@ -8944,8 +8944,8 @@ And,0
 Mary,B-pers
 Bullinbroke,I-pers
 ",",I-pers
-alias,I-pers
-",",I-pers
+alias,0
+",",B-pers
 Mary,I-pers
 the,I-pers
 Wife,I-pers
@@ -16133,8 +16133,8 @@ summary,0
 Hannah,B-pers
 Bluyman,I-pers
 ",",I-pers
-alias,I-pers
-Blithman,I-pers
+alias,0
+Blithman,B-pers
 ",",0
 was,0
 indicted,0

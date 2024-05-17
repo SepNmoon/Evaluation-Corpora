@@ -3305,8 +3305,8 @@ Death,0
 Mary,B-pers
 Allen,I-pers
 ",",I-pers
-otherwise,I-pers
-Smith,I-pers
+otherwise,0
+Smith,B-pers
 ",",0
 was,0
 indicted,0
@@ -8094,8 +8094,8 @@ Acquitted,0
 Charles,B-pers
 Lawen,I-pers
 ",",I-pers
-otherwise,I-pers
-Lawrin,I-pers
+otherwise,0
+Lawrin,B-pers
 ",",0
 was,0
 indicted,0
@@ -12873,8 +12873,8 @@ and,0
 William,B-pers
 Prossey,I-pers
 ",",I-pers
-otherwise,I-pers
-East,I-pers
+otherwise,0
+East,B-pers
 ",",0
 that,0
 they,0
@@ -37487,8 +37487,8 @@ Acquitted,0
 Isabella,B-pers
 Notson,I-pers
 ",",I-pers
-otherwise,I-pers
-Gibbons,I-pers
+otherwise,0
+Gibbons,B-pers
 ",",0
 and,0
 Mary,B-pers

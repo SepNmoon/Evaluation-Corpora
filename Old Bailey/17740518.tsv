@@ -4905,8 +4905,8 @@ M.,0
 JANE,B-pers
 GRAY,I-pers
 ",",I-pers
-otherwise,I-pers
-GRAVES,I-pers
+otherwise,0
+GRAVES,B-pers
 ",",0
 was,0
 indicted,0
@@ -19337,8 +19337,8 @@ M.,0
 THOMAS,B-pers
 CALDER,I-pers
 ",",I-pers
-otherwise,I-pers
-CALDWELL,I-pers
+otherwise,0
+CALDWELL,B-pers
 ",",0
 was,0
 indicted,0
@@ -19376,8 +19376,8 @@ M.,0
 ELIZABETH,B-pers
 SIDAY,I-pers
 ",",I-pers
-alias,I-pers
-BUCKINGHAM,I-pers
+alias,0
+BUCKINGHAM,B-pers
 ",",0
 spinster,0
 ",",0
@@ -24212,8 +24212,8 @@ M.,0
 SUSANNAH,B-pers
 ATKINS,I-pers
 ",",I-pers
-otherwise,I-pers
-ATKINSON,I-pers
+otherwise,0
+ATKINSON,B-pers
 ",",0
 and,0
 ANN,B-pers
@@ -29893,8 +29893,8 @@ M.,0
 MARY,B-pers
 SUGGS,I-pers
 ",",I-pers
-otherwise,I-pers
-PRESTON,I-pers
+otherwise,0
+PRESTON,B-pers
 .,0
 was,0
 indicted,0
@@ -31868,8 +31868,8 @@ M.,0
 CATHERINE,B-pers
 WIGMORE,I-pers
 ",",I-pers
-otherwise,I-pers
-WHITE,I-pers
+otherwise,0
+WHITE,B-pers
 ",",0
 was,0
 indicted,0
@@ -34299,8 +34299,8 @@ M.,0
 ANN,B-pers
 HOLDING,I-pers
 ",",I-pers
-otherwise,I-pers
-HAWLING,I-pers
+otherwise,0
+HAWLING,B-pers
 ",",0
 was,0
 indicted,0

@@ -7478,8 +7478,8 @@ M.,0
 ANN,B-pers
 GRIFFITH,I-pers
 ",",I-pers
-otherwise,I-pers
-ANN,I-pers
+otherwise,0
+ANN,B-pers
 HALL,I-pers
 ",",0
 spinster,0
@@ -9014,8 +9014,8 @@ M.,0
 GABRIEL,B-pers
 DE,I-pers
 CHAUND,I-pers
-alias,I-pers
-DECHAND,I-pers
+alias,0
+DECHAND,B-pers
 ",",I-pers
 and,I-pers
 ELIZABETH,I-pers
@@ -23950,8 +23950,8 @@ M.,0
 MOSES,B-pers
 ROBUS,I-pers
 ",",I-pers
-alias,I-pers
-MOSES,I-pers
+alias,0
+MOSES,B-pers
 ROBINSON,I-pers
 ",",0
 was,0
@@ -51011,8 +51011,8 @@ M.,0
 BENJAMIN,B-pers
 DUMERE,I-pers
 ",",I-pers
-otherwise,I-pers
-DUNMORE,I-pers
+otherwise,0
+DUNMORE,B-pers
 ",",0
 was,0
 indicted,0

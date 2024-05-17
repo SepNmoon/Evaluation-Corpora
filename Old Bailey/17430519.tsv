@@ -17603,8 +17603,8 @@ Acquitted,0
 Mary,B-pers
 Wade,I-pers
 .,I-pers
-otherwise,I-pers
-Gavel,I-pers
+otherwise,0
+Gavel,B-pers
 ",",0
 was,0
 indicted,0
@@ -17693,8 +17693,8 @@ Acquitted,0
 Elizabeth,B-pers
 Harvey,I-pers
 ",",I-pers
-otherwise,I-pers
-Morgan,I-pers
+otherwise,0
+Morgan,B-pers
 ",",0
 was,0
 indicted,0

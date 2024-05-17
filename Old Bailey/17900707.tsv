@@ -11766,8 +11766,8 @@ WILSON,0
 THOMAS,B-pers
 BATTERS,I-pers
 ",",I-pers
-otherwise,I-pers
-BATHURST,I-pers
+otherwise,0
+BATHURST,B-pers
 ",",0
 was,0
 indicted,0
@@ -28282,8 +28282,8 @@ WILSON,0
 CECILIA,B-pers
 HUMBLE,I-pers
 ",",I-pers
-otherwise,I-pers
-GREGORY,I-pers
+otherwise,0
+GREGORY,B-pers
 ",",0
 was,0
 indicted,0

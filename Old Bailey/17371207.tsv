@@ -546,8 +546,8 @@ Indictment,0
 .,0
 5.,0
 John,B-pers
-otherwise,I-pers
-Samuel,I-pers
+otherwise,0
+Samuel,B-pers
 Bugden,I-pers
 ",",0
 of,0
@@ -7106,8 +7106,8 @@ summary,0
 Jane,B-pers
 Phillips,I-pers
 ",",I-pers
-otherwise,I-pers
-Allen,I-pers
+otherwise,0
+Allen,B-pers
 ",",0
 was,0
 indicted,0
@@ -16053,8 +16053,8 @@ summary,0
 Constance,B-pers
 James,I-pers
 ",",I-pers
-otherwise,I-pers
-Smith,I-pers
+otherwise,0
+Smith,B-pers
 ",",0
 was,0
 indicted,0
@@ -17584,8 +17584,8 @@ summary,0
 Sarah,B-pers
 Clark,I-pers
 ",",I-pers
-otherwise,I-pers
-West,I-pers
+otherwise,0
+West,B-pers
 ",",0
 and,0
 Elizabeth,B-pers

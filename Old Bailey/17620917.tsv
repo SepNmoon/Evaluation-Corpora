@@ -6046,8 +6046,8 @@ Maldin,I-pers
 ",",I-pers
 widow,I-pers
 ",",I-pers
-otherwise,I-pers
-Jane,I-pers
+otherwise,0
+Jane,B-pers
 Davis,I-pers
 ",",0
 widow,0
@@ -6923,8 +6923,8 @@ Brooks,I-pers
 ",",I-pers
 widow,I-pers
 ",",I-pers
-otherwise,I-pers
-Taylor,I-pers
+otherwise,0
+Taylor,B-pers
 ",",0
 was,0
 indicted,0
@@ -8144,8 +8144,8 @@ M.,0
 Elizabeth,B-pers
 Martins,I-pers
 ",",I-pers
-otherwise,I-pers
-More,I-pers
+otherwise,0
+More,B-pers
 spinster,0
 ",",0
 was,0
@@ -8269,8 +8269,8 @@ M.,0
 Mary,B-pers
 Thompson,I-pers
 ",",I-pers
-otherwise,I-pers
-Brown,I-pers
+otherwise,0
+Brown,B-pers
 ",",0
 widow,0
 ",",0

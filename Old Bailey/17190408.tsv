@@ -1739,8 +1739,8 @@ Death,0
 .,0
 Richard,B-pers
 Pain,I-pers
-alias,I-pers
-Dean,I-pers
+alias,0
+Dean,B-pers
 of,0
 St.,B-place
 Gregory,I-place
@@ -3907,8 +3907,8 @@ paid,0
 .,0
 John,B-pers
 Adson,I-pers
-alias,I-pers
-Addison,I-pers
+alias,0
+Addison,B-pers
 ",",0
 of,0
 St,B-place
@@ -4655,8 +4655,8 @@ Name,0
 of,0
 Jane,B-pers
 Weeden,I-pers
-alias,I-pers
-Fletcher,I-pers
+alias,0
+Fletcher,B-pers
 of,0
 St.,B-place
 Clements,I-place
@@ -4853,8 +4853,8 @@ also,0
 .,0
 William,B-pers
 Lucas,I-pers
-alias,I-pers
-Staples,I-pers
+alias,0
+Staples,B-pers
 and,I-pers
 Katherine,I-pers
 his,I-pers
@@ -9510,8 +9510,8 @@ Guilty,0
 .,0
 Diana,B-pers
 Ferry,I-pers
-alias,I-pers
-Cole,I-pers
+alias,0
+Cole,B-pers
 ",",0
 of,0
 St.,B-place

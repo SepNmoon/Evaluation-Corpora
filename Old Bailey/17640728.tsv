@@ -11768,8 +11768,8 @@ M.,0
 Lucy,B-pers
 Gregory,I-pers
 ",",I-pers
-otherwise,I-pers
-Crane,I-pers
+otherwise,0
+Crane,B-pers
 ",",0
 was,0
 indicted,0
@@ -34571,8 +34571,8 @@ Acquitted,0
 L,0
 ),0
 Joseph,B-pers
-otherwise,I-pers
-George,I-pers
+otherwise,0
+George,B-pers
 Taylor,I-pers
 was,0
 indicted,0
@@ -34804,8 +34804,8 @@ of,I-pers
 David,I-pers
 Stewart,I-pers
 ",",I-pers
-otherwise,I-pers
-Smith,I-pers
+otherwise,0
+Smith,B-pers
 ",",0
 otherwise,0
 Smith,0
@@ -35348,8 +35348,8 @@ and,0
 Henry,B-pers
 Heirman,I-pers
 ",",I-pers
-otherwise,I-pers
-Wilson,I-pers
+otherwise,0
+Wilson,B-pers
 ",",0
 capitally,0
 convicted,0
@@ -35484,8 +35484,8 @@ Sessions,0
 and,0
 Jane,B-pers
 Faulkner,I-pers
-otherwise,I-pers
-Hanks,I-pers
+otherwise,0
+Hanks,B-pers
 ",",0
 in,0
 June,0
@@ -35713,8 +35713,8 @@ and,0
 Henry,B-pers
 Heirman,I-pers
 ",",I-pers
-otherwise,I-pers
-Wilson,I-pers
+otherwise,0
+Wilson,B-pers
 ",",0
 capitally,0
 convicted,0
@@ -35849,8 +35849,8 @@ Sessions,0
 and,0
 Jane,B-pers
 Faulkner,I-pers
-otherwise,I-pers
-Hanks,I-pers
+otherwise,0
+Hanks,B-pers
 ",",0
 in,0
 June,0

@@ -5141,8 +5141,8 @@ RECORDER,0
 ABRAHAM,B-pers
 GODIN,I-pers
 ",",I-pers
-alias,I-pers
-GORDON,I-pers
+alias,0
+GORDON,B-pers
 ",",0
 THOMAS,B-pers
 GOLDFINCH,I-pers
@@ -33772,8 +33772,8 @@ ROSE,0
 549.,0
 LUCY,B-pers
 BRAND,I-pers
-alias,I-pers
-WOOD,I-pers
+alias,0
+WOOD,B-pers
 was,0
 indicted,0
 for,0
@@ -49331,8 +49331,8 @@ SHERGOLD,I-pers
 and,0
 MARY,B-pers
 JOHNSON,I-pers
-alias,I-pers
-SHERGOLD,I-pers
+alias,0
+SHERGOLD,B-pers
 were,0
 indicted,0
 for,0
@@ -61968,10 +61968,10 @@ RECORDER,0
 600.,0
 GEORGE,B-pers
 COSSANS,I-pers
-otherwise,I-pers
-GEORGE,I-pers
-otherwise,I-pers
-called,I-pers
+otherwise,0
+GEORGE,B-pers
+otherwise,0
+called,B-pers
 TEAPOT,I-pers
 ",",0
 was,0

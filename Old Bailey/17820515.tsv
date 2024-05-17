@@ -3148,8 +3148,8 @@ PERRYN,I-pers
 ANN,B-pers
 WILSON,I-pers
 ",",I-pers
-otherwise,I-pers
-BRADY,I-pers
+otherwise,0
+BRADY,B-pers
 ",",0
 was,0
 indicted,0
@@ -31896,8 +31896,8 @@ RECORDER,0
 John,B-pers
 Young,I-pers
 ",",I-pers
-otherwise,I-pers
-Sparrow,I-pers
+otherwise,0
+Sparrow,B-pers
 ",",0
 capitally,0
 convicted,0
@@ -31943,8 +31943,8 @@ Carter,I-pers
 John,B-pers
 Young,I-pers
 ",",I-pers
-otherwise,I-pers
-Sparrow,I-pers
+otherwise,0
+Sparrow,B-pers
 ",",0
 capitally,0
 convicted,0

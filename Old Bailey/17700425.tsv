@@ -3035,8 +3035,8 @@ M.,0
 James,B-pers
 Ford,I-pers
 ",",I-pers
-otherwise,I-pers
-Dunn,I-pers
+otherwise,0
+Dunn,B-pers
 ",",0
 William,B-pers
 Miller,I-pers
@@ -18319,8 +18319,8 @@ and,0
 Francis,B-pers
 Comfort,I-pers
 ",",I-pers
-otherwise,I-pers
-Comford,I-pers
+otherwise,0
+Comford,B-pers
 ",",0
 were,0
 indicted,0
@@ -35475,8 +35475,8 @@ M,0
 John,B-pers
 Edwards,I-pers
 ",",I-pers
-otherwise,I-pers
-Edward,I-pers
+otherwise,0
+Edward,B-pers
 Howard,I-pers
 ",",0
 was,0
@@ -38250,8 +38250,8 @@ L,0
 Abraham,B-pers
 Myer,I-pers
 ",",I-pers
-otherwise,I-pers
-Meal,I-pers
+otherwise,0
+Meal,B-pers
 ",",0
 was,0
 indicted,0

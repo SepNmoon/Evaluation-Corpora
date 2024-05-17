@@ -197,8 +197,8 @@ followeth,0
 Mary,B-pers
 Richardson,I-pers
 ",",I-pers
-alias,I-pers
-Ann,I-pers
+alias,0
+Ann,B-pers
 Hammond,I-pers
 ",",0
 of,0
@@ -1044,8 +1044,8 @@ summary,0
 Sarah,B-pers
 Chance,I-pers
 ",",I-pers
-alias,I-pers
-Smith,I-pers
+alias,0
+Smith,B-pers
 ",",0
 of,0
 the,0
@@ -2178,8 +2178,8 @@ him,0
 .,0
 Sarah,B-pers
 Jones,I-pers
-alias,I-pers
-Ann,I-pers
+alias,0
+Ann,B-pers
 Dunn,I-pers
 ",",0
 was,0
@@ -2956,8 +2956,8 @@ summary,0
 ],0
 John,B-pers
 Low,I-pers
-alias,I-pers
-Cobler,I-pers
+alias,0
+Cobler,B-pers
 ",",0
 of,0
 St.,B-place
@@ -5386,8 +5386,8 @@ acquitted,0
 him,0
 .,0
 John,B-pers
-alias,I-pers
-Joseph,I-pers
+alias,0
+Joseph,B-pers
 Mathers,I-pers
 ",",0
 of,0

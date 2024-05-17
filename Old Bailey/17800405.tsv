@@ -14519,8 +14519,8 @@ summary,0
 THOMAS,B-pers
 WILLIAMS,I-pers
 ",",I-pers
-otherwise,I-pers
-CHARLES,I-pers
+otherwise,0
+CHARLES,B-pers
 CALLOWAY,I-pers
 was,0
 indicted,0
@@ -21557,8 +21557,8 @@ BAGNALL,I-pers
 and,0
 ELISABETH,B-pers
 ROSE,I-pers
-otherwise,I-pers
-BAGNALL,I-pers
+otherwise,0
+BAGNALL,B-pers
 were,0
 indicted,0
 ",",0
@@ -38695,8 +38695,8 @@ EYRE,0
 187.,0
 JOHN,B-pers
 WELDON,I-pers
-otherwise,I-pers
-LAMBETH,I-pers
+otherwise,0
+LAMBETH,B-pers
 and,0
 WILLIAM,B-pers
 EDWARDS,I-pers
@@ -57174,8 +57174,8 @@ summary,0
 John,B-pers
 Franque,I-pers
 ",",I-pers
-otherwise,I-pers
-Franks,I-pers
+otherwise,0
+Franks,B-pers
 ",",0
 John,B-pers
 M'Cormick,I-pers
@@ -57423,8 +57423,8 @@ Jonas,I-pers
 John,B-pers
 Franque,I-pers
 ",",I-pers
-otherwise,I-pers
-Franks,I-pers
+otherwise,0
+Franks,B-pers
 ",",0
 John,B-pers
 M'Cormick,I-pers

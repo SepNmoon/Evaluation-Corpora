@@ -731,8 +731,8 @@ estreated,0
 Mary,B-pers
 Walker,I-pers
 ",",I-pers
-otherwise,I-pers
-Douglass,I-pers
+otherwise,0
+Douglass,B-pers
 ",",0
 was,0
 indicted,0
@@ -13042,8 +13042,8 @@ M.,0
 Mary,B-pers
 Bourn,I-pers
 ",",I-pers
-otherwise,I-pers
-wife,I-pers
+otherwise,0
+wife,B-pers
 to,I-pers
 Thomas,I-pers
 Bryan,I-pers
@@ -22140,8 +22140,8 @@ L.,0
 Richard,B-pers
 Pousam,I-pers
 ",",I-pers
-otherwise,I-pers
-Spencer,I-pers
+otherwise,0
+Spencer,B-pers
 ",",0
 and,0
 Mary,B-pers
@@ -40495,8 +40495,8 @@ M.,0
 John,B-pers
 Read,I-pers
 ",",I-pers
-otherwise,I-pers
-Hoskins,I-pers
+otherwise,0
+Hoskins,B-pers
 ",",0
 was,0
 indicted,0

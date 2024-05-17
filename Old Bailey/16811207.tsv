@@ -707,11 +707,11 @@ Felony,0
 Mary,B-pers
 Williams,I-pers
 ",",I-pers
-alias,I-pers
-Smith,I-pers
+alias,0
+Smith,B-pers
 ",",I-pers
-alias,I-pers
-Jones,I-pers
+alias,0
+Jones,B-pers
 ",",0
 being,0
 Indicted,0
@@ -1139,8 +1139,8 @@ summary,0
 Mary,B-pers
 Harris,I-pers
 ",",I-pers
-alias,I-pers
-Dawkins,I-pers
+alias,0
+Dawkins,B-pers
 ",",0
 was,0
 Tryed,0

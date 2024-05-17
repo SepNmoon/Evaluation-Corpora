@@ -4419,8 +4419,8 @@ him,0
 Mary,B-pers
 Bolton,I-pers
 ",",I-pers
-alias,I-pers
-Gately,I-pers
+alias,0
+Gately,B-pers
 ",",0
 of,0
 St.,B-place
@@ -6701,8 +6701,8 @@ her,0
 John,B-pers
 Thomas,I-pers
 ",",I-pers
-alias,I-pers
-Pearce,I-pers
+alias,0
+Pearce,B-pers
 Reynolds,I-pers
 ",",0
 of,0
@@ -9160,8 +9160,8 @@ summary,0
 James,B-pers
 How,I-pers
 ",",I-pers
-alias,I-pers
-Harris,I-pers
+alias,0
+Harris,B-pers
 ",",0
 was,0
 indicted,0

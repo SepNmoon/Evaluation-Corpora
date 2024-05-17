@@ -4503,8 +4503,8 @@ HOTHAM,I-pers
 JOHN,B-pers
 RYAN,I-pers
 ",",I-pers
-otherwise,I-pers
-called,I-pers
+otherwise,0
+called,B-pers
 GEORGE,I-pers
 KING,I-pers
 ",",0
@@ -25281,8 +25281,8 @@ RECORDER,0
 .,0
 178.,0
 THOMAS,B-pers
-otherwise,I-pers
-JOHN,I-pers
+otherwise,0
+JOHN,B-pers
 MACKENZIE,I-pers
 was,0
 indicted,0
@@ -34503,8 +34503,8 @@ KENYON,0
 JOHN,B-pers
 LEWES,I-pers
 ",",I-pers
-alias,I-pers
-WILLIAM,I-pers
+alias,0
+WILLIAM,B-pers
 JENKINS,I-pers
 ",",0
 was,0
