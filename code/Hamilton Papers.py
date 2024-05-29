@@ -64,6 +64,8 @@ def iterate_place_person(node):
             
             for i in person_result:  #将被tag分离的名字加起来
                 persName=persName+i 
+            #print(persName)
+                         
             all_persName.append(persName)
                             
         elif child.tag=='{http://www.tei-c.org/ns/1.0}placeName':              
@@ -198,7 +200,7 @@ def match(node):
     text_str=text_str.replace('&amp;','&')
     group_pattern=r'>(.*?)<' #匹配><之间的东西
     group_result=re.findall(group_pattern,text_str,flags=re.S)
-    
+   
     #print(match_result)
     new_group=[]
     #去空值，只把有文本的留下
@@ -257,8 +259,7 @@ def token():
         #print(word)
         
         for w in word:
-            #print(w)
-            
+           
             all_tokens.append(w)
         
         if values[1]=='IOB-pers':
@@ -295,8 +296,8 @@ def write_csv(file):
 if __name__ == "__main__":
     path='D:\OneDrive - University College London\Desktop\Corpora\Mary Hamilton papers\XML_files_minus_project-specific_mark-up_20240212'   
     files= os.listdir(path)
-    
-    file='AR-HAM-00001-00004-00002-00016.xml'
+    '''
+    file='AR-HAM-00001-00015-00002-00001-00001.xml'
     all_node=[]
     all_persName=[]
     all_placeName=[]
@@ -304,21 +305,18 @@ if __name__ == "__main__":
     iterate_place_person(text_node)
     print(all_persName)
     print(all_placeName)
-    #write_csv(file)
+    write_csv(file)
     
     '''
     for file in files[0:1598]:  
+        print(file)
         all_node=[]
         all_persName=[]
         all_placeName=[]
         text=''
         text_node=read_file(file)
         iterate_place_person(text_node)
+        print(all_persName)
+        print(all_placeName)
         #transcribe(text_node)
         write_csv(file)
-    '''
-        
-   
-    
-    
-    
