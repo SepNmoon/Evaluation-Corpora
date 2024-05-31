@@ -1,145 +1,145 @@
-﻿TOKEN,NE
-Dear,0
-Madam,0
-I,0
-am,0
-happy,0
-to,0
-announce,0
-to,0
-you,0
-the,0
-glad,0
-tidings,0
-of,0
-Lady,B-pers
-Mansfield,I-pers
-having,0
-been,0
-this,0
-morning,0
-safely,0
-brought,0
-to,0
-bed,0
-of,0
-a,0
-fine,0
-&,0
-stout,0
-Boy,0
-",",0
-who,0
-with,0
-its,0
-dear,0
-mother,0
-",",0
-I,0
-am,0
-happy,0
-to,0
-add,0
-",",0
-are,0
-at,0
-present,0
-as,0
-well,0
-as,0
-We,0
-could,0
-wish,0
-.,0
---,0
-I,0
-beg,0
-my,0
-best,0
-respects,0
-to,0
-Mr.,B-pers
-Dickenson,I-pers
-&,0
-am,0
-Dear,0
-Madam,0
-Your,0
-very,0
-faithful,0
-&,0
-Obedient,0
-Humb,0
-le,0
-Servant,0
-Robt,B-pers
-.,I-pers
-F,I-pers
-:,I-pers
-Greville,I-pers
-Monday,0
-Decr,0
-.,0
-1,0
-st,0
-:,0
-1800,0
-The,0
-dateline,0
-appears,0
-to,0
-the,0
-left,0
-of,0
-the,0
-signature,0
-.,0
-London,B-place
-December,0
-One,0
-1800,0
-Mrs,B-pers
-:,I-pers
-Dickenson,I-pers
-Leighton,B-place
-Buzzard,I-place
-Bedfordshire,B-place
-free,0
-RFGreville,B-pers
-The,0
-cover,0
-has,0
-been,0
-signed,0
-to,0
-authorise,0
-the,0
-free,0
-frank,0
-.,0
-Postmarked,0
-in,0
-red,0
-ink,0
-',0
-1,0
-December,0
-1800,0
-',0
-'Free,0
-',0
-.,0
-A,0
-seal,0
-in,0
-red,0
-wax,0
-remains,0
-intact,0
-at,0
-the,0
-bottom,0
-of,0
-the,0
-page,0
-.,0
+TOKEN	NE
+Dear	0
+Madam	0
+I	0
+am	0
+happy	0
+to	0
+announce	0
+to	0
+you	0
+the	0
+glad	0
+tidings	0
+of	0
+Lady	B-pers
+Mansfield	I-pers
+having	0
+been	0
+this	0
+morning	0
+safely	0
+brought	0
+to	0
+bed	0
+of	0
+a	0
+fine	0
+&	0
+stout	0
+Boy	0
+,	0
+who	0
+with	0
+its	0
+dear	0
+mother	0
+,	0
+I	0
+am	0
+happy	0
+to	0
+add	0
+,	0
+are	0
+at	0
+present	0
+as	0
+well	0
+as	0
+We	0
+could	0
+wish	0
+.	0
+--	0
+I	0
+beg	0
+my	0
+best	0
+respects	0
+to	0
+Mr.	B-pers
+Dickenson	I-pers
+&	0
+am	0
+Dear	0
+Madam	0
+Your	0
+very	0
+faithful	0
+&	0
+Obedient	0
+Humb	0
+le	0
+Servant	0
+Robt	B-pers
+.	I-pers
+F	I-pers
+:	I-pers
+Greville	I-pers
+Monday	0
+Decr	0
+.	0
+1	0
+st	0
+:	0
+1800	0
+The	0
+dateline	0
+appears	0
+to	0
+the	0
+left	0
+of	0
+the	0
+signature	0
+.	0
+London	B-place
+December	0
+One	0
+1800	0
+Mrs	B-pers
+:	I-pers
+Dickenson	I-pers
+Leighton	B-place
+Buzzard	I-place
+Bedfordshire	B-place
+free	0
+RFGreville	B-pers
+The	0
+cover	0
+has	0
+been	0
+signed	0
+to	0
+authorise	0
+the	0
+free	0
+frank	0
+.	0
+Postmarked	0
+in	0
+red	0
+ink	0
+'	0
+1	0
+December	0
+1800	0
+'	0
+'Free	0
+'	0
+.	0
+A	0
+seal	0
+in	0
+red	0
+wax	0
+remains	0
+intact	0
+at	0
+the	0
+bottom	0
+of	0
+the	0
+page	0
+.	0

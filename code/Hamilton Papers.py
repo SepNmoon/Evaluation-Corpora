@@ -289,7 +289,7 @@ def write_csv(file):
     print(len(all_tokens),len(all_entity))
     file=file.replace('.xml','.tsv')
     dataframe = pd.DataFrame({'TOKEN':all_tokens,'NE':all_entity})
-    dataframe.to_csv('D:\OneDrive - University College London\Desktop\check\%s'%file,encoding="utf_8_sig",index=False)
+    dataframe.to_csv('D:\OneDrive - University College London\Desktop\check\%s'%file,index=False,sep='\t')
     
     
 

@@ -304,7 +304,7 @@ def match(node):
     for match, replacement in zip(place_matches, place_replacements):
         text_str = text_str.replace(match, replacement, 1)
    
-    
+    '''
    #print(pers_matches)       
     print(len(place_matches))
     index=50
@@ -313,7 +313,7 @@ def match(node):
        print(i)
        print(all_placeName[index])
        index+=1
-    
+    '''
    
     
     text_str=text_str.replace('&amp;','&')

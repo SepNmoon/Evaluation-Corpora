@@ -1,285 +1,285 @@
-﻿TOKEN,NE
-in,0
-book,0
-But,0
-to,0
-be,0
-typed,0
-in,0
-time,0
-This,0
-annotation,0
-is,0
-written,0
-diagonally,0
-at,0
-the,0
-top,0
-left,0
-of,0
-the,0
-page,0
-.,0
-Nerots,0
-Hotel,0
-Kings,0
-Street,0
-Tuesday,0
-9,0
-th,0
-.,0
-Decbr,0
-.,0
-178,0
-3,0
-My,0
-Dear,0
-Miſs,B-pers
-Hamilton,I-pers
-I,0
-did,0
-not,0
-answer,0
-the,0
-Ducheſs,0
-'s,0
-most,0
-gracious,0
-Letter,0
-inviting,0
-us,0
-again,0
-to,0
-Bullstrode,B-place
-because,0
-Charles,B-pers
-&,0
-I,0
-fully,0
-intended,0
-to,0
-have,0
-answerd,0
-it,0
-in,0
-Person,0
-at,0
-Bullstrode,B-place
-.,0
-yesterday,0
-I,0
-was,0
-told,0
-that,0
-the,B-pers
-King,I-pers
-had,0
-said,0
-he,0
-woud,0
-send,0
-for,0
-me,0
-to,0
-paſs,0
-a,0
-few,0
-days,0
-at,0
-Windsor,B-place
-the,0
-end,0
-of,0
-this,0
-Week,0
---,0
-Saturday,0
-we,0
-had,0
-fixed,0
-for,0
-paying,0
-our,0
-respects,0
-to,0
-the,0
-Ducheſs,0
---,0
-but,0
-it,0
-is,0
-now,0
-impoſsible,0
-for,0
-me,0
-to,0
-absent,0
-myself,0
-myself,0
-from,0
-Town,B-place
-",",0
-as,0
-my,0
-intelligence,0
-was,0
-from,0
-a,0
-good,0
-quarter,0
-Be,0
-so,0
-good,0
-then,0
-as,0
-to,0
-say,0
-every,0
-thing,0
-you,0
-can,0
-imagine,0
-to,0
-the,0
-Ducheſs,0
-that,0
-is,0
-most,0
-respectfull,0
-and,0
-aſsure,0
-Her,0
-Grace,0
-(,0
-which,0
-is,0
-very,0
-true,0
-),0
-that,0
-I,0
-am,0
-m,0
-y,0
-u,0
-ch,0
-disappointed,0
-as,0
-I,0
-realy,0
-was,0
-made,0
-happy,0
-the,0
-day,0
-I,0
-paſsed,0
-with,0
-you,0
-&,0
-wished,0
-much,0
-to,0
-have,0
-repeated,0
-the,0
-visit,0
---,0
-as,0
-soon,0
-as,0
-the,0
-Ducheſs,0
-comes,0
-to,0
-Town,B-place
-I,0
-will,0
-wait,0
-upon,0
-Her,0
-&,0
-shew,0
-Her,0
-Her,0
-the,0
-Vase,0
-which,0
-from,0
-Mr-,B-pers
-Lightfoot,I-pers
-'s,0
-The,0
-Revd,0
-.,0
-John,0
-Lightfoot,0
-was,0
-curator,0
-of,0
-the,0
-Duchess,0
-of,0
-Portland,0
-'s,0
-private,0
-collection,0
-.,0
-See,0
-also,0
-HAM/1/2/8/1,0
-for,0
-John,0
-Dickenson,0
-'s,0
-visit,0
-to,0
-the,0
-collection,0
-(,0
-including,0
-the,0
-Portland,0
-Vase,0
-),0
-in,0
-1786,0
-.,0
-report,0
-will,0
-have,0
-I,0
-dare,0
-say,0
-Her,0
-Grace,0
-is,0
-eager,0
-to,0
-see,0
-I,0
-have,0
-not,0
-time,0
-to,0
-tell,0
-you,0
-how,0
-much,0
-I,0
-love,0
-you,0
-as,0
-I,0
-am,0
-called,0
-to,0
-go,0
-to,0
-Dinner,0
-.,0
-most,0
-affectionately,0
-yrs,0
-.,0
-WH,B-pers
+TOKEN	NE
+in	0
+book	0
+But	0
+to	0
+be	0
+typed	0
+in	0
+time	0
+This	0
+annotation	0
+is	0
+written	0
+diagonally	0
+at	0
+the	0
+top	0
+left	0
+of	0
+the	0
+page	0
+.	0
+Nerots	0
+Hotel	0
+Kings	0
+Street	0
+Tuesday	0
+9	0
+th	0
+.	0
+Decbr	0
+.	0
+178	0
+3	0
+My	0
+Dear	0
+Miſs	B-pers
+Hamilton	I-pers
+I	0
+did	0
+not	0
+answer	0
+the	0
+Ducheſs	0
+'s	0
+most	0
+gracious	0
+Letter	0
+inviting	0
+us	0
+again	0
+to	0
+Bullstrode	B-place
+because	0
+Charles	B-pers
+&	0
+I	0
+fully	0
+intended	0
+to	0
+have	0
+answerd	0
+it	0
+in	0
+Person	0
+at	0
+Bullstrode	B-place
+.	0
+yesterday	0
+I	0
+was	0
+told	0
+that	0
+the	B-pers
+King	I-pers
+had	0
+said	0
+he	0
+woud	0
+send	0
+for	0
+me	0
+to	0
+paſs	0
+a	0
+few	0
+days	0
+at	0
+Windsor	B-place
+the	0
+end	0
+of	0
+this	0
+Week	0
+--	0
+Saturday	0
+we	0
+had	0
+fixed	0
+for	0
+paying	0
+our	0
+respects	0
+to	0
+the	0
+Ducheſs	0
+--	0
+but	0
+it	0
+is	0
+now	0
+impoſsible	0
+for	0
+me	0
+to	0
+absent	0
+myself	0
+myself	0
+from	0
+Town	B-place
+,	0
+as	0
+my	0
+intelligence	0
+was	0
+from	0
+a	0
+good	0
+quarter	0
+Be	0
+so	0
+good	0
+then	0
+as	0
+to	0
+say	0
+every	0
+thing	0
+you	0
+can	0
+imagine	0
+to	0
+the	0
+Ducheſs	0
+that	0
+is	0
+most	0
+respectfull	0
+and	0
+aſsure	0
+Her	0
+Grace	0
+(	0
+which	0
+is	0
+very	0
+true	0
+)	0
+that	0
+I	0
+am	0
+m	0
+y	0
+u	0
+ch	0
+disappointed	0
+as	0
+I	0
+realy	0
+was	0
+made	0
+happy	0
+the	0
+day	0
+I	0
+paſsed	0
+with	0
+you	0
+&	0
+wished	0
+much	0
+to	0
+have	0
+repeated	0
+the	0
+visit	0
+--	0
+as	0
+soon	0
+as	0
+the	0
+Ducheſs	0
+comes	0
+to	0
+Town	B-place
+I	0
+will	0
+wait	0
+upon	0
+Her	0
+&	0
+shew	0
+Her	0
+Her	0
+the	0
+Vase	0
+which	0
+from	0
+Mr-	B-pers
+Lightfoot	I-pers
+'s	0
+The	0
+Revd	0
+.	0
+John	0
+Lightfoot	0
+was	0
+curator	0
+of	0
+the	0
+Duchess	0
+of	0
+Portland	0
+'s	0
+private	0
+collection	0
+.	0
+See	0
+also	0
+HAM/1/2/8/1	0
+for	0
+John	0
+Dickenson	0
+'s	0
+visit	0
+to	0
+the	0
+collection	0
+(	0
+including	0
+the	0
+Portland	0
+Vase	0
+)	0
+in	0
+1786	0
+.	0
+report	0
+will	0
+have	0
+I	0
+dare	0
+say	0
+Her	0
+Grace	0
+is	0
+eager	0
+to	0
+see	0
+I	0
+have	0
+not	0
+time	0
+to	0
+tell	0
+you	0
+how	0
+much	0
+I	0
+love	0
+you	0
+as	0
+I	0
+am	0
+called	0
+to	0
+go	0
+to	0
+Dinner	0
+.	0
+most	0
+affectionately	0
+yrs	0
+.	0
+WH	B-pers

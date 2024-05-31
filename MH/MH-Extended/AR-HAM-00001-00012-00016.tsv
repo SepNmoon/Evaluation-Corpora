@@ -1,236 +1,236 @@
-﻿TOKEN,NE
-My,0
-Dear,0
-Miſs,B-pers
-Hamilton,I-pers
-",",0
-I,0
-beg,0
-you,0
-to,0
-be,0
-so,0
-good,0
-to,0
-deliver,0
-the,0
-Enclosed,0
-to,0
-P,B-pers
-Ernest,I-pers
-&,0
-Pſs,B-pers
-Elizabeth,I-pers
-&,0
-hope,0
-you,0
-will,0
-indulge,0
-me,0
-with,0
-a,0
-Line,0
-to,0
-know,0
-how,0
-they,0
-all,0
-do,0
-",",0
-as,0
-well,0
-as,0
-yourself,0
-.,0
-Mr,B-pers
-Feilding,I-pers
-I,0
-doubt,0
-not,0
-has,0
-deliver,0
-'d,0
-to,0
-you,0
-the,0
-Manuscript,0
-I,0
-charged,0
-him,0
-with,0
-Yesterday,0
-.,0
-with,0
-a,0
-Note,0
-from,0
-me,0
-.,0
-I,0
-have,0
-nothing,0
-material,0
-to,0
-add,0
-so,0
-will,0
-only,0
-say,0
-I,0
-am,0
-ever,0
-&,0
-most,0
-Affly,0
-.,0
-Yrs,0
-.,0
-C.Finch,B-pers
-Ly,B-pers
-Louisa,I-pers
-begs,0
-to,0
-be,0
-kindly,0
-remember,0
-'d,0
-to,0
-you,0
-I,0
-forgot,0
-to,0
-say,0
-to,0
-P.,B-pers
-Ernest,I-pers
-I,0
-will,0
-do,0
-what,0
-he,0
-desires,0
-as,0
-soon,0
-as,0
-I,0
-come,0
-to,0
-Town,B-place
-but,0
-can,0
-not,0
-from,0
-hence,0
-.,0
-Harleyford,B-place
-.,0
-March,0
-26,0
-th,0
-.,0
-1780,0
-Bishop,0
-mark,0
-dated,0
-27,0
-March,0
-",",0
-in,0
-brown-black,0
-ink,0
-.,0
-To,0
-Miſs,B-pers
-Hamilton,I-pers
-Queens,0
-House,0
-Free,0
-frank,0
-in,0
-red,0
-ink,0
-.,0
-London,B-place
-Postal,0
-stamp,0
-',0
-High,B-place
-Wickham,I-place
-',0
-in,0
-black,0
-ink,0
-.,0
-High,0
-Wickham,0
-here,0
-refers,0
-to,0
-present-day,0
-High,0
-Wycombe,0
-in,0
-Buckinghamshire,0
-.,0
-Seal,0
-with,0
-CF,0
-monogram,0
-in,0
-red,0
-ink,0
-.,0
-Hon,B-pers
-Wm,I-pers
-:,I-pers
-Clayton,I-pers
-This,0
-is,0
-the,0
-signature,0
-of,0
-William,0
-Clayton,0
-MP,0
-",",0
-who,0
-was,0
-entitled,0
-to,0
-free,0
-postage,0
-under,0
-the,0
-Parliamentary,0
-Franking,0
-System,0
-;,0
-the,0
-free,0
-frank,0
-stamp,0
-on,0
-the,0
-right-hand,0
-side,0
-of,0
-the,0
-address,0
-had,0
-to,0
-be,0
-accompanied,0
-by,0
-the,0
-signature,0
-of,0
-the,0
-holder,0
-.,0
-Clayton,0
-'s,0
-residence,0
-was,0
-Harleyford,0
-Manor,0
-.,0
+TOKEN	NE
+My	0
+Dear	0
+Miſs	B-pers
+Hamilton	I-pers
+,	0
+I	0
+beg	0
+you	0
+to	0
+be	0
+so	0
+good	0
+to	0
+deliver	0
+the	0
+Enclosed	0
+to	0
+P	B-pers
+Ernest	I-pers
+&	0
+Pſs	B-pers
+Elizabeth	I-pers
+&	0
+hope	0
+you	0
+will	0
+indulge	0
+me	0
+with	0
+a	0
+Line	0
+to	0
+know	0
+how	0
+they	0
+all	0
+do	0
+,	0
+as	0
+well	0
+as	0
+yourself	0
+.	0
+Mr	B-pers
+Feilding	I-pers
+I	0
+doubt	0
+not	0
+has	0
+deliver	0
+'d	0
+to	0
+you	0
+the	0
+Manuscript	0
+I	0
+charged	0
+him	0
+with	0
+Yesterday	0
+.	0
+with	0
+a	0
+Note	0
+from	0
+me	0
+.	0
+I	0
+have	0
+nothing	0
+material	0
+to	0
+add	0
+so	0
+will	0
+only	0
+say	0
+I	0
+am	0
+ever	0
+&	0
+most	0
+Affly	0
+.	0
+Yrs	0
+.	0
+C.Finch	B-pers
+Ly	B-pers
+Louisa	I-pers
+begs	0
+to	0
+be	0
+kindly	0
+remember	0
+'d	0
+to	0
+you	0
+I	0
+forgot	0
+to	0
+say	0
+to	0
+P.	B-pers
+Ernest	I-pers
+I	0
+will	0
+do	0
+what	0
+he	0
+desires	0
+as	0
+soon	0
+as	0
+I	0
+come	0
+to	0
+Town	B-place
+but	0
+can	0
+not	0
+from	0
+hence	0
+.	0
+Harleyford	B-place
+.	0
+March	0
+26	0
+th	0
+.	0
+1780	0
+Bishop	0
+mark	0
+dated	0
+27	0
+March	0
+,	0
+in	0
+brown-black	0
+ink	0
+.	0
+To	0
+Miſs	B-pers
+Hamilton	I-pers
+Queens	0
+House	0
+Free	0
+frank	0
+in	0
+red	0
+ink	0
+.	0
+London	B-place
+Postal	0
+stamp	0
+'	0
+High	B-place
+Wickham	I-place
+'	0
+in	0
+black	0
+ink	0
+.	0
+High	0
+Wickham	0
+here	0
+refers	0
+to	0
+present-day	0
+High	0
+Wycombe	0
+in	0
+Buckinghamshire	0
+.	0
+Seal	0
+with	0
+CF	0
+monogram	0
+in	0
+red	0
+ink	0
+.	0
+Hon	B-pers
+Wm	I-pers
+:	I-pers
+Clayton	I-pers
+This	0
+is	0
+the	0
+signature	0
+of	0
+William	0
+Clayton	0
+MP	0
+,	0
+who	0
+was	0
+entitled	0
+to	0
+free	0
+postage	0
+under	0
+the	0
+Parliamentary	0
+Franking	0
+System	0
+;	0
+the	0
+free	0
+frank	0
+stamp	0
+on	0
+the	0
+right-hand	0
+side	0
+of	0
+the	0
+address	0
+had	0
+to	0
+be	0
+accompanied	0
+by	0
+the	0
+signature	0
+of	0
+the	0
+holder	0
+.	0
+Clayton	0
+'s	0
+residence	0
+was	0
+Harleyford	0
+Manor	0
+.	0
