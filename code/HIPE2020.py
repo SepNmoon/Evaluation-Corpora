@@ -34,7 +34,7 @@ def find_index(element_index,hipe_array):
      
 
 def read_file():
-    hipe=pd.read_csv("D:\OneDrive - University College London\Desktop\check\HIPE2020.tsv", delimiter="\t", quoting=csv.QUOTE_NONE, encoding='utf-8')
+    hipe=pd.read_csv("D:\OneDrive - University College London\Desktop\Evaluation-Corpora\HIPE2020\HIPE2020-Extended.tsv", delimiter="\t", quoting=csv.QUOTE_NONE, encoding='utf-8')
     #print(hipe)
     return hipe
 
@@ -84,4 +84,7 @@ if __name__ == "__main__":
     hipe=read_file()
     hipe_array=deal_file(hipe)
     hipe_array
-    write_csv(hipe_array)
+    print(hipe_array)
+    
+        
+    #write_csv(hipe_array)

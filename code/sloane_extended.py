@@ -201,7 +201,7 @@ if __name__ == "__main__":
     
     
     
-    for file in files[0:2]:
+    for file in files[0:1]:
         all_persName=[]
         all_placeName=[]
         
