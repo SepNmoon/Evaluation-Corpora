@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun  4 15:38:33 2024
-
-@author: liulu
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Thu Mar  7 21:29:20 2024
 
 @author: liulu
@@ -24,19 +17,6 @@ def read_file(file):
     body_node=text_node.find('{http://www.tei-c.org/ns/1.0}body')
 
     return body_node
-
-def place_light(all_placeName):
-    for p in all_placeName:
-        words=p.split(' ')
-        print(p)
-        for w in words:
-            if w.islower()==True:
-                #print(w)
-                p=p.replace(w,'')
-                #print(p)
-        print(p)
-
-
 
 def iterate_place_person(node):
     
@@ -77,28 +57,13 @@ def iterate_place_person(node):
             place_result=re.findall(pattern,place_str,flags=re.S)
             #print(place_result)
             for i in place_result:
-                i=i.replace('\n','')          
+                i=i.replace('\n','')
                 placeName=placeName+i
                 space_pattern=r'\s{1,}' #去掉换行后莫名奇妙的空格                
                 placeName=re.sub(space_pattern,' ',placeName)
-                
-            words=placeName.split(' ')
-            #print(words)     
-            place_name=''
-            for w in words:   
-                if w.islower()==False:
-                    place_name=place_name+' '+w
-                else:
-                    all_placeName.append(place_name)
-                    #print(place_name)
-                    place_name=''
-                
-            all_placeName.append(place_name)        
-            #all_placeName.append(placeName)
+            all_placeName.append(placeName)
             #print(all_placeName)
-            for p in all_placeName[:]:
-                if p.strip()=='': #去掉空值的placeName
-                    all_placeName.remove(p)
+            
             
             #print(child.text)
 
@@ -108,10 +73,6 @@ def iterate_place_person(node):
 
 def match(node):
     body_str=ET.tostring(node, encoding='unicode')
-    space_pattern=r'\s{1,}'
-    body_str=re.sub(space_pattern,' ',body_str)
-    
-    
     pers_pattern=r'<ns0:persName>.*?</ns0:persName>'
     pers_matches=re.findall(pers_pattern,body_str,flags=re.S)    
     
@@ -135,63 +96,14 @@ def match(node):
     #所有地名也
     place_pattern=r'<ns0:placeName.*?</ns0:placeName>'
     place_matches=re.findall(place_pattern,body_str,flags=re.S)
-    #print(len(place_matches))
-    pattern=r'>(.*?)<'
-  
-    place_replacements=[]
-    number=0
-    for p in place_matches:
-        placeName=''
-        results=re.findall(pattern,p)
-                
-        for i in results:
-            i=i.replace('\n','')          
-            placeName=placeName+i
-            space_pattern=r'\s{1,}' #去掉换行后莫名奇妙的空格                
-            placeName=re.sub(space_pattern,' ',placeName)
-            
-            #placeName=placeName+i
-        #print(placeName) #ruins of the City of Herculaneum
-        words=placeName.split(' ') #[ruins,of,the..]
-        place_str=''
-        place_str_list=[]
-        
-        for w in words:
-            if w.islower()==False:
-                place_str=place_str+' '+w
-            else:
-                place_str_list.append(place_str.strip())
-                place_str=''
-        place_str_list.append(place_str.strip())
-        #print(place_str_list)
-        for all_p in place_str_list[:]:
-            if all_p=='':
-                place_str_list.remove(all_p)
-        
-      
-        
-        number=number+len(place_str_list)    
-  
-             
-        place_replace=[]
-        for i in place_str_list:
-            place_replace.append('<ns0:placeName>'+' placeName '+'</ns0:placeName>')
-        
-        #for match, replacement in zip(place_str_list, place_replace):
-            #placeName = placeName.replace(match, replacement, 1)
-        
-        for i in place_str_list:
-            placeName=placeName.replace(i,'<ns0:placeName> placeName </ns0:placeName>')
-        
-        
-        place_replacements.append(placeName)
-                    
     
+    place_replacements=[]
+    for p in range(len(place_matches)):
+        place_replacements.append('<ns0:placeName>'+' placeName '+'</ns0:placeName>')
     #将所有的placeName的tag全换掉
     for match, replacement in zip(place_matches, place_replacements):
         body_str = body_str.replace(match, replacement, 1)
-    #print(body_str)
- 
+    
     special_patterns=['&amp;','&apos;','&lt;','&gt;','&quot;'] 
     replace_patterns=['&','\'','<','>','"']
     #将这种符号改掉&特殊符号
@@ -219,13 +131,10 @@ def match(node):
     for match,replacement in zip(pers_matches, all_persName):
         real_text=text.replace(match,replacement,1)
     
-    
     place_pattern=r'placeName'
     place_matches=re.findall(place_pattern,real_text,flags=re.S)
-    
     for match,replacement in zip(place_matches, all_placeName):
         real_text=real_text.replace(match,replacement,1)
-        #text=text.replace(match,replacement,1)
     
     return text,real_text
     
@@ -266,9 +175,8 @@ def token():
             place_index+=1
         else:
             all_token.append(t)
-            all_entity.append(0)
-    print(len(all_token))
-    print(len(all_entity))
+            all_entity.append('O')
+    
 
     return all_token,all_entity
     
@@ -293,13 +201,16 @@ if __name__ == "__main__":
     
     
     
-    for file in files[0:2]:
+    for file in files[1:2]:
         all_persName=[]
         all_placeName=[]
         
         body_node=read_file(file)
         iterate_place_person(body_node)
-        #print(all_placeName)
-        #print(len(all_placeName)) #1065
-        #place_light(all_placeName)
-        write_csv(file)
+        print(all_persName)
+        #write_csv(file)
+    
+    
+    
+    
+    
