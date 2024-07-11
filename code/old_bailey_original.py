@@ -12,7 +12,7 @@ import os
 
 
 def read_file(file):
-    tree=ET.parse(r'D:\OneDrive - University College London\Desktop\Corpora\Old Bailey\OBO_XML_72_revise\sessionsPapers\%s'%file)
+    tree=ET.parse(r'D:\OneDrive - University College London\Desktop\Corpora\Old Bailey\OBO_XML_72_revise_normalized\sessionsPapers\%s'%file)
     root=tree.getroot()
     text_node=root.find('text')
     body_node=text_node.find('body')
@@ -62,12 +62,53 @@ def iterate_place_person(node):
             
         else:
             iterate_place_person(child)
+
+
+def deal_with_persName(all_persName):
     
+    drop_list=['Prisoner','Woman','Women','Man','Men','One','Wife','Gentleman','Gentlemen'
+               ,'Another','Other','Husband','Sister','Fellow','Child','Maid','Girl','Servant','Gentlewoman','young Youth'
+               ,'Youth','Butcher','Landlady','young Man','young Woman','Boy','One other','Prisoners']
+    
+    for name in all_persName.copy():
+        name_no_space=name.replace(' ','')
+        
+        #去掉纯小写的name
+        if name_no_space.islower()==True:
+            all_persName.remove(name)
+        #去掉常见的mentions
+        if name_no_space in drop_list:
+            #print(name_no_space)
+            all_persName.remove(name)
+    
+  
 def match(node):
     body_str=ET.tostring(node, encoding='unicode')
     pers_pattern=r'<persName.*?</persName>'
     pers_matches=re.findall(pers_pattern,body_str,flags=re.S)
+    #print(pers_matches)
+    pattern=r'>(.*?)<'
     
+    drop_list=['Prisoner','Woman','Women','Man','Men','One','Wife','Gentleman','Gentlemen'
+               ,'Another','Other','Husband','Sister','Fellow','Child','Maid','Girl','Servant','Gentlewoman','young Youth'
+               ,'Youth','Butcher','Landlady','young Man','young Woman','Boy','One other','Prisoners']
+    
+    for match in pers_matches.copy():       
+        match_no_space=match.replace('\n',' ')
+        space_pattern=r'\s{1,}' #去掉换行后莫名奇妙的空格                
+        match_no_space=re.sub(space_pattern,' ',match_no_space)
+
+        results=re.findall(pattern, match_no_space)
+        name=''
+        for i in results:
+            name=name+i
+        name=name.replace(' ','')
+        if name.islower()==True:
+            pers_matches.remove(match)
+        if name in drop_list:
+            pers_matches.remove(match)
+
+        
     print(len(pers_matches))
     print(len(all_persName))
 
@@ -181,11 +222,11 @@ def write_csv(file):
     
 
 if __name__ == "__main__":
-    path='D:\OneDrive - University College London\Desktop\Corpora\Old Bailey\OBO_XML_72_revise\sessionsPapers'
+    path='D:\OneDrive - University College London\Desktop\Corpora\Old Bailey\OBO_XML_72_revise_normalized\sessionsPapers'
     files= os.listdir(path)
     
     
-    for file in files[1:1001]:
+    for file in files[1:50]:
         all_persName=[]
         all_placeName=[]
         print(file)
@@ -194,11 +235,9 @@ if __name__ == "__main__":
         iterate_place_person(body_node)
         #print(all_persName)
         #print(all_persName)
-        
-       
-        
-        #print(all_persName)  
-        
+             
+        deal_with_persName(all_persName)
+        print(all_persName) 
         #for a in all_persName:
             #a=a.strip()
             #lists=a.split(' ')           
