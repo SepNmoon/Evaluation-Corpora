@@ -118,16 +118,18 @@ def transcribe(node):
     #将整个text转为str
     text_str=ET.tostring(node, encoding='unicode')
     #text_str=re.sub(r'<ns0:note.*?</ns0:note>','',text_str)
-    print(text_str)
+    
     new_str1=re.sub(r'<ns0:expan>.*?</ns0:expan>','',text_str)
     new_str2=re.sub(r'<ns0:reg>.*?</ns0:reg>','',new_str1)
     new_str3=re.sub(r'<.*?>','',new_str2,flags=re.DOTALL)
     new_str4=new_str3.replace('&amp;','&')
     text=new_str4
     
+    
 def match(node):
 #将文本与实体类型对应起来
     text_str=ET.tostring(node, encoding='unicode')    
+    #去掉note
     text_str=re.sub(r'<ns0:note.*?</ns0:note>','',text_str)
     
     #遇到choice,判断sic,org和abbr，之所以要将choice拉出来，因为choice里面会将单词分割
@@ -176,7 +178,7 @@ def match(node):
     for match,replacement in zip(choice_matches, choice_replacements):
         text_str=text_str.replace(match,replacement,1)
     
-        
+      
    
     #接下来是将所有人名tag换成all_persName
     pers_pattern=r'<ns0:persName.*?</ns0:persName>'
@@ -202,6 +204,8 @@ def match(node):
     text_str=text_str.replace('&amp;','&')
     group_pattern=r'>(.*?)<' #匹配><之间的东西
     group_result=re.findall(group_pattern,text_str,flags=re.S)
+    
+    
    
     #print(match_result)
     new_group=[]
@@ -209,7 +213,33 @@ def match(node):
     for m in group_result:
         if m!='' and m.isspace() == False:
             new_group.append(m)
-            
+    
+    #print(new_group)  
+    
+    
+    '''
+    #查看placeName前有of的词
+    texts=''
+    for word in new_group:
+        texts=texts+' '+word  
+    space_pattern=r'\s{1,}'
+    texts=re.sub(space_pattern,' ',texts)
+    #print(texts)
+    words=texts.split()
+    #print(words)
+    index=0
+    for word in words:
+        if word=='placeName' and words[index-1].strip()=='of':
+            print(words[index-2])
+            print(words[index-1])
+            print(word)
+        index+=1
+    '''    
+    
+      
+
+    
+    
     index=0
     #开始造字典
     text_entity={}
@@ -311,15 +341,26 @@ if __name__ == "__main__":
     
     '''
     for file in files[0:1598]:  
-        print(file)
+        #print(file)
         all_node=[]
         all_persName=[]
         all_placeName=[]
         text_node=read_file(file)
         iterate_place_person(text_node)
         
-        print(all_persName)
+        #match(text_node)
+        
+        #print(all_placeName)
+        
+        
+        
+        #for name in all_placeName:
+            #name_list=name.split()
+            #if len(name_list)>2:
+                #print(file)
+                #print(name)
+                
         #print(all_placeName)
         #transcribe(text_node)
-        write_csv(file)
+        #write_csv(file)
     
