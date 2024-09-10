@@ -63,7 +63,7 @@ def iterate_place_person(node):
         else:
             iterate_place_person(child)
 
-
+'''
 def deal_with_persName(all_persName):
     
     drop_list=['Prisoner','Woman','Women','Man','Men','One','Wife','Gentleman','Gentlemen'
@@ -80,7 +80,7 @@ def deal_with_persName(all_persName):
         if name_no_space in drop_list:
             #print(name_no_space)
             all_persName.remove(name)
-    
+'''    
   
 def match(node):
     body_str=ET.tostring(node, encoding='unicode')
@@ -88,7 +88,7 @@ def match(node):
     pers_matches=re.findall(pers_pattern,body_str,flags=re.S)
     #print(pers_matches)
     pattern=r'>(.*?)<'
-    
+    '''
     drop_list=['Prisoner','Woman','Women','Man','Men','One','Wife','Gentleman','Gentlemen'
                ,'Another','Other','Husband','Sister','Fellow','Child','Maid','Girl','Servant','Gentlewoman','young Youth'
                ,'Youth','Butcher','Landlady','young Man','young Woman','Boy','One other','Prisoners']
@@ -97,7 +97,7 @@ def match(node):
         match_no_space=match.replace('\n',' ')
         space_pattern=r'\s{1,}' #去掉换行后莫名奇妙的空格                
         match_no_space=re.sub(space_pattern,' ',match_no_space)
-
+        
         results=re.findall(pattern, match_no_space)
         name=''
         for i in results:
@@ -107,10 +107,10 @@ def match(node):
             pers_matches.remove(match)
         if name in drop_list:
             pers_matches.remove(match)
-
+    '''
         
-    print(len(pers_matches))
-    print(len(all_persName))
+    #print(len(pers_matches))
+    #print(len(all_persName))
 
     pers_replacements=[]
     for p in range(len(pers_matches)):
@@ -122,11 +122,9 @@ def match(node):
     #所有地名也
     place_pattern=r'<placeName.*?</placeName>'
     place_matches=re.findall(place_pattern,body_str,flags=re.S)
-    index=15
+   
 
-    print(len(place_matches))
-    print(len(all_placeName))
-
+   
     
     place_replacements=[]
     for p in range(len(place_matches)):
@@ -226,7 +224,7 @@ if __name__ == "__main__":
     files= os.listdir(path)
     
     
-    for file in files[1:50]:
+    for file in files[1:1000]:
         all_persName=[]
         all_placeName=[]
         print(file)
@@ -236,8 +234,8 @@ if __name__ == "__main__":
         #print(all_persName)
         #print(all_persName)
              
-        deal_with_persName(all_persName)
-        print(all_persName) 
+        #deal_with_persName(all_persName)
+        #print(all_persName) 
         #for a in all_persName:
             #a=a.strip()
             #lists=a.split(' ')           
