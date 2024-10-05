@@ -58,7 +58,7 @@ Maid	O
 that	O
 set	O
 her	O
-Master	B-pers
+Master	O
 's	O
 Barns	O
 on	O
@@ -545,7 +545,7 @@ indicted	O
 for	O
 burning	O
 her	O
-Master	B-pers
+Master	O
 's	O
 Barns	O
 at	O
@@ -674,7 +674,7 @@ provocation	O
 but	O
 that	O
 her	O
-Master	B-pers
+Master	O
 would	O
 not	O
 lend	O
@@ -802,8 +802,8 @@ stood	O
 indicted	O
 .	O
 Two	O
-Legerdemain	O
-Ladies	O
+Legerdemain	B-pers
+Ladies	I-pers
 of	O
 profound	O
 experience	O
@@ -901,7 +901,7 @@ guilty	O
 .	O
 A	O
 French	O
-Gentleman	O
+Gentleman	B-pers
 ,	O
 came	O
 in	O
@@ -981,7 +981,7 @@ besides	O
 the	O
 Warrant	O
 their	O
-Master	B-pers
+Master	O
 had	O
 was	O
 wrong	O
@@ -1071,10 +1071,10 @@ house	O
 of	O
 a	O
 worthy	O
-Gentleman	O
+Gentleman	B-pers
 his	O
 late	O
-Master	B-pers
+Master	O
 ,	O
 and	O
 stealing	O

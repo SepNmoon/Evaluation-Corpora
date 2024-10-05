@@ -1510,7 +1510,7 @@ George	B-pers
 Cromwell	I-pers
 of	O
 Sunbury	B-place
-in	I-place
+in	O
 Middlesex	I-place
 ,	O
 on	O
@@ -2034,7 +2034,7 @@ Gun	B-place
 Musick	I-place
 House	I-place
 in	O
-Salisbury	B-place
+Salisbury	I-place
 Court	I-place
 ,	O
 they	O
@@ -2264,8 +2264,8 @@ Mary	O
 ,	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Clement	O
 East-cheap	O
@@ -2739,8 +2739,8 @@ when	O
 taken	O
 at	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 Harmsworth	O
 in	O
 the	O
@@ -5240,10 +5240,10 @@ in	O
 St.	B-place
 Christophers	I-place
 Parish	I-place
-,	I-place
+,	O
 near	O
-the	O
-Exchange	O
+the	I-place
+Exchange	I-place
 ,	O
 on	O
 the	O

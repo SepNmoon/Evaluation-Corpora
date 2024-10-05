@@ -1034,8 +1034,8 @@ William	B-pers
 Gamell	I-pers
 of	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Lawrence	O
 Jury	O
@@ -1469,8 +1469,8 @@ St.	I-place
 Bartholomew	I-place
 's	I-place
 near	O
-the	O
-Exchange	O
+the	I-place
+Exchange	I-place
 ,	O
 was	O
 Indicted	O
@@ -1563,8 +1563,8 @@ Month	O
 ,	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 James	O
 's	O
@@ -1796,13 +1796,13 @@ summary	O
 Mary	B-pers
 Jone	I-pers
 alias	O
-Coleson	B-pers
+Coleson	I-pers
 ,	O
 and	O
 Ann	B-pers
 Cox	I-pers
 alias	O
-Williams	B-pers
+Williams	I-pers
 of	O
 the	O
 Parish	B-place
@@ -2788,7 +2788,7 @@ at	O
 Holloway	B-place
 ,	O
 near	O
-Highgate	B-place
+Highgate	I-place
 ;	O
 and	O
 that	O
@@ -3156,7 +3156,7 @@ Grace	B-pers
 Newman	I-pers
 ,	O
 alias	O
-Young	B-pers
+Young	I-pers
 ,	O
 was	O
 Indicted	O
@@ -4721,8 +4721,8 @@ just	O
 about	O
 the	O
 May-pole	B-place
-in	I-place
-the	I-place
+in	O
+the	O
 Strand	I-place
 ;	O
 he	O

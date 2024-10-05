@@ -208,9 +208,9 @@ Cartwright	I-pers
 ,	O
 of	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Michael	I-place
 Queen-hithe	I-place
 ,	O
@@ -269,7 +269,7 @@ Plate	O
 but	O
 said	O
 her	O
-Master	B-pers
+Master	O
 stands	O
 Excommunicated	O
 ;	O
@@ -355,9 +355,9 @@ Dickenson	I-pers
 ,	O
 of	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Botolph	I-place
 without	I-place
 Aldgate	I-place
@@ -808,7 +808,7 @@ with	O
 her	O
 .	O
 His	O
-Master	B-pers
+Master	O
 the	O
 Vintner	O
 Witnessed	O
@@ -986,7 +986,7 @@ to	O
 a	O
 Cain	O
 his	O
-Master	B-pers
+Master	O
 that	O
 Day	O
 lent	O
@@ -2933,7 +2933,7 @@ Neck	O
 ,	O
 being	O
 the	O
-Child	B-pers
+Child	O
 of	O
 one	O
 Mary	B-pers
@@ -2979,8 +2979,8 @@ Allum	I-pers
 living	O
 at	O
 Shelly	B-place
-in	I-place
-Essex	I-place
+in	O
+Essex	B-place
 ,	O
 about	O
 twenty	O
@@ -3429,9 +3429,9 @@ Durnell	I-pers
 ,	O
 of	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Mary	I-place
 White	I-place
 Chappel	I-place

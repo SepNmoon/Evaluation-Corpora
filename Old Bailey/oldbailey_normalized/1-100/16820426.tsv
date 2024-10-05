@@ -1252,7 +1252,7 @@ in	O
 Guilty	O
 .	O
 A	O
-Fellow	B-pers
+Fellow	O
 that	O
 was	O
 Chamberlain	O
@@ -1269,7 +1269,7 @@ Fields	O
 ,	O
 entring	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 s	O
 Lodging	O
 on	O
@@ -1436,9 +1436,9 @@ Celler	O
 under	O
 the	O
 Exchange	B-place
-in	I-place
-the	I-place
-Strand	I-place
+in	O
+the	O
+Strand	B-place
 ,	O
 on	O
 the	O

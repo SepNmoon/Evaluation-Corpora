@@ -224,9 +224,9 @@ Deacon	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
-St.	I-place
+Parish	O
+of	O
+St.	B-place
 Michael	I-place
 Woodstreet	I-place
 Whipmaker	O
@@ -1086,9 +1086,9 @@ Hillgrave	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
-Kensington	I-place
+Parish	O
+of	O
+Kensington	B-place
 ,	O
 was	O
 Indicted	O
@@ -4659,7 +4659,7 @@ Elizabeth	B-pers
 Wade	I-pers
 ,	O
 alias	O
-Gurlington	B-pers
+Gurlington	I-pers
 ,	O
 was	O
 Indicted	O

@@ -2680,7 +2680,7 @@ the	O
 Royal	B-place
 Exchange	I-place
 in	O
-Cornhill	B-place
+Cornhill	I-place
 ;	O
 upon	O
 Tryal	O
@@ -2890,8 +2890,8 @@ Parish	B-place
 of	I-place
 St.	I-place
 Bridgets	I-place
-alias	O
-Brides	B-place
+alias	I-place
+Brides	I-place
 ,	O
 of	O
 3	O
@@ -3301,7 +3301,7 @@ at	O
 the	O
 Chappel	O
 in	O
-Kentish	B-place
+Kentish	I-place
 Town	I-place
 ,	O
 as	O
@@ -5022,7 +5022,7 @@ three	O
 pounds	O
 from	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 ,	O
 in	O
 the	O
@@ -5066,7 +5066,7 @@ summary	O
 Elizabeth	B-pers
 Herd	I-pers
 alias	O
-Racket	B-pers
+Racket	I-pers
 ,	O
 was	O
 Tryed	O
@@ -6549,8 +6549,8 @@ Hadis	B-pers
 Legreen	I-pers
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Dunstans	O
 in	O
@@ -6580,7 +6580,7 @@ in	O
 Flowerdelis	B-place
 Court	I-place
 in	O
-Fleet-street	B-place
+Fleet-street	I-place
 between	O
 the	O
 prosecutor	O

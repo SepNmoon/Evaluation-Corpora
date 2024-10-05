@@ -152,8 +152,8 @@ Matthew	B-pers
 Jerman	I-pers
 ,	O
 Timo	B-pers
-,	I-pers
-Waldoe	I-pers
+,	O
+Waldoe	B-pers
 Richard	B-pers
 Chase	I-pers
 Samuel	B-pers
@@ -1574,9 +1574,9 @@ at	O
 the	O
 Crown	B-place
 Tavern	I-place
-behind	O
-the	O
-Exchange	O
+behind	I-place
+the	I-place
+Exchange	I-place
 ,	O
 where	O
 the	O
@@ -3762,7 +3762,7 @@ and	O
 in	O
 the	B-place
 Mint	I-place
-in	I-place
+in	O
 Southwark	I-place
 &	O
 c.	O

@@ -4286,7 +4286,7 @@ house	O
 in	O
 Bell	B-place
 Yard	I-place
-in	I-place
+in	O
 Kings-street	I-place
 ,	O
 and	O
@@ -4963,8 +4963,8 @@ Thomas	B-pers
 Bishop	I-pers
 of	I-pers
 Litchfield	I-pers
-and	I-pers
-Coventry	I-pers
+and	O
+Coventry	B-pers
 ,	O
 &	O
 c.	O

@@ -1163,8 +1163,8 @@ Parish	B-place
 of	I-place
 St.	I-place
 Bridgets	I-place
-alias	O
-Brides	B-place
+alias	I-place
+Brides	I-place
 ,	O
 London	O
 ,	O
@@ -1715,7 +1715,7 @@ the	O
 Green-Dragon	B-place
 in	O
 the	O
-Pall	B-place
+Pall	I-place
 Mall	I-place
 ,	O
 on	O
@@ -3052,8 +3052,8 @@ the	O
 Body	O
 of	O
 a	O
-Young	O
-Woman	O
+Young	B-pers
+Woman	I-pers
 on	O
 the	O
 2d	O

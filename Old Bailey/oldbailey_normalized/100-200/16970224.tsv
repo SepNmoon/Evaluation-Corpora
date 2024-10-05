@@ -797,7 +797,7 @@ Elizabeth	B-pers
 Hall	I-pers
 ,	O
 alias	O
-Guinea	B-pers
+Guinea	I-pers
 Bess	I-pers
 ,	O
 of	O
@@ -2213,7 +2213,7 @@ the	O
 Sun	B-place
 Tavern	I-place
 in	O
-Shoe-Lane	B-place
+Shoe-Lane	I-place
 ;	O
 she	O
 alledged	O
@@ -2988,7 +2988,7 @@ John	B-pers
 Sullivan	I-pers
 ,	O
 alias	O
-Davis	B-pers
+Davis	I-pers
 ,	O
 of	O
 the	O
@@ -3984,7 +3984,7 @@ Monies	O
 of	O
 Elizabeth	B-pers
 ,	O
-Countess	B-pers
+Countess	I-pers
 of	I-pers
 Anglesey	I-pers
 .	O
@@ -4179,7 +4179,7 @@ the	O
 Black	B-place
 Bull	I-place
 Inn	I-place
-in	I-place
+in	O
 Holborne	I-place
 ,	O
 and	O
@@ -6593,7 +6593,7 @@ at	O
 the	O
 Cross-Keys	B-place
 in	O
-Arundel-street	B-place
+Arundel-street	I-place
 ,	O
 and	O
 Rescuing	O
@@ -7525,7 +7525,7 @@ summary	O
 Ann	B-pers
 Miller	I-pers
 alias	O
-Baker	B-pers
+Baker	I-pers
 ,	O
 and	O
 Jane	B-pers
@@ -7902,7 +7902,7 @@ Sarah	B-pers
 Knott	I-pers
 ,	O
 alias	O
-Crelly	B-pers
+Crelly	I-pers
 ,	O
 of	O
 the	O

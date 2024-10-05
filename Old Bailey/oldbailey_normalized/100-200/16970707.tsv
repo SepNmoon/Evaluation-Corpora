@@ -2164,8 +2164,8 @@ of	I-place
 St.	I-place
 Vedast	I-place
 ,	I-place
-alias	O
-Foster-Lane	B-place
+alias	I-place
+Foster-Lane	I-place
 ,	O
 was	O
 indicted	O
@@ -3065,7 +3065,7 @@ Councellor	O
 ,	O
 in	O
 Bedford-Row	B-place
-in	I-place
+in	O
 Holbourn	I-place
 ;	O
 and	O
@@ -5875,7 +5875,7 @@ the	O
 Pine	B-place
 Apple	I-place
 in	O
-Suffolk	B-place
+Suffolk	I-place
 Street	I-place
 ,	O
 on	O

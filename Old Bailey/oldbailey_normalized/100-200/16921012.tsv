@@ -2274,7 +2274,7 @@ in	O
 Wine-Office	B-place
 Court	I-place
 in	O
-Fleet	B-place
+Fleet	I-place
 street	I-place
 (	O
 where	O
@@ -3543,7 +3543,7 @@ feloniously	O
 taking	O
 from	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 in	O
 the	O
 Street	O
@@ -4273,8 +4273,8 @@ Second	O
 ,	O
 at	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Michael	O
 in	O
@@ -5238,7 +5238,7 @@ Parish	B-place
 of	I-place
 Pancras	I-place
 near	O
-the	O
+the	I-place
 Pinder	I-place
 of	I-place
 Wakefield	I-place
@@ -5248,8 +5248,8 @@ a	O
 place	O
 call	O
 'd	O
-the	O
-Court	B-place
+the	I-place
+Court	I-place
 of	I-place
 Guard	I-place
 ,	O
@@ -6574,7 +6574,7 @@ on	O
 the	O
 backside	O
 of	O
-St.	B-place
+St.	I-place
 Clements	I-place
 as	O
 abovesaid	O
@@ -7734,7 +7734,7 @@ Butler	B-place
 's	I-place
 Ally	I-place
 in	O
-Grub-street	B-place
+Grub-street	I-place
 ;	O
 who	O
 said	O

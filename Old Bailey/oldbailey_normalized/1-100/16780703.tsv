@@ -161,14 +161,14 @@ s.	O
 out	O
 of	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 s	O
 House	O
 in	O
 the	O
-Parish	O
-of	O
-St	B-place
+Parish	B-place
+of	I-place
+St	I-place
 .	I-place
 Brides	I-place
 ;	O
@@ -348,7 +348,7 @@ Carnal	O
 knowledgeof	O
 a	O
 Maiden	O
-Child	B-pers
+Child	O
 ,	O
 under	O
 the	O
@@ -1905,7 +1905,7 @@ Death	O
 .	O
 A	O
 notable	O
-Shop-Jilt	O
+Shop-Jilt	B-pers
 ,	O
 was	O
 Tryed	O
@@ -1932,7 +1932,7 @@ in	O
 Cornhill	B-place
 ,	O
 the	O
-Gentlewoman	O
+Gentlewoman	B-pers
 that	O
 prosecuted	O
 being	O
@@ -2077,7 +2077,7 @@ ago	O
 at	O
 Dukes	B-place
 Place	I-place
-,	I-place
+,	O
 the	O
 last	O
 he	O

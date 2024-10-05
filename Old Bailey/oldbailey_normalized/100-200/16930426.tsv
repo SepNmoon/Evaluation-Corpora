@@ -272,9 +272,9 @@ who	O
 came	O
 from	O
 Taunton	B-place
-in	I-place
-the	I-place
-West	I-place
+in	O
+the	O
+West	O
 ,	O
 was	O
 tried	O
@@ -314,7 +314,7 @@ out	O
 of	O
 Ham	B-place
 Marshes	I-place
-in	I-place
+in	O
 Middlesex	I-place
 ,	O
 and	O
@@ -1578,7 +1578,7 @@ the	O
 Horshooe	B-place
 Tavern	I-place
 upon	O
-Tower-hill	B-place
+Tower-hill	I-place
 ,	O
 and	O
 they	O
@@ -1695,7 +1695,7 @@ Robert	B-pers
 Albey	I-pers
 in	O
 Dacus-street	B-place
-at	I-place
+at	O
 Westminster	I-place
 ,	O
 and	O
@@ -2418,10 +2418,10 @@ of	I-place
 St.	I-place
 Andrews	I-place
 Holborn	I-place
-,	O
-in	O
-Little	O
-Grays-Inn-Lane	B-place
+,	I-place
+in	I-place
+Little	I-place
+Grays-Inn-Lane	I-place
 ,	O
 &	O
 c.	O
@@ -3230,8 +3230,8 @@ he	O
 Married	O
 at	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 East	O
 Ardsley	O
 in	O
@@ -6065,7 +6065,7 @@ at	O
 the	O
 White	B-place
 Dragon	I-place
-in	I-place
+in	O
 Holborn	I-place
 ;	O
 he	O
@@ -7862,7 +7862,7 @@ Esq	O
 in	O
 Hadley	B-place
 near	O
-Barnet	B-place
+Barnet	I-place
 ,	O
 upon	O
 the	O
@@ -10497,7 +10497,7 @@ Ramsey	I-pers
 in	O
 Warwick-street	B-place
 at	O
-Charing	B-place
+Charing	I-place
 Cross	I-place
 of	O
 a	O

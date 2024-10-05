@@ -520,8 +520,8 @@ two	O
 Persons	O
 at	O
 Beudly	B-place
-in	I-place
-Glocestershire	I-place
+in	O
+Glocestershire	B-place
 ,	O
 which	O
 he	O
@@ -681,7 +681,7 @@ Felony	O
 Mary	B-pers
 Dakins	I-pers
 ,	O
-Alias	O
+alias	O
 Wilson	B-pers
 ,	O
 was	O
@@ -1520,12 +1520,12 @@ of	O
 Cloaths	O
 from	O
 a	O
-Boy	B-pers
+Boy	O
 in	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Bartholomew	I-place
 the	I-place
 Great	I-place

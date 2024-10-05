@@ -108,7 +108,7 @@ note	O
 was	O
 of	O
 a	O
-Woman-Servant	O
+Woman-Servant	B-pers
 ,	O
 who	O
 had	O
@@ -695,7 +695,7 @@ him	O
 till	O
 he	O
 was	O
-Master	B-pers
+master	O
 'd	O
 ;	O
 and	O
@@ -1211,8 +1211,8 @@ Coffee-house	O
 in	O
 Bell-Savage	B-place
 yard	I-place
-on	I-place
-Ludgate-hill	I-place
+on	O
+Ludgate-hill	B-place
 four	O
 or	O
 five	O
@@ -3267,7 +3267,7 @@ Starling	I-pers
 for	O
 Robbing	O
 her	O
-Master	B-pers
+Master	O
 of	O
 two	O
 hundred	O

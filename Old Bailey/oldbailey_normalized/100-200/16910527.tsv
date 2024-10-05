@@ -42,7 +42,7 @@ Reign	O
 Richard	B-pers
 Jones	I-pers
 alias	O
-Johns	B-pers
+Johns	I-pers
 ,	O
 and	O
 James	B-pers
@@ -414,7 +414,7 @@ summary	O
 Mary	B-pers
 Hayes	I-pers
 alias	O
-Harris	B-pers
+Harris	I-pers
 ,	O
 of	O
 St.	B-place
@@ -662,7 +662,7 @@ summary	O
 Anne	B-pers
 Thomas	I-pers
 alias	O
-Morris	B-pers
+Morris	I-pers
 ,	O
 was	O
 Tryed	O
@@ -800,7 +800,7 @@ Acquitted	O
 Mary	B-pers
 Jones	I-pers
 alias	O
-Fletcher	B-pers
+Fletcher	I-pers
 ,	O
 was	O
 Tryed	O
@@ -1072,10 +1072,10 @@ Christopher	B-pers
 Tremane	I-pers
 ,	O
 alias	O
-Gun	B-pers
+Gun	I-pers
 ,	O
 alias	O
-Trelawny	B-pers
+Trelawny	I-pers
 ,	O
 and	O
 John	B-pers
@@ -1879,7 +1879,7 @@ Acquitted	O
 Christopher	B-pers
 Tremane	I-pers
 alias	O
-Trelawny	B-pers
+Trelawny	I-pers
 ,	O
 was	O
 a	O
@@ -1923,7 +1923,7 @@ King	B-place
 Gate	I-place
 going	O
 to	O
-Chelsey	B-place
+Chelsey	I-place
 .	O
 Mathews	O
 swore	O
@@ -2037,7 +2037,7 @@ Guilty	O
 Susannah	B-pers
 Johnson	I-pers
 alias	O
-Tomson	B-pers
+Tomson	I-pers
 ,	O
 of	O
 Stepney	B-place

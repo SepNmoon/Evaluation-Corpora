@@ -2017,9 +2017,9 @@ Audley	I-pers
 ,	O
 in	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Giles	I-place
 without	I-place
 Cripplegate	I-place
@@ -2093,8 +2093,8 @@ Pound	O
 at	O
 the	B-place
 Roe-Buck	I-place
-in	I-place
-Fleet-street	I-place
+in	O
+Fleet-street	B-place
 ,	O
 as	O
 he	O
@@ -2315,9 +2315,9 @@ dead	O
 at	O
 Green-Berry	B-place
 Hill	I-place
-in	I-place
-the	I-place
-Parish	I-place
+in	O
+the	O
+Parish	B-place
 of	I-place
 Hampsted	I-place
 ,	O
@@ -2944,7 +2944,7 @@ Defence	O
 Produced	O
 her	O
 former	O
-Master	B-pers
+Master	O
 ,	O
 who	O
 had	O
@@ -3107,9 +3107,9 @@ the	O
 Back	O
 Back	B-place
 Temple-Gate	I-place
-,	I-place
-in	I-place
-White-Fryers	I-place
+,	O
+in	O
+White-Fryers	B-place
 :	O
 For	O
 Proof	O
@@ -3909,7 +3909,7 @@ things	O
 ,	O
 from	O
 her	O
-Master	B-pers
+Master	O
 Richard	B-pers
 Hall	I-pers
 :	O

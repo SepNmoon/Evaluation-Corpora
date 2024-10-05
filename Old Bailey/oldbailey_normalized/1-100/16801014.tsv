@@ -199,14 +199,14 @@ the	O
 Afternoon	O
 ,	O
 a	O
-Person	O
-of	O
-Honour	O
+Person	B-pers
+of	I-pers
+Honour	I-pers
 and	O
 another	O
-Gentleman	O
-of	O
-Quality	O
+Gentleman	B-pers
+of	I-pers
+Quality	I-pers
 being	O
 prosecuted	O
 as	O
@@ -363,7 +363,7 @@ Larceny	O
 for	O
 stealing	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 's	O
 Handkerchief	O
 :	O
@@ -629,7 +629,7 @@ Acquitted	O
 .	O
 A	O
 young	O
-Fellow	B-pers
+Fellow	O
 was	O
 found	O
 guilty	O
@@ -725,7 +725,7 @@ Fact	O
 .	O
 But	O
 a	O
-Broker	O
+Broker	B-pers
 Indicted	O
 as	O
 accessary	O
@@ -760,7 +760,7 @@ who	O
 had	O
 robbed	O
 her	O
-Master	B-pers
+Master	O
 ,	O
 stealing	O
 first	O
@@ -1179,8 +1179,8 @@ Coachman	O
 belonging	O
 to	O
 a	O
-Noble	O
-Person	O
+Noble	B-pers
+Person	I-pers
 ,	O
 were	O
 Tryed	O
@@ -1242,7 +1242,7 @@ added	O
 That	O
 the	O
 Coachman	O
-Arraigned	O
+Arraigned	B-pers
 with	O
 him	O
 did	O

@@ -720,7 +720,7 @@ the	O
 other	O
 ransacks	O
 the	O
-Master	B-pers
+Master	O
 and	O
 his	O
 fellow	O
@@ -830,7 +830,7 @@ to	O
 it	O
 :	O
 his	O
-Master	B-pers
+Master	O
 very	O
 generously	O
 ,	O
@@ -1011,7 +1011,7 @@ found	O
 Guilty	O
 .	O
 A	O
-Victualer	O
+Victualer	B-pers
 in	O
 St.	B-place
 Giles	I-place
@@ -1183,9 +1183,9 @@ a	O
 Midwife	O
 of	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Giles	I-place
 Cripplegate	I-place
 ,	O
@@ -1817,7 +1817,7 @@ stood	O
 charged	O
 .	O
 A	O
-Gentleman	O
+Gentleman	B-pers
 Indicted	O
 as	O
 accessary	O
@@ -1830,7 +1830,7 @@ Man	O
 in	O
 St.	B-place
 Margarets	I-place
-Westminster	B-place
+Westminster	I-place
 ,	O
 on	O
 the	O

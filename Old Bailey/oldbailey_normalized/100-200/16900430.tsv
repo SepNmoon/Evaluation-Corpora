@@ -716,10 +716,10 @@ last	O
 ,	O
 from	O
 the	O
-Honourable	O
-Company	O
-of	O
-Haberdashers	O
+Honourable	B-pers
+Company	I-pers
+of	I-pers
+Haberdashers	I-pers
 ,	O
 London	O
 ,	O
@@ -1217,7 +1217,7 @@ at	O
 the	O
 King's-Head	B-place
 in	O
-Panton's-street	B-place
+Panton's-street	I-place
 ,	O
 where	O
 the	O
@@ -3862,7 +3862,7 @@ Mary	I-place
 's	I-place
 Hole	I-place
 near	O
-Hockley	B-place
+Hockley	I-place
 in	I-place
 the	I-place
 Hole	I-place
@@ -5677,8 +5677,8 @@ Martin	B-pers
 Ives	I-pers
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 James	O
 Clerkenwell	O

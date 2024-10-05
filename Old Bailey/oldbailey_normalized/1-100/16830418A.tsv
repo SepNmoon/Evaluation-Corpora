@@ -180,7 +180,7 @@ who	O
 was	O
 then	O
 her	O
-Master	B-pers
+Master	O
 ;	O
 to	O
 which	O
@@ -530,7 +530,7 @@ the	O
 absence	O
 of	O
 her	O
-Master	B-pers
+Master	O
 and	O
 Mistris	O
 ;	O
@@ -665,11 +665,11 @@ Freeman	I-pers
 at	O
 the	B-place
 Crown	I-place
-in	I-place
-the	I-place
-Old	I-place
+in	O
+the	O
+Old	B-place
 Palace-Yard	I-place
-Westminster	I-place
+Westminster	B-place
 ,	O
 to	O
 which	O
@@ -1083,9 +1083,9 @@ last	O
 near	O
 the	B-place
 May-pole	I-place
-in	I-place
-the	I-place
-Strand	I-place
+in	O
+the	O
+Strand	B-place
 ,	O
 the	O
 quarrel	O
@@ -1215,7 +1215,7 @@ summary	O
 John	B-pers
 Littleton	I-pers
 ,	O
-Alias	O
+alias	O
 Bauts	B-pers
 ,	O
 was	O
@@ -1353,7 +1353,7 @@ their	O
 oportunity	O
 bound	O
 the	O
-Master	B-pers
+Master	O
 his	O
 Servants	O
 ,	O

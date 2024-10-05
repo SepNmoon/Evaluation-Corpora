@@ -239,8 +239,8 @@ Parish	O
 who	O
 had	O
 a	O
-Parish	O
-Clarke	O
+Parish	B-pers
+Clarke	I-pers
 going	O
 before	O
 them	O
@@ -440,7 +440,7 @@ came	O
 privately	O
 into	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 's	O
 house	O
 in	O
@@ -606,7 +606,7 @@ Pitty	O
 ,	O
 a	O
 little	O
-Boy	B-pers
+Boy	O
 about	O
 Twelve	O
 Years	O
@@ -1386,7 +1386,7 @@ the	O
 rest	O
 .	O
 Another	O
-Fellow	B-pers
+Fellow	O
 ,	O
 living	O
 about	O

@@ -70,7 +70,7 @@ who	O
 Robb	O
 'd	O
 his	O
-Master	B-pers
+Master	O
 ,	O
 and	O
 his	O
@@ -294,7 +294,7 @@ Treacherous	O
 Servant	O
 upon	O
 his	O
-Master	B-pers
+Master	O
 .	O
 Thirdly	O
 of	O
@@ -324,9 +324,9 @@ a	O
 Woman	O
 of	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Martins	I-place
 in	I-place
 the	I-place
@@ -804,7 +804,7 @@ for	O
 Robing	O
 his	O
 said	O
-Master	B-pers
+Master	O
 of	O
 several	O
 Sumes	O
@@ -833,7 +833,7 @@ House	O
 of	O
 his	O
 said	O
-Master	B-pers
+Master	O
 ,	O
 and	O
 Felonious	O
@@ -1322,7 +1322,7 @@ yeares	O
 old	O
 ,	O
 the	O
-Child	B-pers
+Child	O
 was	O
 there	O
 and	O

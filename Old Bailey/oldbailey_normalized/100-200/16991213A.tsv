@@ -68,10 +68,10 @@ of	I-place
 St.	I-place
 Gabriel	I-place
 Fanchurch	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Langborne	I-place
 ,	O
@@ -780,7 +780,7 @@ to	O
 Powis-Hall	B-place
 ,	O
 near	O
-Lincolns-Inn-Fields	B-place
+Lincolns-Inn-Fields	I-place
 ,	O
 and	O
 knock	O
@@ -1545,10 +1545,10 @@ Rebecca	B-pers
 Petty	I-pers
 ,	O
 alias	O
-Adams	B-pers
+Adams	I-pers
 ,	O
 alias	O
-Jones	B-pers
+Jones	I-pers
 ,	O
 was	O
 Indicted	O

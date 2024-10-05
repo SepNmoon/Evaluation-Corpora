@@ -1873,7 +1873,7 @@ the	O
 Half	B-place
 Moon	I-place
 in	O
-Drury-lane	B-place
+Drury-lane	I-place
 ,	O
 in	O
 a	O
@@ -2109,7 +2109,7 @@ in	O
 Mashomes	B-place
 street	I-place
 at	O
-Westminster	B-place
+Westminster	I-place
 ;	O
 and	O
 in	O
@@ -5232,7 +5232,7 @@ Saywell	I-pers
 at	O
 the	B-place
 Rose	I-place
-in	I-place
+in	O
 Newgate-street	I-place
 ,	O
 value	O
@@ -5645,7 +5645,7 @@ searcht	O
 in	O
 Katharine-Wheel-Alley	B-place
 in	O
-White-Chappel	B-place
+White-Chappel	I-place
 ,	O
 there	O
 was	O
@@ -5951,7 +5951,7 @@ Prisoner	O
 Garret	O
 in	O
 Kings-street	B-place
-at	I-place
+at	O
 Tower-hill	I-place
 ,	O
 were	O
@@ -6141,7 +6141,7 @@ in	O
 Green-Dragon	B-place
 Court	I-place
 in	O
-Grays-Inn	B-place
+Grays-Inn	I-place
 lane	I-place
 ,	O
 on	O
@@ -6668,7 +6668,7 @@ of	O
 the	O
 Wheat-sheaf	B-place
 on	O
-Ludgate-hill	B-place
+Ludgate-hill	I-place
 ,	O
 and	O
 changed	O
@@ -6718,7 +6718,7 @@ at	O
 the	B-place
 Bell	I-place
 in	O
-Warwick-lane	B-place
+Warwick-lane	I-place
 ,	O
 on	O
 the	O

@@ -287,7 +287,7 @@ Jacob	I-pers
 in	O
 Falcon-Court	B-place
 in	O
-Shooe-Lane	B-place
+Shooe-Lane	I-place
 ,	O
 about	O
 the	O
@@ -1166,7 +1166,7 @@ Thomas	B-pers
 Cook	I-pers
 ,	O
 alias	O
-Brown	B-pers
+Brown	I-pers
 ,	O
 and	O
 Peter	B-pers
@@ -1862,7 +1862,7 @@ in	O
 Sutton-street	B-place
 ,	O
 at	O
-Westminster	B-place
+Westminster	I-place
 ,	O
 were	O
 found	O
@@ -2380,7 +2380,7 @@ walking	O
 along	O
 Castle-street	B-place
 in	O
-Long-Acre	B-place
+Long-Acre	I-place
 last	O
 Good-Friday	O
 at	O
@@ -3048,7 +3048,7 @@ Mary	B-pers
 Nace	I-pers
 ,	O
 alias	O
-White	B-pers
+White	I-pers
 ,	O
 was	O
 tried	O
@@ -3593,7 +3593,7 @@ Gertrude	B-pers
 Smith	I-pers
 ,	O
 alias	O
-Davis	B-pers
+Davis	I-pers
 ,	O
 was	O
 tried	O
@@ -5599,7 +5599,7 @@ Jane	B-pers
 Lark	I-pers
 ,	O
 alias	O
-Lyon	B-pers
+Lyon	I-pers
 ,	O
 tried	O
 for	O
@@ -6822,7 +6822,7 @@ her	O
 at	O
 the	B-place
 George	I-place
-in	I-place
+in	O
 Newtner	I-place
 's	I-place
 Lane	I-place
@@ -7302,7 +7302,7 @@ Hannah	B-pers
 Woolley	I-pers
 ,	O
 alias	O
-Barry	B-pers
+Barry	I-pers
 ,	O
 was	O
 singly	O
@@ -7772,7 +7772,7 @@ Mary	B-pers
 King	I-pers
 ,	O
 alias	O
-Godman	B-pers
+Godman	I-pers
 ,	O
 was	O
 tried	O
@@ -8058,7 +8058,7 @@ Hannah	B-pers
 Woolley	I-pers
 ,	O
 alias	O
-Barry	B-pers
+Barry	I-pers
 ,	O
 and	O
 James	B-pers
@@ -8308,7 +8308,7 @@ Cock-hill	B-place
 ,	O
 in	O
 the	O
-Parish	B-place
+Parish	I-place
 of	I-place
 Shadwell	I-place
 upon	O

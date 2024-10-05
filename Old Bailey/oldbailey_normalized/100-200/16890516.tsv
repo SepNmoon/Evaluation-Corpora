@@ -1083,7 +1083,7 @@ Jane	B-pers
 Stanley	I-pers
 ,	O
 alias	O
-Stavely	B-pers
+Stavely	I-pers
 :	O
 But	O
 the	O
@@ -2185,7 +2185,7 @@ Katharine	B-pers
 White	I-pers
 ,	O
 alias	O
-Whitewood	B-pers
+Whitewood	I-pers
 ,	O
 and	O
 Elizabeth	B-pers
@@ -5536,7 +5536,7 @@ the	O
 Globe	B-place
 Tavern	I-place
 in	O
-Holbourn	B-place
+Holbourn	I-place
 ,	O
 of	O
 2	O
@@ -5885,9 +5885,9 @@ s	O
 House	O
 at	O
 Uxenden	B-place
-in	I-place
+in	O
 row	I-place
-Parish	O
+Parish	I-place
 ,	O
 at	O
 aforesaid	O
@@ -6191,7 +6191,7 @@ in	O
 Rose	B-place
 street	I-place
 at	O
-Long-Acre	B-place
+Long-Acre	I-place
 ,	O
 kept	O
 by	O
@@ -6813,7 +6813,7 @@ Wapping	O
 ,	O
 and	O
 the	O
-Prosecutor	O
+Prosecutor	B-pers
 owned	O
 the	O
 weights	O
@@ -9336,9 +9336,9 @@ the	O
 Parish	B-place
 of	I-place
 Norway	I-place
-in	O
-the	O
-County	B-place
+in	I-place
+the	I-place
+County	I-place
 of	I-place
 Middlesex	I-place
 ,	O
@@ -11698,10 +11698,10 @@ St.	O
 Katharines	O
 ,	O
 to	O
-the	O
-Cock	O
+the	B-place
+Cock	I-place
 in	O
-Aldersgate-street	B-place
+Aldersgate-street	I-place
 ,	O
 and	O
 there	O

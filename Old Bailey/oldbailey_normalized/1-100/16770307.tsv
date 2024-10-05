@@ -1358,7 +1358,7 @@ Goods	O
 out	O
 of	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 s	O
 house	O
 in	O
@@ -1667,7 +1667,7 @@ prov	O
 to	O
 .	O
 A	O
-Gentleman	O
+Gentleman	B-pers
 took	O
 a	O
 Tryal	O
@@ -1752,7 +1752,7 @@ the	O
 same	O
 .	O
 Another	O
-Gentleman	O
+Gentleman	B-pers
 likewise	O
 had	O
 the	O
@@ -1770,7 +1770,7 @@ unhappily	O
 killed	O
 an	O
 Irish	O
-Gentleman	O
+Gentleman	B-pers
 that	O
 interpre	O
 'd	O
@@ -1779,7 +1779,7 @@ part	O
 them	O
 .	O
 A	O
-Fellow	B-pers
+Fellow	O
 that	O
 had	O
 stolen	O
@@ -1791,8 +1791,8 @@ Five	O
 pound	O
 at	O
 Brenchly	B-place
-in	I-place
-Kent	I-place
+in	O
+Kent	B-place
 ,	O
 and	O
 brought	O

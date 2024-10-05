@@ -1716,9 +1716,9 @@ Townsend	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
-St.	I-place
+Parish	O
+of	O
+St.	B-place
 Peter	I-place
 le	I-place
 Bone	I-place
@@ -5017,7 +5017,7 @@ discharged	O
 Joan	B-pers
 Brown	I-pers
 alias	O
-Varlen	B-pers
+Varlen	I-pers
 ,	O
 was	O
 tryed	O
@@ -5288,7 +5288,7 @@ Acquitted	O
 Elizabeth	B-pers
 Jones	I-pers
 alias	O
-Fyrmin	B-pers
+Fyrmin	I-pers
 ,	O
 was	O
 indicted	O
@@ -5381,7 +5381,7 @@ Ann	B-pers
 Hereford	I-pers
 ,	O
 alias	O
-Roberts	B-pers
+Roberts	I-pers
 ,	O
 was	O
 likewise	O

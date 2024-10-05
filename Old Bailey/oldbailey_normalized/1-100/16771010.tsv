@@ -363,8 +363,8 @@ a	O
 Warehouse	O
 neer	O
 Barking-Church	B-place
-by	I-place
-the	I-place
+by	O
+the	B-place
 Tower	I-place
 :	O
 he	O
@@ -895,9 +895,9 @@ Sep.	O
 8.	O
 in	O
 the	O
-Parish	O
-of	O
-Southwine	B-place
+Parish	B-place
+of	I-place
+Southwine	I-place
 ,	O
 neer	O
 a	O
@@ -905,9 +905,9 @@ place	O
 called	O
 Potters	B-place
 Bar	I-place
-in	I-place
-the	I-place
-County	I-place
+in	O
+the	O
+County	B-place
 of	I-place
 Middlesex	I-place
 :	O
@@ -1088,7 +1088,7 @@ Tradesman	O
 he	O
 acquainted	O
 his	O
-Master	B-pers
+Master	O
 ;	O
 who	O
 examining	O
@@ -1436,8 +1436,8 @@ other	O
 Indictments	O
 about	O
 a	O
-Gentlemans	O
-Servant	O
+Gentlemans	B-pers
+Servant	I-pers
 that	O
 was	O
 killed	O
@@ -1566,7 +1566,7 @@ them	O
 one	O
 of	O
 the	O
-Owners	O
+Owners	B-pers
 pursuing	O
 ,	O
 got	O
@@ -1616,7 +1616,7 @@ summary	O
 .	O
 ]	O
 A	O
-Fellow	B-pers
+Fellow	O
 coming	O
 into	O
 an	O

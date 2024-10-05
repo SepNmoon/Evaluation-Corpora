@@ -741,10 +741,10 @@ Margaret	B-pers
 Smith	I-pers
 ,	O
 alias	O
-Pledwell	B-pers
+Pledwell	I-pers
 ,	O
 alias	O
-Vaughan	B-pers
+Vaughan	I-pers
 ,	O
 was	O
 Tryed	O
@@ -1924,7 +1924,7 @@ Mary	B-pers
 Stoakes	I-pers
 ,	O
 alias	O
-Adams	B-pers
+Adams	I-pers
 ,	O
 was	O
 Indicted	O
@@ -2240,7 +2240,7 @@ summary	O
 Judith	B-pers
 Rolphe	I-pers
 alias	O
-Peirce	B-pers
+Peirce	I-pers
 ,	O
 was	O
 Arraigned	O
@@ -2933,7 +2933,7 @@ in	O
 Gravel	B-place
 Lane	I-place
 in	O
-Ratcliff	B-place
+Ratcliff	I-place
 high-way	I-place
 .	O
 The	O
@@ -4542,7 +4542,7 @@ Susan	B-pers
 Morris	I-pers
 ,	O
 alias	O
-Knight	B-pers
+Knight	I-pers
 ,	O
 not	O
 taken	O
@@ -4714,7 +4714,7 @@ Acquitted	O
 John	B-pers
 Delamot	I-pers
 alias	O
-Delabowre	B-pers
+Delabowre	I-pers
 ,	O
 was	O
 Tried	O
@@ -5009,8 +5009,8 @@ Clench	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Andrew	O
 's	O
@@ -5849,7 +5849,7 @@ Elizabeth	B-pers
 Pynes	I-pers
 ,	O
 alias	O
-Pearson	B-pers
+Pearson	I-pers
 ,	O
 and	O
 Mary	B-pers
@@ -6448,7 +6448,7 @@ and	O
 Mary	B-pers
 Noon	I-pers
 alias	O
-Wharton	B-pers
+Wharton	I-pers
 his	O
 Wife	O
 were	O
@@ -7503,7 +7503,7 @@ at	O
 the	O
 Red-Lyon	B-place
 at	O
-Brandford	B-place
+Brandford	I-place
 ,	O
 drinking	O
 a	O

@@ -403,13 +403,13 @@ Katheren	B-pers
 Douglas	I-pers
 ,	O
 alias	O
-Cary	B-pers
+Cary	I-pers
 ,	O
 alias	O
-Pather	B-pers
+Pather	I-pers
 ,	O
 alias	O
-Stewart	B-pers
+Stewart	I-pers
 ,	O
 as	O
 Accessory	O
@@ -1327,7 +1327,7 @@ Henry	B-pers
 Conniers	I-pers
 ,	O
 alias	O
-Collier	B-pers
+Collier	I-pers
 ,	O
 of	O
 St.	B-place
@@ -2087,7 +2087,7 @@ John	B-pers
 Thomas	I-pers
 ,	O
 alias	O
-Black	B-pers
+Black	I-pers
 Guard	I-pers
 Jack	I-pers
 ,	O
@@ -2626,7 +2626,7 @@ Deiy	I-pers
 of	O
 Hillingdon	B-place
 in	O
-Middlesex	B-place
+Middlesex	I-place
 ,	O
 was	O
 Indicted	O
@@ -4269,7 +4269,7 @@ at	O
 the	O
 Horseshoe-Tavern	B-place
 in	O
-Chancery-lane	B-place
+Chancery-lane	I-place
 ,	O
 where	O
 they	O
@@ -5290,7 +5290,7 @@ summary	O
 Elizabeth	B-pers
 Hall	I-pers
 alias	O
-Web	B-pers
+Web	I-pers
 ,	O
 of	O
 St.	B-place
@@ -5903,7 +5903,7 @@ Peter	B-pers
 Bennet	I-pers
 ,	O
 alias	O
-French	B-pers
+French	I-pers
 Peter	I-pers
 ,	O
 of	O
@@ -7164,7 +7164,7 @@ John	B-pers
 Sherly	I-pers
 ,	O
 alias	O
-Searle	B-pers
+Searle	I-pers
 ,	O
 was	O
 Indicted	O
@@ -8303,10 +8303,10 @@ Francis	B-pers
 Havata	I-pers
 ,	O
 alias	O
-Sanguinisca	B-pers
+Sanguinisca	I-pers
 ,	O
 alias	O
-John	B-pers
+John	I-pers
 Baptista	I-pers
 ,	O
 of	O
@@ -8900,7 +8900,7 @@ into	O
 the	O
 Sun-Tavern	B-place
 on	O
-Snow	B-place
+Snow	I-place
 hill	I-place
 ;	O
 and	O

@@ -541,7 +541,7 @@ George	B-pers
 Green	I-pers
 ,	O
 alias	O
-Allen	B-pers
+Allen	I-pers
 ,	O
 and	O
 William	B-pers
@@ -1611,8 +1611,8 @@ Hutton	I-pers
 ,	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St	O
 .	O
 Brides	O
@@ -2128,7 +2128,7 @@ Mary	B-pers
 Stokes	I-pers
 ,	O
 alias	O
-Edwards	B-pers
+Edwards	I-pers
 ,	O
 was	O
 tried	O
@@ -4663,7 +4663,7 @@ Mr	O
 King	O
 's	O
 Wharf	B-place
-at	I-place
+at	O
 Horslie-Down	I-place
 :	O
 The	O
@@ -5193,7 +5193,7 @@ Lane	I-place
 end	O
 going	O
 to	O
-Finchly	B-place
+Finchly	I-place
 ,	O
 the	O
 Prisoner	O
@@ -5708,8 +5708,8 @@ near	O
 the	O
 May	B-place
 Pole	I-place
-in	I-place
-the	I-place
+in	O
+the	O
 Strand	I-place
 fighting	O
 ,	O
@@ -7666,7 +7666,7 @@ Hannah	B-pers
 Brown	I-pers
 ,	O
 alias	O
-Batson	B-pers
+Batson	I-pers
 ,	O
 and	O
 Esther	B-pers
@@ -8122,7 +8122,7 @@ Dorothy	B-pers
 Springall	I-pers
 ,	O
 alias	O
-Springet	B-pers
+Springet	I-pers
 ,	O
 the	O
 Mother	O
@@ -8132,7 +8132,7 @@ Susan	B-pers
 Springall	I-pers
 ,	O
 alias	O
-Springet	B-pers
+Springet	I-pers
 ,	O
 the	O
 Daughter	O

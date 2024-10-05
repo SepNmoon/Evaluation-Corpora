@@ -1113,8 +1113,8 @@ over	O
 against	O
 the	O
 Rose-Tavern	B-place
-in	I-place
-Covent	I-place
+in	O
+Covent	B-place
 garden	I-place
 ,	O
 was	O
@@ -1842,7 +1842,7 @@ be	O
 found	O
 .	O
 The	O
-Gentleman	O
+Gentleman	B-pers
 that	O
 lost	O
 it	O
@@ -2082,8 +2082,8 @@ of	O
 his	O
 Excellencies	O
 the	O
-Portugal	O
-Embassadors	O
+Portugal	B-pers
+Embassadors	I-pers
 ,	O
 whose	O
 Arms	O
@@ -2368,7 +2368,7 @@ one	O
 for	O
 robbing	O
 her	O
-Master	B-pers
+Master	O
 of	O
 goods	O
 to	O

@@ -366,7 +366,7 @@ James	B-pers
 Lerow	I-pers
 ,	O
 alias	O
-Leroch	B-pers
+Leroch	I-pers
 ,	O
 and	O
 Joseph	B-pers
@@ -3969,7 +3969,7 @@ backside	O
 of	O
 Southampton-House	B-place
 in	O
-Bloomsbury	B-place
+Bloomsbury	I-place
 ,	O
 they	O
 Fought	O
@@ -7192,8 +7192,8 @@ last	O
 ,	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Giles	O
 Cripple-Gate	O
@@ -7915,8 +7915,8 @@ Andrew	B-pers
 Vaughan	I-pers
 of	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Andrew	O
 Holbourn	O

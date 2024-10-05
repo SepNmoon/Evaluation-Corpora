@@ -180,7 +180,7 @@ Man	O
 for	O
 killing	O
 a	O
-Gunsmith	O
+Gunsmith	B-pers
 in	O
 St.	B-place
 Martins	I-place
@@ -712,9 +712,9 @@ a	O
 Burghlary	O
 in	O
 the	O
-Parish	O
-of	O
-Paddington	B-place
+Parish	B-place
+of	I-place
+Paddington	I-place
 ,	O
 on	O
 the	O
@@ -1023,7 +1023,7 @@ Linnen	O
 ,	O
 from	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 whose	O
 House	O
 was	O
@@ -1069,7 +1069,7 @@ discharged	O
 .	O
 A	O
 Yorkshire	O
-Lass	O
+Lass	B-pers
 ,	O
 having	O
 to	O
@@ -1194,7 +1194,7 @@ her	O
 whereupon	O
 ,	O
 the	O
-Grocer	O
+Grocer	B-pers
 heard	O
 of	O
 the	O
@@ -1203,7 +1203,7 @@ business	O
 &	O
 c.	O
 A	O
-Footman	O
+Footman	B-pers
 Indicted	O
 for	O
 stealing	O
@@ -1268,7 +1268,7 @@ instant	O
 October	O
 .	O
 The	O
-Prisoners	O
+Prisoners	B-pers
 and	O
 two	O
 others	O
@@ -1496,7 +1496,7 @@ April	O
 last	O
 ,	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 of	O
 my	O
 Lord	O
@@ -1970,7 +1970,7 @@ the	O
 hand	O
 .	O
 An	O
-Engraver	O
+Engraver	B-pers
 Indicted	O
 a	O
 young	O
@@ -2350,7 +2350,7 @@ Publick	O
 house	O
 in	O
 James-street	B-place
-,	I-place
+,	O
 Westminster	B-place
 ,	O
 indicted	O
@@ -2764,7 +2764,7 @@ stealing	O
 Cloaths	O
 from	O
 his	O
-Master	B-pers
+Master	O
 ,	O
 to	O
 the	O

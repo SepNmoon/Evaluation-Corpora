@@ -217,9 +217,9 @@ Anne	B-pers
 Hughes	I-pers
 of	O
 the	O
-Parish	B-place
-of	I-place
-St.	I-place
+Parish	O
+of	O
+St.	B-place
 Dunstans	I-place
 in	I-place
 the	I-place
@@ -1613,7 +1613,7 @@ summary	O
 John	B-pers
 Kibworth	I-pers
 alias	O
-Savidge	B-pers
+Savidge	I-pers
 ,	O
 was	O
 tryed	O
@@ -2608,7 +2608,7 @@ acquitted	O
 Abigail	B-pers
 Hansley	I-pers
 alias	O
-Hunsley	B-pers
+Hunsley	I-pers
 ,	O
 and	O
 Ruth	B-pers
@@ -2992,7 +2992,7 @@ summary	O
 Robert	B-pers
 Young	I-pers
 alias	O
-Smith	B-pers
+Smith	I-pers
 a	O
 Minister	O
 ,	O

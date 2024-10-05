@@ -300,7 +300,7 @@ last	O
 to	O
 Rob	O
 her	O
-Master	B-pers
+Master	O
 of	O
 three	O
 Diamond	O
@@ -479,8 +479,8 @@ the	O
 three	B-place
 Black	I-place
 Birds	I-place
-in	I-place
-Warwick	I-place
+in	O
+Warwick	B-place
 Lane	I-place
 ;	O
 the	O
@@ -578,9 +578,9 @@ Cock	O
 ,	O
 in	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Giles	I-place
 Cripplegate	I-place
 (	O
@@ -1123,9 +1123,9 @@ man	O
 ,	O
 in	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Martins	I-place
 in	I-place
 the	I-place

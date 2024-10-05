@@ -1312,7 +1312,7 @@ lost	O
 in	O
 Kings	B-place
 street	I-place
-,	I-place
+,	O
 Westminster	I-place
 ,	O
 taken	O
@@ -2628,7 +2628,7 @@ PARTY-JURY	O
 John	B-pers
 Cogghill	I-pers
 Nicho	B-pers
-,	I-pers
+,	O
 Romane	I-pers
 Randal	B-pers
 Nicholl	I-pers

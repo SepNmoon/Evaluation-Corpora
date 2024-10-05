@@ -577,7 +577,7 @@ accordingly	O
 After	O
 these	O
 a	O
-Boy	B-pers
+Boy	O
 of	O
 about	O
 fourteen	O
@@ -621,9 +621,9 @@ Yeoman	O
 in	O
 the	O
 said	O
-County	O
-of	O
-Northampton	B-place
+County	B-place
+of	I-place
+Northampton	I-place
 ,	O
 was	O
 employed	O
@@ -1128,8 +1128,8 @@ him	O
 were	O
 Tryed	O
 other	O
-3	O
-Persons	O
+3	B-pers
+Persons	I-pers
 for	O
 Padding	O
 upon	O
@@ -1617,7 +1617,7 @@ for	O
 breaking	O
 open	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 s	O
 House	O
 at	O

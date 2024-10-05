@@ -594,7 +594,7 @@ summary	O
 Thomas	B-pers
 Barret	I-pers
 alias	O
-Barnell	B-pers
+Barnell	I-pers
 of	O
 the	O
 Parish	B-place
@@ -1232,7 +1232,7 @@ end	O
 of	O
 Rose-Alley	B-place
 in	O
-Red-Lyon	B-place
+Red-Lyon	I-place
 Fields	I-place
 ,	O
 and	O
@@ -3490,9 +3490,9 @@ of	I-place
 St.	I-place
 Mary	I-place
 Matfellon	I-place
-,	I-place
+,	O
 alias	O
-White-chappel	B-place
+White-chappel	I-place
 ,	O
 was	O
 indicted	O
@@ -3761,7 +3761,7 @@ Guilty	O
 James	B-pers
 Barrow	I-pers
 alias	O
-Levingstone	B-pers
+Levingstone	I-pers
 ,	O
 of	O
 the	O
@@ -4252,8 +4252,8 @@ and	O
 lived	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Buttolphs	O
 Bishopsgate	O

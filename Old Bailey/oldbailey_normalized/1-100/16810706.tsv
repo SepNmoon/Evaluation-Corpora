@@ -125,7 +125,7 @@ picked	O
 out	O
 of	O
 a	O
-Gentlewoman	O
+Gentlewoman	B-pers
 s	O
 Pocket	O
 as	O
@@ -784,7 +784,7 @@ Bailiffs	O
 had	O
 Seised	O
 his	O
-Master	B-pers
+Master	O
 ,	O
 so	O
 inraged	O
@@ -1669,8 +1669,8 @@ Will	B-pers
 Buckly	I-pers
 ,	O
 Will	B-pers
-,	I-pers
-Richardson	I-pers
+,	O
+Richardson	B-pers
 ,	O
 Tho	B-pers
 Gibson	I-pers

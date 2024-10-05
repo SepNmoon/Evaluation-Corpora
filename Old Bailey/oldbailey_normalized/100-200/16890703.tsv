@@ -4705,7 +4705,7 @@ the	O
 Bear	B-place
 Garden	I-place
 near	O
-Hockley	B-place
+Hockley	I-place
 in	I-place
 the	I-place
 Hole	I-place
@@ -6069,8 +6069,8 @@ Adams	I-pers
 ,	O
 Wife	O
 of	O
--	O
-Adams	B-pers
+-	B-pers
+Adams	I-pers
 ,	O
 alias	O
 Mary	B-pers

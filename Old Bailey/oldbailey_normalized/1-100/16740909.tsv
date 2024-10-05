@@ -598,8 +598,8 @@ guilty	O
 of	O
 killing	O
 a	O
-Brewers	O
-Servant	O
+Brewers	B-pers
+Servant	I-pers
 in	O
 White-cross-street	B-place
 ,	O
@@ -805,7 +805,7 @@ High-gate	B-place
 upon	O
 a	O
 Country	O
-Higler	B-pers
+Higler	O
 ,	O
 who	O
 being	O

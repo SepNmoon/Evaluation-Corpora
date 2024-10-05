@@ -5108,7 +5108,7 @@ Branton	B-place
 Gleeford	I-place
 in	O
 the	O
-County	B-place
+County	I-place
 of	I-place
 Wilts	I-place
 ,	O
@@ -6455,11 +6455,11 @@ first	O
 for	O
 Robbing	O
 Mary	B-pers
-the	I-pers
+the	O
 Wife	O
 of	O
-one	O
-Dukes	B-pers
+one	B-pers
+Dukes	I-pers
 ,	O
 of	O
 a	O
@@ -6488,7 +6488,7 @@ in	O
 at	O
 Stoutbridge	B-place
 near	O
-Kingstone	B-place
+Kingstone	I-place
 of	O
 3s	O
 .	O

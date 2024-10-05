@@ -199,9 +199,9 @@ man	O
 servant	O
 to	O
 a	O
-Person	O
-of	O
-Quality	O
+Person	B-pers
+of	I-pers
+Quality	I-pers
 ,	O
 who	O
 was	O
@@ -214,7 +214,7 @@ pounds	O
 from	O
 his	O
 said	O
-Master	B-pers
+Master	O
 ;	O
 but	O
 thought	O
@@ -476,9 +476,9 @@ of	O
 quality	O
 in	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Giles	I-place
 's	I-place
 in	I-place
@@ -597,7 +597,7 @@ divertisement	O
 ,	O
 with	O
 their	O
-Landlord	O
+Landlord	B-pers
 ,	O
 and	O
 he	O
@@ -1158,7 +1158,7 @@ shop	O
 and	O
 desired	O
 the	O
-Master	B-pers
+Master	O
 thereof	O
 to	O
 give	O
@@ -2026,7 +2026,7 @@ some	O
 Watches	O
 for	O
 his	O
-Master	B-pers
+Master	O
 ;	O
 after	O
 he	O
@@ -2052,7 +2052,7 @@ send	O
 them	O
 to	O
 his	O
-Master	B-pers
+Master	O
 ,	O
 he	O
 therefore	O
@@ -2088,7 +2088,7 @@ them	O
 up	O
 to	O
 his	O
-Master	B-pers
+Master	O
 ,	O
 whom	O
 he	O

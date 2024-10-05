@@ -364,7 +364,7 @@ Silk	O
 out	O
 of	O
 a	O
-Mercer	O
+Mercer	B-pers
 s	O
 shop	O
 ,	O
@@ -401,7 +401,7 @@ stealing	O
 Linnen	O
 from	O
 a	O
-Gentlewoman	O
+Gentlewoman	B-pers
 in	O
 the	O
 Parish	O
@@ -1414,9 +1414,9 @@ of	O
 Red-wood	O
 from	O
 the	O
-Royal	O
-African	O
-Company	O
+Royal	B-pers
+African	I-pers
+Company	I-pers
 ,	O
 which	O
 was	O
@@ -1537,7 +1537,7 @@ guilty	O
 for	O
 Robbing	O
 her	O
-Master	B-pers
+Master	O
 William	B-pers
 Palmer	I-pers
 of	O

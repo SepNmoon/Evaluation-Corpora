@@ -297,10 +297,10 @@ of	I-place
 St.	I-place
 Catherines	I-place
 Colemans	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Aldgate	I-place
 ,	O
@@ -1266,7 +1266,7 @@ Elizabeth	B-pers
 Clark	I-pers
 ,	O
 alias	O
-Chalkley	B-pers
+Chalkley	I-pers
 ,	O
 of	O
 the	O
@@ -1395,7 +1395,7 @@ Tanfield	B-place
 Court	I-place
 in	O
 the	O
-Inner-Temple	B-place
+Inner-Temple	I-place
 ,	O
 on	O
 the	O
@@ -1608,10 +1608,10 @@ of	I-place
 St.	I-place
 Mary	I-place
 Somerset	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Queenhithe	I-place
 ,	O
@@ -3116,7 +3116,7 @@ Alice	B-pers
 Hudson	I-pers
 ,	O
 alias	O
-Hall	B-pers
+Hall	I-pers
 ,	O
 of	O
 the	O
@@ -3178,8 +3178,8 @@ of	I-place
 St.	I-place
 Vedast	I-place
 ,	I-place
-alias	O
-Fosters	B-place
+alias	I-place
+Fosters	I-place
 ,	O
 was	O
 Indicted	O
@@ -3405,7 +3405,7 @@ in	O
 Goose-Alley	B-place
 ,	O
 in	O
-Seacole-Lane	B-place
+Seacole-Lane	I-place
 ,	O
 but	O
 pursuing	O
@@ -4763,7 +4763,7 @@ St.	I-place
 Magnes	I-place
 Martyr	I-place
 by	O
-the	B-place
+the	O
 Bridge	I-place
 ,	O
 was	O
@@ -4834,7 +4834,7 @@ Elizabeth	B-pers
 Webster	I-pers
 ,	O
 alias	O
-Merry	B-pers
+Merry	I-pers
 ,	O
 and	O
 Mary	B-pers
@@ -5783,7 +5783,7 @@ John	B-pers
 Payden	I-pers
 ,	O
 alias	O
-Thomas	B-pers
+Thomas	I-pers
 Lock	I-pers
 ,	O
 of	O
@@ -5792,12 +5792,12 @@ Parish	B-place
 of	I-place
 St.	I-place
 Anns	I-place
-,	O
-in	O
-the	O
-Liberty	O
-of	O
-Westminster	B-place
+,	I-place
+in	I-place
+the	I-place
+Liberty	I-place
+of	I-place
+Westminster	I-place
 ,	O
 as	O
 Principal	O
@@ -5839,8 +5839,8 @@ was	O
 Married	O
 at	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 James	O
 Dukes-place	O
@@ -5856,7 +5856,7 @@ of	I-place
 St.	I-place
 Anns	I-place
 Westminster	I-place
-,	I-place
+,	O
 on	O
 the	O
 29th	O
@@ -6905,7 +6905,7 @@ summary	O
 Pelham	B-pers
 ,	O
 alias	O
-Philip	B-pers
+Philip	I-pers
 Corbett	I-pers
 ,	O
 John	B-pers
@@ -7313,7 +7313,7 @@ Joseph	B-pers
 Oxon	I-pers
 ,	O
 alias	O
-Oxley	B-pers
+Oxley	I-pers
 ,	O
 of	O
 the	O
@@ -7444,7 +7444,7 @@ William	B-pers
 Bartholomew	I-pers
 ,	O
 alias	O
-Spott	B-pers
+Spott	I-pers
 ,	O
 and	O
 William	B-pers
@@ -7469,7 +7469,7 @@ Coach-house	O
 of	O
 Charles	B-pers
 ,	O
-Earl	B-pers
+Earl	I-pers
 of	I-pers
 Dorset	I-pers
 ,	O
@@ -7770,7 +7770,7 @@ Susan	B-pers
 Mason	I-pers
 ,	O
 alias	O
-Mawson	B-pers
+Mawson	I-pers
 ,	O
 of	O
 the	O
@@ -8118,7 +8118,7 @@ Alice	B-pers
 Reading	I-pers
 ,	O
 alias	O
-Flood	B-pers
+Flood	I-pers
 ,	O
 of	O
 the	O
@@ -9411,7 +9411,7 @@ Mary	B-pers
 Bunch	I-pers
 ,	O
 alias	O
-Robinson	B-pers
+Robinson	I-pers
 ,	O
 of	O
 the	O

@@ -254,8 +254,8 @@ of	I-place
 Great	I-place
 St.	I-place
 Bartholomews	I-place
-,	O
-London	B-place
+,	I-place
+London	I-place
 ,	O
 in	O
 November	O
@@ -941,8 +941,8 @@ seen	O
 .	O
 V	B-pers
 -	I-pers
-,	I-pers
-J-	I-pers
+,	O
+J-	B-pers
 ,	O
 was	O
 Tryed	O
@@ -1183,7 +1183,7 @@ and	I-place
 Crown-Court	I-place
 ,	O
 in	O
-Grays-Inn-Lane	B-place
+Grays-Inn-Lane	I-place
 ,	O
 where	O
 the	O
@@ -1428,7 +1428,7 @@ the	O
 Two	B-place
 Loggerheads	I-place
 in	O
-Drury-Lane	B-place
+Drury-Lane	I-place
 with	O
 some	O
 others	O
@@ -1682,7 +1682,7 @@ along	O
 an	O
 Alley	B-place
 near	O
-Dukes	B-place
+Dukes	I-place
 Place	I-place
 ,	O
 about	O
@@ -2705,7 +2705,7 @@ driving	O
 along	O
 Bow-street	B-place
 in	O
-Bloomsbury	B-place
+Bloomsbury	I-place
 ,	O
 and	O
 the	O
@@ -3431,7 +3431,7 @@ the	O
 Clock	O
 at	O
 Sunbury	B-place
-in	I-place
+in	O
 Middlesex	I-place
 ,	O
 and	O
@@ -4015,9 +4015,9 @@ of	O
 the	O
 George	B-place
 Inn	I-place
-Stable	I-place
+Stable	O
 in	O
-Smithfield	B-place
+Smithfield	I-place
 ,	O
 on	O
 the	O
@@ -4176,9 +4176,9 @@ Indicted	O
 for	O
 Robbing	O
 the	O
-Play-House	B-place
+Play-House	O
 in	O
-Salisbury-Court	B-place
+Salisbury-Court	I-place
 ,	O
 on	O
 the	O
@@ -6838,7 +6838,7 @@ the	O
 end	O
 of	O
 Kensington	B-place
-,	I-place
+,	O
 near	O
 the	O
 High-way	O

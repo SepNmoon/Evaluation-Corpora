@@ -85,9 +85,9 @@ Edward	B-pers
 Page	I-pers
 in	O
 the	O
-Parish	O
-of	O
-Little	B-place
+Parish	B-place
+of	I-place
+Little	I-place
 St.	I-place
 Bartholomews	I-place
 ,	O
@@ -1975,8 +1975,8 @@ Reed	I-pers
 of	O
 at	O
 Gunies	B-place
-near	I-place
-Bow-Bridge	I-place
+near	O
+Bow-Bridge	B-place
 ,	O
 on	O
 the	O

@@ -2132,9 +2132,9 @@ Stockdane	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
-St.	I-place
+Parish	O
+of	O
+St.	B-place
 Andrews	I-place
 Holborn	I-place
 ,	O
@@ -2969,7 +2969,7 @@ John	B-pers
 Butcher	I-pers
 ,	O
 alias	O
-Shorter	B-pers
+Shorter	I-pers
 ,	O
 and	O
 John	B-pers
@@ -4566,10 +4566,10 @@ Brewer	O
 ,	O
 in	O
 Liquor-Pond-Street	B-place
-,	O
-in	O
-the	O
-Parish	B-place
+,	I-place
+in	I-place
+the	I-place
+Parish	I-place
 of	I-place
 St.	I-place
 Andrews	I-place
@@ -4811,9 +4811,9 @@ instant	O
 ,	O
 in	O
 the	O
-Parish	B-place
-of	I-place
-St.	I-place
+Parish	O
+of	O
+St.	B-place
 Dunstans	I-place
 in	I-place
 the	I-place
@@ -5338,7 +5338,7 @@ John	B-pers
 Ray	I-pers
 ,	O
 alias	O
-Rea	B-pers
+Rea	I-pers
 ,	O
 Mary	B-pers
 Hemingway	I-pers
@@ -6293,7 +6293,7 @@ John	B-pers
 Ray	I-pers
 ,	O
 alias	O
-Rea	B-pers
+Rea	I-pers
 ,	O
 Mary	B-pers
 Hemingway	I-pers

@@ -1660,7 +1660,7 @@ Lodging	O
 in	O
 Winsor-Court	B-place
 in	O
-Drury-lane	B-place
+Drury-lane	I-place
 ,	O
 with	O
 the	O
@@ -3739,7 +3739,7 @@ Mark	B-place
 stay	I-place
 ,	O
 near	O
-Colchester	B-place
+Colchester	I-place
 ,	O
 in	O
 Essex	O
@@ -4433,10 +4433,10 @@ St.	I-place
 George	I-place
 the	I-place
 Martyr	I-place
-,	O
-in	O
-the	O
-County	B-place
+,	I-place
+in	I-place
+the	I-place
+County	I-place
 of	I-place
 Surry	I-place
 ,	O
@@ -4491,8 +4491,8 @@ Month	O
 ,	O
 at	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Peters	O
 in	O

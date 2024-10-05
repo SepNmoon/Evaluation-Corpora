@@ -560,7 +560,7 @@ Three	B-place
 Arrows	I-place
 Brewhouse	I-place
 in	O
-Golden-Lane	B-place
+Golden-Lane	I-place
 ;	O
 the	O
 Prisoner	O
@@ -728,7 +728,7 @@ search	O
 in	O
 Brewers-street	B-place
 at	O
-Westminster	B-place
+Westminster	I-place
 ,	O
 there	O
 was	O
@@ -2393,7 +2393,7 @@ searched	O
 in	O
 Panton-street	B-place
 near	O
-Picadily	B-place
+Picadily	I-place
 ,	O
 in	O
 the	O
@@ -2616,7 +2616,7 @@ upon	O
 Chadwell	B-place
 Common	I-place
 in	O
-Essex	B-place
+Essex	I-place
 ,	O
 on	O
 the	O
@@ -3090,7 +3090,7 @@ Highway	O
 near	O
 Chadley	B-place
 in	O
-Essex	B-place
+Essex	I-place
 ,	O
 on	O
 the	O
@@ -3399,7 +3399,7 @@ house	O
 in	O
 Elbow-Lane	B-place
 near	O
-Cock-hill	B-place
+Cock-hill	I-place
 ,	O
 but	O
 first	O
@@ -3866,7 +3866,7 @@ in	O
 Crown-Ally	B-place
 in	O
 Upper	O
-Moorfields	B-place
+Moorfields	I-place
 ,	O
 and	O
 knocking	O

@@ -508,15 +508,15 @@ Tried	O
 for	O
 Robbing	O
 his	O
-Master	B-pers
+Master	O
 George	B-pers
 Ford	I-pers
 ,	O
 of	O
 the	O
-Parish	O
-of	O
-Bromley	B-place
+Parish	B-place
+of	I-place
+Bromley	I-place
 of	O
 100	O
 Yards	O
@@ -597,7 +597,7 @@ out	O
 ,	O
 and	O
 his	O
-Master	B-pers
+Master	O
 being	O
 sent	O
 for	O
@@ -637,7 +637,7 @@ ten	O
 Sheep	O
 from	O
 a	O
-Farmer	B-pers
+Farmer	O
 living	O
 in	O
 Finchly	B-place
@@ -1032,7 +1032,7 @@ they	O
 both	O
 Affirming	O
 the	O
-Master	B-pers
+Master	O
 of	O
 the	O
 House	O

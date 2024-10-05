@@ -518,7 +518,7 @@ Russel	I-pers
 to	O
 engage	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 of	I-pers
 Quality	I-pers
 to	O
@@ -926,8 +926,8 @@ a	O
 Burglary	O
 at	O
 Cue	B-place
-in	I-place
-Surry	I-place
+in	O
+Surry	B-place
 ;	O
 and	O
 so	O
@@ -1801,7 +1801,7 @@ the	O
 help	O
 of	O
 his	O
-Master	B-pers
+Master	O
 ,	O
 moved	O
 (	O

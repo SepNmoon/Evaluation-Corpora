@@ -5340,7 +5340,7 @@ blew	B-place
 Anchor	I-place
 Alley	I-place
 by	O
-Bunhill-feilds	B-place
+Bunhill-feilds	I-place
 ,	O
 and	O
 that	O
@@ -6162,8 +6162,8 @@ July	O
 ,	O
 at	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 George	O
 Southwark	O
@@ -6987,11 +6987,11 @@ Parish	B-place
 of	I-place
 St.	I-place
 James	I-place
-in	O
-the	O
-Liberty	O
-of	O
-Westminster	B-place
+in	I-place
+the	I-place
+Liberty	I-place
+of	I-place
+Westminster	I-place
 ,	O
 were	O
 Indicted	O

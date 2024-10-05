@@ -1192,7 +1192,7 @@ of	O
 Manslaughter	O
 .	O
 A	O
-Fellow	B-pers
+Fellow	O
 being	O
 Indicted	O
 for	O
@@ -1468,9 +1468,9 @@ man	O
 near	O
 Bow	B-place
 Church	I-place
-,	I-place
-in	I-place
-Cheapside	I-place
+,	O
+in	O
+Cheapside	B-place
 in	O
 last	O
 Whitson	O
@@ -1607,7 +1607,7 @@ for	O
 murdering	O
 her	O
 own	O
-Mother	O
+Mother	B-pers
 by	O
 poyson	O
 .	O

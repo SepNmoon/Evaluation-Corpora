@@ -249,7 +249,7 @@ James	B-pers
 Nayland	I-pers
 ,	O
 alias	O
-Dayllou	B-pers
+Dayllou	I-pers
 ,	O
 was	O
 Tried	O
@@ -755,8 +755,8 @@ French	O
 man	O
 of	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Anns	O
 Westminster	O
@@ -883,9 +883,9 @@ of	I-place
 St.	I-place
 Mary	I-place
 Matfellon	I-place
-,	I-place
+,	O
 alias	O
-Whitechappel	B-place
+Whitechappel	I-place
 ,	O
 was	O
 indicted	O
@@ -1103,7 +1103,7 @@ Mary	I-place
 Matfellon	I-place
 ,	O
 alias	O
-White	B-place
+White	I-place
 Chappel	I-place
 ,	O
 was	O
@@ -2058,10 +2058,10 @@ of	I-place
 St	I-place
 .	I-place
 Brides	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Farringdon	I-place
 without	I-place
@@ -2592,7 +2592,7 @@ acquitted	O
 Joan	B-pers
 Shore	I-pers
 alias	O
-Steward	B-pers
+Steward	I-pers
 of	O
 the	O
 Parish	B-place
@@ -2636,7 +2636,7 @@ at	O
 the	O
 White	B-place
 Hart	I-place
-in	I-place
+in	O
 Aldersgate	I-place
 Street	I-place
 ,	O
@@ -2958,7 +2958,7 @@ called	O
 Freehold	B-place
 Field	I-place
 near	O
-Green	B-place
+Green	I-place
 Lane	I-place
 ,	O
 and	O
@@ -3045,7 +3045,7 @@ at	O
 South	B-place
 Picnam	I-place
 in	O
-Norfolk	B-place
+Norfolk	I-place
 ;	O
 the	O
 Evidence	O
@@ -3554,10 +3554,10 @@ Grace	O
 ,	O
 Maynard	B-pers
 ,	O
-Duke	B-pers
+Duke	I-pers
 of	I-pers
 Scomberg	I-pers
-and	I-pers
+and	O
 Leinster	I-pers
 ,	O
 to	O
@@ -3662,8 +3662,8 @@ Wife	O
 ,	O
 at	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 James	O
 Dukes	O
@@ -3681,9 +3681,9 @@ Knights-Bridge	B-place
 ,	O
 in	O
 the	O
-Liberty	O
-of	O
-Westminster	B-place
+Liberty	I-place
+of	I-place
+Westminster	I-place
 .	O
 It	O
 appeared	O
@@ -3770,7 +3770,7 @@ at	O
 the	O
 Red-Lyon	B-place
 in	O
-Grays-Inn-Lane	B-place
+Grays-Inn-Lane	I-place
 ,	O
 the	O
 Goods	O
@@ -4101,7 +4101,7 @@ summary	O
 Mary	B-pers
 Hewit	I-pers
 alias	O
-Varner	B-pers
+Varner	I-pers
 ,	O
 of	O
 the	O
@@ -4248,7 +4248,7 @@ acquitted	O
 John	B-pers
 Riggs	I-pers
 alias	O
-Ricks	B-pers
+Ricks	I-pers
 of	O
 the	O
 Parish	B-place
@@ -4366,7 +4366,7 @@ summary	O
 Thomas	B-pers
 Breed	I-pers
 alias	O
-Buckingham	B-pers
+Buckingham	I-pers
 ,	O
 of	O
 the	O
@@ -4496,7 +4496,7 @@ Mary	B-pers
 Palmer	I-pers
 ,	O
 alias	O
-Wood	B-pers
+Wood	I-pers
 ,	O
 were	O
 tried	O
@@ -4689,7 +4689,7 @@ T	B-pers
 G	I-pers
 -	I-pers
 alias	O
-G	B-pers
+G	I-pers
 -	I-pers
 of	O
 the	O

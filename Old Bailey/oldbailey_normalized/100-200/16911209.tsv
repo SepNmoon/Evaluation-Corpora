@@ -955,7 +955,7 @@ Anne	B-pers
 Sampson	I-pers
 ,	O
 alias	O
-Parker	B-pers
+Parker	I-pers
 ,	O
 was	O
 Tryed	O
@@ -2191,7 +2191,7 @@ Dorothy	B-pers
 Lord	I-pers
 ,	O
 alias	O
-Atkyns	B-pers
+Atkyns	I-pers
 was	O
 tryed	O
 for	O
@@ -2399,7 +2399,7 @@ John	B-pers
 Beamore	I-pers
 ,	O
 alias	O
-Pemore	B-pers
+Pemore	I-pers
 ,	O
 were	O
 both	O
@@ -2455,7 +2455,7 @@ Yard	O
 at	O
 Hornchurch	B-place
 in	O
-Essex	B-place
+Essex	I-place
 ;	O
 and	O
 afterwards	O
@@ -3627,7 +3627,7 @@ John	B-pers
 Wright	I-pers
 ,	O
 alias	O
-Randale	B-pers
+Randale	I-pers
 was	O
 tryed	O
 for	O

@@ -4802,8 +4802,8 @@ summary	O
 James	B-pers
 Moran	I-pers
 ,	O
-with	O
-Mary	B-pers
+with	B-pers
+Mary	I-pers
 his	O
 Wife	O
 ,	O
@@ -4832,11 +4832,11 @@ Parish	B-place
 of	I-place
 St.	I-place
 James	I-place
-within	O
-the	O
-Liberties	O
-of	O
-Westminster	B-place
+within	I-place
+the	I-place
+Liberties	I-place
+of	I-place
+Westminster	I-place
 ,	O
 indicted	O
 for	O

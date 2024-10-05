@@ -979,8 +979,8 @@ Grey	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St	O
 .	O
 Brides	O
@@ -2245,7 +2245,7 @@ in	O
 Norfolk-street	B-place
 in	O
 the	O
-Strand	B-place
+Strand	I-place
 ,	O
 and	O
 the	O
@@ -2584,7 +2584,7 @@ Bisby	I-pers
 and	O
 Sarah	B-pers
 his	O
-wife	O
+Wife	O
 and	O
 Sarah	O
 his	O
@@ -4581,8 +4581,8 @@ Ridley	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Andrew	O
 's	O
@@ -4854,7 +4854,7 @@ at	O
 Wood	B-place
 Green	I-place
 at	O
-Tottenham	B-place
+Tottenham	I-place
 ,	O
 the	O
 Evidence	O

@@ -125,10 +125,10 @@ he	O
 coming	O
 up	O
 Sea-coal-lane	B-place
-,	I-place
-in	I-place
-the	I-place
-Parish	I-place
+,	O
+in	O
+the	O
+Parish	B-place
 of	I-place
 St.	I-place
 Sepulchres	I-place
@@ -268,7 +268,7 @@ Behaviour	O
 as	O
 likewise	O
 the	O
-Master	B-pers
+Master	O
 of	O
 the	O
 Dray	O
@@ -368,9 +368,9 @@ Price	I-pers
 living	O
 in	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Clements	I-place
 Danes	I-place
 ;	O
@@ -723,7 +723,7 @@ from	O
 William	B-pers
 Pack	I-pers
 his	O
-Master	B-pers
+Master	O
 ,	O
 living	O
 near	O
@@ -781,7 +781,7 @@ alleadged	O
 ,	O
 that	O
 his	O
-Master	B-pers
+Master	O
 lent	O
 him	O
 the	O

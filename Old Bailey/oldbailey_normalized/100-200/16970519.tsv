@@ -479,8 +479,8 @@ Parish	B-place
 of	I-place
 St.	I-place
 Magnes	I-place
-by	O
-the	B-place
+by	I-place
+the	I-place
 Bridge	I-place
 ,	O
 was	O
@@ -2602,7 +2602,7 @@ Parker	B-place
 Lane	I-place
 ,	O
 near	O
-Holborn	B-place
+Holborn	I-place
 ,	O
 and	O
 the	O
@@ -3712,10 +3712,10 @@ of	I-place
 St.	I-place
 Peters	I-place
 Cornhill	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Limestreet	I-place
 ,	O
@@ -4439,7 +4439,7 @@ Half-Crowns	O
 in	O
 Crown-Alley	B-place
 in	O
-Moorfields	B-place
+Moorfields	I-place
 ;	O
 and	O
 having	O
@@ -5015,7 +5015,7 @@ the	O
 White-hart	B-place
 Inn	I-place
 in	O
-Aldersgate-Street	B-place
+Aldersgate-Street	I-place
 :	O
 It	O
 was	O

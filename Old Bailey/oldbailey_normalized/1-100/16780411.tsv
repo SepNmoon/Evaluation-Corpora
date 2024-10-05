@@ -411,7 +411,7 @@ both	O
 acquitted	O
 .	O
 A	O
-Gentleman	O
+Gentleman	B-pers
 took	O
 a	O
 Tryal	O
@@ -809,7 +809,7 @@ saw	O
 one	O
 of	O
 the	O
-Prisoner	B-pers
+Prisoner	O
 s	O
 (	O
 her	O
@@ -843,8 +843,8 @@ an	O
 house	O
 near	O
 Stonecutters-street	B-place
-in	I-place
-Sho	I-place
+in	O
+Sho	B-place
 lane	I-place
 ,	O
 very	O
@@ -1273,7 +1273,7 @@ first	O
 ,	O
 and	O
 the	O
-Vintner	O
+Vintner	B-pers
 afterwards	O
 ,	O
 if	O
@@ -1297,10 +1297,10 @@ Villany	O
 ,	O
 being	O
 two	O
-Brothers	O
+Brothers	B-pers
 and	O
 their	O
-Sister	O
+Sister	B-pers
 ,	O
 and	O
 one	O
@@ -1582,7 +1582,7 @@ his	O
 witnesses	O
 .	O
 A	O
-Fellow	B-pers
+Fellow	O
 ,	O
 with	O
 one	O

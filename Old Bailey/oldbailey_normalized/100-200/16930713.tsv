@@ -1130,7 +1130,7 @@ the	O
 Shop	O
 at	O
 Tame	B-place
-in	I-place
+in	O
 Oxfordshire	I-place
 ,	O
 and	O
@@ -1711,8 +1711,8 @@ Prisoner	O
 's	O
 in	O
 Mackeridge-street	B-place
-in	O
-St.	B-place
+in	I-place
+St.	I-place
 Giles	I-place
 's	I-place
 Parish	I-place
@@ -3251,7 +3251,7 @@ Fryar	I-pers
 at	O
 Bartledown	B-place
 in	O
-Essex	B-place
+Essex	I-place
 ,	O
 on	O
 the	O
@@ -4288,7 +4288,7 @@ Castle-street	B-place
 ,	O
 in	O
 the	O
-Parish	B-place
+Parish	I-place
 of	I-place
 Stepney	I-place
 ,	O
@@ -4437,7 +4437,7 @@ Grace	B-pers
 Dempsey	I-pers
 ,	O
 alias	O
-Michel	B-pers
+Michel	I-pers
 ,	O
 who	O
 was	O
@@ -5231,7 +5231,7 @@ Salter	I-pers
 of	O
 Stoak	B-place
 in	O
-Buckinghamshire	B-place
+Buckinghamshire	I-place
 .	O
 On	O
 the	O
@@ -6512,7 +6512,7 @@ with	O
 Elizabeth	B-pers
 Anderson	I-pers
 alias	O
-Midleton	B-pers
+Midleton	I-pers
 ,	O
 did	O
 steal	O
@@ -6555,7 +6555,7 @@ summary	O
 Elinor	B-pers
 Dykes	I-pers
 alias	O
-Freeman	B-pers
+Freeman	I-pers
 ,	O
 was	O
 tried	O
@@ -6840,7 +6840,7 @@ being	O
 the	O
 Dog-Tavern	B-place
 in	O
-Drury-Lane	B-place
+Drury-Lane	I-place
 ,	O
 and	O
 the	O
@@ -7630,10 +7630,10 @@ William	B-pers
 Smith	I-pers
 ,	O
 alias	O
-Franklin	B-pers
+Franklin	I-pers
 ,	O
 alias	O
-Babbington	B-pers
+Babbington	I-pers
 ,	O
 and	O
 Blanch	B-pers
@@ -8525,7 +8525,7 @@ House	O
 in	O
 Goat-Court	B-place
 near	O
-Fleet-bridge	B-place
+Fleet-bridge	I-place
 ,	O
 and	O
 that	O

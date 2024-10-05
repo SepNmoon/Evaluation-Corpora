@@ -229,7 +229,7 @@ anold	O
 acquaintance	O
 of	O
 the	O
-Gentleman	O
+Gentleman	B-pers
 that	O
 was	O
 rob	O
@@ -513,7 +513,7 @@ suspected	O
 for	O
 Robbing	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 as	O
 he	O
 was	O
@@ -959,8 +959,8 @@ Convicted	O
 ,	O
 and	O
 Condemned	O
-Five	O
-Malefactors	O
+Five	B-pers
+Malefactors	I-pers
 for	O
 Robing	O
 on	O
@@ -1248,7 +1248,7 @@ one	O
 coming	O
 to	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 s	O
 House	O
 ,	O

@@ -1784,11 +1784,11 @@ they	O
 were	O
 found	O
 in	O
-Coverly	O
-'s	O
-Fields	O
+Coverly	B-place
+'s	I-place
+Fields	I-place
 in	O
-Mile-End	B-place
+Mile-End	I-place
 New	I-place
 Town	I-place
 :	O
@@ -2556,7 +2556,7 @@ Mary	B-pers
 Wilder	I-pers
 ,	O
 alias	O
-Cole	B-pers
+Cole	I-pers
 ,	O
 Katherine	B-pers
 Davis	I-pers
@@ -3622,7 +3622,7 @@ summary	O
 Alice	B-pers
 Page	I-pers
 alias	O
-Fryar	B-pers
+Fryar	I-pers
 ,	O
 was	O
 tryed	O
@@ -4035,8 +4035,8 @@ Peter	B-pers
 Ezembergh	I-pers
 in	O
 Dukes-Court	B-place
-in	O
-St.	B-place
+in	I-place
+St.	I-place
 Martin	I-place
 's	I-place
 Parish	I-place
@@ -4575,7 +4575,7 @@ Elinor	B-pers
 Scriven	I-pers
 ,	O
 alias	O
-Lancaster	B-pers
+Lancaster	I-pers
 ,	O
 was	O
 tried	O
@@ -7439,7 +7439,7 @@ Harris	I-pers
 Joanna	B-pers
 Jones	I-pers
 alias	O
-Margaret	B-pers
+Margaret	I-pers
 Moor	I-pers
 .	O
 Thomas	B-pers
@@ -8210,7 +8210,7 @@ Harris	I-pers
 Joanna	B-pers
 Jones	I-pers
 alias	O
-Margaret	B-pers
+Margaret	I-pers
 Moor	I-pers
 .	O
 Thomas	B-pers

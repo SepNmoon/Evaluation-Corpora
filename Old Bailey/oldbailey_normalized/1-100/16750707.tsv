@@ -1162,8 +1162,8 @@ summary	O
 .	O
 ]	O
 A	O
-Dutch	O
-Gentlemen	O
+Dutch	B-pers
+Gentlemen	I-pers
 was	O
 here	O
 Arraigned	O
@@ -1303,7 +1303,7 @@ his	O
 clergy	O
 .	O
 A	O
-Gentleman	O
+Gentleman	B-pers
 was	O
 lately	O
 Rob	O
@@ -1311,9 +1311,9 @@ Rob	O
 near	O
 Lambs	B-place
 Conduit	I-place
-,	I-place
-behind	I-place
-Grayes-Inn	I-place
+,	O
+behind	O
+Grayes-Inn	B-place
 ,	O
 by	O
 some	O

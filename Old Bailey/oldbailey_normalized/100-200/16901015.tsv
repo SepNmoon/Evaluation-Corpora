@@ -620,7 +620,7 @@ in	O
 Marygold-Alley	B-place
 in	O
 the	O
-Strand	B-place
+Strand	I-place
 ,	O
 in	O
 the	O
@@ -1717,7 +1717,7 @@ c.	O
 Daniel	B-pers
 Johnson	I-pers
 alias	O
-Juxon	B-pers
+Juxon	I-pers
 ,	O
 was	O
 tryed	O
@@ -2616,7 +2616,7 @@ Gent	O
 at	O
 West	B-place
 Ham	I-place
-in	I-place
+in	O
 Essex	I-place
 ,	O
 on	O
@@ -3090,7 +3090,7 @@ summary	O
 John	B-pers
 Lowbridge	I-pers
 alias	O
-Spencer	B-pers
+Spencer	I-pers
 was	O
 indicted	O
 for	O
@@ -4361,7 +4361,7 @@ at	O
 Eling	B-place
 ,	O
 near	O
-Acton	B-place
+Acton	I-place
 ,	O
 where	O
 they	O

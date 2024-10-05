@@ -1472,9 +1472,9 @@ Decem	O
 1678.	O
 at	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Bennet	I-place
 Fink	I-place
 ,	O
@@ -2021,8 +2021,8 @@ Sign	O
 of	O
 the	O
 Cheshire-Cheese	B-place
-in	I-place
-Thames-street	I-place
+in	O
+Thames-street	B-place
 .	O
 That	O
 he	O
@@ -2149,9 +2149,9 @@ Novemb	O
 1678.	O
 at	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Edmund	I-place
 the	I-place
 King	I-place
@@ -2441,9 +2441,9 @@ Novemb	O
 1678.	O
 at	O
 the	O
-Parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Sepulchres	I-place
 ,	O
 did	O
@@ -2678,7 +2678,7 @@ out	O
 upon	O
 which	O
 the	O
-Master	B-pers
+Master	O
 of	O
 the	O
 House	O
@@ -7412,7 +7412,7 @@ a	O
 Servant	O
 in	O
 the	O
-Persons	B-pers
+Persons	O
 house	O
 about	O
 a	O
@@ -8610,7 +8610,7 @@ Felony	O
 came	O
 to	O
 his	O
-Master	B-pers
+Master	O
 's	O
 house	O
 ,	O
@@ -11650,7 +11650,7 @@ said	O
 ,	O
 that	O
 her	O
-Master	B-pers
+Master	O
 charged	O
 her	O
 with	O
@@ -14531,7 +14531,7 @@ thou	O
 hast	O
 offended	O
 thy	O
-Master	B-pers
+Master	O
 or	O
 any	O
 body	O

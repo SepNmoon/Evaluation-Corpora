@@ -2984,8 +2984,8 @@ House	O
 being	O
 the	O
 King's-Arms	B-place
-in	O
-St.	B-place
+in	I-place
+St.	I-place
 Martins	I-place
 Legrand	I-place
 ,	O
@@ -7445,9 +7445,9 @@ the	O
 end	O
 of	O
 Grays-Inn-Lane	B-place
-in	I-place
-the	I-place
-Fields	I-place
+in	O
+the	O
+Fields	O
 )	O
 one	O
 Stuff	O

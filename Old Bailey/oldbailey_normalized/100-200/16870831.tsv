@@ -227,7 +227,7 @@ viz	O
 Thomas	B-pers
 Griffith	I-pers
 alias	O
-Griffin	B-pers
+Griffin	I-pers
 ,	O
 and	O
 James	B-pers
@@ -1589,7 +1589,7 @@ David	B-pers
 Davis	I-pers
 ,	O
 alias	O
-Williams	B-pers
+Williams	I-pers
 ,	O
 being	O
 Indicted	O
@@ -3137,8 +3137,8 @@ Smith	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St	O
 .	O
 Brides	O
@@ -3348,7 +3348,7 @@ in	O
 the	O
 Fields	O
 near	O
-Grays-Inn	B-place
+Grays-Inn	I-place
 ,	O
 the	O
 Prisoners	O
@@ -3592,7 +3592,7 @@ Elizabeth	B-pers
 Green	I-pers
 ,	O
 alias	O
-Mount	B-pers
+Mount	I-pers
 Joy	I-pers
 ,	O
 was	O
@@ -4101,7 +4101,7 @@ Anderson	I-pers
 in	O
 Cony-Court	B-place
 in	O
-Grays	B-place
+Grays	I-place
 Inn	I-place
 ,	O
 on	O
@@ -4661,8 +4661,8 @@ Greenvil	I-pers
 ,	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 Heston	O
 ,	O
 on	O
@@ -6823,7 +6823,7 @@ Philip	B-pers
 Boran	I-pers
 ,	O
 alias	O
-Stains	B-pers
+Stains	I-pers
 ,	O
 was	O
 put	O
@@ -7444,8 +7444,8 @@ the	O
 Morning	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+parish	O
+of	O
 St.	O
 Giles	O
 's	O

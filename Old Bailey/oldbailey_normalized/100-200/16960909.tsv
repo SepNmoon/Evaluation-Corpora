@@ -576,10 +576,10 @@ of	I-place
 St.	I-place
 Mary	I-place
 Woolchurch	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Langhorne	I-place
 ,	O
@@ -631,8 +631,8 @@ of	I-place
 St.	I-place
 Magnes	I-place
 by	O
-the	B-place
-Bridge	I-place
+the	O
+Bridge	O
 ,	O
 was	O
 indicted	O
@@ -721,7 +721,7 @@ Grounds	O
 at	O
 Ditton	B-place
 near	O
-Uxbridge	B-place
+Uxbridge	I-place
 ,	O
 and	O
 brought	O
@@ -4978,9 +4978,9 @@ place	O
 called	O
 Old	B-place
 Ford	I-place
-,	I-place
+,	O
 by	O
-Hackney	B-place
+Hackney	I-place
 ,	O
 about	O
 3	O
@@ -5011,7 +5011,7 @@ called	O
 Five	B-place
 Acres	I-place
 by	O
-Cambridge	B-place
+Cambridge	I-place
 Heath	I-place
 .	O
 There	O
@@ -6686,7 +6686,7 @@ the	O
 Harts-horns	B-place
 Inn	I-place
 in	O
-Barnet	B-place
+Barnet	I-place
 ,	O
 and	O
 did	O
@@ -7128,7 +7128,7 @@ room	O
 in	O
 Garden-Allies	B-place
 by	O
-Clerkenwell	B-place
+Clerkenwell	I-place
 ,	O
 and	O
 that	O
@@ -8760,7 +8760,7 @@ Unitt	O
 at	O
 Cock-hill	B-place
 by	O
-Ratcliff	B-place
+Ratcliff	I-place
 ,	O
 did	O
 Clip	O
@@ -8899,10 +8899,10 @@ on	O
 at	O
 the	B-place
 Moted-house	I-place
-beyond	O
-Tuttle-fields	B-place
-,	O
-Westminster	B-place
+beyond	I-place
+Tuttle-fields	I-place
+,	I-place
+Westminster	I-place
 ,	O
 and	O
 by	O

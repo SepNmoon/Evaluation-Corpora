@@ -465,7 +465,7 @@ William	B-pers
 Martin	I-pers
 ,	O
 alias	O
-Peter	B-pers
+Peter	I-pers
 ,	O
 of	O
 the	O
@@ -629,10 +629,10 @@ Parish	B-place
 of	I-place
 St.	I-place
 Sepulchers	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Farringdon	I-place
 ,	O
@@ -2646,7 +2646,7 @@ at	O
 the	O
 Rose	B-place
 Tavern	I-place
-in	I-place
+in	O
 Covent-Garden	I-place
 ,	O
 and	O
@@ -4070,7 +4070,7 @@ John	B-pers
 Edmonds	I-pers
 ,	O
 alias	O
-Great	B-pers
+Great	I-pers
 Jack	I-pers
 ,	O
 of	O
@@ -4391,9 +4391,9 @@ the	O
 Parish	B-place
 of	I-place
 Little-Elfort	I-place
-,	I-place
-in	I-place
-the	I-place
+,	O
+in	O
+the	O
 County	I-place
 of	I-place
 Essex	I-place
@@ -7278,7 +7278,7 @@ Mary	B-pers
 Gregory	I-pers
 ,	O
 alias	O
-Ewen	B-pers
+Ewen	I-pers
 ,	O
 of	O
 the	O
@@ -7377,7 +7377,7 @@ David	B-pers
 Roberts	I-pers
 ,	O
 alias	O
-Monky	B-pers
+Monky	I-pers
 Davy	I-pers
 ,	O
 of	O

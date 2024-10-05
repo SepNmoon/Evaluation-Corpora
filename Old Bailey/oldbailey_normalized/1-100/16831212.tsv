@@ -838,7 +838,7 @@ from	O
 William	B-pers
 Shelton	I-pers
 his	O
-Master	B-pers
+Master	O
 .	O
 Also	O
 ,	O
@@ -1352,9 +1352,9 @@ Pye	I-pers
 out	O
 of	O
 Haydon-yard	B-place
-in	I-place
-the	I-place
-Minories	I-place
+in	O
+the	O
+Minories	B-place
 :	O
 The	O
 said	O
@@ -2276,9 +2276,9 @@ some	O
 Ale-House-keeper	O
 in	O
 Moor-lane	B-place
-,	I-place
-near	I-place
-Cripplegate	I-place
+,	O
+near	O
+Cripplegate	B-place
 ,	O
 she	O
 was	O

@@ -419,7 +419,7 @@ observing	O
 and	O
 that	O
 his	O
-Master	B-pers
+Master	O
 was	O
 scufling	O
 with	O
@@ -442,7 +442,7 @@ ground	O
 but	O
 seeing	O
 his	O
-Master	B-pers
+Master	O
 taken	O
 out	O
 of	O
@@ -844,9 +844,9 @@ Holms	I-pers
 ,	O
 in	O
 the	O
-Parish	O
-of	O
-Hornsey	B-place
+Parish	B-place
+of	I-place
+Hornsey	I-place
 ,	O
 in	O
 the	O
@@ -1055,7 +1055,7 @@ the	O
 Absence	O
 of	O
 the	O
-People	B-pers
+People	O
 open	O
 'd	O
 the	O
@@ -2133,12 +2133,12 @@ Gibson	O
 Ro	O
 .	O
 Hawkson	B-pers
-,	I-pers
-W	I-pers
+,	O
+W	B-pers
 .	I-pers
 Buckly	B-pers
-,	I-pers
-W	I-pers
+,	O
+W	B-pers
 .	I-pers
 Richardson	O
 ,	O

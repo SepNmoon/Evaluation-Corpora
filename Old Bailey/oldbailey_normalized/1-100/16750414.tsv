@@ -679,7 +679,7 @@ besides	O
 that	O
 ,	O
 the	O
-Master	B-pers
+Master	O
 confessed	O
 that	O
 he	O
@@ -706,7 +706,7 @@ Prosecuting	O
 ,	O
 which	O
 the	O
-Master	B-pers
+Master	O
 affirmed	O
 still	O
 he	O
@@ -968,9 +968,9 @@ Liberty	B-place
 of	I-place
 the	I-place
 Dutchy	I-place
-in	I-place
-the	I-place
-Strand	I-place
+in	O
+the	O
+Strand	B-place
 ;	O
 this	O
 Sadler	O
@@ -1156,7 +1156,7 @@ clean	O
 away	O
 .	O
 A	O
-Broker	O
+Broker	B-pers
 was	O
 here	O
 Indicted	O
@@ -1479,7 +1479,7 @@ and	O
 yet	O
 the	O
 said	O
-Master	B-pers
+Master	O
 had	O
 so	O
 much	O

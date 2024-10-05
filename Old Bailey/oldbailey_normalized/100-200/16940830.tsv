@@ -415,7 +415,7 @@ Mary	I-place
 's	I-place
 Church	I-place
 at	O
-Oxford	B-place
+Oxford	I-place
 ,	O
 to	O
 hear	O
@@ -566,7 +566,7 @@ Elizabeth	B-pers
 Jones	I-pers
 ,	O
 alias	O
-Owen	B-pers
+Owen	I-pers
 ,	O
 was	O
 Tried	O
@@ -5269,7 +5269,7 @@ acquitted	O
 Christain	B-pers
 Penny	I-pers
 alias	O
-Parker	B-pers
+Parker	I-pers
 ,	O
 late	O
 of	O
@@ -5710,8 +5710,8 @@ set	O
 upon	O
 in	O
 James-Street	B-place
-,	O
-Covent	B-place
+,	I-place
+Covent	I-place
 garden	I-place
 ,	O
 by	O
@@ -5975,8 +5975,8 @@ a	O
 Garden	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 Stepney	O
 ,	O
 in	O
@@ -6270,7 +6270,7 @@ Wilkins	I-pers
 in	O
 Dean-street	B-place
 at	O
-Westminster	B-place
+Westminster	I-place
 ,	O
 on	O
 the	O
@@ -6568,10 +6568,10 @@ Elizabeth	B-pers
 Long	I-pers
 ,	O
 alias	O
-Lloyd	B-pers
+Lloyd	I-pers
 ,	O
 alias	O
-Wood	B-pers
+Wood	I-pers
 ,	O
 was	O
 Arraigned	O
@@ -7226,10 +7226,10 @@ Anne	B-pers
 Boucher	I-pers
 ,	O
 alias	O
-Davis	B-pers
+Davis	I-pers
 ,	O
 alias	O
-Smith	B-pers
+Smith	I-pers
 ,	O
 was	O
 Indicted	O
@@ -7555,7 +7555,7 @@ Washer-woman	O
 in	O
 Bell-Ally	B-place
 in	O
-Aldersgate-street	B-place
+Aldersgate-street	I-place
 ,	O
 and	O
 the	O
@@ -7591,7 +7591,7 @@ Anne	B-pers
 Goodard	I-pers
 ,	O
 alias	O
-Wilson	B-pers
+Wilson	I-pers
 ,	O
 was	O
 Tried	O
@@ -8439,7 +8439,7 @@ the	O
 White-Horse	B-place
 in	O
 the	O
-Hay-Market	B-place
+Hay-Market	I-place
 ,	O
 where	O
 the	O

@@ -474,10 +474,10 @@ Elizabeth	B-pers
 Hickson	I-pers
 ,	O
 alias	O
-Dickson	B-pers
+Dickson	I-pers
 ,	O
 alias	O
-Lucock	B-pers
+Lucock	I-pers
 ,	O
 was	O
 Arraigned	O
@@ -3496,9 +3496,9 @@ Mary	B-pers
 Maye	I-pers
 of	O
 the	O
-Parish	B-place
-of	I-place
-Staines	I-place
+Parish	O
+of	O
+Staines	B-place
 ,	O
 was	O
 tried	O
@@ -3919,9 +3919,9 @@ Wood	I-pers
 ,	O
 of	O
 the	O
-Parish	B-place
-of	I-place
-St.	I-place
+Parish	O
+of	O
+St.	B-place
 Andrews	I-place
 Holbourn	I-place
 ,	O
@@ -4699,7 +4699,7 @@ Charles	B-pers
 Norman	I-pers
 ,	O
 alias	O
-Pennington	B-pers
+Pennington	I-pers
 ,	O
 was	O
 tried	O
@@ -5510,7 +5510,7 @@ Carter	I-pers
 in	O
 Smithfield	B-place
 near	O
-Clothfair	B-place
+Clothfair	I-place
 Gate	I-place
 ,	O
 of	O
@@ -6399,7 +6399,7 @@ Jane	B-pers
 Le-grand	I-pers
 ,	O
 alias	O
-Jane	B-pers
+Jane	I-pers
 Le	I-pers
 grant	I-pers
 ,	O
@@ -7378,7 +7378,7 @@ Edward	B-pers
 East	I-pers
 ,	O
 alias	O
-Wilson	B-pers
+Wilson	I-pers
 ,	O
 was	O
 tried	O
@@ -7873,7 +7873,7 @@ last	O
 out	O
 of	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 's	O
 Pocket	O
 in	O
@@ -9755,7 +9755,7 @@ Jane	B-pers
 Hebben	I-pers
 ,	O
 alias	O
-Grimes	B-pers
+Grimes	I-pers
 ,	O
 was	O
 tried	O

@@ -427,8 +427,8 @@ in	O
 the	O
 Exchequer	B-place
 Chamber	I-place
-in	I-place
-Westminster-hall	I-place
+in	O
+Westminster-hall	B-place
 ,	O
 on	O
 the	O
@@ -958,7 +958,7 @@ shop	O
 ,	O
 whilst	O
 the	O
-Master	B-pers
+Master	O
 thereof	O
 was	O
 gone	O
@@ -1456,7 +1456,7 @@ tryed	O
 for	O
 breaking	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 s	O
 House	O
 near	O
@@ -1545,7 +1545,7 @@ Blunder-buss	O
 ,	O
 (	O
 her	O
-Master	B-pers
+Master	O
 being	O
 a	O
 Lieutenant	O
@@ -1950,7 +1950,7 @@ May	O
 out	O
 of	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 s	O
 shop	O
 on	O
@@ -2112,7 +2112,7 @@ overtook	O
 one	O
 of	O
 the	O
-Prisoner	B-pers
+Prisoner	O
 s	O
 on	O
 the	O
@@ -2146,7 +2146,7 @@ his	O
 and	O
 the	O
 other	O
-Prisoner	B-pers
+Prisoner	O
 ,	O
 one	O
 of	O
@@ -2279,7 +2279,7 @@ A	O
 kind	O
 of	O
 outlandish	O
-Fellow	B-pers
+Fellow	O
 being	O
 in	O
 charity	O
@@ -2290,7 +2290,7 @@ Linn	O
 by	O
 a	O
 Scotch	O
-Master	B-pers
+Master	O
 of	O
 a	O
 Vessel	O
@@ -2362,7 +2362,7 @@ granted	O
 .	O
 A	O
 pretended	O
-Purser	O
+Purser	B-pers
 was	O
 tryed	O
 for	O
@@ -2642,7 +2642,7 @@ Indicted	O
 for	O
 Robbing	O
 a	O
-Child	B-pers
+Child	O
 of	O
 about	O
 nine	O
@@ -2892,7 +2892,7 @@ abuse	O
 them	O
 .	O
 A	O
-Gentleman	O
+Gentleman	B-pers
 having	O
 (	O
 but	O

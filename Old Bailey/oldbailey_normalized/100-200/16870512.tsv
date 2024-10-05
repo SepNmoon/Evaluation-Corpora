@@ -572,7 +572,7 @@ of	O
 St.	B-place
 Michael	I-place
 by	O
-Crooked	B-place
+Crooked	I-place
 Lane	I-place
 ,	O
 London	O
@@ -958,10 +958,10 @@ St.	I-place
 Edmunds	I-place
 the	I-place
 King	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Longhorne	I-place
 ,	O
@@ -2058,7 +2058,7 @@ to	O
 the	O
 Anchor-Tavern	B-place
 near	O
-St.	B-place
+St.	I-place
 Clements	I-place
 Church	I-place
 in	O
@@ -3146,8 +3146,8 @@ Barronet	O
 Scituate	O
 in	O
 Bromley	B-place
-by	O
-Bow	B-place
+by	I-place
+Bow	I-place
 ,	O
 on	O
 the	O
@@ -4411,8 +4411,8 @@ Webb	I-pers
 of	O
 St.	B-place
 Cathrines	I-place
-by	O
-the	B-place
+by	I-place
+the	I-place
 Tower	I-place
 ,	O
 a	O

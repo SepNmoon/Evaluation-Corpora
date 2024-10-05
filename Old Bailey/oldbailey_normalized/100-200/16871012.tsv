@@ -1304,7 +1304,7 @@ in	O
 Arundel-street	B-place
 in	O
 the	O
-Strand	B-place
+Strand	I-place
 ,	O
 on	O
 the	O
@@ -4478,7 +4478,7 @@ S	B-pers
 W	I-pers
 -	I-pers
 alias	O
-P	B-pers
+P	I-pers
 -	I-pers
 was	O
 Indicted	O
@@ -4916,7 +4916,7 @@ John	B-pers
 Lovewell	I-pers
 ,	O
 alias	O
-Cook	B-pers
+Cook	I-pers
 ,	O
 was	O
 again	O
@@ -5072,8 +5072,8 @@ street	O
 ,	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 St.	O
 Martins	O
 in	O

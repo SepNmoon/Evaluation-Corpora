@@ -183,10 +183,10 @@ were	O
 going	O
 by	O
 Nortnumberland-House	B-place
-,	I-place
-in	I-place
-the	I-place
-Strand	I-place
+,	O
+in	O
+the	O
+Strand	B-place
 ,	O
 on	O
 the	O
@@ -1262,7 +1262,7 @@ acquitted	O
 Alice	B-pers
 Wigington	I-pers
 alias	O
-Wiggens	B-pers
+Wiggens	I-pers
 ,	O
 was	O
 Indicted	O
@@ -1885,7 +1885,7 @@ tryed	O
 for	O
 Robing	O
 her	O
-Master	B-pers
+Master	O
 ,	O
 viz	O
 .	O

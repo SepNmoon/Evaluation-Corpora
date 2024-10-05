@@ -339,9 +339,9 @@ in	O
 him	O
 by	O
 a	O
-Person	O
-of	O
-Quality	O
+Person	B-pers
+of	I-pers
+Quality	I-pers
 ,	O
 whom	O
 he	O
@@ -557,7 +557,7 @@ of	O
 Stuff	O
 from	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 in	O
 Ludgate-street	B-place
 ,	O
@@ -870,7 +870,7 @@ two	O
 and	O
 an	O
 aged	O
-Master	B-pers
+Master	O
 and	O
 Mistriss	O
 ,	O
@@ -901,9 +901,9 @@ together	O
 ,	O
 his	O
 own	O
-Brother	O
+Brother	B-pers
 and	O
-Sister	O
+Sister	B-pers
 came	O
 and	O
 Knock	O
@@ -1092,7 +1092,7 @@ stairs	O
 ,	O
 wakes	O
 his	O
-Master	B-pers
+Master	O
 and	O
 Mistriss	O
 ,	O

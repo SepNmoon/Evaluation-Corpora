@@ -1224,7 +1224,7 @@ St.	I-place
 Andrews	I-place
 Holbourn	I-place
 alias	O
-Ward	B-place
+Ward	I-place
 ,	O
 was	O
 Indicted	O
@@ -5147,7 +5147,7 @@ the	O
 Oxford	B-place
 Arms	I-place
 in	O
-Warwick-lane	B-place
+Warwick-lane	I-place
 ,	O
 to	O
 keep	O
@@ -5827,7 +5827,7 @@ Richard	B-pers
 Whitehead	I-pers
 ,	O
 alias	O
-Whiting	B-pers
+Whiting	I-pers
 ,	O
 was	O
 indicted	O
@@ -6228,13 +6228,13 @@ Elizabeth	B-pers
 Bamfield	I-pers
 ,	O
 alias	O
-Carter	B-pers
+Carter	I-pers
 ,	O
 alias	O
-Howard	B-pers
+Howard	I-pers
 ,	O
 alias	O
-Smith	B-pers
+Smith	I-pers
 ,	O
 was	O
 Indicted	O

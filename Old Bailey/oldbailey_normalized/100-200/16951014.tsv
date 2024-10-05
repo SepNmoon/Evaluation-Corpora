@@ -264,10 +264,10 @@ Katherine	B-pers
 Buckingham	I-pers
 ,	O
 alias	O
-Barber	B-pers
+Barber	I-pers
 ,	O
 alias	O
-Barnet	B-pers
+Barnet	I-pers
 ,	O
 was	O
 indicted	O
@@ -777,7 +777,7 @@ summary	O
 Michael	B-pers
 Hall	I-pers
 alias	O
-Hill	B-pers
+Hill	I-pers
 ,	O
 was	O
 indicted	O
@@ -808,7 +808,7 @@ in	O
 an	O
 Alley	B-place
 near	O
-Bearbinder-lane	B-place
+Bearbinder-lane	I-place
 ,	O
 and	O
 taking	O
@@ -1584,7 +1584,7 @@ Elizabeth	B-pers
 Mooney	I-pers
 ,	O
 alias	O
-Bray	B-pers
+Bray	I-pers
 ,	O
 of	O
 the	O
@@ -1888,7 +1888,7 @@ summary	O
 Dorothy	B-pers
 Hall	I-pers
 alias	O
-Burrows	B-pers
+Burrows	I-pers
 ,	O
 of	O
 the	O
@@ -1897,9 +1897,9 @@ of	I-place
 St	I-place
 .	I-place
 Brides	I-place
-in	O
-the	O
-Ward	B-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Farringdon	I-place
 without	I-place
@@ -1979,7 +1979,7 @@ Three	I-place
 Sugar	I-place
 Loaves	I-place
 in	O
-Bond	B-place
+Bond	I-place
 stables	I-place
 .	O
 The	O
@@ -3110,7 +3110,7 @@ from	O
 the	O
 Lace-Chamber	B-place
 in	O
-Aldersgate-street	B-place
+Aldersgate-street	I-place
 ,	O
 and	O
 search	O
@@ -3731,7 +3731,7 @@ C	O
 house	O
 in	O
 Bell-yard	B-place
-at	I-place
+at	O
 Whitechapel	I-place
 to	O
 search	O
@@ -4646,11 +4646,11 @@ Three	I-place
 Sugar	I-place
 Loaves	I-place
 in	O
-Bond	B-place
+Bond	I-place
 's	I-place
 Stables	I-place
 in	O
-Fosterlane	B-place
+Fosterlane	I-place
 ;	O
 and	O
 another	O
@@ -6070,7 +6070,7 @@ at	O
 the	O
 Ship	B-place
 Tavern	I-place
-in	I-place
+in	O
 Claremarket	I-place
 ,	O
 and	O
@@ -6260,9 +6260,9 @@ Parish	B-place
 of	I-place
 St.	I-place
 Bartholomews	I-place
-by	O
-the	O
-Exchange	O
+by	I-place
+the	I-place
+Exchange	I-place
 ,	O
 was	O
 Indicted	O
@@ -6647,10 +6647,10 @@ of	I-place
 St.	I-place
 Andrews	I-place
 Holborn	I-place
-,	O
-in	O
-the	O
-Ward	B-place
+,	I-place
+in	I-place
+the	I-place
+Ward	I-place
 of	I-place
 Farringdon	I-place
 without	I-place
@@ -6685,7 +6685,7 @@ a	O
 House	O
 in	O
 Wharton-court	B-place
-in	I-place
+in	O
 Holborn	I-place
 ,	O
 and	O
@@ -7259,7 +7259,7 @@ Widow	O
 in	O
 Lisle-street	B-place
 in	O
-Leicester-fields	B-place
+Leicester-fields	I-place
 ,	O
 on	O
 the	O
@@ -7664,7 +7664,7 @@ Rose	B-place
 and	I-place
 Crown	I-place
 in	O
-Holbourn	B-place
+Holbourn	I-place
 ,	O
 and	O
 that	O
@@ -7812,7 +7812,7 @@ Somerset	B-place
 Yard	I-place
 in	O
 the	O
-Strand	B-place
+Strand	I-place
 ,	O
 where	O
 they	O

@@ -612,7 +612,7 @@ in	O
 Harp-Alley	B-place
 ,	O
 near	O
-Fleet-Ditch	B-place
+Fleet-Ditch	I-place
 ,	O
 the	O
 had	O
@@ -1377,8 +1377,8 @@ Parish	B-place
 of	I-place
 St.	I-place
 Gregories	I-place
-by	O
-St.	B-place
+by	I-place
+St.	I-place
 Pauls	I-place
 on	O
 the	O
@@ -1667,7 +1667,7 @@ called	O
 the	B-place
 Artechoak	I-place
 near	O
-Sommerset-house	B-place
+Sommerset-house	I-place
 ,	O
 the	O
 deceased	O
@@ -2052,8 +2052,8 @@ Allen	I-pers
 of	O
 St.	B-place
 Catharines	I-place
-by	O
-the	B-place
+by	I-place
+the	I-place
 Tower	I-place
 ,	O
 was	O
@@ -2662,7 +2662,7 @@ Lodging	O
 in	O
 Stone-Cutters-street	B-place
 near	O
-Fleet-ditch	B-place
+Fleet-ditch	I-place
 ,	O
 where	O
 two	O
@@ -4551,8 +4551,8 @@ in	O
 Thames-street	B-place
 ,	O
 near	O
-the	O
-Custome-house	B-place
+the	I-place
+Custome-house	I-place
 ,	O
 on	O
 the	O
@@ -5130,7 +5130,7 @@ in	O
 Bedford	B-place
 street	I-place
 by	O
-Covent	B-place
+Covent	I-place
 Garden	I-place
 .	O
 The	O
@@ -6135,7 +6135,7 @@ summary	O
 ]	O
 William	B-pers
 Jones	I-pers
-andO
+and	O
 Jane	B-pers
 his	O
 Wife	O
@@ -9320,8 +9320,8 @@ Meed	I-pers
 ,	O
 alias	O
 Smith	B-pers
-,	I-pers
-F.	I-pers
+,	O
+F.	B-pers
 P	I-pers
 .	I-pers
 Samuel	B-pers
@@ -9920,8 +9920,8 @@ street	O
 *	O
 *	O
 The	O
-Young	O
-Man	O
+Young	B-pers
+Man	I-pers
 's	O
 Claim	O
 into	O
@@ -10088,8 +10088,8 @@ several	O
 illegitimates	O
 in	O
 the	O
-Parish	B-place
-of	I-place
+Parish	O
+of	O
 -	O
 To	O
 which	O

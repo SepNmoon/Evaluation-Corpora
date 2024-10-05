@@ -636,7 +636,7 @@ fellow	O
 coming	O
 to	O
 a	O
-Sempstress	O
+Sempstress	B-pers
 es	O
 shop	O
 ,	O
@@ -771,7 +771,7 @@ been	O
 Servant	O
 to	O
 a	O
-Gentleman	O
+Gentleman	B-pers
 of	I-pers
 Quality	I-pers
 ,	O
@@ -1286,7 +1286,7 @@ good	O
 Behaviour	O
 .	O
 A	O
-Fellow	B-pers
+Fellow	O
 at	O
 Stepney	B-place
 having	O
@@ -1522,7 +1522,7 @@ the	O
 Strand	B-place
 .	O
 A	O
-Gentlewoman	O
+Gentlewoman	B-pers
 s	O
 door	O
 being	O
@@ -1653,7 +1653,7 @@ Washerwoman	O
 in	O
 St.	B-place
 Margarets	I-place
-Westminster	B-place
+Westminster	I-place
 ,	O
 ,	O
 had	O
