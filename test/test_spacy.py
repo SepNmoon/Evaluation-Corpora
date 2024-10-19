@@ -844,7 +844,7 @@ if __name__ == "__main__":
     all_place_relevant=0
     all_place_retrive=0
     
-    for file in files[0:100]:
+    for file in files[0:1589]:
         print(file)   
         #tsv_data=read_file(file_path)
         tsv_data=read_file('..\MH\MH_normalized\%s'%file)
