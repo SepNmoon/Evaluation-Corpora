@@ -41,7 +41,7 @@ def iob_to_spacy_format(iob_lines):
             current_entity = None
             start = 0
             continue
-        
+        # print(line)
         word, label = line.strip().split()
         sentence.append(word)
         word_start = start
@@ -817,12 +817,92 @@ def data_display(true_entities, pred_entities,test_data):
     #print(combine_entities)
     return combine_entities
     
-            
-    
+def read_corpora(corpus,mode):
+    if corpus=='MH':
+        path='..\MH\MH_normalized'
+        files= os.listdir(path)
+        for file in files[0:10]:
+            print(file)
+            tsv_data=read_file('..\MH\MH_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+
+            test_data=iob_to_spacy_format(iob_data)    
+            true_entities, pred_entities, doc=spacy_predict(test_data)
+            #data_display(true_entities, pred_entities, test_data)
+            if mode=='strict':
+                strict(true_entities, pred_entities)
+            elif mode=='type':
+                type_match(true_entities, pred_entities)
+            elif mode=='partial':
+                partial_match(true_entities, pred_entities)
+
+    elif corpus=='HIPE':
+        file='..\HIPE2020\HIPE2020_normalized.tsv'
+        tsv_data=read_file(file)
+        iob_data=[]
+        for data in tsv_data:
+            iob_element=data[0]+' '+data[1]
+            iob_data.append(iob_element)          
+        test_data=iob_to_spacy_format(iob_data)
+        true_entities, pred_entities, doc=spacy_predict(test_data)
+        #data_display(true_entities, pred_entities, test_data)
+        if mode=='strict':
+            strict(true_entities, pred_entities)
+        elif mode=='type':
+            type_match(true_entities, pred_entities)
+        elif mode=='partial':
+            partial_match(true_entities, pred_entities)
+        
+    elif corpus=='sloane':
+        path='..\Sloane Catalogues\Sloane Catalogue_normalized'
+        files= os.listdir(path)
+        for file in files[0:2]:
+            print(file)
+            tsv_data=read_file('..\Sloane Catalogues\Sloane Catalogue_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+            test_data=iob_to_spacy_format(iob_data)    
+            true_entities, pred_entities, doc=spacy_predict(test_data)
+            #data_display(true_entities, pred_entities, test_data)
+            if mode=='strict':
+                strict(true_entities, pred_entities)
+            elif mode=='type':
+                type_match(true_entities, pred_entities)
+            elif mode=='partial':
+                partial_match(true_entities, pred_entities)
+    elif corpus=='old bailey':
+        path='..\Old Bailey\oldbailey_normalized'
+        files= os.listdir(path)
+        for file in files[0:499]:
+            print(file)
+            tsv_data=read_file('..\Old Bailey\oldbailey_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+            test_data=iob_to_spacy_format(iob_data)    
+            true_entities, pred_entities, doc=spacy_predict(test_data)
+            #data_display(true_entities, pred_entities, test_data)
+            if mode=='strict':
+                strict(true_entities, pred_entities)
+            elif mode=='type':
+                type_match(true_entities, pred_entities)
+            elif mode=='partial':
+                partial_match(true_entities, pred_entities)
+    per_precision,per_recall,per_f,place_precision,place_recall,place_f=score(mode) 
+    print('Results of %s mode'%(mode))
+    print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
+    print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))    
+        
+
 
 if __name__ == "__main__":    
-    path='..\MH\MH_normalized'
-    files= os.listdir(path)
+    
     all_per_correct=0
     all_per_incorrect=0
     all_per_partial=0
@@ -843,7 +923,12 @@ if __name__ == "__main__":
     all_per_retrive=0 #all person annotations produced by Spacy
     all_place_relevant=0
     all_place_retrive=0
+    nlp = spacy.load("en_core_web_sm")
+    read_corpora('old bailey','strict')
     
+    '''
+    path='..\MH\MH_normalized'
+    files= os.listdir(path)
     for file in files[0:1589]:
         print(file)   
         #tsv_data=read_file(file_path)
@@ -857,15 +942,15 @@ if __name__ == "__main__":
         nlp = spacy.load("en_core_web_sm")
         true_entities, pred_entities, doc=spacy_predict(test_data)
         data_display(true_entities, pred_entities, test_data) 
-        #print(true_entities,pred_entities)
+        
     
         strict(true_entities, pred_entities)
         #type_match(true_entities, pred_entities)
         #partial_match(true_entities, pred_entities)
-        
-    per_precision,per_recall,per_f,place_precision,place_recall,place_f=score('strict')    
-    print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
-    print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))
+    '''    
+    #per_precision,per_recall,per_f,place_precision,place_recall,place_f=score('strict')    
+    #print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
+    #print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))
 
 
     

@@ -3801,9 +3801,9 @@ summary	O
 9.	O
 Mary	B-pers
 Hallis	I-pers
-,	I-pers
-alias	I-pers
-Dickenson	I-pers
+,	O
+alias	O
+Dickenson	B-pers
 ,	O
 was	O
 indicted	O
@@ -4430,8 +4430,8 @@ Devil	O
 did	O
 assault	O
 Sarah	B-pers
-his	I-pers
-Wife	I-pers
+his	O
+Wife	O
 ,	O
 giving	O
 her	O
@@ -5827,9 +5827,9 @@ Death	O
 20.	O
 William	B-pers
 Bury	I-pers
-,	I-pers
-alias	I-pers
-Henry	I-pers
+,	O
+alias	O
+Henry	B-pers
 Parminter	I-pers
 ,	O
 was	O

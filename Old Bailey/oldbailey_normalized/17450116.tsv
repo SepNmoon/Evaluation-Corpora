@@ -6656,7 +6656,7 @@ I	O
 live	O
 at	O
 the	O
-Fountain	B-place
+Fountain	O
 in	O
 Charles	B-place
 Court	I-place
@@ -10068,9 +10068,9 @@ Castaing	I-pers
 late	O
 of	O
 the	O
-parish	O
-of	O
-St.	B-place
+Parish	B-place
+of	I-place
+St.	I-place
 Martin	I-place
 's	I-place
 in	I-place
@@ -16753,8 +16753,8 @@ Acquitted	O
 Frances	B-pers
 Clark	I-pers
 .	I-pers
-otherwise	I-pers
-Dames	I-pers
+otherwise	O
+Dames	B-pers
 ,	O
 of	O
 St.	B-place
@@ -18596,8 +18596,8 @@ summary	O
 157.	O
 Mary	B-pers
 Gibson	I-pers
-otherwise	I-pers
-Pratt	I-pers
+otherwise	O
+Pratt	B-pers
 ,	O
 was	O
 indicted	O

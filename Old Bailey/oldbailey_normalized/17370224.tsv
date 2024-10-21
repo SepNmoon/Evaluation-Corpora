@@ -1985,8 +1985,8 @@ Ship	O
 departed	O
 from	O
 Padras	B-place
-in	I-place
-Turkey	I-place
+in	O
+Turkey	B-place
 ,	O
 loaden	O
 with	O
@@ -10178,9 +10178,9 @@ Mariner	O
 and	O
 John	B-pers
 Bryan	I-pers
-,	I-pers
-otherwise	I-pers
-O'Bryan	I-pers
+,	O
+otherwise	O
+O'Bryan	B-pers
 ,	O
 late	O
 of	O

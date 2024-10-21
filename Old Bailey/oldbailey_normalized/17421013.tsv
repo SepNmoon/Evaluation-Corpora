@@ -642,9 +642,9 @@ coming	O
 thro	O
 '	O
 Black-Boy-Alley	B-place
-,	I-place
-in	I-place
-Chick-Lane	I-place
+,	O
+in	O
+Chick-Lane	B-place
 ,	O
 this	O
 Woman	O
@@ -3283,8 +3283,8 @@ summary	O
 124.	O
 John	B-pers
 Heaney	I-pers
-otherwise	I-pers
-Ceeney	I-pers
+otherwise	O
+Ceeney	B-pers
 ,	O
 was	O
 indicted	O
@@ -3384,9 +3384,9 @@ He	O
 went	O
 into	O
 Pope's-Court	B-place
-,	I-place
-in	I-place
-Bell-Yard	I-place
+,	O
+in	O
+Bell-Yard	B-place
 ;	O
 and	O
 in	O

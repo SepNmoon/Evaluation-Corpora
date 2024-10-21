@@ -4487,8 +4487,8 @@ summary	O
 95.	O
 Elizabeth	B-pers
 Gardner	I-pers
-otherwise	I-pers
-Bridgewater	I-pers
+otherwise	O
+Bridgewater	B-pers
 was	O
 indicted	O
 for	O
@@ -12389,8 +12389,8 @@ Room	O
 ,	O
 in	O
 Castle-Street	B-place
-,	I-place
-Spital-Fields	I-place
+,	O
+Spital-Fields	B-place
 .	O
 She	O
 came	O
@@ -15254,9 +15254,9 @@ happen	O
 'd	O
 in	O
 Cheapside	B-place
-,	I-place
-near	I-place
-Bow	I-place
+,	O
+near	O
+Bow	B-place
 Church	I-place
 :	O
 There	O
@@ -21090,9 +21090,9 @@ James	B-pers
 Raven	I-pers
 of	O
 the	O
-Parish	O
-of	O
-Stoke-Newington	B-place
+Parish	B-place
+of	I-place
+Stoke-Newington	I-place
 ,	O
 not	O
 having	O

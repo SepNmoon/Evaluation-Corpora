@@ -882,7 +882,7 @@ Row	O
 by	O
 a	O
 Servant	O
-Maid	B-pers
+Maid	O
 :	O
 Mr	O
 Fairbourne	O
@@ -5994,8 +5994,8 @@ House	O
 the	O
 White	B-place
 Bear	I-place
-in	I-place
-Newport-street	I-place
+in	O
+Newport-street	B-place
 .	O
 On	O
 the	O
@@ -13143,9 +13143,9 @@ was	O
 coming	O
 down	O
 Catherine-street	B-place
-in	I-place
-the	I-place
-Strand	I-place
+in	O
+the	O
+Strand	B-place
 ,	O
 I	O
 went	O
@@ -17603,8 +17603,8 @@ Acquitted	O
 Mary	B-pers
 Wade	I-pers
 .	I-pers
-otherwise	I-pers
-Gavel	I-pers
+otherwise	O
+Gavel	B-pers
 ,	O
 was	O
 indicted	O
@@ -17692,9 +17692,9 @@ Acquitted	O
 276.	O
 Elizabeth	B-pers
 Harvey	I-pers
-,	I-pers
-otherwise	I-pers
-Morgan	I-pers
+,	O
+otherwise	O
+Morgan	B-pers
 ,	O
 was	O
 indicted	O
