@@ -5,10 +5,8 @@ Created on Sun Oct  6 15:08:29 2024
 @author: liulu
 """
 
-import pandas as pd
 import csv
 import spacy
-from nervaluate import Evaluator
 import os
 
 #读取文件，并将tsv文件格式转成iob格式
@@ -96,30 +94,138 @@ def spacy_predict(test_data):
 
 
 def score(mode):
+    all_correct=all_per_correct+all_place_correct
+    all_relevant=all_per_relevant+all_place_relevant
+    all_retrive=all_per_retrive+all_place_retrive
+    all_partial=all_per_partial+all_place_partial
+    all_partial_type=all_per_partial_type+all_place_partial_type
+    all_partial_weak=all_per_partial_weak+all_place_partial_weak
     if mode=='strict':
         per_precision=all_per_correct/all_per_retrive
         per_recall=all_per_correct/all_per_relevant        
         place_precision=all_place_correct/all_place_retrive
-        place_recall=all_place_correct/all_place_retrive 
+        place_recall=all_place_correct/all_place_retrive         
+        micro_precision=all_correct/all_retrive
+        micro_recall=all_correct/all_relevant
         #print(all_per_correct,all_per_retrive)
     elif mode=='type':
         per_precision=(all_per_correct+0.5*all_per_partial)/all_per_retrive
         per_recall=(all_per_correct+0.5*all_per_partial)/all_per_relevant
         place_precision=(all_place_correct+0.5*all_place_partial)/all_place_retrive
         place_recall=(all_place_correct+0.5*all_place_partial)/all_place_relevant
+        micro_precision=(all_correct+0.5*all_partial)/all_retrive
+        micro_recall=(all_correct+0.5*all_partial)/all_relevant
         #print(all_per_correct,all_per_partial,all_per_retrive)
     elif mode=='partial':
         per_precision=(all_per_correct+0.5*all_per_partial_type+0.25*all_per_partial_weak)/all_per_retrive
         per_recall=(all_per_correct+0.5*all_per_partial_type+0.25*all_per_partial_weak)/all_per_relevant
         place_precision=(all_place_correct+0.5*all_place_partial_type+0.25*all_place_partial_weak)/all_place_retrive
         place_recall=(all_place_correct+0.5*all_place_partial_type+0.25*all_place_partial_weak)/all_place_relevant
+        micro_precision=(all_correct+0.5*all_partial_type+0.25*all_partial_weak)/all_retrive
+        micro_recall=(all_correct+0.5*all_partial_type+0.25*all_partial_weak)/all_relevant
         #print(all_per_correct,all_per_partial_type,all_per_retrive)
+    elif mode=='lenient':
+        per_precision=(all_per_correct+all_per_partial)/all_per_retrive
+        per_recall=(all_per_correct+all_per_partial)/all_per_relevant
+        place_precision=(all_place_correct+all_place_partial)/all_place_retrive
+        place_recall=(all_place_correct+all_place_partial)/all_place_relevant
+        micro_precision=(all_correct+all_partial)/all_retrive
+        micro_recall=(all_correct+all_partial)/all_relevant
+    elif mode=='ultra-lenient':
+        per_precision=(all_per_correct+all_per_partial_type+all_per_partial_weak)/all_per_retrive
+        per_recall=(all_per_correct+all_per_partial_type+all_per_partial_weak)/all_per_relevant
+        place_precision=(all_place_correct+all_place_partial_type+all_place_partial_weak)/all_place_retrive
+        place_recall=(all_place_correct+all_place_partial_type+all_place_partial_weak)/all_place_relevant
+        micro_precision=(all_correct+all_partial_type+all_partial_weak)/all_retrive
+        micro_recall=(all_correct+all_partial_type+all_partial_weak)/all_relevant
        
     per_f=(2*per_precision*per_recall)/(per_precision+per_recall)
     place_f=(2*place_precision*place_recall)/(place_precision+place_recall)    
+    macro_f=(per_f+place_f)/2
+    micro_f=(2*micro_precision*micro_recall)/(micro_precision+micro_recall)
     
-    return per_precision,per_recall,per_f,place_precision,place_recall,place_f
+    
+    return per_precision,per_recall,per_f,place_precision,place_recall,place_f,macro_f,micro_f
 
+
+def data_display(true_entities, pred_entities,test_data):
+    #print(true_entities, pred_entities)
+
+    combine_entities=[]    
+    correct_true=[]
+    correct_pred=[]
+    for te in true_entities:
+        for pe in pred_entities:
+            if te[0]==pe[0] and te[1]==pe[1]:   
+                correct_true.append(te)
+                correct_pred.append(pe)
+                temp1=[]
+                temp1.append(te[0])
+                temp1.append(te[1])
+                temp1.append(test_data[0][0][te[0]:te[1]])
+                temp1.append(te[2])
+                temp2=[]
+                temp2.append(pe[0])
+                temp2.append(pe[1])
+                temp2.append(test_data[0][0][pe[0]:pe[1]])
+                temp2.append(pe[2])
+                temp=[]
+                temp.append(temp1)
+                temp.append(temp2)
+                combine_entities.append(temp)
+                break
+            elif (pe[1]>te[1]>pe[0]) or (te[1]>pe[1]>te[0]) or (te[1]==pe[1]):   
+                correct_true.append(te)
+                correct_pred.append(pe)
+                temp1=[]
+                temp1.append(te[0])
+                temp1.append(te[1])
+                temp1.append(test_data[0][0][te[0]:te[1]])
+                temp1.append(te[2])
+                temp2=[]
+                temp2.append(pe[0])
+                temp2.append(pe[1])
+                temp2.append(test_data[0][0][pe[0]:pe[1]])
+                temp2.append(pe[2])
+                temp=[]
+                temp.append(temp1)
+                temp.append(temp2)
+                combine_entities.append(temp)
+                
+   
+    #添加miss掉的true_entities
+    for entity in true_entities:        
+        if entity not in correct_true:                
+            temp1=[]
+            temp1.append(entity[0])
+            temp1.append(entity[1])
+            temp1.append(test_data[0][0][entity[0]:entity[1]])
+            temp1.append(entity[2])
+            temp2=[]
+            temp2.append('O')
+            temp=[]
+            temp.append(temp1)
+            temp.append(temp2)
+            combine_entities.append(temp)
+            #print(temp)
+           
+    #添加spu的pred_entities
+    for entity in pred_entities:
+        if entity not in correct_pred:
+            temp1=[]
+            temp1.append('O')
+            temp2=[]
+            temp2.append(entity[0])
+            temp2.append(entity[1])
+            temp2.append(test_data[0][0][entity[0]:entity[1]])
+            temp2.append(entity[2])
+            temp=[]
+            temp.append(temp1)
+            temp.append(temp2)
+            combine_entities.append(temp)
+
+    #print(combine_entities)
+    return combine_entities
 
 def strict(true_entities, pred_entities):
     #print(true_entities)
@@ -162,13 +268,13 @@ def strict(true_entities, pred_entities):
                     temp.append(te)
                     temp.append(pe)
                     per_incorrect.append(temp)
-                    break
+                    
                 elif (te[2]=='place' and pe[2]=='GPE') or (te[2]=='place' and pe[2]=='PERSON'):
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
                     place_incorrect.append(temp)
-                    break 
+                    
     
     #将人名地名分开    
     per_true_entities=[]
@@ -301,7 +407,8 @@ def strict(true_entities, pred_entities):
     
 
     
-def type_match(true_entities, pred_entities):
+def type_match(true_entities, pred_entities,test_data):
+    
     per_correct=[]
     per_incorrect=[]
     per_partial=[]
@@ -342,25 +449,25 @@ def type_match(true_entities, pred_entities):
                     temp.append(te)
                     temp.append(pe)
                     per_partial.append(temp)
-                    break
+                    
                 elif te[2]=='pers' and pe[2]=='GPE':
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
                     per_incorrect.append(temp)
-                    break
+                    
                 elif te[2]=='place' and pe[2]=='GPE':
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
                     place_partial.append(temp)
-                    break
+                    
                 elif te[2]=='place' and pe[2]=='PERSON':
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
                     place_incorrect.append(temp)
-                    break
+                    
                 
     #将人名，地名分开
     per_true_entities=[]
@@ -395,7 +502,7 @@ def type_match(true_entities, pred_entities):
             per_miss.remove(entity[0])
         except ValueError:
             pass
-
+    
 
     per_spurius=per_pred_entities.copy()
     for entity in per_correct:
@@ -407,8 +514,7 @@ def type_match(true_entities, pred_entities):
         try:
             per_spurius.remove(entity[1])
         except ValueError:
-            pass
-                
+            pass                
     #place incorrect只有一种情况，即本来是地名却误测成了人名，于是显示在pred里是人名的形式
     for entity in place_incorrect:
         try:
@@ -452,6 +558,24 @@ def type_match(true_entities, pred_entities):
             place_spurius.remove(entity[1])
         except ValueError:
             pass
+    
+    
+    #print(per_partial)
+    '''
+    true_incorrect=[]
+    pred_incorrect=[]
+    #print(per_incorrect)
+    for per_group in per_incorrect:
+        true_incorrect.append(per_group[0])
+        pred_incorrect.append(per_group[1])
+    
+    conjoined_entities=data_display(true_incorrect, pred_incorrect, test_data)
+    
+    for i in conjoined_entities:
+        print(i)
+    '''    
+    
+
     
     per_correct=len(per_correct)
     per_incorrect=len(per_incorrect)
@@ -517,8 +641,10 @@ def type_match(true_entities, pred_entities):
     
 
 
-def partial_match(true_entities, pred_entities):
-    
+def partial_match(true_entities, pred_entities,test_data):
+    conjoined_entities=data_display(true_entities, pred_entities, test_data)
+    for i in conjoined_entities:
+        print(i)
     per_correct=[]
     per_partial_type=[]
     per_partial_weak=[]
@@ -541,7 +667,8 @@ def partial_match(true_entities, pred_entities):
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
-                    per_partial_weak.append(temp)                   
+                    per_partial_weak.append(temp)  
+                    break
                 elif te[2]=='place' and pe[2]=='GPE':
                     temp=[]
                     temp.append(te)
@@ -555,13 +682,14 @@ def partial_match(true_entities, pred_entities):
                     place_partial_weak.append(temp)
                     break
             elif (pe[1]>te[1]>pe[0]) or (te[1]>pe[1]>te[0]) or (te[1]==pe[1]): 
+                
                 if te[2]=='pers' and pe[2]=='PERSON':
                     #范围重合，类型对
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
                     per_partial_type.append(temp)
-                    break
+                    #break
                 elif te[2]=='pers' and pe[2]=='GPE':
                     #范围重合，类型不对
                     temp=[]
@@ -573,17 +701,18 @@ def partial_match(true_entities, pred_entities):
                     temp.append(te)
                     temp.append(pe)
                     place_partial_type.append(temp)
-                    break
+                    #break
                 elif te[2]=='place' and pe[2]=='PERSON':
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
                     place_partial_weak.append(temp)
-                    break
-      
+                    #break
+    
     #将人名，地名分开
     per_true_entities=[]
     place_true_entities=[]
+    
     for entity in true_entities:
         if entity[2]=='pers':
             per_true_entities.append(entity)
@@ -592,6 +721,7 @@ def partial_match(true_entities, pred_entities):
     
     per_pred_entities=[]
     place_pred_entities=[]
+    
     for entity in pred_entities:
         if entity[2]=='PERSON':
             per_pred_entities.append(entity)
@@ -650,25 +780,37 @@ def partial_match(true_entities, pred_entities):
         except ValueError:
             pass
         
-
+    
     place_spurius=place_pred_entities.copy()
     for entity in place_correct:
         try:
             place_spurius.remove(entity[1])
         except ValueError:
             pass
+    
     for entity in place_partial_type:
         try:
             place_spurius.remove(entity[1])
         except ValueError:
             pass
-    for enity in per_partial_weak:
+    
+    for entity in per_partial_weak:
         try:
             place_spurius.remove(entity[1])
         except ValueError:
             pass
-
     
+    
+    '''
+    conjoined_entities=data_display(true_entities, pred_entities, test_data)
+    #print(conjoined_entities)
+    for i in conjoined_entities:
+        
+        if i[0]==['O'] and i[1][3]=='PERSON':
+            print(i)
+    '''
+    
+
     per_correct=len(per_correct)
     per_incorrect=0
     per_partial_type=len(per_partial_type)
@@ -736,92 +878,16 @@ def partial_match(true_entities, pred_entities):
     all_per_retrive=all_per_retrive+per_retrive
     all_place_retrive=all_place_retrive+place_retrive
     
-    
+    #conjoined_entities=data_display(true_entities, pred_entities, test_data)
+    #print(conjoined_entities)
 
-def data_display(true_entities, pred_entities,test_data):
-    #print(true_entities, pred_entities)
 
-    combine_entities=[]    
-    correct_true=[]
-    correct_pred=[]
-    for te in true_entities:
-        for pe in pred_entities:
-            if te[0]==pe[0] and te[1]==pe[1]:   
-                correct_true.append(te)
-                correct_pred.append(pe)
-                temp1=[]
-                temp1.append(te[0])
-                temp1.append(te[1])
-                temp1.append(test_data[0][0][te[0]:te[1]])
-                temp1.append(te[2])
-                temp2=[]
-                temp2.append(pe[0])
-                temp2.append(pe[1])
-                temp2.append(test_data[0][0][pe[0]:pe[1]])
-                temp2.append(pe[2])
-                temp=[]
-                temp.append(temp1)
-                temp.append(temp2)
-                combine_entities.append(temp)
-                break
-            elif (pe[1]>te[1]>pe[0]) or (te[1]>pe[1]>te[0]) or (te[1]==pe[1]):   
-                correct_true.append(te)
-                correct_pred.append(pe)
-                temp1=[]
-                temp1.append(te[0])
-                temp1.append(te[1])
-                temp1.append(test_data[0][0][te[0]:te[1]])
-                temp1.append(te[2])
-                temp2=[]
-                temp2.append(pe[0])
-                temp2.append(pe[1])
-                temp2.append(test_data[0][0][pe[0]:pe[1]])
-                temp2.append(pe[2])
-                temp=[]
-                temp.append(temp1)
-                temp.append(temp2)
-                combine_entities.append(temp)
-                break
-    
-    #添加miss掉的true_entities
-    for entity in true_entities:        
-        if entity not in correct_true:                
-            temp1=[]
-            temp1.append(entity[0])
-            temp1.append(entity[1])
-            temp1.append(test_data[0][0][entity[0]:entity[1]])
-            temp1.append(entity[2])
-            temp2=[]
-            temp2.append('O')
-            temp=[]
-            temp.append(temp1)
-            temp.append(temp2)
-            combine_entities.append(temp)
-            #print(temp)
-           
-    #添加spu的pred_entities
-    for entity in pred_entities:
-        if entity not in correct_pred:
-            temp1=[]
-            temp1.append('O')
-            temp2=[]
-            temp2.append(entity[0])
-            temp2.append(entity[1])
-            temp2.append(test_data[0][0][entity[0]:entity[1]])
-            temp2.append(entity[2])
-            temp=[]
-            temp.append(temp1)
-            temp.append(temp2)
-            combine_entities.append(temp)
-
-    #print(combine_entities)
-    return combine_entities
     
 def read_corpora(corpus,mode):
     if corpus=='MH':
         path='..\MH\MH_normalized'
         files= os.listdir(path)
-        for file in files[0:10]:
+        for file in files[0:1589]:
             print(file)
             tsv_data=read_file('..\MH\MH_normalized\%s'%file)
             iob_data=[]
@@ -838,6 +904,10 @@ def read_corpora(corpus,mode):
                 type_match(true_entities, pred_entities)
             elif mode=='partial':
                 partial_match(true_entities, pred_entities)
+            elif mode=='lenient':
+                type_match(true_entities, pred_entities,test_data)
+            elif mode=='ultra-lenient':
+                partial_match(true_entities, pred_entities,test_data)
 
     elif corpus=='HIPE':
         file='..\HIPE2020\HIPE2020_normalized.tsv'
@@ -848,13 +918,17 @@ def read_corpora(corpus,mode):
             iob_data.append(iob_element)          
         test_data=iob_to_spacy_format(iob_data)
         true_entities, pred_entities, doc=spacy_predict(test_data)
-        #data_display(true_entities, pred_entities, test_data)
+        data_display(true_entities, pred_entities, test_data)        
         if mode=='strict':
             strict(true_entities, pred_entities)
         elif mode=='type':
-            type_match(true_entities, pred_entities)
+            type_match(true_entities, pred_entities,test_data)
         elif mode=='partial':
             partial_match(true_entities, pred_entities)
+        elif mode=='lenient':
+            type_match(true_entities, pred_entities,test_data)
+        elif mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities,test_data)
         
     elif corpus=='sloane':
         path='..\Sloane Catalogues\Sloane Catalogue_normalized'
@@ -872,9 +946,14 @@ def read_corpora(corpus,mode):
             if mode=='strict':
                 strict(true_entities, pred_entities)
             elif mode=='type':
-                type_match(true_entities, pred_entities)
+                type_match(true_entities, pred_entities,test_data)
             elif mode=='partial':
                 partial_match(true_entities, pred_entities)
+            elif mode=='lenient':
+                type_match(true_entities, pred_entities,test_data)
+            elif mode=='ultra-lenient':
+                partial_match(true_entities, pred_entities,test_data)
+                
     elif corpus=='old bailey':
         path='..\Old Bailey\oldbailey_normalized'
         files= os.listdir(path)
@@ -894,13 +973,96 @@ def read_corpora(corpus,mode):
                 type_match(true_entities, pred_entities)
             elif mode=='partial':
                 partial_match(true_entities, pred_entities)
-    per_precision,per_recall,per_f,place_precision,place_recall,place_f=score(mode) 
+            elif mode=='lenient':
+                type_match(true_entities, pred_entities,test_data)
+            elif mode=='ultra-lenient':
+                partial_match(true_entities, pred_entities,test_data)
+    per_precision,per_recall,per_f,place_precision,place_recall,place_f,macro_f,micro_f=score(mode) 
     print('Results of %s mode'%(mode))
     print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
     print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))    
+    print('Macro F1 score: %f'%macro_f)
+    print('Micro F1 score: %f'%micro_f)
+    
+
+
+def evaluation_corpora(mode):      
+    path='..\MH\MH_normalized'
+    files= os.listdir(path)
+    for file in files[0:1589]:
+        print(file)
+        tsv_data=read_file('..\MH\MH_normalized\%s'%file)
+        iob_data=[]
+        for data in tsv_data:
+            iob_element=data[0]+' '+data[1]
+            iob_data.append(iob_element)
+
+        test_data=iob_to_spacy_format(iob_data)    
+        true_entities, pred_entities, doc=spacy_predict(test_data)
+        if mode=='strict':
+            strict(true_entities, pred_entities)  
+        elif mode=='type' or mode=='lenient':
+            type_match(true_entities, pred_entities,test_data)
+        elif mode=='partial' or mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities)
+    file='..\HIPE2020\HIPE2020_normalized.tsv'
+    tsv_data=read_file(file)
+    iob_data=[]
+    for data in tsv_data:
+        iob_element=data[0]+' '+data[1]
+        iob_data.append(iob_element)          
+    test_data=iob_to_spacy_format(iob_data)
+    true_entities, pred_entities, doc=spacy_predict(test_data)
+    if mode=='strict':
+        strict(true_entities, pred_entities)  
+    elif mode=='type' or mode=='lenient':
+        type_match(true_entities, pred_entities,test_data)
+    elif mode=='partial' or mode=='ultra-lenient':
+        partial_match(true_entities, pred_entities)
+    path='..\Sloane Catalogues\Sloane Catalogue_normalized'
+    files= os.listdir(path)
+    for file in files[0:2]:
+        print(file)
+        tsv_data=read_file('..\Sloane Catalogues\Sloane Catalogue_normalized\%s'%file)
+        iob_data=[]
+        for data in tsv_data:
+            iob_element=data[0]+' '+data[1]
+            iob_data.append(iob_element)
+        test_data=iob_to_spacy_format(iob_data)    
+        true_entities, pred_entities, doc=spacy_predict(test_data)
+        if mode=='strict':
+            strict(true_entities, pred_entities)  
+        elif mode=='type' or mode=='lenient':
+            type_match(true_entities, pred_entities,test_data)
+        elif mode=='partial' or mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities)
+    path='..\Old Bailey\oldbailey_normalized'
+    files= os.listdir(path)
+    for file in files[0:499]:
+        print(file)
+        tsv_data=read_file('..\Old Bailey\oldbailey_normalized\%s'%file)
+        iob_data=[]
+        for data in tsv_data:
+            iob_element=data[0]+' '+data[1]
+            iob_data.append(iob_element)
+        test_data=iob_to_spacy_format(iob_data)    
+        true_entities, pred_entities, doc=spacy_predict(test_data)
+        if mode=='strict':
+            strict(true_entities, pred_entities)  
+        elif mode=='type' or mode=='lenient':
+            type_match(true_entities, pred_entities,test_data)
+        elif mode=='partial' or mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities)
+
         
-
-
+    per_precision,per_recall,per_f,place_precision,place_recall,place_f,macro_f,micro_f=score(mode)
+    print('Results of %s mode'%(mode))
+    print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
+    print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))
+    print('Macro F1 score: %f'%macro_f)
+    print('Micro F1 score: %f'%micro_f)
+        
+    
 if __name__ == "__main__":    
     
     all_per_correct=0
@@ -924,33 +1086,11 @@ if __name__ == "__main__":
     all_place_relevant=0
     all_place_retrive=0
     nlp = spacy.load("en_core_web_sm")
-    read_corpora('old bailey','strict')
+    read_corpora('HIPE','ultra-lenient')
+    #evaluation_corpora('ultra-lenient')
     
-    '''
-    path='..\MH\MH_normalized'
-    files= os.listdir(path)
-    for file in files[0:1589]:
-        print(file)   
-        #tsv_data=read_file(file_path)
-        tsv_data=read_file('..\MH\MH_normalized\%s'%file)
-        iob_data=[]
-        for data in tsv_data:
-            iob_element=data[0]+' '+data[1]
-            iob_data.append(iob_element)
+       
 
-        test_data=iob_to_spacy_format(iob_data)
-        nlp = spacy.load("en_core_web_sm")
-        true_entities, pred_entities, doc=spacy_predict(test_data)
-        data_display(true_entities, pred_entities, test_data) 
-        
-    
-        strict(true_entities, pred_entities)
-        #type_match(true_entities, pred_entities)
-        #partial_match(true_entities, pred_entities)
-    '''    
-    #per_precision,per_recall,per_f,place_precision,place_recall,place_f=score('strict')    
-    #print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
-    #print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))
 
 
     
