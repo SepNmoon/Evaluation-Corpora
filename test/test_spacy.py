@@ -448,20 +448,18 @@ def type_match(true_entities, pred_entities,test_data):
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
-                    per_partial.append(temp)
-                    
+                    per_partial.append(temp)        
                 elif te[2]=='pers' and pe[2]=='GPE':
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
-                    per_incorrect.append(temp)
+                    per_incorrect.append(temp) 
                     
                 elif te[2]=='place' and pe[2]=='GPE':
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
                     place_partial.append(temp)
-                    
                 elif te[2]=='place' and pe[2]=='PERSON':
                     temp=[]
                     temp.append(te)
