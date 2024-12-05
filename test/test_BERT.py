@@ -711,7 +711,6 @@ def partial_match(true_entities, pred_entities,test_data):
                     temp=[]
                     temp.append(te)
                     temp.append(pe)
-                    
                     per_partial_type.append(temp)
                 elif te[2]=='pers' and pe[2]=='LOCATION':
                     temp=[]
@@ -745,7 +744,7 @@ def partial_match(true_entities, pred_entities,test_data):
     for entity in pred_entities:
         if entity[2]=='PERSON':
             per_pred_entities.append(entity)
-        elif entity[2]=='GPE':
+        elif entity[2]=='LOCATION':
             place_pred_entities.append(entity)
     
     per_miss= per_true_entities.copy()      
@@ -1103,7 +1102,7 @@ if __name__ == "__main__":
     all_place_relevant=0
     all_place_retrive=0
     
-    read_corpora('old bailey','partial')
+    read_corpora('HIPE','partial')
     #evaluation_corpora('ultra-lenient')
     
     

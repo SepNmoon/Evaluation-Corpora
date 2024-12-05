@@ -81,7 +81,38 @@ def write_file(selection):
             file_name=file[:-4]
             with open('.\geoparser\MH\%s.txt'%file_name,'w') as f:
                 f.write(text)
+    elif selection=='sloane':
+        path='..\Sloane Catalogues\Sloane Catalogue_normalized'
+        files=os.listdir(path)
+        for file in files[0:2]:
+            print(file)
+            tsv_data=read_file('..\Sloane Catalogues\Sloane Catalogue_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+            test_data=iob_to_text(iob_data) 
+            text=test_data[0][0]
+            file_name=file[:-4]
+            with open('.\geoparser\sloane\%s.txt'%file_name,'w') as f:
+                f.write(text)
+    elif selection=='old bailey':
+        path='..\Old Bailey\oldbailey_normalized'
+        files= os.listdir(path)
+        for file in files[0:499]:
+            print(file)
+            tsv_data=read_file('..\Old Bailey\oldbailey_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+            test_data=iob_to_text(iob_data)  
+            text=test_data[0][0]
+            file_name=file[:-4]
+            with open('.\geoparser\old bailey\%s.txt'%file_name,'w') as f:
+                f.write(text)
+        
         
 
 if __name__ == "__main__": 
-    write_file('MH')
+    write_file('old bailey')

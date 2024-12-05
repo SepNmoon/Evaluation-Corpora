@@ -287,8 +287,425 @@ def strict(true_entities,pred_entities):
     all_per_retrive=all_per_retrive+per_retrive
     all_place_retrive=all_place_retrive+place_retrive
     
+def type_match(true_entities, pred_entities):
+    per_correct=[]
+    per_incorrect=[]
+    per_partial=[]
+    place_correct=[]
+    place_incorrect=[]
+    place_partial=[]
     
+    for te in true_entities:
+        for pe in pred_entities:
+            if te[0]==pe[0] and te[1]==pe[1]: #边界一样
+                if te[2]=='pers' and pe[2]=='person':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_correct.append(temp)
+                    break
+                elif te[2]=='pers' and pe[2]=='location':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_incorrect.append(temp)
+                    break
+                elif te[2]=='place' and pe[2]=='location':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_correct.append(temp)
+                    break
+                elif te[2]=='place' and pe[2]=='person':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_incorrect.append(temp)
+                    break
+            elif (pe[1]>te[1]>pe[0]) or (te[1]>pe[1]>te[0]) or (te[1]==pe[1]):
+                if te[2]=='pers' and pe[2]=='person':      
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_partial.append(temp)
+                elif te[2]=='pers' and pe[2]=='location':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_incorrect.append(temp) 
+                elif te[2]=='place' and pe[2]=='location':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_partial.append(temp)
+                elif te[2]=='place' and pe[2]=='person':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_incorrect.append(temp)
+    #将人名，地名分开
+    per_true_entities=[]
+    place_true_entities=[]
+    for entity in true_entities:
+        if entity[2]=='pers':
+            per_true_entities.append(entity)
+        elif entity[2]=='place':
+            place_true_entities.append(entity)
+    
+    per_pred_entities=[]
+    place_pred_entities=[]
+ 
+    for entity in pred_entities:
+        if entity[2]=='person':
+            per_pred_entities.append(entity)
+        elif entity[2]=='location':
+            place_pred_entities.append(entity)
+    
+    
+    per_miss= per_true_entities.copy() 
+    for entity in per_correct:
+        try:           
+            per_miss.remove(entity[0])    
+        except ValueError:
+            pass
+    for entity in per_incorrect:
+        try:
+            per_miss.remove(entity[0])
+        except ValueError:
+            pass
+    for entity in per_partial:
+        try:
+            per_miss.remove(entity[0])
+        except ValueError:
+            pass
+    
+    per_spurius=per_pred_entities.copy()
+    for entity in per_correct:
+        try:
+            per_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    for entity in per_partial:
+        try:
+            per_spurius.remove(entity[1])
+        except ValueError:
+            pass                
+    for entity in place_incorrect:
+        try:
+            per_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    
+    
+    place_miss= place_true_entities.copy() 
+    for entity in place_correct:
+        try:            
+            place_miss.remove(entity[0])
+        except ValueError:
+            pass
+            
+    for entity in place_incorrect:
+        try:
+            place_miss.remove(entity[0])
+        except ValueError:
+            pass
+        
+    for entity in place_partial:
+        try:
+            place_miss.remove(entity[0])
+        except ValueError:
+            pass
+    
+    place_spurius=place_pred_entities.copy()
+    for entity in place_correct:
+        try:
+            place_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    for entity in place_partial:
+        try:
+            place_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    for entity in per_incorrect:
+        try:
+            place_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    
+    
+    per_correct=len(per_correct)
+    per_incorrect=len(per_incorrect)
+    per_miss=len(per_miss)
+    per_spurius=len(per_spurius)
+    per_partial=len(per_partial)
+        
+    place_correct=len(place_correct)
+    place_incorrect=len(place_incorrect)
+    place_miss=len(place_miss)
+    place_spurius=len(place_spurius)
+    place_partial=len(place_partial)
+    
+    global all_per_correct
+    global all_per_incorrect
+    global all_per_partial
+    global all_per_miss
+    global all_per_spurius
+    
+    all_per_correct=all_per_correct+per_correct
+    all_per_incorrect=all_per_incorrect+per_incorrect
+    all_per_partial=all_per_partial+per_partial
+    all_per_miss=all_per_miss+per_miss
+    all_per_spurius=all_per_spurius+per_spurius
+    
+    global all_place_correct
+    global all_place_incorrect
+    global all_place_partial
+    global all_place_miss
+    global all_place_spurius
+    
+    all_place_correct=all_place_correct+place_correct
+    all_place_incorrect=all_place_incorrect+place_incorrect
+    all_place_partial=all_place_partial+place_partial
+    all_place_miss=all_place_miss+place_miss
+    all_place_spurius=all_place_spurius+place_spurius
+    
+    global all_per_relevant,all_per_retrive,all_place_relevant,all_place_retrive
+    per_relevant=0
+    per_retrive=0
+    place_relevant=0
+    place_retrive=0
+    for te in true_entities:
+        if te[2]=='pers':
+            per_relevant+=1
+        elif te[2]=='place':
+            place_relevant+=1
+    
+    all_per_relevant=all_per_relevant+per_relevant
+    all_place_relevant=all_place_relevant+place_relevant
+    
+    for pe in pred_entities:
+        if pe[2]=='person':
+            per_retrive+=1
+        elif pe[2]=='location':
+            place_retrive+=1
+    
+    all_per_retrive=all_per_retrive+per_retrive
+    all_place_retrive=all_place_retrive+place_retrive
+      
+def partial_match(true_entities, pred_entities,test_data): 
+    per_correct=[]
+    per_partial_type=[]
+    per_partial_weak=[]
+    place_correct=[]
+    place_partial_type=[]
+    place_partial_weak=[]
+    
+    for te in true_entities:
+        for pe in pred_entities:
+            if te[0]==pe[0] and te[1]==pe[1]:
+                if te[2]=='pers' and pe[2]=='person':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_correct.append(temp)
+                    break
+                elif te[2]=='pers' and pe[2]=='location':
+                    #范围对，类型不对
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_partial_weak.append(temp) 
+                    break
+                elif te[2]=='place' and pe[2]=='location':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_correct.append(temp)
+                    break
+                elif te[2]=='place' and pe[2]=='person':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_partial_weak.append(temp)
+                    break
+            elif (pe[1]>te[1]>pe[0]) or (te[1]>pe[1]>te[0]) or (te[1]==pe[1]):
+                if te[2]=='pers' and pe[2]=='person':
+                    #范围重合，类型对
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_partial_type.append(temp)
+                elif te[2]=='pers' and pe[2]=='location':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    per_partial_weak.append(temp)
+                elif te[2]=='place' and pe[2]=='location':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_partial_type.append(temp)
+                elif te[2]=='place' and pe[2]=='person':
+                    temp=[]
+                    temp.append(te)
+                    temp.append(pe)
+                    place_partial_weak.append(temp)
+    #将人名，地名分开
+    per_true_entities=[]
+    place_true_entities=[]
+    
+    for entity in true_entities:
+        if entity[2]=='pers':
+            per_true_entities.append(entity)
+        elif entity[2]=='place':
+            place_true_entities.append(entity)
+    
+    per_pred_entities=[]
+    place_pred_entities=[]
+    
+    for entity in pred_entities:
+        if entity[2]=='person':
+            per_pred_entities.append(entity)
+        elif entity[2]=='location':
+            place_pred_entities.append(entity)
+    
+    per_miss= per_true_entities.copy()      
+    for entity in per_correct:
+        try:           
+            per_miss.remove(entity[0])    
+        except ValueError:
+            pass
+    for entity in per_partial_type:
+        try:
+            per_miss.remove(entity[0])
+        except ValueError:
+            pass
+    for entity in per_partial_weak:
+        try:
+            per_miss.remove(entity[0])
+        except ValueError:
+            pass
+    
+    per_spurius=per_pred_entities.copy()
+    for entity in per_correct:
+        try:
+            per_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    for entity in per_partial_type:
+        try:
+            per_spurius.remove(entity[1])
+        except ValueError:
+            pass    
+    for entity in place_partial_weak:
+        try:
+            per_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    
+    place_miss= place_true_entities.copy()       
+    for entity in place_correct:
+        try:            
+            place_miss.remove(entity[0])
+        except ValueError:
+            pass            
+    for entity in place_partial_type:
+        try:
+            place_miss.remove(entity[0])
+        except ValueError:
+            pass
+    for entity in place_partial_weak:
+        try:
+            place_miss.remove(entity[0])
+        except ValueError:
+            pass
+    
+    place_spurius=place_pred_entities.copy()
+    for entity in place_correct:
+        try:
+            place_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    
+    for entity in place_partial_type:
+        try:
+            place_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    
+    for entity in per_partial_weak:
+        try:
+            place_spurius.remove(entity[1])
+        except ValueError:
+            pass
+    
+    per_correct=len(per_correct)
+    per_incorrect=0
+    per_partial_type=len(per_partial_type)
+    per_partial_weak=len(per_partial_weak)    
+    per_miss=len(per_miss)
+    per_spurius=len(per_spurius)
+      
+    
+    place_correct=len(place_correct)
+    place_incorrect=0   
+    place_partial_type=len(place_partial_type)
+    place_partial_weak=len(place_partial_weak)
+    place_miss=len(place_miss)
+    place_spurius=len(place_spurius)
+    
+    global all_per_correct
+    global all_per_incorrect
+    global all_per_partial_type
+    global all_per_partial_weak
+    global all_per_miss
+    global all_per_spurius
+    
+    all_per_correct=all_per_correct+per_correct
+    all_per_incorrect=all_per_incorrect+per_incorrect
+    all_per_partial_type=all_per_partial_type+per_partial_type
+    all_per_partial_weak=all_per_partial_weak+per_partial_weak
+    all_per_miss=all_per_miss+per_miss
+    all_per_spurius=all_per_spurius+per_spurius
+    
+    global all_place_correct
+    global all_place_incorrect
+    global all_place_partial_type
+    global all_place_partial_weak
+    global all_place_miss
+    global all_place_spurius
+    
+    all_place_correct=all_place_correct+place_correct
+    all_place_incorrect=all_place_incorrect+place_incorrect
+    all_place_partial_type=all_place_partial_type+place_partial_type
+    all_place_partial_weak=all_place_partial_weak+place_partial_weak
+    all_place_miss=all_place_miss+place_miss
+    all_place_spurius=all_place_spurius+place_spurius
+    
+    global all_per_relevant,all_per_retrive,all_place_relevant,all_place_retrive
+    per_relevant=0
+    per_retrive=0
+    place_relevant=0
+    place_retrive=0
+    for te in true_entities:
+        if te[2]=='pers':
+            per_relevant+=1
+        elif te[2]=='place':
+            place_relevant+=1
 
+    all_per_relevant=all_per_relevant+per_relevant
+    all_place_relevant=all_place_relevant+place_relevant
+    
+    for pe in pred_entities:
+        if pe[2]=='person':
+            per_retrive+=1
+        elif pe[2]=='location':
+            place_retrive+=1
+    
+    
+    all_per_retrive=all_per_retrive+per_retrive
+    all_place_retrive=all_place_retrive+place_retrive
 
 def read_corpora(corpus,mode):
     if corpus=='HIPE':
@@ -303,6 +720,14 @@ def read_corpora(corpus,mode):
         pred_entities=read_xml()
         if mode=='strict':
             strict(true_entities,pred_entities)
+        elif mode=='type':
+            type_match(true_entities, pred_entities)
+        elif mode=='partial':
+            partial_match(true_entities, pred_entities,test_data)
+        elif mode=='lenient':
+            type_match(true_entities, pred_entities)
+        elif mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities,test_data)
             
     per_precision,per_recall,per_f,place_precision,place_recall,place_f,macro_f,micro_f=score(mode) 
     print('Results of %s mode'%(mode))
@@ -333,4 +758,4 @@ if __name__ == "__main__":
     all_per_retrive=0 #all person annotations produced by Spacy
     all_place_relevant=0
     all_place_retrive=0
-    read_corpora('HIPE','strict')
+    read_corpora('HIPE','ultra-lenient')
