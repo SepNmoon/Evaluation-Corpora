@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="RB" group="B-ADJP">Mostly</w> <w l="versify" pws="yes" id="w20" p="VBN" group="I-ADJP">Versified</w> <w l="letter" pws="yes" id="w30" p="NNS" headn="yes" group="B-NP">letters</w> <w pws="yes" id="w38" p="TO" group="B-PP">to</w> <w l="Miſs" pws="yes" id="w41" p="NNP" headn="yes" group="B-NP">Miſs</w> <w l="hamiltn" pws="yes" id="w46" p="NNP" headn="yes" group="I-NP">Hamiltn</w> <w l="ask" pws="yes" id="w54" p="VBG" headv="yes" group="B-VP">Asking</w> <w pws="yes" id="w61" p="IN" group="B-PP">for</w> <w state="true" l="favour" pws="yes" id="w65" p="NNS" headn="yes" group="B-NP">favours</w> <w pws="yes" id="w73" p="IN" group="B-PP">in</w> <w l="prison" pws="yes" id="w76" p="NN" headn="yes" group="B-NP">prison</w> <w pws="yes" id="w83" p="IN" group="B-PP">for</w> <w state="true" l="debt" pws="yes" id="w87" p="NN" tmln="true" headn="yes" group="B-NP">debt</w> <w l="wm" pws="yes" id="w92" p="NNP" headn="yes" group="B-NP">Wm</w> <w pws="yes" id="w95" p="." group="O">.</w> <w common="true" l="firth" pws="yes" id="w97" p="NNP" headn="yes" group="B-NP">Firth</w> <w pws="yes" id="w103" p="." group="O">.</w> <w l="wellch" pws="yes" id="w105" p="NNP" headn="yes" group="B-NP">Wellch</w> <w common="true" l="lady" pws="yes" id="w112" p="NNP" wfirstn="true" group="B-NP">Lady</w> <w l="alwych" pws="yes" id="w117" p="NNP" group="I-NP">Alwych</w> <w pws="yes" id="w124" p="." group="O">.</w> <w common="true" l="letter" pws="yes" id="w126" p="NNP" headn="yes" group="B-NP">Letters</w> <w pws="yes" id="w134" p="TO" group="B-PP">to</w> <w common="true" l="miss" pws="yes" id="w137" p="NNP" group="B-NP">Miss</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w142" p="NNP" wfirstn="true" group="I-NP">Hamilton</w> <w pws="yes" id="w151" p="CD" quty="1773" group="B-NP">1773</w> <w pws="yes" id="w156" p="IN" group="B-PP">from</w> <w wiki="B-wper" wlastn="true" l="john" pws="yes" id="w161" p="NNP" pername="true" wfirstn="true" group="B-NP">John</w> <w wiki="I-wper" wlastn="true" state="true" common="true" vstem="hope" l="hope" pws="yes" id="w166" p="NNP" pername="true" tmln="true" class="istate" wfirstn="true" group="I-NP">Hope</w> <w pws="yes" id="w171" p="IN" group="B-PP">with</w> <w l="newspaper" pws="yes" id="w176" p="NN" headn="yes" group="B-NP">newspaper</w> <w l="cutting" pws="yes" id="w186" p="NNS" event="true" headn="yes" group="I-NP">cuttings</w> <w pws="yes" id="w195" p="IN" group="B-PP">of</w> <w pws="yes" id="w198" p="PRP$" group="B-NP">his</w> <w vstem="write" l="writing" pws="yes" id="w202" p="NN" event="true" headn="yes" group="I-NP">writing</w> <w pws="yes" id="w210" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w117" sw="w112">Lady Alwych</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w142" sw="w137">Miss Hamilton</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="date" year="1773">
+    <parts>
+      <part ew="w151" sw="w151">1773</part>
+    </parts>
+  </ent>
+  <ent id="rb4" type="person">
+    <parts>
+      <part ew="w166" sw="w161">John Hope</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev1" subtype="ask" type="event"><parts><part ew="w54" sw="w54">Asking</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

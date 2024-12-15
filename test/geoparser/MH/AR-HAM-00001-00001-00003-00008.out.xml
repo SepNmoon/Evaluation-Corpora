@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="dear" pws="yes" id="w13" p="NNP" headn="yes" group="B-NP">Dear</w> <w l="Miſs" pws="yes" id="w18" p="NNP" headn="yes" group="I-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w23" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w> <w pws="yes" id="w32" p="PRP" group="B-NP">I</w> <w l="have" pws="yes" id="w34" p="VBP" group="B-VP">have</w> <w l="learnd" pws="yes" id="w39" p="VBN" headv="yes" group="I-VP">learnd</w> <w pws="yes" id="w46" p="DT" group="B-NP">the</w> <w pws="yes" id="w50" p="CD" quty="6" group="I-NP">six</w> <w l="line" pws="yes" id="w54" p="NNS" headn="yes" group="I-NP">lines</w> <w pws="yes" id="w60" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w65" p="PRP" group="B-NP">you</w> <w l="order" pws="yes" id="w69" p="VBD" headv="yes" group="B-VP">ordered</w> <w pws="yes" id="w77" p="PRP" group="B-NP">me</w> <w pws="yes" id="w80" p="." group="O">.</w> <w pws="yes" id="w82" p="PRP" group="B-NP">I</w> <w l="hope" pws="yes" id="w84" p="VBP" class="istate" headv="yes" group="B-VP">hope</w> <w pws="yes" id="w89" p="PRP" group="B-NP">you</w> <w pws="yes" id="w93" p="CC" group="O">&amp;</w> <w l="Princeſs" pws="yes" id="w95" p="NNP" headn="yes" group="B-NP">Princeſs</w> <w common="true" l="royal" pws="yes" id="w104" p="NNP" headn="yes" group="I-NP">Royal</w> <w l="be" pws="yes" id="w110" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w114" p="DT" headn="yes" group="B-NP">both</w> <w pws="yes" id="w119" p="RB" group="B-ADVP">well</w> <w locname="single" l="augusta" pws="yes" id="w124" p="NNP" wfirstn="true" group="B-NP">Augusta</w> <w l="send" pws="yes" id="w132" p="VBZ" headv="yes" group="B-VP">sends</w> <w pws="yes" id="w138" p="PRP$" group="B-NP">her</w> <w state="true" l="love" pws="yes" id="w142" p="NN" headn="yes" group="I-NP">love</w> <w pws="yes" id="w147" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="sophium" pws="yes" id="w149" p="NNP" pername="true" wfirstn="true" headn="yes" group="I-NP">Sophia</w> <w pws="yes" id="w156" p="DT" group="B-NP">a</w> <w l="kiſs" pws="yes" id="w158" p="NNP" headn="yes" group="I-NP">kiſs</w> <w pws="yes" id="w163" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="mary" pws="yes" id="w165" p="NNP" pername="true" wfirstn="true" headn="yes" group="I-NP">Mary</w> <w pws="yes" id="w170" p="PRP$" group="B-NP">her</w> <w state="true" l="love" pws="yes" id="w174" p="NN" headn="yes" group="I-NP">love</w> <w pws="yes" id="w179" p="PRP" group="B-NP">I</w> <w l="be" pws="yes" id="w181" p="VBP" headv="yes" group="B-VP">am</w> <w pws="yes" id="w184" p="PRP$" group="B-NP">your</w> <w l="yours" pws="yes" id="w189" p="NNS" headn="yes" group="I-NP">yours</w> <w l="elizabeth" pws="yes" id="w195" p="NNP" pername="true" wfirstn="true" group="B-NP">Elizabeth</w> <w common="true" l="queen" pws="yes" id="w205" p="NNP" group="I-NP">Queens</w> <w common="true" l="house" pws="yes" id="w212" p="NNP" group="I-NP">House</w> <w l="december" pws="yes" id="w218" p="NNP" month="12" group="B-NP">December</w> <w l="Miſs" pws="yes" id="w227" p="NNPS" headn="yes" group="I-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w232" p="NNP" wfirstn="true" group="B-NP">Hamilton</w> <w common="true" l="queen" pws="yes" id="w241" p="NNP" group="I-NP">Queens</w> <w common="true" l="house" pws="yes" id="w248" p="NNP" group="I-NP">House</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="44.31062" long="-69.77949" gazref="geonames:4957003" in-country="US" feat-type="ppla" pop-size="18560">
+    <parts>
+      <part ew="w124" sw="w124">Augusta</part>
+    </parts>
+  </ent>
+  <ent year="2024" id="rb3" month="12" type="date" edate="2024-12-30" sdate="2024-12-01">
+    <parts>
+      <part ew="w218" sw="w218">December</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="perf" modal="no" id="ev1" subtype="learnd" type="event"><parts><part ew="w39" sw="w39">learnd</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev2" subtype="order" type="event"><parts><part ew="w69" sw="w69">ordered</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev3" subtype="hope" type="event"><parts><part ew="w84" sw="w84">hope</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev4" subtype="send" type="event"><parts><part ew="w132" sw="w132">sends</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="ordered">
+    <argument arg1="true" ref="ev2"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr2" type="simultaneous" text="sends her love &amp; Sophia a kiſs &amp; Mary her love I am your yours Elizabeth Queens House December">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="rb3"/>
+  </relation>
+</relations></standoff></document>

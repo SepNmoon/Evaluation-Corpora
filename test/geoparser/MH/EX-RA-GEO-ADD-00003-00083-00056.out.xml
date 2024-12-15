@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="RB" group="B-ADVP">Once</w> <w pws="yes" id="w18" p="RBR" group="I-ADVP">more</w> <w pws="yes" id="w23" p="PRP$" group="B-NP">my</w> <w prof="true" l="friend" pws="yes" id="w26" p="NN" headn="yes" group="I-NP">friend</w> <w l="adieu" pws="yes" id="w33" p="NNP" headn="yes" group="B-NP">Adieu</w> <w pws="yes" id="w39" p="." group="O">.</w> <w pws="yes" id="w41" p="PRP" group="B-NP">it</w> <w l="wd" pws="yes" id="w44" p="VBD" headv="yes" group="B-VP">wd</w><w pws="no" id="w46" p=":" group="O">-</w> <w l="be" pws="yes" id="w48" p="VB" headv="yes" group="B-VP">be</w> <w pws="yes" id="w51" p="JJ" group="B-ADJP">inconsistent</w> <w pws="yes" id="w64" p="TO" group="B-VP">to</w> <w l="repeat" pws="yes" id="w67" p="VB" headv="yes" group="I-VP">repeat</w> <w pws="yes" id="w74" p="(" group="O">(</w> <w pws="yes" id="w76" p="IN" group="B-PP">after</w> <w pws="yes" id="w82" p="WP" headn="yes" group="B-NP">what</w> <w pws="yes" id="w87" p="PRP" group="B-NP">I</w> <w l="have" pws="yes" id="w89" p="VBP" group="B-VP">have</w> <w l="write" pws="yes" id="w94" p="VBN" headv="yes" group="I-VP">written</w> <w pws="yes" id="w102" p=")" group="O">)</w> <w l="“" pws="yes" id="w104" p="NNP" headn="yes" group="B-NP">“</w> <w common="true" l="pour" pws="yes" id="w106" p="NNP" headn="yes" group="I-NP">Pour</w> <w l="toujour" pws="yes" id="w111" p="NNPS" headn="yes" group="I-NP">toujours</w> <w l="”" pws="yes" id="w120" p="NNP" headn="yes" group="I-NP">”</w> <w pws="yes" id="w122" p=":" group="O">--</w> <w pws="yes" id="w125" p="IN" group="B-PP">till</w> <w pws="yes" id="w130" p="PRP" group="B-NP">you</w> <w l="have" pws="yes" id="w134" p="VBP" group="B-VP">have</w> <w l="detiremine" pws="yes" id="w139" p="VBN" headv="yes" group="I-VP">detiremined</w> <w l="w" pws="yes" id="w151" p="NN" headn="yes" group="B-NP">w</w> <w l="h" pws="yes" id="w153" p="NN" headn="yes" group="I-NP">h</w> <w l="ether" pws="yes" id="w155" p="NN" headn="yes" group="I-NP">ether</w> <w pws="yes" id="w161" p="CC" group="O">or</w> <w pws="yes" id="w164" p="DT" group="O">no</w> <w pws="yes" id="w167" p="PRP" group="B-NP">you</w> <w l="can" pws="yes" id="w171" p="MD" group="B-VP">can</w> <w pws="yes" id="w175" p="RB" group="I-VP">always</w> <w l="think" pws="yes" id="w182" p="VB" class="istate" headv="yes" group="I-VP">think</w> <w pws="yes" id="w188" p="PRP$" group="B-NP">my</w> <w state="true" l="friendship" pws="yes" id="w191" p="NN" headn="yes" group="I-NP">friendship</w> <w pws="yes" id="w202" p="JJ" group="B-ADJP">disireable</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev1" subtype="wd" type="event"><parts><part ew="w44" sw="w44">wd</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev2" subtype="repeat" type="event"><parts><part ew="w67" sw="w67">repeat</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="perf" modal="no" id="ev3" subtype="write" type="event"><parts><part ew="w94" sw="w94">written</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="perf" modal="no" id="ev4" subtype="detiremine" type="event"><parts><part ew="w139" sw="w139">detiremined</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev5" subtype="think" type="event"><parts><part ew="w182" sw="w182">think</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="wd">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

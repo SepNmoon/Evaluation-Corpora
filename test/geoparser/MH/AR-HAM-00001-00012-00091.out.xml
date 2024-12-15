@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">My</w> <w l="dear" pws="yes" id="w16" p="NN" headn="yes" group="I-NP">dear</w> <w l="Miſs" pws="yes" id="w21" p="NNP" headn="yes" group="B-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w26" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w> <w pws="yes" id="w35" p=":" group="O">--</w> <w l="do" pws="yes" id="w38" p="VBP" headv="yes" group="B-VP">Do</w> <w pws="yes" id="w41" p="PRP" group="B-NP">you</w> <w l="continue" pws="yes" id="w45" p="VB" class="aspectual" headv="yes" group="B-VP">continue</w> <w pws="yes" id="w54" p="IN" group="B-PP">in</w> <w pws="yes" id="w57" p="JJ" group="B-NP">ye</w> <w common="true" pws="yes" id="w60" p="JJ" group="I-NP">Same</w> <w l="mind" pws="yes" id="w65" p="NN" headn="yes" group="I-NP">mind</w> <w l="abt" pws="yes" id="w70" p="NN" headn="yes" group="I-NP">abt</w> <w pws="yes" id="w74" p="DT" group="B-NP">the</w> <w l="drdear" pws="yes" id="w78" p="NN" headn="yes" group="I-NP">drdear</w> <w common="true" l="opera" pws="yes" id="w85" p="NNP" headn="yes" group="B-NP">Opera</w> <w l="tomorrow" pws="yes" id="w91" p="NNP" trel="after" unit="day" quty="1" group="B-NP">Tomorrow</w> <w pws="yes" id="w100" p=":" group="O">--</w> <w l="pray" pws="yes" id="w103" p="NN" tmln="true" headn="yes" group="B-NP">pray</w> <w l="do" pws="yes" id="w108" p="VBP" headv="yes" group="B-VP">do</w> <w pws="yes" id="w111" p=":" group="O">--</w> <w pws="yes" id="w114" p="CC" group="O">&amp;</w> <w l="be" pws="yes" id="w116" p="VBZ" headv="yes" group="B-VP">is</w> <w l="ly" pws="yes" id="w119" p="NNP" headn="yes" group="B-NP">Ly</w> <w common="true" l="wake" pws="yes" id="w122" p="NNP" tmln="true" headn="yes" group="I-NP">Wake</w> <w pws="yes" id="w127" p="RB" group="B-ADJP">likewise</w> <w common="true" pws="yes" id="w136" p="JJ" group="I-ADJP">Agreeable</w> <w pws="yes" id="w146" p="TO" group="B-PP">to</w> <w pws="yes" id="w149" p="PRP" group="B-NP">it</w> <w pws="yes" id="w152" p="." group="O">?</w> <w pws="yes" id="w154" p=":" group="O">--</w> <w l="adieu" pws="yes" id="w157" p="NNP" headn="yes" group="B-NP">Adieu</w> <w l="yr" pws="yes" id="w163" p="NNS" headn="yes" group="I-NP">yrs</w> <w pws="yes" id="w167" p="IN" group="B-PP">in</w> <w pws="yes" id="w170" p="JJS" group="B-NP">greatest</w> <w common="true" l="haste" pws="yes" id="w179" p="NN" headn="yes" group="I-NP">Haste</w> <w l="henrium" pws="yes" id="w185" p="NNP" headn="yes" group="B-NP">Henria</w><w pws="no" id="w191" p=":" group="O">-</w> <w wlastn="true" common="true" l="finch" pws="yes" id="w193" p="NNP" headn="yes" group="B-NP">Finch</w> <w l="friday" pws="yes" id="w199" p="NNP" day="Friday" wdaynum="5" group="B-NP">Friday</w> <w l="e" pws="yes" id="w206" p="NNP" headn="yes" group="B-NP">E</w><w l="—" pws="no" id="w207" p="NNP" headn="yes" group="I-NP">—</w><w l="—" pws="no" id="w208" p="NNP" headn="yes" group="I-NP">—</w> <w l="Miſs" pws="yes" id="w210" p="NNP" headn="yes" group="I-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w215" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent wdaynum="5" day="Friday" date="06" month="12" year="2024" sdate="2024-12-06" day-number="739225" id="rb1" quty="1" unit="day" trel="after" type="date">
+    <parts>
+      <part ew="w91" sw="w91">Tomorrow</part>
+    </parts>
+  </ent>
+  <ent date="06" month="12" year="2024" sdate="2024-12-06" day-number="739225" id="rb2" wdaynum="5" day="Friday" type="date">
+    <parts>
+      <part ew="w199" sw="w199">Friday</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="continue" type="event"><parts><part ew="w45" sw="w45">continue</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="continue in ye Same mind abt the drdear Opera Tomorrow">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="rb1"/>
+  </relation>
+</relations></standoff></document>

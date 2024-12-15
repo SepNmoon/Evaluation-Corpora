@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP" group="B-NP">I</w> <w l="declare" pws="yes" id="w15" p="VBP" headv="yes" group="B-VP">declare</w> <w pws="yes" id="w23" p="PRP" group="B-NP">I</w> <w l="will" pws="yes" id="w25" p="MD" neg="yes" group="B-VP">will</w> <w pws="yes" id="w30" p="RB" neg="yes" group="I-VP">not</w> <w l="be" pws="yes" id="w34" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w37" p="JJ" group="B-ADJP">convenient</w> <w pws="yes" id="w48" p="TO" group="B-PP">to</w> <w pws="yes" id="w51" p="PRP" group="B-NP">you</w> <w l="madm" pws="yes" id="w55" p="VB" headv="yes" group="B-VP">madm</w> <w common="true" l="flirt" pws="yes" id="w60" p="NNP" headn="yes" group="B-NP">Flirt</w> <w pws="yes" id="w66" p="IN" group="B-SBAR">if</w> <w pws="yes" id="w69" p="PRP" group="B-NP">you</w> <w l="do" pws="yes" id="w73" p="VBP" neg="yes" group="B-VP">do</w> <w pws="yes" id="w76" p="RB" neg="yes" group="I-VP">not</w> <w l="invite" pws="yes" id="w80" p="VB" headv="yes" group="I-VP">invite</w> <w l="sr" pws="yes" id="w87" p="NNP" headn="yes" group="B-NP">Sr</w> <w l="wm" pws="yes" id="w90" p="NNP" headn="yes" group="I-NP">Wm</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w93" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w> <w pws="yes" id="w102" p="WP" group="O">whom</w> <w pws="yes" id="w107" p="DT" headn="yes" group="B-NP">all</w> <w pws="yes" id="w111" p="PRP$" group="I-NP">my</w> <w l="freind" pws="yes" id="w114" p="NNS" headn="yes" group="I-NP">freinds</w> <w l="be" pws="yes" id="w122" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w126" p="RB" group="B-ADJP">so</w> <w pws="yes" id="w129" p="JJ" group="I-ADJP">fond</w> <w pws="yes" id="w134" p="IN" group="B-PP">off</w> <w pws="yes" id="w138" p="PRP" group="B-NP">I</w> <w l="expect" pws="yes" id="w140" p="VBP" class="istate" headv="yes" group="B-VP">expect</w> <w pws="yes" id="w147" p="PRP" group="B-NP">you</w> <w l="will" pws="yes" id="w151" p="MD" group="B-VP">will</w> <w l="make" pws="yes" id="w156" p="VB" headv="yes" group="I-VP">make</w> <w pws="yes" id="w161" p="PRP" group="B-NP">us</w> <w l="acquaint" pws="yes" id="w164" p="VBD" headv="yes" group="B-VP">acquainted</w> <w pws="yes" id="w175" p="TO" group="B-PP">To</w> <w l="miſs" pws="yes" id="w178" p="NNS" headn="yes" group="B-NP">miſs</w><w l="Miſs" pws="no" id="w182" p="NNP" headn="yes" group="B-NP">Miſs</w> <w l="Miſs" pws="yes" id="w187" p="NNP" headn="yes" group="I-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w192" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w> <w pws="yes" id="w201" p="TO" group="B-PP">To</w> <w l="Miſs" pws="yes" id="w204" p="NNP" headn="yes" group="B-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w209" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="declare" type="event"><parts><part ew="w15" sw="w15">declare</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" neg="yes" id="ev2" subtype="be" type="event"><parts><part ew="w34" sw="w34">be</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev3" subtype="madm" type="event"><parts><part ew="w55" sw="w55">madm</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" neg="yes" id="ev4" subtype="invite" type="event"><parts><part ew="w80" sw="w80">invite</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev5" subtype="expect" type="event"><parts><part ew="w140" sw="w140">expect</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev6" subtype="make" type="event"><parts><part ew="w156" sw="w156">make</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev7" subtype="acquaint" type="event"><parts><part ew="w164" sw="w164">acquainted</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="acquainted">
+    <argument arg1="true" ref="ev7"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

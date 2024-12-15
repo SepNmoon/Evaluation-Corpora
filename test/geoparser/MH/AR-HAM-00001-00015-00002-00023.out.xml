@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w common="true" l="ham" pws="yes" id="w13" p="NNP" headn="yes" group="B-NP">HAM</w><w l="/" pws="no" id="w16" p="NNP" headn="yes" group="I-NP">/</w><w pws="no" id="w17" p="CD" quty="1" headn="yes" group="I-NP">1</w><w l="/" pws="no" id="w18" p="NNP" headn="yes" group="B-NP">/</w><w pws="no" id="w19" p="CD" quty="15" group="B-NP">15</w><w l="/" pws="no" id="w21" p="NN" group="I-NP">/</w><w pws="no" id="w22" p="CD" quty="2" group="I-NP">2</w><w l="/" pws="no" id="w23" p="NN" group="I-NP">/</w><w pws="no" id="w24" p="CD" quty="23" group="I-NP">23</w> <w pws="yes" id="w27" p="(" group="O">(</w> <w pws="yes" id="w29" p="CD" quty="1" headn="yes" group="B-NP">1</w> <w pws="yes" id="w31" p=")" group="O">)</w> <w l="p" pws="yes" id="w33" p="NN" headn="yes" group="B-NP">p</w><w pws="no" id="w34" p="CD" headn="yes" group="I-NP">.1</w> <w common="true" l="ham" pws="yes" id="w37" p="NNP" headn="yes" group="B-NP">HAM</w><w l="/" pws="no" id="w40" p="NNP" headn="yes" group="I-NP">/</w><w pws="no" id="w41" p="CD" quty="1" headn="yes" group="I-NP">1</w><w l="/" pws="no" id="w42" p="NNP" headn="yes" group="B-NP">/</w><w pws="no" id="w43" p="CD" quty="15" group="B-NP">15</w><w l="/" pws="no" id="w45" p="NN" group="I-NP">/</w><w pws="no" id="w46" p="CD" quty="2" group="I-NP">2</w><w l="/" pws="no" id="w47" p="NN" group="I-NP">/</w><w pws="no" id="w48" p="CD" quty="23" group="I-NP">23</w> <w pws="yes" id="w51" p="(" group="O">(</w> <w pws="yes" id="w53" p="CD" quty="1" headn="yes" group="B-NP">1</w> <w pws="yes" id="w55" p=")" group="O">)</w> <w l="p" pws="yes" id="w57" p="NN" headn="yes" group="B-NP">p</w><w l=".2" pws="no" id="w58" p="NN" headn="yes" group="I-NP">.2</w> <w pws="yes" id="w61" p="(" group="O">(</w> <w l="leave" pws="yes" id="w63" p="VBN" headv="yes" group="B-NP">left</w> <w l="column" pws="yes" id="w68" p="NN" headn="yes" group="I-NP">column</w> <w pws="yes" id="w75" p=")" group="O">)</w> <w common="true" l="ham" pws="yes" id="w77" p="NNP" headn="yes" group="B-NP">HAM</w><w l="/" pws="no" id="w80" p="VBD" headv="yes" group="B-VP">/</w><w pws="no" id="w81" p="CD" quty="1" headn="yes" group="B-NP">1</w><w pws="no" id="w82" p="CD" headn="yes" group="I-NP">/</w><w pws="no" id="w83" p="CD" quty="15" group="B-NP">15</w><w l="/" pws="no" id="w85" p="NN" group="I-NP">/</w><w pws="no" id="w86" p="CD" quty="2" group="I-NP">2</w><w l="/" pws="no" id="w87" p="NN" group="I-NP">/</w><w pws="no" id="w88" p="CD" quty="23" group="I-NP">23</w> <w pws="yes" id="w91" p="(" group="O">(</w> <w pws="yes" id="w93" p="CD" quty="1" headn="yes" group="B-NP">1</w> <w pws="yes" id="w95" p=")" group="O">)</w> <w l="p" pws="yes" id="w97" p="NN" headn="yes" group="B-NP">p</w><w l=".2" pws="no" id="w98" p="NN" headn="yes" group="I-NP">.2</w> <w pws="yes" id="w101" p="(" group="O">(</w> <w pws="yes" id="w103" p="JJ" group="B-NP">right</w> <w l="column" pws="yes" id="w109" p="NN" headn="yes" group="I-NP">column</w> <w pws="yes" id="w116" p=")" group="O">)</w> <w common="true" l="ham" pws="yes" id="w118" p="NNP" headn="yes" group="B-NP">HAM</w><w l="/" pws="no" id="w121" p="VBD" headv="yes" group="B-VP">/</w><w pws="no" id="w122" p="CD" quty="1" headn="yes" group="B-NP">1</w><w pws="no" id="w123" p="CD" headn="yes" group="I-NP">/</w><w pws="no" id="w124" p="CD" quty="15" group="B-NP">15</w><w l="/" pws="no" id="w126" p="NN" group="I-NP">/</w><w pws="no" id="w127" p="CD" quty="2" group="I-NP">2</w><w l="/" pws="no" id="w128" p="NN" group="I-NP">/</w><w pws="no" id="w129" p="CD" quty="23" group="I-NP">23</w> <w pws="yes" id="w132" p="(" group="O">(</w> <w pws="yes" id="w134" p="CD" quty="2" headn="yes" group="B-NP">2</w> <w pws="yes" id="w136" p=")" group="O">)</w> <w l="p" pws="yes" id="w138" p="NN" headn="yes" group="B-NP">p</w><w pws="no" id="w139" p="CD" headn="yes" group="I-NP">.1</w> <w common="true" l="ham" pws="yes" id="w142" p="NNP" headn="yes" group="B-NP">HAM</w><w l="/" pws="no" id="w145" p="NNP" headn="yes" group="I-NP">/</w><w pws="no" id="w146" p="CD" quty="1" headn="yes" group="I-NP">1</w><w l="/" pws="no" id="w147" p="NNP" headn="yes" group="B-NP">/</w><w pws="no" id="w148" p="CD" quty="15" group="B-NP">15</w><w l="/" pws="no" id="w150" p="NN" group="I-NP">/</w><w pws="no" id="w151" p="CD" quty="2" group="I-NP">2</w><w l="/" pws="no" id="w152" p="NN" group="I-NP">/</w><w pws="no" id="w153" p="CD" quty="23" group="I-NP">23</w> <w pws="yes" id="w156" p="(" group="O">(</w> <w pws="yes" id="w158" p="CD" quty="2" headn="yes" group="B-NP">2</w> <w pws="yes" id="w160" p=")" group="O">)</w> <w l="p." pws="yes" id="w162" p="NN" headn="yes" group="B-NP">p.</w><w pws="no" id="w164" p="CD" quty="2" headn="yes" group="I-NP">2</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent day="Thursday" day-number="702040" sdate="1923-02-15" id="rb1" type="date" date="15" month="02" year="1923">
+    <parts>
+      <part ew="w24" sw="w19">15/2/23</part>
+    </parts>
+  </ent>
+  <ent day="Thursday" day-number="702040" sdate="1923-02-15" id="rb2" type="date" date="15" month="02" year="1923">
+    <parts>
+      <part ew="w48" sw="w43">15/2/23</part>
+    </parts>
+  </ent>
+  <ent day="Thursday" day-number="702040" sdate="1923-02-15" id="rb3" type="date" date="15" month="02" year="1923">
+    <parts>
+      <part ew="w88" sw="w83">15/2/23</part>
+    </parts>
+  </ent>
+  <ent day="Thursday" day-number="702040" sdate="1923-02-15" id="rb4" type="date" date="15" month="02" year="1923">
+    <parts>
+      <part ew="w129" sw="w124">15/2/23</part>
+    </parts>
+  </ent>
+  <ent day="Thursday" day-number="702040" sdate="1923-02-15" id="rb5" type="date" date="15" month="02" year="1923">
+    <parts>
+      <part ew="w153" sw="w148">15/2/23</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev1" subtype="/" type="event"><parts><part ew="w80" sw="w80">/</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev2" subtype="/" type="event"><parts><part ew="w121" sw="w121">/</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="15/2/23 ( 1 ) p.2 ( left column ) HAM/">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="rb2"/>
+  </relation>
+  <relation id="rbr2" type="simultaneous" text="15/2/23 ( 1 ) p.2 ( right column ) HAM/">
+    <argument arg1="true" ref="ev2"/>
+    <argument arg2="true" ref="rb3"/>
+  </relation>
+</relations></standoff></document>

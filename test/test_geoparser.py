@@ -6,6 +6,7 @@ Created on Wed Dec  4 14:58:47 2024
 """
 import csv
 import xml.etree.ElementTree as ET
+import os
 def read_file(file_path):
     data = []
     with open(file_path, mode='r', encoding='utf-8') as file:
@@ -52,23 +53,213 @@ def iob_to_text(iob_lines):
 
     return data
 
-def read_xml():
-    tree=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\HIPE\HIPE.out.xml')
-    root=tree.getroot()
-    pred_entities=[]
-    for ent in root.findall(".//ent"):
-        entity_type = ent.get("type")
-        if entity_type in ["person", "location"]:
-            part = ent.find("./parts/part")
-            entities=part.text
-            sw=part.get('sw')
-            length=len(entities)
-            temp=[]
-            temp.append(int(sw[1:])-13)
-            temp.append(int(sw[1:])-13+length)
-            #temp.append(entities)
-            temp.append(entity_type)
-            pred_entities.append(temp)
+def read_xml(dataset,file):
+    if dataset=='HIPE':
+        tree=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\HIPE\HIPE.out.xml')
+        root=tree.getroot()
+        pred_entities=[]
+        for ent in root.findall(".//ent"):
+            entity_type = ent.get("type")
+            if entity_type in ["person", "location"]:
+                part = ent.find("./parts/part")
+                entities=part.text
+                sw=part.get('sw')
+                length=len(entities)
+                temp=[]
+                temp.append(int(sw[1:])-13)
+                temp.append(int(sw[1:])-13+length)
+                #temp.append(entities)
+                temp.append(entity_type)
+                pred_entities.append(temp)
+    elif dataset=='sloane':
+        file_basename=file[0:-4]
+        xml_name=file_basename+('.out.xml')
+        tree=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\sloane\%s'%xml_name)
+        root=tree.getroot()
+        pred_entities=[]
+        for ent in root.findall('.//ent'):
+            entity_type = ent.get("type")
+            if entity_type in ["person", "location"]:
+                part = ent.find("./parts/part")
+                entities=part.text
+                sw=part.get('sw')
+                length=len(entities)
+                temp=[]
+                temp.append(int(sw[1:])-13)
+                temp.append(int(sw[1:])-13+length)
+                temp.append(entity_type)
+                pred_entities.append(temp)
+    elif dataset=='MH':
+        file_basename=file[0:-4]
+        xml_name=file_basename+('.out.xml')
+        tree=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\MH\%s'%xml_name)
+        root=tree.getroot()
+        pred_entities=[]
+        for ent in root.findall('.//ent'):
+            entity_type = ent.get("type")
+            if entity_type in ["person", "location"]:
+                part = ent.find("./parts/part")
+                entities=part.text
+                sw=part.get('sw')
+                length=len(entities)
+                temp=[]
+                temp.append(int(sw[1:])-13)
+                temp.append(int(sw[1:])-13+length)
+                temp.append(entity_type)
+                pred_entities.append(temp)
+    elif dataset=='old bailey':
+        file_basename=file[0:-4]
+        if file_basename=='16920406':
+            xml_name1=file_basename+('_1.out.xml')
+            xml_name2=file_basename+('_2.out.xml')
+            xml_name3=file_basename+('_3.out.xml')
+            tree1=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name1)
+            tree2=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name2)
+            tree3=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name3)
+            root1=tree1.getroot()
+            root2=tree2.getroot()
+            root3=tree3.getroot()
+            #假设text1长度是x,text2中的entities应该是x+sw-14,text3中是x+y+sw-14
+            pred_entities=[]
+            with open(r"C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\16920406_1.txt", "r", encoding="utf-8") as file:
+                text1 = file.read()
+            text1_length=len(text1)
+            with open(r"C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\16920406_2.txt", "r", encoding="utf-8") as file:
+                text2 = file.read()
+            text2_length=len(text2)
+            for ent in root1.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])-13)
+                    temp.append(int(sw[1:])-13+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+            for ent in root2.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])+text1_length-14)
+                    temp.append(int(sw[1:])+text1_length-14+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+            for ent in root3.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])+text1_length+text2_length-14)
+                    temp.append(int(sw[1:])+text1_length+text2_length-14+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+
+        elif file_basename=='17320114' or file_basename=='17420909':
+            xml_name1=file_basename+('_1.out.xml')
+            xml_name2=file_basename+('_2.out.xml')
+            xml_name3=file_basename+('_3.out.xml')
+            xml_name4=file_basename+('_4.out.xml')
+            txt_name1=file_basename+('_1.txt')
+            txt_name2=file_basename+('_2.txt')
+            txt_name3=file_basename+('_3.txt')
+            tree1=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name1)
+            tree2=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name2)
+            tree3=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name3)
+            tree4=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name4)
+            root1=tree1.getroot()
+            root2=tree2.getroot()
+            root3=tree3.getroot()
+            root4=tree4.getroot()
+            pred_entities=[]
+            with open(r"C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s"%txt_name1, "r", encoding="utf-8") as file:
+                text1 = file.read()
+            text1_length=len(text1)
+            with open(r"C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s"%txt_name2, "r", encoding="utf-8") as file:
+                text2 = file.read()
+            text2_length=len(text2)
+            with open(r"C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s"%txt_name3, "r", encoding="utf-8") as file:
+                text3 = file.read()
+            text3_length=len(text3)
+            for ent in root1.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])-13)
+                    temp.append(int(sw[1:])-13+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+            for ent in root2.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])+text1_length-14)
+                    temp.append(int(sw[1:])+text1_length-14+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+            for ent in root3.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])+text1_length+text2_length-14)
+                    temp.append(int(sw[1:])+text1_length+text2_length-14+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+            for ent in root4.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])+text1_length+text2_length+text3_length-14)
+                    temp.append(int(sw[1:])+text1_length+text2_length+text3_length-14+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+
+        
+        
+        
+        else:    
+            xml_name=file_basename+('.out.xml')
+            tree=ET.parse(r'C:\Users\87142\Desktop\Evaluation-Corpora\test\geoparser\old bailey\%s'%xml_name)
+            root=tree.getroot()
+            pred_entities=[]
+            for ent in root.findall('.//ent'):
+                entity_type = ent.get("type")
+                if entity_type in ["person", "location"]:
+                    part = ent.find("./parts/part")
+                    entities=part.text
+                    sw=part.get('sw')
+                    length=len(entities)
+                    temp=[]
+                    temp.append(int(sw[1:])-13)
+                    temp.append(int(sw[1:])-13+length)
+                    temp.append(entity_type)
+                    pred_entities.append(temp)
+           
     return pred_entities
 
 def score(mode):
@@ -124,6 +315,87 @@ def score(mode):
     
     
     return per_precision,per_recall,per_f,place_precision,place_recall,place_f,macro_f,micro_f
+
+
+def data_display(true_entities, pred_entities,test_data):
+    #print(true_entities, pred_entities)
+
+    combine_entities=[]    
+    correct_true=[]
+    correct_pred=[]
+    for te in true_entities:
+        for pe in pred_entities:
+            if te[0]==pe[0] and te[1]==pe[1]:   
+                correct_true.append(te)
+                correct_pred.append(pe)
+                temp1=[]
+                temp1.append(te[0])
+                temp1.append(te[1])
+                temp1.append(test_data[0][0][te[0]:te[1]])
+                temp1.append(te[2])
+                temp2=[]
+                temp2.append(pe[0])
+                temp2.append(pe[1])
+                temp2.append(test_data[0][0][pe[0]:pe[1]])
+                temp2.append(pe[2])
+                temp=[]
+                temp.append(temp1)
+                temp.append(temp2)
+                combine_entities.append(temp)
+                break
+            elif (pe[1]>te[1]>pe[0]) or (te[1]>pe[1]>te[0]) or (te[1]==pe[1]):   
+                correct_true.append(te)
+                correct_pred.append(pe)
+                temp1=[]
+                temp1.append(te[0])
+                temp1.append(te[1])
+                temp1.append(test_data[0][0][te[0]:te[1]])
+                temp1.append(te[2])
+                temp2=[]
+                temp2.append(pe[0])
+                temp2.append(pe[1])
+                temp2.append(test_data[0][0][pe[0]:pe[1]])
+                temp2.append(pe[2])
+                temp=[]
+                temp.append(temp1)
+                temp.append(temp2)
+                combine_entities.append(temp)
+                
+   
+    #添加miss掉的true_entities
+    for entity in true_entities:        
+        if entity not in correct_true:                
+            temp1=[]
+            temp1.append(entity[0])
+            temp1.append(entity[1])
+            temp1.append(test_data[0][0][entity[0]:entity[1]])
+            temp1.append(entity[2])
+            temp2=[]
+            temp2.append('O')
+            temp=[]
+            temp.append(temp1)
+            temp.append(temp2)
+            combine_entities.append(temp)
+            #print(temp)
+           
+    #添加spu的pred_entities
+    for entity in pred_entities:
+        if entity not in correct_pred:
+            temp1=[]
+            temp1.append('O')
+            temp2=[]
+            temp2.append(entity[0])
+            temp2.append(entity[1])
+            temp2.append(test_data[0][0][entity[0]:entity[1]])
+            temp2.append(entity[2])
+            temp=[]
+            temp.append(temp1)
+            temp.append(temp2)
+            combine_entities.append(temp)
+
+    #print(combine_entities)
+    return combine_entities  
+
 
 def strict(true_entities,pred_entities):
     per_correct=[]
@@ -639,6 +911,23 @@ def partial_match(true_entities, pred_entities,test_data):
             place_spurius.remove(entity[1])
         except ValueError:
             pass
+
+    '''
+    conjoined_entities=data_display(true_entities, pred_entities, test_data)
+    for i in conjoined_entities:
+        if i[0]==['O'] and i[1][3]=='location':
+            print(i)
+    '''
+    true_incorrect=[]
+    pred_incorrect=[]
+    for per_group in place_partial_type:
+        true_incorrect.append(per_group[0])
+        pred_incorrect.append(per_group[1])
+    conjoined_entities=data_display(true_incorrect, pred_incorrect, test_data)
+    for entities in conjoined_entities:
+        print(entities)
+    
+    
     
     per_correct=len(per_correct)
     per_incorrect=0
@@ -717,7 +1006,7 @@ def read_corpora(corpus,mode):
             iob_data.append(iob_element)
         test_data=iob_to_text(iob_data)
         true_entities=test_data[0][1]['entities']  
-        pred_entities=read_xml()
+        pred_entities=read_xml('HIPE',file)
         if mode=='strict':
             strict(true_entities,pred_entities)
         elif mode=='type':
@@ -728,11 +1017,160 @@ def read_corpora(corpus,mode):
             type_match(true_entities, pred_entities)
         elif mode=='ultra-lenient':
             partial_match(true_entities, pred_entities,test_data)
+    elif corpus=='sloane':
+        path='..\Sloane Catalogues\Sloane Catalogue_normalized'
+        files= os.listdir(path)
+        for file in files[0:1]:
+            print(file)
+            tsv_data=read_file('..\Sloane Catalogues\Sloane Catalogue_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+            test_data=iob_to_text(iob_data) 
+            true_entities=test_data[0][1]['entities'] 
+            pred_entities=read_xml('sloane',file)
+            if mode=='strict':
+                strict(true_entities,pred_entities)
+            elif mode=='type':
+                type_match(true_entities, pred_entities)
+            elif mode=='partial':
+                partial_match(true_entities, pred_entities,test_data)
+            elif mode=='lenient':
+                type_match(true_entities, pred_entities)
+            elif mode=='ultra-lenient':
+                partial_match(true_entities, pred_entities,test_data)
+    elif corpus=='MH':
+        path='..\MH\MH_normalized'
+        files= os.listdir(path)
+        for file in files[1400:1500]:
+            print(file)
+            tsv_data=read_file('..\MH\MH_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+            test_data=iob_to_text(iob_data)  
+            true_entities=test_data[0][1]['entities'] 
+            pred_entities=read_xml('MH',file)
+            if mode=='strict':
+                strict(true_entities,pred_entities)
+            elif mode=='type':
+                type_match(true_entities, pred_entities)
+            elif mode=='partial':
+                partial_match(true_entities, pred_entities,test_data)
+            elif mode=='lenient':
+                type_match(true_entities, pred_entities)
+            elif mode=='ultra-lenient':
+                partial_match(true_entities, pred_entities,test_data)
+    elif corpus=='old bailey':
+        path='..\Old Bailey\oldbailey_normalized'
+        files= os.listdir(path)
+        for file in files[200:220]:
+            print(file)
+            tsv_data=read_file('..\Old Bailey\oldbailey_normalized\%s'%file)
+            iob_data=[]
+            for data in tsv_data:
+                iob_element=data[0]+' '+data[1]
+                iob_data.append(iob_element)
+            test_data=iob_to_text(iob_data)  
+            true_entities=test_data[0][1]['entities'] 
+            pred_entities=read_xml('old bailey',file)
+            if mode=='strict':
+                strict(true_entities,pred_entities)
+            elif mode=='type':
+                type_match(true_entities, pred_entities)
+            elif mode=='partial':
+                partial_match(true_entities, pred_entities,test_data)
+            elif mode=='lenient':
+                type_match(true_entities, pred_entities)
+            elif mode=='ultra-lenient':
+                partial_match(true_entities, pred_entities,test_data)
+            
             
     per_precision,per_recall,per_f,place_precision,place_recall,place_f,macro_f,micro_f=score(mode) 
     print('Results of %s mode'%(mode))
     print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
     print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))    
+    print('Macro F1 score: %f'%macro_f)
+    print('Micro F1 score: %f'%micro_f)
+
+def evaluation_corpora(mode): 
+    file='..\HIPE2020\HIPE2020_normalized.tsv'
+    tsv_data=read_file(file)
+    iob_data=[]
+    for data in tsv_data:
+        iob_element=data[0]+' '+data[1]
+        iob_data.append(iob_element)  
+    test_data=iob_to_text(iob_data)   
+    true_entities=test_data[0][1]['entities'] 
+    pred_entities=read_xml('HIPE',file)
+    if mode=='strict':
+        strict(true_entities, pred_entities)  
+    elif mode=='type' or mode=='lenient':
+        type_match(true_entities, pred_entities)
+    elif mode=='partial' or mode=='ultra-lenient':
+        partial_match(true_entities, pred_entities,test_data)
+    path='..\MH\MH_normalized'
+    files= os.listdir(path)
+    for file in files[0:1589]:
+        print(file)
+        tsv_data=read_file('..\MH\MH_normalized\%s'%file)
+        iob_data=[]
+        for data in tsv_data:
+            iob_element=data[0]+' '+data[1]
+            iob_data.append(iob_element)
+        test_data=iob_to_text(iob_data)
+        true_entities=test_data[0][1]['entities'] 
+        pred_entities=read_xml('MH',file)
+        if mode=='strict':
+            strict(true_entities, pred_entities)  
+        elif mode=='type' or mode=='lenient':
+            type_match(true_entities, pred_entities)
+        elif mode=='partial' or mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities,test_data)
+    path='..\Sloane Catalogues\Sloane Catalogue_normalized'
+    files= os.listdir(path)
+    files= os.listdir(path)
+    for file in files[0:2]:
+        print(file)
+        tsv_data=read_file('..\Sloane Catalogues\Sloane Catalogue_normalized\%s'%file)
+        iob_data=[]
+        for data in tsv_data:
+            iob_element=data[0]+' '+data[1]
+            iob_data.append(iob_element)
+        test_data=iob_to_text(iob_data)  
+        true_entities=test_data[0][1]['entities'] 
+        pred_entities=read_xml('sloane',file)
+        if mode=='strict':
+            strict(true_entities, pred_entities)  
+        elif mode=='type' or mode=='lenient':
+            type_match(true_entities, pred_entities)
+        elif mode=='partial' or mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities,test_data)
+    path='..\Old Bailey\oldbailey_normalized'
+    files= os.listdir(path)
+    for file in files[0:499]:
+        print(file)
+        tsv_data=read_file('..\Old Bailey\oldbailey_normalized\%s'%file)
+        iob_data=[]
+        for data in tsv_data:
+            iob_element=data[0]+' '+data[1]
+            iob_data.append(iob_element)
+        test_data=iob_to_text(iob_data)    
+        true_entities=test_data[0][1]['entities'] 
+        pred_entities=read_xml('old bailey',file)
+        if mode=='strict':
+            strict(true_entities, pred_entities)  
+        elif mode=='type' or mode=='lenient':
+            type_match(true_entities, pred_entities)
+        elif mode=='partial' or mode=='ultra-lenient':
+            partial_match(true_entities, pred_entities,test_data)
+            
+    per_precision,per_recall,per_f,place_precision,place_recall,place_f,macro_f,micro_f=score(mode)
+    print('Results of %s mode'%(mode))
+    print('Person:\nPrecision:%f\nRecall:%f\nF1:%f'%(per_precision,per_recall,per_f))
+    print('Location:\nPrecision:%f\nRecall:%f\nF1:%f'%(place_precision,place_recall,place_f))
     print('Macro F1 score: %f'%macro_f)
     print('Micro F1 score: %f'%micro_f)
 
@@ -758,4 +1196,5 @@ if __name__ == "__main__":
     all_per_retrive=0 #all person annotations produced by Spacy
     all_place_relevant=0
     all_place_retrive=0
-    read_corpora('HIPE','ultra-lenient')
+    read_corpora('old bailey','partial')
+    #evaluation_corpora('ultra-lenient')

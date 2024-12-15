@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">My</w> <w pws="yes" id="w16" p="NN" headn="yes" prevtag="JJS" group="I-NP">dearest</w> <w wlastn="true" l="miranda" pws="yes" id="w24" p="NN" pername="true" wfirstn="true" group="B-NP">Miranda</w> <w pws="yes" id="w32" p="PRP" group="I-NP">I</w> <w l="send" pws="yes" id="w34" p="VBP" headv="yes" group="B-VP">send</w> <w pws="yes" id="w39" p="PRP" group="B-NP">you</w> <w pws="yes" id="w43" p="." group="O">.</w> <w pws="yes" id="w45" p="IN" group="B-PP">at</w> <w pws="yes" id="w48" p="PRP$" group="B-NP">your</w> <w state="true" l="desire" pws="yes" id="w53" p="NN" headn="yes" group="I-NP">desire</w> <w pws="yes" id="w60" p="," group="O">,</w> <w pws="yes" id="w62" p="DT" group="B-NP">an</w> <w l="imperfect" pws="yes" id="w65" p="NN" headn="yes" group="I-NP">imperfect</w> <w l="sck" pws="yes" id="w75" p="NN" headn="yes" group="I-NP">sck</w> <w l="s" pws="yes" id="w79" p="VBZ" headv="yes" group="B-VP">s</w> <w l="schetch" pws="yes" id="w81" p="NN" headn="yes" group="B-NP">schetch</w> <w pws="yes" id="w89" p="IN" group="B-PP">of</w> <w pws="yes" id="w92" p="DT" group="B-NP">the</w> <w l="order" pws="yes" id="w96" p="NN" tmln="true" headn="yes" group="I-NP">order</w> <w pws="yes" id="w102" p="IN" group="B-PP">of</w> <w l="juvenal" pws="yes" id="w105" p="NNP" headn="yes" group="B-NP">Juvenal</w> <w l="Proceſsion" pws="yes" id="w113" p="NNP" headn="yes" group="I-NP">Proceſsion</w> <w pws="yes" id="w124" p="IN" group="B-PP">in</w> <w state="true" l="honour" pws="yes" id="w127" p="NN" headn="yes" group="B-NP">honour</w> <w pws="yes" id="w134" p="IN" group="B-PP">of</w> <w l="mr" pws="yes" id="w137" p="NNP" headn="yes" group="B-NP">Mr</w> <w pws="yes" id="w140" p=":" group="O">:</w> <w locname="single" l="garrick" pws="yes" id="w142" p="NNP" wfirstn="true" group="B-NP">Garrick</w> <w pws="yes" id="w150" p=":" group="O">--</w> <w pws="yes" id="w153" p=":" group="O">--</w> <w l="adieu" pws="yes" id="w156" p="NNP" headn="yes" group="B-NP">Adieu</w> <w pws="yes" id="w162" p=":" group="O">--</w> <w l="be" pws="yes" id="w165" p="VB" group="B-VP">be</w> <w l="aſsured" pws="yes" id="w168" p="VBN" headv="yes" group="I-VP">aſsured</w> <w pws="yes" id="w176" p="IN" group="B-PP">of</w> <w pws="yes" id="w179" p="PRP$" group="B-NP">my</w> <w pws="yes" id="w182" p="JJS" group="I-NP">tenderest</w> <w state="true" common="true" vstem="affect" l="affection" pws="yes" id="w192" p="NN" headn="yes" group="I-NP">Affection</w> <w pws="yes" id="w202" p=":" group="O">--</w> <w l="anna" pws="yes" id="w205" p="NNP" pername="true" wfirstn="true" group="B-NP">Anna</w> <w l="m." pws="yes" id="w210" p="NNP" group="I-NP">M.</w> <w wlastn="true" locname="single" l="clarke" pws="yes" id="w213" p="NNP" wfirstn="true" group="I-NP">Clarke</w> <w l="wednesday" pws="yes" id="w220" p="NNP" day="Wednesday" wdaynum="3" group="B-NP">Wednesday</w> <w l="morng" pws="yes" id="w230" p="NN" headn="yes" group="I-NP">morng</w> <w pws="yes" id="w236" p=":" group="O">:</w> <w pws="yes" id="w238" p="CD" quty="3" group="B-NP">3</w> <w l="d" pws="yes" id="w240" p="NN" tmln="true" headn="yes" group="I-NP">d</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w32" sw="w24">Miranda I</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w142" sw="w142">Garrick</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="person">
+    <parts>
+      <part ew="w213" sw="w205">Anna M. Clarke</part>
+    </parts>
+  </ent>
+  <ent date="11" month="12" year="2024" sdate="2024-12-11" day-number="739230" id="rb4" wdaynum="3" day="Wednesday" type="date">
+    <parts>
+      <part ew="w220" sw="w220">Wednesday</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="send" type="event"><parts><part ew="w34" sw="w34">send</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev2" subtype="s" type="event"><parts><part ew="w79" sw="w79">s</part></parts></ent>
+  <ent tense="base" voice="pass" asp="simple" modal="no" id="ev3" subtype="aſsured" type="event"><parts><part ew="w168" sw="w168">aſsured</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

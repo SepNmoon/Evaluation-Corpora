@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w wlastn="true" locname="single" l="london" pws="yes" id="w13" p="NNP" wfirstn="true" headn="yes" group="B-NP">London</w> <w l="feby" pws="yes" id="w20" p="NNP" headn="yes" group="I-NP">Feby</w> <w pws="yes" id="w25" p="JJ" quty="1" group="B-NP">first</w> <w pws="yes" id="w31" p="CD" quty="1787" group="B-NP">1787</w> <w wlastn="true" l="john" pws="yes" id="w36" p="NNP" pername="true" wfirstn="true" headn="yes" group="I-NP">John</w> <w l="Dickenſon" pws="yes" id="w41" p="NNP" headn="yes" group="I-NP">Dickenſon</w> <w l="er" pws="yes" id="w51" p="NNP" headn="yes" group="I-NP">Er</w> <w l="n" pws="yes" id="w54" p="NNP" headn="yes" group="I-NP">N</w> <w l="o" pws="yes" id="w56" p="NNP" headn="yes" group="I-NP">o</w> <w pws="yes" id="w58" p="." group="O">.</w> <w pws="yes" id="w60" p="CD" quty="2" group="B-NP">2</w> <w common="true" l="abbey" pws="yes" id="w62" p="NNP" pername="true" headn="yes" group="I-NP">Abbey</w> <w wlastn="true" common="true" l="street" pws="yes" id="w68" p="NNP" headn="yes" group="I-NP">Street</w> <w common="true" l="bath" pws="yes" id="w75" p="NNP" headn="yes" group="I-NP">Bath</w> <w locname="single" l="greville" pws="yes" id="w80" p="NNP" wfirstn="true" group="B-NP">Greville</w> <w pws="yes" id="w89" p="IN" group="B-PP">with</w> <w l="mr" pws="yes" id="w94" p="NNP" group="B-NP">Mr</w> <w locname="single" l="greville" pws="yes" id="w97" p="NNP" wfirstn="true" group="I-NP">Greville</w> <w l="s" pws="yes" id="w106" p="VBZ" headv="yes" group="B-VP">s</w> <w vstem="congratulate" l="congratulation" pws="yes" id="w108" p="NNS" headn="yes" group="B-NP">Congratulations</w> <w pws="yes" id="w124" p="IN" group="B-PP">on</w> <w pws="yes" id="w127" p="DT" group="B-NP">the</w> <w l="happy" pws="yes" id="w131" p="NNP" wfirstn="true" headn="yes" group="I-NP">Happy</w> <w common="true" l="event" pws="yes" id="w137" p="NNP" tmln="true" headn="yes" group="I-NP">Event</w> <w pws="yes" id="w143" p=":" group="O">--</w> <w l="honble" pws="yes" id="w146" p="NNP" headn="yes" group="B-NP">Honble</w> <w pws="yes" id="w153" p="." group="O">.</w> <w l="ch" pws="yes" id="w155" p="NNP" headn="yes" group="B-NP">Chs</w> <w pws="yes" id="w159" p=":" group="O">:</w> <w locname="single" l="greville" pws="yes" id="w161" p="NNP" wfirstn="true" group="B-NP">Greville</w> <w l="feby" pws="yes" id="w170" p="NNP" headn="yes" group="I-NP">Feby</w> <w pws="yes" id="w175" p="." group="O">.</w> <w pws="yes" id="w177" p="CD" quty="2" group="B-NP">2</w> <w pws="yes" id="w179" p="CD" quty="1" group="I-NP">1</w> <w l="st" pws="yes" id="w181" p="NN" headn="yes" group="I-NP">st</w> <w pws="yes" id="w184" p="." group="O">.</w> <w pws="yes" id="w186" p="CD" quty="1787" group="B-NP">1787</w> <w pws="yes" id="w191" p=":" group="O">--</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="date" year="1787">
+    <parts>
+      <part ew="w31" sw="w31">1787</part>
+    </parts>
+  </ent>
+  <ent id="rb2" subtype="otf" type="person">
+    <parts>
+      <part ew="w80" sw="w80">Greville</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="person">
+    <parts>
+      <part ew="w97" sw="w94">Mr Greville</part>
+    </parts>
+  </ent>
+  <ent id="rb4" subtype="otf" type="person">
+    <parts>
+      <part ew="w161" sw="w161">Greville</part>
+    </parts>
+  </ent>
+  <ent id="rb5" type="date" year="1787">
+    <parts>
+      <part ew="w186" sw="w186">1787</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="s" type="event"><parts><part ew="w106" sw="w106">s</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="1787 John Dickenſon Er N o . 2 Abbey Street Bath Greville with Mr Greville s">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="rb1"/>
+  </relation>
+</relations></standoff></document>

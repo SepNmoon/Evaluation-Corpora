@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w locname="single" l="windsor" pws="yes" id="w13" p="NNP" wfirstn="true" group="B-NP">Windsor</w> <w l="december" pws="yes" id="w21" p="NNP" month="12" group="B-NP">December</w> <w l="twenty" pws="yes" id="w30" p="NN" quty="20" group="B-NP">twenty</w> <w pws="yes" id="w37" p="CD" quty="3" group="I-NP">three</w> <w pws="yes" id="w43" p="CD" quty="1810" group="B-NP">1810</w> <w pws="yes" id="w48" p="." group="O">.</w> <w l="mr" pws="yes" id="w50" p="NNP" wfirstn="true" headn="yes" group="B-NP">Mrs</w> <w l=".." pws="yes" id="w54" p="NNP" headn="yes" group="I-NP">..</w> <w locname="single" l="dickenson" pws="yes" id="w57" p="NNP" group="B-NP">Dickenson</w> <w locname="single" l="welbeck" pws="yes" id="w67" p="NNP" group="I-NP">Welbeck</w> <w wlastn="true" common="true" l="street" pws="yes" id="w75" p="NNP" headn="yes" group="I-NP">Street</w> <w pws="yes" id="w82" p="." group="O">.</w> <w locname="single" l="cambridge" pws="yes" id="w84" p="NNP" group="B-NP">Cambridge</w> <w pws="yes" id="w94" p="." group="O">.</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w96" p="NNP" wfirstn="true" group="B-NP">London</w> <w pws="yes" id="w103" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w13" sw="w13">Windsor</part>
+    </parts>
+  </ent>
+  <ent year="2024" id="rb2" month="12" type="date" edate="2024-12-30" sdate="2024-12-01">
+    <parts>
+      <part ew="w21" sw="w21">December</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="date" year="1810">
+    <parts>
+      <part ew="w43" sw="w43">1810</part>
+    </parts>
+  </ent>
+  <ent id="rb4" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w67" sw="w57">Dickenson Welbeck</part>
+    </parts>
+  </ent>
+  <ent id="rb5" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w84" sw="w84">Cambridge</part>
+    </parts>
+  </ent>
+  <ent id="rb6" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w96" sw="w96">London</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

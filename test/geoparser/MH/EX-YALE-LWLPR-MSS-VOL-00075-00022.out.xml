@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="lwl" pws="yes" id="w13" p="NNP" headn="yes" group="B-NP">LWL</w> <w l="mss" pws="yes" id="w17" p="NNP" headn="yes" group="I-NP">Mss</w> <w l="vol" pws="yes" id="w21" p="NNP" headn="yes" group="I-NP">Vol</w> <w pws="yes" id="w25" p="." group="O">.</w> <w pws="yes" id="w27" p="CD" quty="75" headn="yes" group="B-NP">75</w> <w pws="yes" id="w30" p="(" group="O">(</w> <w pws="yes" id="w32" p="CD" quty="22" headn="yes" group="B-NP">22</w> <w pws="yes" id="w35" p=")" group="O">)</w> <w pws="yes" id="w37" p="(" group="O">(</w> <w pws="yes" id="w39" p="CD" quty="1" headn="yes" group="B-NP">1</w> <w pws="yes" id="w41" p=")" group="O">)</w> <w l="lwl" pws="yes" id="w43" p="NNP" headn="yes" group="B-NP">LWL</w> <w l="mss" pws="yes" id="w47" p="NNP" headn="yes" group="I-NP">Mss</w> <w l="vol" pws="yes" id="w51" p="NNP" headn="yes" group="I-NP">Vol</w> <w pws="yes" id="w55" p="." group="O">.</w> <w pws="yes" id="w57" p="CD" quty="75" headn="yes" group="B-NP">75</w> <w pws="yes" id="w60" p="(" group="O">(</w> <w pws="yes" id="w62" p="CD" quty="22" headn="yes" group="B-NP">22</w> <w pws="yes" id="w65" p=")" group="O">)</w> <w pws="yes" id="w67" p="(" group="O">(</w> <w pws="yes" id="w69" p="CD" quty="2" headn="yes" group="B-NP">2</w> <w pws="yes" id="w71" p=")" group="O">)</w> <w l="p" pws="yes" id="w73" p="NN" headn="yes" group="B-NP">p</w><w pws="no" id="w74" p="CD" headn="yes" group="I-NP">.1</w> <w l="lwl" pws="yes" id="w77" p="NNP" headn="yes" group="B-NP">LWL</w> <w l="mss" pws="yes" id="w81" p="NNP" headn="yes" group="I-NP">Mss</w> <w l="vol" pws="yes" id="w85" p="NNP" headn="yes" group="I-NP">Vol</w> <w pws="yes" id="w89" p="." group="O">.</w> <w pws="yes" id="w91" p="CD" quty="75" headn="yes" group="B-NP">75</w> <w pws="yes" id="w94" p="(" group="O">(</w> <w pws="yes" id="w96" p="CD" quty="22" headn="yes" group="B-NP">22</w> <w pws="yes" id="w99" p=")" group="O">)</w> <w pws="yes" id="w101" p="(" group="O">(</w> <w pws="yes" id="w103" p="CD" quty="2" headn="yes" group="B-NP">2</w> <w pws="yes" id="w105" p=")" group="O">)</w> <w l="p." pws="yes" id="w107" p="NN" headn="yes" group="B-NP">p.</w><w pws="no" id="w109" p="CD" quty="2" headn="yes" group="I-NP">2</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

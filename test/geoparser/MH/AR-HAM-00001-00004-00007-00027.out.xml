@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="IN" group="B-PP">From</w> <w common="true" l="lady" pws="yes" id="w18" p="NNP" wfirstn="true" group="B-NP">Lady</w> <w locname="single" l="cathcart" pws="yes" id="w23" p="NNP" group="I-NP">Cathcart</w> <w pws="yes" id="w32" p="TO" group="B-PP">to</w> <w l="mr" pws="yes" id="w35" p="NNP" wfirstn="true" headn="yes" group="B-NP">Mrs</w><w pws="no" id="w38" p=":" group="O">-</w> <w l="c." pws="yes" id="w40" p="NNP" group="B-NP">C.</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w43" p="NNP" wfirstn="true" group="I-NP">Hamilton</w> <w pws="yes" id="w52" p="IN" group="B-PP">at</w> <w locname="single" l="northampton" pws="yes" id="w55" p="NNP" group="B-NP">Northampton</w> <w pws="yes" id="w67" p="IN" group="B-PP">on</w> <w pws="yes" id="w70" p="PRP$" group="B-NP">her</w> <w prof="true" l="husband" pws="yes" id="w74" p="NN" headn="yes" group="I-NP">husband</w> <w l="s" pws="yes" id="w82" p="VBZ" headv="yes" group="B-VP">s</w> <w vstem="die" l="death" pws="yes" id="w84" p="NN" event="true" tmln="true" headn="yes" group="B-NP">death</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w23" sw="w18">Lady Cathcart</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w43" sw="w40">C. Hamilton</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="location" lat="52.25" long="-0.88333" gazref="geonames:2641430" in-country="GB" feat-type="ppl" pop-size="197322">
+    <parts>
+      <part ew="w55" sw="w55">Northampton</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="s" type="event"><parts><part ew="w82" sw="w82">s</part></parts></ent>
+  <ent id="ev2" subtype="die" nominal="true" type="event"><parts><part ew="w84" sw="w84">death</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

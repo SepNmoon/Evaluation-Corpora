@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="06" sdate="2024-12-06" day-number="739225" day="Friday" wdaynum="5">20241206</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="DT" group="B-NP">THE</w> <w common="true" l="whole" pws="yes" id="w17" p="NNP" headn="yes" group="I-NP">Whole</w> <w locname="single" l="tryal" pws="yes" id="w23" p="NNP" group="B-NP">Tryal</w> <w pws="yes" id="w29" p="CC" group="O">and</w> <w common="true" vstem="examine" l="examination" pws="yes" id="w33" p="NNP" event="true" group="B-NP">Examination</w> <w pws="yes" id="w45" p="," group="O">,</w> <w pws="yes" id="w47" p="IN" group="B-PP">OF</w> <w l="robert" pws="yes" id="w50" p="NNP" pername="true" wfirstn="true" group="B-NP">Robert</w> <w vstem="field" l="fielding" pws="yes" id="w57" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" id="w66" p="," group="O">,</w> <w l="esq" pws="yes" id="w68" p="NNP" headn="yes" group="B-NP">Esq</w> <w pws="yes" id="w72" p=":" group="O">;</w> <w common="true" l="at" pws="yes" id="w74" p="NNP" headn="yes" group="B-NP">AT</w> <w l="justice-hall" pws="yes" id="w77" p="NNP" headn="yes" group="I-NP">JUSTICE-HALL</w> <w pws="yes" id="w90" p="IN" group="B-PP">in</w> <w pws="yes" id="w93" p="DT" group="B-NP">the</w> <w l="old-baily" pws="yes" id="w97" p="NNP" headn="yes" group="I-NP">OLD-BAILY</w> <w pws="yes" id="w107" p="," group="O">,</w> <w pws="yes" id="w109" p="IN" group="B-PP">On</w> <w l="friday" pws="yes" id="w112" p="NNP" day="Friday" wdaynum="5" group="B-NP">Friday</w> <w pws="yes" id="w119" p="," group="I-NP">,</w> <w l="december" pws="yes" id="w121" p="NNP" month="12" group="I-NP">December</w> <w pws="yes" id="w130" p="CD" quty="6" date="06" group="I-NP">6</w> <w pws="yes" id="w132" p="." group="O">.</w> <w pws="yes" id="w134" p="CD" quty="1706" group="B-NP">1706</w> <w pws="yes" id="w139" p="." group="O">.</w> <w pws="yes" id="w141" p="IN" group="B-PP">For</w> <w l="have" pws="yes" id="w145" p="VBG" headv="yes" group="B-VP">having</w> <w pws="yes" id="w152" p="CD" quty="2" group="B-NP">TWO</w> <w prof="true" common="true" l="wife" pws="yes" id="w156" p="NNS" headn="yes" group="I-NP">WIVES</w> <w pws="yes" id="w162" p="." group="O">.</w> <w pws="yes" id="w164" p="IN" group="B-PP">WITH</w> <w pws="yes" id="w169" p="DT" group="B-NP">The</w> <w common="true" pws="yes" id="w173" p="JJ" group="I-NP">True</w> <w common="true" l="copy" pws="yes" id="w178" p="NNS" headn="yes" group="I-NP">COPIES</w> <w pws="yes" id="w185" p="IN" group="B-PP">of</w> <w pws="yes" id="w188" p="DT" group="B-NP">the</w> <w common="true" l="letter" pws="yes" id="w192" p="NNS" headn="yes" group="I-NP">Letters</w> <w l="produce" pws="yes" id="w200" p="VBN" headv="yes" group="B-VP">produced</w> <w pws="yes" id="w209" p="IN" group="B-PP">in</w> <w common="true" l="court" pws="yes" id="w212" p="NNP" headn="yes" group="B-NP">Court</w> <w pws="yes" id="w218" p="." group="O">.</w> <w l="print" pws="yes" id="w220" p="VBN" headv="yes" group="B-VP">Printed</w> <w pws="yes" id="w228" p="IN" group="B-PP">by</w> <w common="true" l="authority" pws="yes" id="w231" p="NNP" tmln="true" headn="yes" group="B-NP">Authority</w> <w pws="yes" id="w241" p="." group="O">.</w> <w l="robert" pws="yes" id="w243" p="NNP" pername="true" group="B-NP">ROBERT</w> <w vstem="field" l="fielding" pws="yes" id="w250" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" id="w259" p="," group="I-NP">,</w> <w l="esq" pws="yes" id="w261" p="NNP" group="I-NP">Esq</w> <w pws="yes" id="w265" p=":" group="O">;</w> <w l="be" pws="yes" id="w267" p="VBD" group="B-VP">was</w> <w l="indict" pws="yes" id="w271" p="VBN" headv="yes" group="I-VP">Indicted</w> <w pws="yes" id="w280" p="IN" group="B-PP">for</w> <w pws="yes" id="w284" p="DT" headn="yes" group="B-NP">that</w> <w pws="yes" id="w289" p="," group="O">,</w> <w l="heon" pws="yes" id="w291" p="VB" headv="yes" group="B-VP">heon</w> <w pws="yes" id="w296" p="DT" group="B-NP">the</w> <w pws="yes" id="w300" p="JJ" date="25" group="B-NP">25th</w> <w l="day" pws="yes" id="w305" p="NN" group="I-NP">Day</w> <w pws="yes" id="w309" p="IN" group="I-NP">of</w> <w l="nov" pws="yes" id="w312" p="NNP" month="11" group="I-NP">Nov</w> <w pws="yes" id="w316" p="CD" quty="1705" year="1705" group="I-NP">1705</w><w sb="true" pws="no" id="w320" p="." group="O">.</w></s> <s id="s3"><w l="do" pws="yes" id="w322" p="VBD" group="B-VP">did</w> <w pws="yes" id="w326" p="RB" group="I-VP">Feloniously</w> <w l="take" pws="yes" id="w338" p="VB" headv="yes" group="I-VP">take</w> <w pws="yes" id="w343" p="TO" group="B-PP">to</w> <w pws="yes" id="w346" p="PRP" group="B-NP">him</w> <w pws="yes" id="w350" p="TO" group="B-PP">to</w> <w common="true" l="wife" pws="yes" id="w353" p="NNP" headn="yes" group="B-NP">Wife</w> <w l="barbara" pws="yes" id="w358" p="NNP" pername="true" wfirstn="true" group="B-NP">Barbara</w> <w pws="yes" id="w366" p="," group="O">,</w> <w common="true" l="duchess" pws="yes" id="w368" p="NNP" group="B-NP">Duchess</w> <w pws="yes" id="w376" p="IN" group="I-NP">of</w> <w locname="single" l="cleveland" pws="yes" id="w379" p="NNP" wfirstn="true" group="I-NP">Cleveland</w> <w pws="yes" id="w389" p="," group="O">,</w> <w pws="yes" id="w391" p="PRP$" group="B-NP">his</w> <w common="true" pws="yes" id="w395" p="JJ" quty="1" group="I-NP">First</w> <w common="true" l="wife" pws="yes" id="w401" p="NNP" headn="yes" group="I-NP">Wife</w> <w l="be" pws="yes" id="w406" p="VBG" headv="yes" group="B-VP">being</w> <w pws="yes" id="w412" p="RB" group="B-ADJP">then</w> <w pws="yes" id="w417" p="JJ" group="I-ADJP">alive</w> <w pws="yes" id="w423" p="." group="O">.</w> <w pws="yes" id="w425" p="DT" group="B-NP">The</w> <w state="true" common="true" l="first" pws="yes" id="w429" p="NNP" quty="1" group="I-NP">First</w> <w common="true" l="evidence" pws="yes" id="w435" p="NNP" orgname="brand" tmln="true" group="I-NP">Evidence</w> <w pws="yes" id="w444" p="IN" group="I-NP">for</w> <w pws="yes" id="w448" p="DT" group="I-NP">the</w> <w common="true" l="queen" pws="yes" id="w452" p="NNP" group="I-NP">Queen</w> <w pws="yes" id="w458" p="," group="O">,</w> <w pws="yes" id="w460" p="CC" group="O">and</w> <w pws="yes" id="w464" p="DT" group="O">the</w> <w pws="yes" id="w468" p="RB" headn="yes" group="B-NP">only</w> <w pws="yes" id="w473" p="CD" quty="1" headn="yes" group="I-NP">one</w> <w pws="yes" id="w477" p="TO" group="B-VP">to</w> <w l="prove" pws="yes" id="w480" p="VB" headv="yes" group="I-VP">Prove</w> <w pws="yes" id="w486" p="DT" group="B-NP">the</w> <w common="true" l="fact" pws="yes" id="w490" p="NN" headn="yes" group="I-NP">Fact</w> <w l="be" pws="yes" id="w495" p="VBD" headv="yes" group="B-VP">was</w> <w l="mrs." pws="yes" id="w499" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w504" p="NNP" group="I-NP">Villars</w> <w pws="yes" id="w512" p=":" group="O">:</w> <w pws="yes" id="w514" p="PRP" group="B-NP">She</w> <w l="depose" pws="yes" id="w518" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w526" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w531" p="CD" quty="1" group="B-NP">one</w> <w l="mrs." pws="yes" id="w535" p="NNP" group="I-NP">Mrs.</w> <w locname="single" l="streat" pws="yes" id="w540" p="NNP" group="I-NP">Streat</w> <w l="come" pws="yes" id="w547" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w552" p="TO" group="B-PP">to</w> <w pws="yes" id="w555" p="PRP$" group="O">her</w> <w pws="yes" id="w559" p="," group="O">,</w> <w pws="yes" id="w561" p="CC" group="O">and</w> <w l="acquaint" pws="yes" id="w565" p="VBD" headv="yes" group="B-VP">acquainted</w> <w pws="yes" id="w576" p="PRP" group="B-NP">her</w> <w pws="yes" id="w580" p="," group="O">,</w> <w pws="yes" id="w582" p="IN" group="B-SBAR">that</w> <w l="mr" pws="yes" id="w587" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w590" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w592" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="be" pws="yes" id="w601" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w605" p="RB" group="B-ADVP">passionatly</w> <w pws="yes" id="w617" p="IN" group="B-PP">in</w> <w wlastn="true" state="true" common="true" l="love" pws="yes" id="w620" p="NNP" headn="yes" group="B-NP">Love</w> <w pws="yes" id="w625" p="IN" group="B-PP">with</w> <w pws="yes" id="w630" p="CD" quty="1" group="B-NP">one</w> <w l="mrs." pws="yes" id="w634" p="NNP" group="I-NP">Mrs.</w> <w l="deleau" pws="yes" id="w639" p="NNP" group="I-NP">Deleau</w> <w pws="yes" id="w646" p="," group="O">,</w> <w pws="yes" id="w648" p="DT" group="B-NP">a</w> <w common="true" l="lady" pws="yes" id="w650" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w pws="yes" id="w655" p="IN" group="B-PP">of</w> <w common="true" l="quality" pws="yes" id="w658" p="NN" headn="yes" group="B-NP">Quality</w> <w pws="yes" id="w666" p="IN" group="B-PP">at</w> <w locname="single" l="waddon" pws="yes" id="w669" p="NNP" group="B-NP">Waddon</w> <w pws="yes" id="w676" p="IN" group="B-PP">in</w> <w locname="single" l="surrey" pws="yes" id="w679" p="NNP" group="B-NP">Surrey</w> <w pws="yes" id="w686" p="," group="O">,</w> <w tmla="true" pws="yes" id="w688" p="JJ" group="B-ADJP">worth</w> <w pws="yes" id="w694" p="CD" quty="60000" group="B-NP">60000</w> <w common="true" l="pound" pws="yes" id="w700" p="NNS" headn="yes" group="I-NP">Pounds</w> <w pws="yes" id="w707" p=":" group="O">;</w> <w pws="yes" id="w709" p="IN" group="B-SBAR">that</w> <w l="mrs." pws="yes" id="w714" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="streat" pws="yes" id="w719" p="NNP" group="I-NP">Streat</w> <w l="desire" pws="yes" id="w726" p="VBD" headv="yes" group="B-VP">desired</w> <w pws="yes" id="w734" p="PRP$" group="O">her</w> <w pws="yes" id="w738" p="TO" group="B-VP">to</w> <w l="use" pws="yes" id="w741" p="VB" headv="yes" group="I-VP">use</w> <w pws="yes" id="w745" p="PRP$" group="B-NP">her</w> <w state="true" common="true" vstem="interest" l="interest" pws="yes" id="w749" p="NN" tmln="true" headn="yes" group="I-NP">Interest</w> <w pws="yes" id="w758" p="(" group="O">(</w> <w pws="yes" id="w760" p="PRP" group="B-NP">she</w> <w l="be" pws="yes" id="w764" p="VBG" headv="yes" group="B-VP">being</w> <w pws="yes" id="w770" p="DT" group="B-NP">an</w> <w common="true" vstem="acquaint" l="acquaintance" pws="yes" id="w773" p="NN" headn="yes" group="I-NP">Acquaintance</w> <w pws="yes" id="w786" p="IN" group="B-PP">of</w> <w l="mrs." pws="yes" id="w789" p="NNP" group="B-NP">Mrs.</w> <w l="deleau" pws="yes" id="w794" p="NNP" group="I-NP">Deleau</w> <w pws="yes" qut="s" id="w801" p="POS" group="I-NP">'</w><w l="s" pws="no" id="w802" p="VBZ" headv="yes" group="B-VP">s</w> <w pws="yes" id="w804" p=")" group="O">)</w> <w pws="yes" id="w806" p="TO" group="B-VP">to</w> <w l="bring" pws="yes" id="w809" p="VB" headv="yes" group="I-VP">bring</w> <w l="mr" pws="yes" id="w815" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w818" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w820" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" id="w829" p="," group="O">,</w> <w pws="yes" id="w831" p="CC" group="O">and</w> <w pws="yes" id="w835" p="DT" group="B-NP">the</w> <w common="true" l="lady" pws="yes" id="w839" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w pws="yes" id="w844" p="RB" group="B-ADVP">together</w> <w pws="yes" id="w853" p=":" group="O">;</w> <w pws="yes" id="w855" p="DT" group="B-NP">that</w> <w l="mr" pws="yes" id="w860" p="NNP" group="I-NP">Mr</w> <w pws="yes" id="w863" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w865" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="go" pws="yes" id="w874" p="VBD" headv="yes" group="B-VP">went</w> <w pws="yes" id="w879" p="IN" group="B-PP">into</w> <w pws="yes" id="w884" p="DT" group="B-NP">the</w> <w common="true" l="country" pws="yes" id="w888" p="NN" headn="yes" group="I-NP">Country</w> <w pws="yes" id="w896" p="," group="O">,</w> <w pws="yes" id="w898" p="RB" group="B-ADVP">not</w> <w l="doubt" pws="yes" id="w902" p="VBG" headv="yes" group="B-VP">doubting</w> <w pws="yes" id="w911" p="," group="O">,</w> <w pws="yes" id="w913" p="CC" group="O">but</w> <w pws="yes" id="w917" p="IN" group="B-SBAR">if</w> <w pws="yes" id="w920" p="RB" group="B-ADVP">once</w> <w pws="yes" id="w925" p="DT" group="B-NP">the</w> <w common="true" l="lady" pws="yes" id="w929" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w l="could" pws="yes" id="w934" p="MD" group="B-VP">could</w> <w l="have" pws="yes" id="w940" p="VB" headv="yes" group="I-VP">have</w> <w pws="yes" id="w945" p="DT" group="B-NP">a</w> <w common="true" l="sight" pws="yes" id="w947" p="NN" headn="yes" group="I-NP">Sight</w> <w pws="yes" id="w953" p="IN" group="B-PP">of</w> <w pws="yes" id="w956" p="PRP" group="B-NP">him</w> <w pws="yes" id="w960" p="," group="O">,</w> <w pws="yes" id="w962" p="PRP" group="B-NP">she</w> <w l="would" pws="yes" id="w966" p="MD" group="B-VP">would</w> <w l="have" pws="yes" id="w972" p="VB" headv="yes" group="I-VP">have</w> <w pws="yes" id="w977" p="DT" group="B-NP">the</w> <w pws="yes" id="w981" p="JJ" group="I-NP">same</w> <w common="true" vstem="respect" l="respect" pws="yes" id="w986" p="NN" headn="yes" group="I-NP">Respect</w> <w pws="yes" id="w994" p="IN" group="B-PP">for</w> <w pws="yes" id="w998" p="PRP" group="B-NP">him</w> <w pws="yes" id="w1002" p="IN" group="B-PP">as</w> <w pws="yes" id="w1005" p="PRP" group="B-NP">he</w> <w l="have" pws="yes" id="w1008" p="VBD" headv="yes" group="B-VP">had</w> <w pws="yes" id="w1012" p="IN" group="B-PP">for</w> <w pws="yes" id="w1016" p="PRP$" group="O">her</w> <w pws="yes" id="w1020" p=":" group="O">;</w> <w pws="yes" id="w1022" p="DT" group="B-NP">that</w> <w pws="yes" id="w1027" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w1032" p="PRP" group="B-NP">he</w> <w l="come" pws="yes" id="w1035" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w1040" p="RB" group="B-ADVP">there</w> <w pws="yes" id="w1046" p="," group="O">,</w> <w pws="yes" id="w1048" p="PRP" group="B-NP">he</w> <w l="desire" pws="yes" id="w1051" p="VBD" headv="yes" group="B-VP">desired</w> <w pws="yes" id="w1059" p="TO" group="B-VP">to</w> <w l="see" pws="yes" id="w1062" p="VB" class="istate" headv="yes" group="I-VP">see</w> <w pws="yes" id="w1066" p="DT" group="B-NP">the</w> <w common="true" l="garden" pws="yes" id="w1070" p="NNPS" headn="yes" group="I-NP">Gardens</w> <w pws="yes" id="w1078" p="," group="O">,</w> <w pws="yes" id="w1080" p="CC" group="O">and</w> <w l="be" pws="yes" id="w1084" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w1088" p="IN" group="B-PP">by</w> <w pws="yes" id="w1091" p="DT" group="B-NP">the</w> <w prof="true" common="true" l="servant" pws="yes" id="w1095" p="NNS" headn="yes" group="I-NP">Servants</w> <w pws="yes" id="w1104" p="RB" group="B-NP">so</w> <w pws="yes" id="w1107" p="JJ" group="I-NP">introduc</w> <w l="'d" pws="yes" id="w1116" p="NNP" headn="yes" group="I-NP">'d</w> <w pws="yes" id="w1119" p="," group="O">,</w> <w pws="yes" id="w1121" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w1126" p="PRP" group="B-NP">he</w> <w l="see" pws="yes" id="w1129" p="VBD" class="istate" headv="yes" group="B-VP">saw</w> <w pws="yes" id="w1133" p="DT" group="B-NP">a</w> <w common="true" pws="yes" id="w1135" p="JJ" group="I-NP">Lady</w> <w l="look" pws="yes" id="w1140" p="NN" tmln="true" headn="yes" group="I-NP">look</w> <w pws="yes" id="w1145" p="IN" group="B-PP">out</w> <w pws="yes" id="w1149" p="IN" group="I-PP">of</w> <w pws="yes" id="w1152" p="DT" group="B-NP">a</w> <w common="true" l="window" pws="yes" id="w1154" p="NNP" headn="yes" group="I-NP">Window</w> <w pws="yes" id="w1161" p="," group="O">,</w> <w pws="yes" id="w1163" p="WP" group="O">whom</w> <w pws="yes" id="w1168" p="PRP" group="B-NP">he</w> <w l="think" pws="yes" id="w1171" p="VBD" class="istate" headv="yes" group="B-VP">thought</w> <w pws="yes" id="w1179" p="TO" group="B-VP">to</w> <w l="be" pws="yes" id="w1182" p="VB" headv="yes" group="I-VP">be</w> <w l="mrs." pws="yes" id="w1185" p="NNP" group="B-NP">Mrs.</w> <w l="deleau" pws="yes" id="w1190" p="NNP" group="I-NP">Deleau</w> <w pws="yes" id="w1197" p="," group="O">,</w> <w pws="yes" id="w1199" p="CC" group="O">and</w> <w pws="yes" id="w1203" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w1208" p="PRP" group="B-NP">she</w> <w l="might" pws="yes" id="w1212" p="MD" group="B-VP">might</w> <w l="have" pws="yes" id="w1218" p="VB" headv="yes" group="I-VP">have</w> <w pws="yes" id="w1223" p="DT" group="B-NP">the</w> <w pws="yes" id="w1227" p="JJR" group="I-NP">more</w> <w pws="yes" id="w1232" p="JJ" group="I-NP">perfect</w> <w common="true" l="view" pws="yes" id="w1240" p="NN" tmln="true" headn="yes" group="I-NP">View</w> <w pws="yes" id="w1245" p="IN" group="B-PP">of</w> <w pws="yes" id="w1248" p="PRP" group="B-NP">him</w> <w pws="yes" id="w1252" p="," group="O">,</w> <w pws="yes" id="w1254" p="PRP" group="B-NP">he</w> <w l="be" pws="yes" id="w1257" p="VBD" group="B-VP">was</w> <w l="please" pws="yes" id="w1261" p="VBN" headv="yes" group="I-VP">pleased</w> <w pws="yes" id="w1269" p="TO" group="B-VP">to</w> <w l="take" pws="yes" id="w1272" p="VB" headv="yes" group="I-VP">take</w> <w l="diver" pws="yes" id="w1277" p="NNS" headn="yes" group="B-NP">divers</w> <w l="turn" pws="yes" id="w1284" p="VBZ" headv="yes" group="B-VP">Turns</w> <w pws="yes" id="w1290" p="IN" group="B-PP">in</w> <w pws="yes" id="w1293" p="DT" group="B-NP">the</w> <w common="true" l="garden" pws="yes" id="w1297" p="NNP" headn="yes" group="I-NP">Garden</w> <w pws="yes" id="w1304" p="," group="O">,</w> <w pws="yes" id="w1306" p="CC" group="O">and</w> <w l="set" pws="yes" id="w1310" p="VBD" headv="yes" group="B-VP">set</w> <w pws="yes" id="w1314" p="PRP$" group="B-NP">his</w> <w common="true" l="watch" pws="yes" id="w1318" p="NN" headn="yes" group="I-NP">Watch</w> <w pws="yes" id="w1324" p="IN" group="B-PP">by</w> <w pws="yes" id="w1327" p="DT" group="B-NP">the</w> <w pws="yes" id="w1331" p="NN" headn="yes" prevtag="JJ" group="I-NP">Sun-Dial</w> <w pws="yes" id="w1340" p=":" group="O">;</w> <w pws="yes" id="w1342" p="WRB" group="B-ADVP">when</w> <w l="mr" pws="yes" id="w1347" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w1350" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w1352" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="return" pws="yes" id="w1361" p="NN" tmln="true" headn="yes" group="I-NP">return</w> <w l="'d" pws="yes" id="w1368" p="VBD" headv="yes" group="B-VP">'d</w> <w l="home" pws="yes" id="w1371" p="NN" headn="yes" group="B-NP">home</w> <w pws="yes" id="w1376" p="RB" group="B-ADVP">again</w> <w pws="yes" id="w1382" p="," group="O">,</w> <w pws="yes" id="w1384" p="PRP" group="B-NP">he</w> <w l="acquaint" pws="yes" id="w1387" p="VBD" headv="yes" group="B-VP">acquainted</w> <w l="mrs." pws="yes" id="w1398" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w1403" p="NNP" group="I-NP">Villars</w> <w pws="yes" id="w1411" p="IN" group="B-PP">with</w> <w pws="yes" id="w1416" p="PRP$" group="B-NP">his</w> <w common="true" l="adventure" pws="yes" id="w1420" p="NN" event="true" headn="yes" group="I-NP">Adventure</w> <w pws="yes" id="w1430" p="." group="O">.</w> <w pws="yes" id="w1432" p="PRP" group="B-NP">She</w> <w pws="yes" id="w1436" p="RBR" group="B-ADJP">further</w> <w l="depose" pws="yes" id="w1444" p="VBN" group="I-ADJP">deposed</w> <w pws="yes" id="w1452" p="," group="O">,</w> <w pws="yes" id="w1454" p="IN" group="B-SBAR">that</w> <w l="mr." pws="yes" id="w1459" p="NNP" group="B-NP">Mr.</w> <w l="fielding" pws="yes" id="w1463" p="NNP" group="I-NP">Fieldings</w> <w common="true" l="project" pws="yes" id="w1473" p="NNP" event="true" tmln="true" headn="yes" group="I-NP">Project</w> <w l="be" pws="yes" id="w1481" p="VBG" headv="yes" group="B-VP">being</w> <w pws="yes" id="w1487" p="RB" group="B-ADJP">very</w> <w pws="yes" id="w1492" p="JJ" group="I-ADJP">unlikely</w> <w pws="yes" id="w1501" p="TO" group="B-VP">to</w> <w l="take" pws="yes" id="w1504" p="VB" headv="yes" group="I-VP">take</w> <w pws="yes" id="w1509" p="," group="O">,</w> <w pws="yes" id="w1511" p="PRP" group="B-NP">she</w> <w pws="yes" id="w1515" p="CC" group="O">and</w> <w l="mrs." pws="yes" id="w1519" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="streat" pws="yes" id="w1524" p="NNP" group="I-NP">Streat</w> <w l="propo" pws="yes" id="w1531" p="VBZ" headv="yes" group="B-VP">propos</w> <w l="'d" pws="yes" id="w1538" p="MD" group="O">'d</w> <w pws="yes" id="w1541" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w1545" p="IN" group="B-PP">of</w> <w pws="yes" id="w1548" p="PRP$" group="B-NP">their</w> <w tmla="true" pws="yes" id="w1554" p="NN" headn="yes" prevtag="JJ" group="I-NP">own</w> <w pws="yes" id="w1558" p="," group="O">,</w> <w pws="yes" id="w1560" p="IN" group="B-SBAR">that</w> <w l="tho" pws="yes" id="w1565" p="NNS" headn="yes" group="B-NP">tho</w> <w pws="yes" qut="s" id="w1569" p="POS" group="I-NP">'</w> <w pws="yes" id="w1571" p="PRP" group="B-NP">they</w> <w l="could" pws="yes" id="w1576" p="MD" group="B-VP">could</w> <w pws="yes" id="w1582" p="RB" neg="yes" group="I-VP">not</w> <w l="help" pws="yes" id="w1586" p="VB" class="istate" headv="yes" group="I-VP">help</w> <w l="mr" pws="yes" id="w1591" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w1594" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w1596" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" id="w1605" p="TO" group="B-PP">to</w> <w l="mrs." pws="yes" id="w1608" p="NNP" group="B-NP">Mrs.</w> <w l="deleau" pws="yes" id="w1613" p="NNP" group="I-NP">Deleau</w> <w pws="yes" id="w1620" p="," group="O">,</w> <w pws="yes" id="w1622" p="RB" group="B-ADVP">however</w> <w pws="yes" id="w1630" p="," group="O">,</w> <w pws="yes" id="w1632" p="PRP" group="B-NP">they</w> <w l="would" pws="yes" id="w1637" p="MD" group="B-VP">would</w> <w l="impose" pws="yes" id="w1643" p="VB" headv="yes" group="I-VP">impose</w> <w pws="yes" id="w1650" p="IN" group="B-PP">upon</w> <w pws="yes" id="w1655" p="PRP" group="B-NP">him</w> <w pws="yes" id="w1659" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w1663" p="WDT" group="B-NP">that</w> <w l="should" pws="yes" id="w1668" p="MD" group="B-VP">should</w> <w l="personate" pws="yes" id="w1675" p="VB" headv="yes" group="I-VP">personate</w> <w pws="yes" id="w1685" p="PRP" group="B-NP">her</w> <w pws="yes" id="w1689" p="," group="O">,</w> <w pws="yes" id="w1691" p="CC" group="O">and</w> <w l="be" pws="yes" id="w1695" p="VB" headv="yes" group="B-VP">be</w> <w pws="yes" id="w1698" p="RBR" group="B-ADJP">more</w> <w pws="yes" id="w1703" p="JJ" group="I-ADJP">agreeable</w> <w pws="yes" id="w1713" p="TO" group="B-PP">to</w> <w pws="yes" id="w1716" p="PRP$" group="B-NP">his</w> <w common="true" l="fortune" pws="yes" id="w1720" p="NNP" wfirstn="true" headn="yes" group="I-NP">Fortune</w> <w pws="yes" id="w1728" p=":" group="O">;</w> <w pws="yes" id="w1730" p="DT" group="B-NP">the</w> <w common="true" l="person" pws="yes" id="w1734" p="NNP" headn="yes" group="I-NP">Person</w> <w pws="yes" id="w1741" p="PRP" group="B-NP">they</w> <w l="fix" pws="yes" id="w1746" p="VB" headv="yes" group="B-VP">fix</w> <w l="'d" pws="yes" id="w1750" p="NNP" headn="yes" group="B-NP">'d</w> <w pws="yes" id="w1753" p="IN" group="B-PP">on</w> <w pws="yes" id="w1756" p="IN" group="B-PP">for</w> <w pws="yes" id="w1760" p="PRP" group="B-NP">him</w> <w pws="yes" id="w1764" p="," group="O">,</w> <w l="be" pws="yes" id="w1766" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w1770" p="CD" quty="1" group="B-NP">one</w> <w l="mrs." pws="yes" id="w1774" p="NNP" group="I-NP">Mrs.</w> <w l="mary" pws="yes" id="w1779" p="NNP" pername="true" wfirstn="true" group="I-NP">Mary</w> <w locname="single" l="wadsworth" pws="yes" id="w1784" p="NNP" group="I-NP">Wadsworth</w> <w pws="yes" id="w1794" p="," group="I-NP">,</w> <w l="mrs." pws="yes" id="w1796" p="NNP" group="I-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w1801" p="NNP" group="I-NP">Villars</w> <w pws="yes" id="w1809" p="JJ" group="B-ADJP">further</w> <w l="depose" pws="yes" id="w1817" p="VBN" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w1825" p="," group="O">,</w> <w pws="yes" id="w1827" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w1832" p="PRP" group="B-NP">she</w> <w l="promi" pws="yes" id="w1836" p="VBZ" headv="yes" group="B-VP">promis</w> <w l="'d" pws="yes" id="w1843" p="MD" group="B-VP">'d</w> <w pws="yes" id="w1846" p="TO" group="I-VP">to</w> <w l="persuade" pws="yes" id="w1849" p="VB" headv="yes" group="I-VP">persuade</w> <w l="mrs." pws="yes" id="w1858" p="NNP" group="B-NP">Mrs.</w> <w l="deleau" pws="yes" id="w1863" p="NNP" group="I-NP">Deleau</w> <w pws="yes" id="w1870" p="TO" group="B-VP">to</w> <w l="come" pws="yes" id="w1873" p="VB" headv="yes" group="I-VP">come</w> <w pws="yes" id="w1878" p="RB" group="B-ADVP">privately</w> <w pws="yes" id="w1888" p="TO" group="B-PP">to</w> <w pws="yes" id="w1891" p="PRP$" group="B-NP">his</w> <w common="true" l="lodgings" pws="yes" id="w1895" p="NNS" headn="yes" group="I-NP">Lodgings</w> <w pws="yes" id="w1904" p="IN" group="B-PP">in</w> <w pws="yes" id="w1907" p="DT" group="B-NP">the</w> <w locname="single" l="pell" pws="yes" id="w1911" p="NNP" headn="yes" group="I-NP">Pell</w> <w locname="single" common="true" l="mell" pws="yes" id="w1916" p="NNP" headn="yes" group="I-NP">Mell</w> <w pws="yes" id="w1921" p=":" group="O">;</w> <w pws="yes" id="w1923" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w1928" p="IN" group="B-PP">after</w> <w pws="yes" id="w1934" p="PRP" group="B-NP">she</w> <w l="have" pws="yes" id="w1938" p="VBD" group="B-VP">had</w> <w l="be" pws="yes" id="w1942" p="VBN" headv="yes" group="I-VP">been</w> <w pws="yes" id="w1947" p="RB" group="B-ADVP">there</w> <w pws="yes" id="w1953" p="DT" group="B-NP">a</w> <w l="while" pws="yes" id="w1955" p="NN" headn="yes" group="I-NP">while</w> <w pws="yes" id="w1961" p="," group="O">,</w> <w pws="yes" id="w1963" p="PRP" group="B-NP">he</w> <w l="should" pws="yes" id="w1966" p="MD" group="B-VP">should</w> <w l="come" pws="yes" id="w1973" p="VB" headv="yes" group="I-VP">come</w> <w pws="yes" id="w1978" p="IN" group="B-PP">in</w> <w pws="yes" id="w1981" p="CC" group="O">and</w> <w l="make" pws="yes" id="w1985" p="VB" headv="yes" group="B-VP">make</w> <w pws="yes" id="w1990" p="DT" group="B-NP">an</w> <w common="true" vstem="improve" l="improvement" pws="yes" id="w1993" p="NN" event="true" tmln="true" headn="yes" group="I-NP">Improvement</w> <w pws="yes" id="w2005" p="IN" group="B-PP">of</w> <w pws="yes" id="w2008" p="PRP$" group="B-NP">his</w> <w l="fortunate" pws="yes" id="w2012" p="NN" headn="yes" group="I-NP">fortunate</w> <w l="come" pws="yes" id="w2022" p="VBG" headv="yes" group="B-VP">coming</w> <w pws="yes" id="w2029" p="IN" group="B-PP">in</w> <w pws="yes" id="w2032" p="DT" headn="yes" group="B-NP">that</w> <w l="happy" pws="yes" id="w2037" p="NNP" wfirstn="true" headn="yes" group="B-NP">Happy</w> <w common="true" l="minute" pws="yes" id="w2043" p="NNP" headn="yes" group="I-NP">Minute</w> <w pws="yes" id="w2050" p=":" group="O">:</w> <w pws="yes" id="w2052" p="CC" group="O">But</w> <w pws="yes" id="w2056" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w2061" p="DT" group="B-NP">the</w> <w common="true" l="time" pws="yes" id="w2065" p="NN" event="true" tmln="true" headn="yes" group="I-NP">Time</w> <w l="appoint" pws="yes" id="w2070" p="VBN" headv="yes" group="B-VP">appointed</w> <w l="come" pws="yes" id="w2080" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w2085" p="," group="O">,</w> <w pws="yes" id="w2087" p="RB" group="B-PP">instead</w> <w pws="yes" id="w2095" p="IN" group="I-PP">of</w> <w l="mrs." pws="yes" id="w2098" p="NNP" group="B-NP">Mrs.</w> <w l="deleau" pws="yes" id="w2103" p="NNP" group="I-NP">Deleau</w> <w pws="yes" id="w2110" p="," group="O">,</w> <w l="mrs." pws="yes" id="w2112" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="wadsworth" pws="yes" id="w2117" p="NNP" group="I-NP">Wadsworth</w> <w l="appear" pws="yes" id="w2127" p="VBD" class="istate" headv="yes" group="B-VP">appeared</w> <w pws="yes" id="w2136" p="IN" group="B-PP">in</w> <w pws="yes" id="w2139" p="PRP$" group="B-NP">her</w> <w common="true" l="shape" pws="yes" id="w2143" p="NN" headn="yes" group="I-NP">Shape</w> <w pws="yes" id="w2149" p="," group="O">,</w> <w pws="yes" id="w2151" p="IN" group="B-PP">with</w> <w pws="yes" id="w2156" p="DT" group="B-NP">a</w> <w l="mourn" pws="yes" id="w2158" p="VBG" group="I-NP">Mourning</w> <w prof="true" common="true" l="coach" pws="yes" id="w2167" p="NN" headn="yes" group="I-NP">Coach</w> <w pws="yes" id="w2173" p="," headn="yes" group="I-NP">,</w> <w pws="yes" id="w2175" p="CC" headn="yes" group="I-NP">and</w> <w common="true" l="widow" pws="yes" id="w2179" p="NNP" headn="yes" group="I-NP">Widows</w> <w common="true" l="habit" pws="yes" id="w2186" p="NNP" headn="yes" group="I-NP">Habit</w> <w pws="yes" id="w2192" p="." group="O">.</w> <w pws="yes" id="w2194" p="PRP" group="B-NP">She</w> <w l="have" pws="yes" id="w2198" p="VBD" neg="yes" group="B-VP">had</w> <w pws="yes" id="w2202" p="RB" neg="yes" group="I-VP">not</w> <w l="be" pws="yes" id="w2206" p="VBN" headv="yes" group="I-VP">been</w> <w pws="yes" id="w2211" p="RB" group="B-ADVP">there</w> <w pws="yes" id="w2217" p="RB" group="I-ADVP">long</w> <w pws="yes" id="w2222" p="," group="O">,</w> <w pws="yes" id="w2224" p="CC" group="O">but</w> <w pws="yes" id="w2228" p="IN" group="B-PP">in</w> <w l="come" pws="yes" id="w2231" p="VBZ" headv="yes" group="B-VP">comes</w> <w l="mr" pws="yes" id="w2237" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w2240" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w2242" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" id="w2251" p="," group="O">,</w> <w pws="yes" id="w2253" p="RB" group="B-ADVP">wonderfully</w> <w l="surprize" pws="yes" id="w2265" p="VBN" headv="yes" group="B-VP">surprized</w> <w pws="yes" id="w2275" p="IN" group="B-PP">with</w> <w state="true" common="true" l="joy" pws="yes" id="w2280" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Joy</w> <w pws="yes" id="w2284" p="TO" group="B-VP">to</w> <w l="see" pws="yes" id="w2287" p="VB" class="istate" headv="yes" group="I-VP">see</w> <w pws="yes" id="w2291" p="PRP$" group="B-NP">his</w> <w common="true" l="lady" pws="yes" id="w2295" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w pws="yes" id="w2300" p="RB" group="B-ADVP">there</w> <w pws="yes" id="w2306" p=":" group="O">;</w> <w pws="yes" id="w2308" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w2313" p="PRP" group="B-NP">he</w> <w l="make" pws="yes" id="w2316" p="VBD" headv="yes" group="B-VP">made</w> <w pws="yes" id="w2321" p="PRP$" group="B-NP">his</w> <w common="true" l="address" pws="yes" id="w2325" p="NNS" tmln="true" headn="yes" group="I-NP">Addresses</w> <w pws="yes" id="w2335" p="TO" group="B-PP">to</w> <w pws="yes" id="w2338" p="PRP$" group="O">her</w> <w pws="yes" id="w2342" p="IN" group="B-PP">after</w> <w pws="yes" id="w2348" p="DT" group="B-NP">a</w> <w pws="yes" id="w2350" p="RB" group="I-NP">very</w> <w common="true" pws="yes" id="w2355" p="JJ" group="I-NP">Passionate</w> <w common="true" l="manner" pws="yes" id="w2366" p="NNP" headn="yes" group="I-NP">Manner</w> <w pws="yes" id="w2373" p="," group="O">,</w> <w pws="yes" id="w2375" p="CC" group="O">and</w> <w pws="yes" id="w2379" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w2384" p="PRP" group="B-NP">he</w> <w l="entertain" pws="yes" id="w2387" p="VBD" headv="yes" group="B-VP">entertained</w> <w pws="yes" id="w2399" p="DT" group="B-NP">the</w> <w common="true" l="lady" pws="yes" id="w2403" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w pws="yes" id="w2408" p="IN" group="B-PP">with</w> <w pws="yes" id="w2413" p="DT" group="B-NP">a</w> <w common="true" l="treat" pws="yes" id="w2415" p="NN" headn="yes" group="I-NP">Treat</w> <w pws="yes" id="w2421" p="," group="O">,</w> <w pws="yes" id="w2423" p="CC" group="O">and</w> <w pws="yes" id="w2427" p="DT" group="B-NP">some</w> <w pws="yes" id="w2432" p="JJ" locadj="true" group="I-NP">Italian</w> <w pws="yes" id="w2440" p="CC" group="I-NP">and</w> <w pws="yes" id="w2444" p="JJ" locadj="true" group="I-NP">English</w> <w common="true" l="song" pws="yes" id="w2452" p="NNS" headn="yes" group="I-NP">Songs</w> <w pws="yes" id="w2458" p="," group="O">,</w> <w l="sing" pws="yes" id="w2460" p="VBN" headv="yes" group="B-VP">sung</w> <w pws="yes" id="w2465" p="IN" group="B-PP">by</w> <w locname="single" l="margaretta" pws="yes" id="w2468" p="NNP" group="B-NP">Margaretta</w> <w pws="yes" id="w2479" p="," group="O">,</w> <w pws="yes" id="w2481" p="WP" group="O">whom</w> <w pws="yes" id="w2486" p="PRP" group="B-NP">he</w> <w l="send" pws="yes" id="w2489" p="VBD" headv="yes" group="B-VP">sent</w> <w pws="yes" id="w2494" p="IN" group="B-PP">for</w> <w pws="yes" id="w2498" p="," group="O">,</w> <w pws="yes" id="w2500" p="IN" group="B-PP">for</w> <w pws="yes" id="w2504" p="DT" headn="yes" group="B-NP">that</w> <w common="true" l="purpose" pws="yes" id="w2509" p="NN" tmln="true" headn="yes" group="B-NP">Purpose</w> <w pws="yes" id="w2517" p=":" group="O">;</w> <w pws="yes" id="w2519" p="DT" group="B-NP">that</w> <w l="mr" pws="yes" id="w2524" p="NNP" group="I-NP">Mr</w> <w pws="yes" id="w2527" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w2529" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="propose" pws="yes" id="w2538" p="VBD" headv="yes" group="B-VP">proposed</w> <w pws="yes" id="w2547" p="TO" group="B-PP">to</w> <w l="marry" pws="yes" id="w2550" p="NNP" headn="yes" group="B-NP">Marry</w> <w pws="yes" id="w2556" p="PRP" group="B-NP">her</w> <w pws="yes" id="w2560" p="," group="O">,</w> <w pws="yes" id="w2562" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w2567" p="DT" group="B-NP">the</w> <w common="true" l="lady" pws="yes" id="w2571" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w l="seem" pws="yes" id="w2576" p="VBD" class="istate" headv="yes" group="B-VP">seemed</w> <w common="true" l="shy" pws="yes" id="w2583" p="NNP" event="true" headn="yes" group="B-NP">Shy</w> <w pws="yes" id="w2587" p="," group="O">,</w> <w pws="yes" id="w2589" p="CC" group="O">and</w> <w l="entertain" pws="yes" id="w2593" p="VBD" headv="yes" group="B-VP">entertained</w> <w pws="yes" id="w2605" p="PRP$" group="B-NP">his</w> <w common="true" vstem="love" l="loving" pws="yes" id="w2609" p="JJ" group="I-NP">Loving</w> <w common="true" vstem="dispose" l="disposition" pws="yes" id="w2616" p="NN" tmln="true" headn="yes" group="I-NP">Disposition</w> <w pws="yes" id="w2628" p="," group="O">,</w> <w pws="yes" id="w2630" p="IN" group="B-PP">with</w> <w pws="yes" id="w2635" p="DT" group="B-NP">an</w> <w pws="yes" id="w2638" p="JJ" group="I-NP">agreeable</w> <w common="true" l="modesty" pws="yes" id="w2648" p="NN" headn="yes" group="I-NP">Modesty</w> <w pws="yes" id="w2656" p=":" group="O">;</w> <w pws="yes" id="w2658" p="CC" group="O">but</w> <w pws="yes" id="w2662" p="IN" group="B-PP">before</w> <w pws="yes" id="w2669" p="PRP" group="B-NP">she</w> <w l="go" pws="yes" id="w2673" p="VBD" headv="yes" group="B-VP">went</w> <w pws="yes" id="w2678" p="," group="O">,</w> <w pws="yes" id="w2680" p="PRP" group="B-NP">she</w> <w l="let" pws="yes" id="w2684" p="VBD" headv="yes" group="B-VP">let</w> <w pws="yes" id="w2688" p="PRP" group="B-NP">him</w> <w l="know" pws="yes" id="w2692" p="VB" class="istate" headv="yes" group="B-VP">know</w> <w pws="yes" id="w2697" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w2702" p="PRP" group="B-NP">he</w> <w l="might" pws="yes" id="w2705" p="MD" group="B-VP">might</w> <w l="see" pws="yes" id="w2711" p="VB" class="istate" headv="yes" group="I-VP">see</w> <w pws="yes" id="w2715" p="PRP$" group="O">her</w> <w pws="yes" id="w2719" p="RB" group="B-ADVP">again</w> <w pws="yes" id="w2725" p="." group="O">.</w> <w pws="yes" id="w2727" p="CC" group="O">But</w> <w pws="yes" id="w2731" p="RB" group="B-PP">instead</w> <w pws="yes" id="w2739" p="IN" group="I-PP">of</w> <w pws="yes" id="w2742" p="PRP$" group="O">her</w> <w l="come" pws="yes" id="w2746" p="VBG" headv="yes" group="B-VP">coming</w> <w pws="yes" id="w2753" p="," group="O">,</w> <w l="accord" pws="yes" id="w2755" p="VBG" headv="yes" group="B-PP">according</w> <w pws="yes" id="w2765" p="TO" group="I-PP">to</w> <w common="true" vstem="promise" l="promise" pws="yes" id="w2768" p="NNP" event="true" tmln="true" headn="yes" group="B-NP">Promise</w> <w pws="yes" id="w2776" p="," group="O">,</w> <w pws="yes" id="w2778" p="PRP" group="B-NP">she</w> <w l="send" pws="yes" id="w2782" p="VBD" headv="yes" group="B-VP">sent</w> <w pws="yes" id="w2787" p="PRP" group="B-NP">him</w> <w pws="yes" id="w2791" p="DT" group="B-NP">a</w> <w common="true" l="letter" pws="yes" id="w2793" p="NN" headn="yes" group="I-NP">Letter</w> <w pws="yes" id="w2800" p="TO" group="B-VP">to</w> <w l="excuse" pws="yes" id="w2803" p="VB" headv="yes" group="I-VP">excuse</w> <w pws="yes" id="w2810" p="PRP$" group="B-NP">her</w> <w state="true" l="self" pws="yes" id="w2814" p="NN" headn="yes" group="I-NP">self</w> <w pws="yes" id="w2819" p="," group="O">,</w> <w pws="yes" id="w2821" p="CC" group="O">and</w> <w l="appoint" pws="yes" id="w2825" p="VBN" headv="yes" group="B-VP">appointed</w> <w pws="yes" id="w2835" p="DT" group="B-NP">another</w> <w l="time" pws="yes" id="w2843" p="NN" event="true" tmln="true" headn="yes" group="I-NP">time</w> <w pws="yes" id="w2848" p=":" group="O">;</w> <w l="mr" pws="yes" id="w2850" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w2853" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w2855" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="return" pws="yes" id="w2864" p="NN" tmln="true" headn="yes" group="I-NP">return</w> <w l="'d" pws="yes" id="w2871" p="VBD" headv="yes" group="B-VP">'d</w> <w pws="yes" id="w2874" p="DT" group="B-NP">an</w> <w common="true" l="answer" pws="yes" id="w2877" p="NN" tmln="true" headn="yes" group="I-NP">Answer</w> <w pws="yes" id="w2884" p="," group="O">,</w> <w pws="yes" id="w2886" p="IN" group="B-PP">in</w> <w pws="yes" id="w2889" p="WDT" headn="yes" group="B-NP">which</w> <w pws="yes" id="w2895" p="PRP" group="B-NP">he</w> <w l="express" pws="yes" id="w2898" p="VB" headv="yes" group="B-VP">express</w> <w l="'d" pws="yes" id="w2906" p="NNP" headn="yes" group="B-NP">'d</w> <w l="abundance" pws="yes" id="w2909" p="NN" headn="yes" group="I-NP">abundance</w> <w pws="yes" id="w2919" p="IN" group="B-PP">of</w> <w l="fervour" pws="yes" id="w2922" p="NNP" headn="yes" group="B-NP">Fervour</w> <w pws="yes" id="w2930" p="," group="O">,</w> <w pws="yes" id="w2932" p="CC" group="O">and</w> <w l="say" pws="yes" id="w2936" p="VBD" class="reporting" headv="yes" group="B-VP">said</w> <w pws="yes" id="w2941" p="," group="O">,</w> <w pws="yes" id="w2943" p="EX" headn="yes" group="B-NP">there</w> <w l="want" pws="yes" id="w2949" p="VBD" class="istate" headv="yes" group="B-VP">wanted</w> <w l="nothing" pws="yes" id="w2956" p="NN" headn="yes" group="B-NP">nothing</w> <w pws="yes" id="w2964" p="CC" group="O">but</w> <w pws="yes" id="w2968" p="DT" group="B-NP">the</w> <w common="true" l="holy" pws="yes" id="w2972" p="NNP" group="I-NP">Holy</w> <w common="true" l="father" pws="yes" id="w2977" p="NNP" wfirstn="true" group="I-NP">Father</w> <w pws="yes" id="w2984" p="TO" group="B-VP">to</w> <w l="make" pws="yes" id="w2987" p="VB" headv="yes" group="I-VP">make</w> <w pws="yes" id="w2992" p="PRP" group="B-NP">them</w> <w pws="yes" id="w2997" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w3001" p="," group="O">,</w> <w pws="yes" id="w3003" p="IN" group="B-PP">for</w> <w pws="yes" id="w3007" p="DT" headn="yes" group="B-NP">that</w> <w pws="yes" id="w3012" p="PRP$" group="B-NP">their</w> <w common="true" l="heart" pws="yes" id="w3018" p="NNS" event="true" headn="yes" group="I-NP">Hearts</w> <w l="be" pws="yes" id="w3025" p="VBD" headv="yes" group="B-VP">were</w> <w pws="yes" id="w3030" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w3034" p="RB" group="B-ADVP">already</w> <w pws="yes" id="w3042" p="." group="O">.</w> <w l="mrs." pws="yes" id="w3044" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w3049" p="NNP" group="I-NP">Villars</w> <w pws="yes" id="w3057" p="RB" group="B-ADVP">farther</w> <w l="depose" pws="yes" id="w3065" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w3073" p="," group="O">,</w> <w pws="yes" id="w3075" p="DT" group="B-NP">that</w> <w pws="yes" id="w3080" p="IN" group="B-PP">on</w> <w pws="yes" id="w3083" p="DT" group="B-NP">the</w> <w l="9th" pws="yes" id="w3087" p="NN" date="09" group="B-NP">9th</w> <w pws="yes" id="w3091" p="IN" group="I-NP">of</w> <w l="november" pws="yes" id="w3094" p="NNP" month="11" group="I-NP">November</w> <w pws="yes" id="w3103" p="," group="O">,</w> <w l="mrs." pws="yes" id="w3105" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="wadsworth" pws="yes" id="w3110" p="NNP" group="I-NP">Wadsworth</w> <w pws="yes" id="w3120" p="CC" group="O">and</w> <w pws="yes" id="w3124" p="PRP$" group="B-NP">her</w> <w state="true" l="self" pws="yes" id="w3128" p="NN" headn="yes" group="I-NP">self</w> <w pws="yes" id="w3133" p="," group="O">,</w> <w l="come" pws="yes" id="w3135" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w3140" p="TO" group="B-PP">to</w> <w l="mr" pws="yes" id="w3143" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w3146" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w3148" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" qut="s" id="w3157" p="''" group="O">'</w><w l="s" pws="no" id="w3158" p="VBZ" headv="yes" group="B-VP">s</w> <w common="true" l="lodgings" pws="yes" id="w3160" p="NNP" headn="yes" group="B-NP">Lodgings</w> <w pws="yes" id="w3169" p="," group="O">,</w> <w pws="yes" id="w3171" p="IN" group="B-SBAR">that</w> <w l="mr" pws="yes" id="w3176" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w3179" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w3181" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="be" pws="yes" id="w3190" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w3194" p="RB" neg="yes" group="I-VP">not</w> <w pws="yes" id="w3198" p="IN" group="B-PP">at</w> <w l="home" pws="yes" id="w3201" p="NN" headn="yes" group="B-NP">home</w> <w pws="yes" id="w3206" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w3211" p="PRP" group="B-NP">they</w> <w l="come" pws="yes" id="w3216" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w3221" p=":" group="O">;</w> <w pws="yes" id="w3223" p="CC" group="O">but</w> <w pws="yes" id="w3227" p="IN" group="B-PP">in</w> <w pws="yes" id="w3230" p="DT" group="B-NP">a</w> <w pws="yes" id="w3232" p="JJ" group="I-NP">little</w> <w l="time" pws="yes" id="w3239" p="NN" event="true" tmln="true" headn="yes" group="I-NP">time</w> <w pws="yes" id="w3244" p="PRP" group="B-NP">he</w> <w l="come" pws="yes" id="w3247" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w3252" p="," group="O">,</w> <w pws="yes" id="w3254" p="CC" group="O">and</w> <w l="take" pws="yes" id="w3258" p="VBD" headv="yes" group="B-VP">took</w> <w pws="yes" id="w3263" p="PRP$" group="B-NP">his</w> <w common="true" l="lady" pws="yes" id="w3267" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w pws="yes" id="w3272" p="IN" group="B-PP">into</w> <w pws="yes" id="w3277" p="PRP$" group="B-NP">his</w> <w common="true" l="arm" pws="yes" id="w3281" p="NNS" headn="yes" group="I-NP">Arms</w> <w pws="yes" id="w3286" p="," group="O">,</w> <w pws="yes" id="w3288" p="CC" group="O">and</w> <w l="say" pws="yes" id="w3292" p="VBD" class="reporting" headv="yes" group="B-VP">said</w> <w pws="yes" id="w3297" p="," group="O">,</w> <w pws="yes" id="w3299" p="PRP" group="B-NP">he</w> <w l="would" pws="yes" id="w3302" p="MD" group="B-VP">would</w> <w l="fetch" pws="yes" id="w3308" p="VB" headv="yes" group="I-VP">fetch</w> <w pws="yes" id="w3314" p="DT" group="B-NP">the</w> <w common="true" pws="yes" id="w3318" p="NN" headn="yes" prevtag="JJS" group="I-NP">Priest</w> <w pws="yes" id="w3325" p=":" group="O">;</w> <w pws="yes" id="w3327" p="DT" group="B-NP">the</w> <w common="true" l="lady" pws="yes" id="w3331" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w l="would" pws="yes" id="w3336" p="MD" group="B-VP">would</w> <w l="have" pws="yes" id="w3342" p="VB" group="I-VP">have</w> <w l="have" pws="yes" id="w3347" p="VBD" headv="yes" group="I-VP">had</w> <w pws="yes" id="w3351" p="PRP" group="B-NP">it</w> <w l="put" pws="yes" id="w3354" p="VBD" headv="yes" group="B-VP">put</w> <w pws="yes" id="w3358" p="RP" group="I-VP">off</w> <w pws="yes" id="w3362" p="IN" group="B-PP">till</w> <w pws="yes" id="w3367" p="DT" group="B-NP">another</w> <w l="time" pws="yes" id="w3375" p="NN" event="true" tmln="true" headn="yes" group="I-NP">time</w> <w pws="yes" id="w3380" p=":" group="O">;</w> <w pws="yes" id="w3382" p="CC" group="O">but</w> <w pws="yes" id="w3386" p="PRP" group="B-NP">she</w> <w l="could" pws="yes" id="w3390" p="MD" group="B-VP">could</w> <w pws="yes" id="w3396" p="RB" neg="yes" group="I-VP">not</w> <w l="persuade" pws="yes" id="w3400" p="VB" headv="yes" group="I-VP">persuade</w> <w pws="yes" id="w3409" p="PRP" group="B-NP">him</w> <w pws="yes" id="w3413" p="TO" group="B-PP">to</w> <w pws="yes" id="w3416" p="PRP" group="B-NP">it</w> <w pws="yes" id="w3419" p=":" group="O">;</w> <w pws="yes" id="w3421" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w3426" p="PRP" group="B-NP">he</w> <w pws="yes" id="w3429" p="RB" group="B-ADVP">then</w> <w l="go" pws="yes" id="w3434" p="VBD" headv="yes" group="B-VP">went</w> <w pws="yes" id="w3439" p="RB" group="B-ADVP">out</w> <w pws="yes" id="w3443" p="CC" group="O">and</w> <w l="lock" pws="yes" id="w3447" p="VB" headv="yes" group="B-VP">lock</w> <w l="'d" pws="yes" id="w3452" p="MD" group="O">'d</w> <w pws="yes" id="w3455" p="DT" group="B-NP">the</w> <w common="true" l="door" pws="yes" id="w3459" p="NNP" headn="yes" group="I-NP">Door</w> <w pws="yes" id="w3464" p="IN" group="B-PP">after</w> <w pws="yes" id="w3470" p="PRP" group="B-NP">him</w> <w pws="yes" id="w3474" p=":" group="O">;</w> <w pws="yes" id="w3476" p="IN" group="B-PP">within</w> <w pws="yes" id="w3483" p="CD" quty="3" group="B-NP">three</w> <w l="quarter" pws="yes" id="w3489" p="NNS" group="I-NP">quarters</w> <w pws="yes" id="w3498" p="IN" group="I-NP">of</w> <w pws="yes" id="w3501" p="DT" group="I-NP">an</w> <w common="true" l="hour" pws="yes" id="w3504" p="NNP" headn="yes" group="I-NP">Hour</w> <w pws="yes" id="w3509" p="PRP" group="B-NP">he</w> <w l="come" pws="yes" id="w3512" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w3517" p="RB" group="B-ADVP">again</w> <w pws="yes" id="w3523" p="," group="O">,</w> <w pws="yes" id="w3525" p="CC" group="O">and</w> <w l="bring" pws="yes" id="w3529" p="VBD" headv="yes" group="B-VP">brought</w> <w pws="yes" id="w3537" p="DT" group="B-NP">a</w> <w state="true" prof="true" common="true" l="priest" pws="yes" id="w3539" p="NN" headn="yes" group="I-NP">Priest</w> <w pws="yes" id="w3546" p="," group="O">,</w> <w l="call" pws="yes" id="w3548" p="VBD" headv="yes" group="B-VP">called</w> <w pws="yes" id="w3555" p="DT" group="B-NP">the</w> <w common="true" l="red" pws="yes" id="w3559" p="NNP" wfirstn="true" group="I-NP">Red</w> <w common="true" l="father" pws="yes" id="w3563" p="NNP" wfirstn="true" group="I-NP">Father</w> <w pws="yes" id="w3570" p="," group="O">,</w> <w pws="yes" id="w3572" p="IN" group="B-PP">with</w> <w pws="yes" id="w3577" p="DT" group="B-NP">a</w> <w pws="yes" id="w3579" p="JJ" group="I-NP">long</w> <w common="true" l="red" pws="yes" id="w3584" p="NNP" wfirstn="true" headn="yes" group="I-NP">Red</w> <w common="true" l="gown" pws="yes" id="w3588" p="NNP" headn="yes" group="I-NP">Gown</w> <w l="lin" pws="yes" id="w3593" p="NN" headn="yes" group="I-NP">lin</w> <w l="'d" pws="yes" id="w3597" p="MD" group="O">'d</w> <w pws="yes" id="w3600" p="IN" group="B-PP">with</w> <w common="true" l="blue" pws="yes" id="w3605" p="NNP" wfirstn="true" headn="yes" group="B-NP">Blue</w> <w pws="yes" id="w3610" p="," group="O">,</w> <w pws="yes" id="w3612" p="DT" group="B-NP">a</w> <w pws="yes" id="w3614" p="NN" headn="yes" prevtag="JJ" group="I-NP">long</w> <w wlastn="true" common="true" l="beard" pws="yes" id="w3619" p="NN" orgname="brand" group="B-NP">Beard</w> <w pws="yes" id="w3625" p="," group="O">,</w> <w pws="yes" id="w3627" p="CC" group="O">and</w> <w pws="yes" id="w3631" p="DT" group="B-NP">a</w> <w common="true" l="fur" pws="yes" id="w3633" p="NNP" headn="yes" group="I-NP">Fur</w> <w common="true" l="cap" pws="yes" id="w3637" p="NNP" wfirstn="true" headn="yes" group="I-NP">Cap</w> <w pws="yes" id="w3641" p="." group="O">.</w> <w l="mrs." pws="yes" id="w3643" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w3648" p="NNP" group="I-NP">Villars</w> <w pws="yes" id="w3656" p="RB" group="B-ADVP">farther</w> <w l="depose" pws="yes" id="w3664" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w3672" p="," group="O">,</w> <w pws="yes" id="w3674" p="IN" group="B-SBAR">that</w> <w l="mr" pws="yes" id="w3679" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w3682" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w3684" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="say" pws="yes" id="w3693" p="VBD" class="reporting" headv="yes" group="B-VP">said</w> <w pws="yes" id="w3698" p="," group="O">,</w> <w pws="yes" id="w3700" p="DT" group="B-NP">This</w> <w l="be" pws="yes" id="w3705" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w3708" p="DT" group="B-NP">the</w> <w common="true" l="holy" pws="yes" id="w3712" p="NNP" group="I-NP">Holy</w> <w common="true" l="father" pws="yes" id="w3717" p="NNP" wfirstn="true" group="I-NP">Father</w> <w pws="yes" id="w3724" p="WDT" group="B-NP">that</w> <w l="be" pws="yes" id="w3729" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w3732" p="TO" group="B-VP">to</w> <w l="make" pws="yes" id="w3735" p="VB" headv="yes" group="I-VP">make</w> <w pws="yes" id="w3740" p="PRP" group="B-NP">us</w> <w pws="yes" id="w3743" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w3747" p="," group="O">,</w> <w pws="yes" id="w3749" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w3754" p="RB" group="B-ADVP">then</w> <w pws="yes" id="w3759" p="PRP$" group="B-NP">his</w> <w l="man" pws="yes" id="w3763" p="NN" wfirstn="true" headn="yes" group="I-NP">Man</w> <w l="bowcher" pws="yes" id="w3767" p="NN" headn="yes" group="I-NP">Bowcher</w> <w l="be" pws="yes" id="w3775" p="VBD" group="B-VP">was</w> <w l="order" pws="yes" id="w3779" p="VBN" headv="yes" group="I-VP">ordered</w> <w pws="yes" id="w3787" p="TO" group="B-VP">to</w> <w l="bring" pws="yes" id="w3790" p="VB" headv="yes" group="I-VP">bring</w> <w pws="yes" id="w3796" p="IN" group="B-PP">in</w> <w pws="yes" id="w3799" p="DT" group="B-NP">the</w> <w common="true" l="supper" pws="yes" id="w3803" p="NNP" headn="yes" group="I-NP">Supper</w> <w pws="yes" id="w3810" p="," group="O">,</w> <w pws="yes" id="w3812" p="WDT" headn="yes" group="B-NP">which</w> <w l="be" pws="yes" id="w3818" p="VBD" group="B-VP">was</w> <w l="do" pws="yes" id="w3822" p="VBN" headv="yes" group="I-VP">done</w> <w pws="yes" id="w3827" p="RB" group="B-ADVP">accordingly</w> <w pws="yes" id="w3839" p="." group="O">.</w> <w l="mrs." pws="yes" id="w3841" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w3846" p="NNP" group="I-NP">Villars</w> <w pws="yes" id="w3854" p="RB" group="B-ADVP">farther</w> <w l="depose" pws="yes" id="w3862" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w3870" p="," group="O">,</w> <w l="thatmr" pws="yes" id="w3872" p="NNP" headn="yes" group="B-NP">thatMrs</w> <w pws="yes" id="w3880" p="." group="O">.</w> <w l="wodsworth" pws="yes" id="w3882" p="NNP" headn="yes" group="B-NP">Wodsworth</w> <w l="question" pws="yes" id="w3892" p="VBD" headv="yes" group="B-VP">questioned</w> <w pws="yes" id="w3903" p="DT" group="B-NP">the</w> <w state="true" common="true" l="priest" pws="yes" id="w3907" p="NNP" headn="yes" group="I-NP">Priest</w> <w pws="yes" id="w3914" p="," group="O">,</w> <w pws="yes" id="w3916" p="CC" group="O">and</w> <w l="say" pws="yes" id="w3920" p="VBD" class="reporting" headv="yes" group="B-VP">said</w> <w pws="yes" id="w3925" p="," group="O">,</w> <w pws="yes" id="w3927" p="WRB" group="B-ADVP">how</w> <w l="shall" pws="yes" id="w3931" p="MD" headv="yes" group="B-VP">shall</w> <w pws="yes" id="w3937" p="PRP" group="B-NP">I</w> <w l="know" pws="yes" id="w3939" p="VBP" class="istate" headv="yes" group="B-VP">know</w> <w pws="yes" id="w3944" p="PRP" group="B-NP">you</w> <w l="be" pws="yes" id="w3948" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w3952" p="DT" group="B-NP">a</w> <w state="true" prof="true" common="true" l="priest" pws="yes" id="w3954" p="NN" headn="yes" group="I-NP">Priest</w> <w pws="yes" id="w3961" p="IN" group="B-PP">in</w> <w l="order" pws="yes" id="w3964" p="NNS" tmln="true" headn="yes" group="B-NP">Orders</w> <w pws="yes" id="w3971" p=":" group="O">;</w> <w pws="yes" id="w3973" p="DT" group="B-NP">the</w> <w common="true" pws="yes" id="w3977" p="NN" headn="yes" prevtag="JJS" group="I-NP">Priest</w> <w l="put" pws="yes" id="w3984" p="VBD" headv="yes" group="B-VP">put</w> <w pws="yes" id="w3988" p="PRP$" group="B-NP">his</w> <w common="true" l="hand" pws="yes" id="w3992" p="NN" tmln="true" headn="yes" group="I-NP">Hand</w> <w pws="yes" id="w3997" p="IN" group="B-PP">into</w> <w pws="yes" id="w4002" p="PRP$" group="B-NP">his</w> <w common="true" l="pocket" pws="yes" id="w4006" p="NN" headn="yes" group="I-NP">Pocket</w> <w pws="yes" id="w4013" p="CC" group="O">and</w> <w l="pull" pws="yes" id="w4017" p="VB" headv="yes" group="B-VP">pull</w> <w l="'d" pws="yes" id="w4022" p="MD" group="O">'d</w> <w pws="yes" id="w4025" p="RP" group="O">out</w> <w pws="yes" id="w4029" p="DT" group="B-NP">a</w> <w common="true" l="paper" pws="yes" id="w4031" p="NN" group="I-NP">Paper</w> <w pws="yes" id="w4037" p="IN" group="I-NP">of</w> <w pws="yes" id="w4040" p="DT" group="I-NP">the</w> <w wlastn="true" common="true" l="pope" pws="yes" id="w4044" p="NNP" wfirstn="true" group="I-NP">Pope</w> <w pws="yes" qut="s" id="w4049" p="POS" group="I-NP">'</w><w l="s" pws="no" id="w4050" p="VBZ" headv="yes" group="B-VP">s</w> <w common="true" l="picture" pws="yes" id="w4052" p="NNP" headn="yes" group="B-NP">Picture</w> <w pws="yes" id="w4060" p="," group="O">,</w> <w pws="yes" id="w4062" p="IN" group="B-PP">about</w> <w pws="yes" id="w4068" p="DT" group="B-NP">the</w> <w l="bigness" pws="yes" id="w4072" p="NN" headn="yes" group="I-NP">bigness</w> <w pws="yes" id="w4080" p="IN" group="B-PP">of</w> <w pws="yes" id="w4083" p="DT" group="B-NP">a</w> <w common="true" l="crown" pws="yes" id="w4085" p="NNP" orgname="brand" group="I-NP">Crown</w> <w common="true" l="piece" pws="yes" id="w4091" p="NNP" headn="yes" group="I-NP">Piece</w> <w pws="yes" id="w4097" p="," group="O">,</w> <w pws="yes" id="w4099" p="CC" group="O">and</w> <w l="say" pws="yes" id="w4103" p="VBD" class="reporting" headv="yes" group="B-VP">said</w> <w pws="yes" id="w4108" p="," group="O">,</w> <w pws="yes" id="w4110" p="IN" group="B-SBAR">that</w> <w l="none" pws="yes" id="w4115" p="NN" headn="yes" group="B-NP">none</w> <w pws="yes" id="w4120" p="CC" group="O">but</w> <w l="priest" pws="yes" id="w4124" p="VBZ" headv="yes" group="B-VP">Priests</w> <w pws="yes" id="w4132" p="PRP" group="B-NP">us</w> <w l="'d" pws="yes" id="w4135" p="MD" group="B-VP">'d</w> <w pws="yes" id="w4138" p="TO" group="I-VP">to</w> <w l="carry" pws="yes" id="w4141" p="VB" headv="yes" group="I-VP">carry</w> <w pws="yes" id="w4147" p="DT" group="B-NP">those</w> <w common="true" l="picture" pws="yes" id="w4153" p="NNS" headn="yes" group="I-NP">Pictures</w> <w pws="yes" id="w4162" p="IN" group="B-PP">about</w> <w pws="yes" qut="s" id="w4168" p="POS" group="O">'</w><w l="em" pws="no" id="w4169" p="NN" headn="yes" group="B-NP">em</w> <w pws="yes" id="w4172" p="." group="O">.</w> <w pws="yes" id="w4174" p="PRP" group="B-NP">She</w> <w l="desire" pws="yes" id="w4178" p="VBD" headv="yes" group="B-VP">desired</w> <w pws="yes" id="w4186" p="DT" group="B-NP">some</w> <w pws="yes" id="w4191" p="JJ" group="I-NP">other</w> <w common="true" l="token" pws="yes" id="w4197" p="NNP" headn="yes" group="I-NP">Token</w> <w pws="yes" id="w4203" p="," group="O">,</w> <w pws="yes" id="w4205" p="IN" group="B-PP">at</w> <w pws="yes" id="w4208" p="WDT" headn="yes" group="B-NP">which</w> <w pws="yes" id="w4214" p="PRP" group="B-NP">he</w> <w l="shew" pws="yes" id="w4217" p="VBD" headv="yes" group="B-VP">shew</w> <w l="'d" pws="yes" id="w4222" p="NNP" headn="yes" group="B-NP">'d</w> <w pws="yes" id="w4225" p="PRP$" group="O">her</w> <w pws="yes" id="w4229" p="DT" group="B-NP">a</w> <w common="true" l="scarf" pws="yes" id="w4231" p="NNP" headn="yes" group="I-NP">Scarf</w> <w pws="yes" id="w4237" p=":" group="O">;</w> <w l="bowcher" pws="yes" id="w4239" p="NNP" headn="yes" group="B-NP">Bowcher</w> <w l="be" pws="yes" id="w4247" p="VBD" group="B-VP">was</w> <w l="send" pws="yes" id="w4251" p="VBN" headv="yes" group="I-VP">sent</w> <w pws="yes" id="w4256" p="IN" group="B-PP">for</w> <w common="true" l="water" pws="yes" id="w4260" p="NNP" headn="yes" group="B-NP">Water</w> <w pws="yes" id="w4266" p="," headn="yes" group="I-NP">,</w> <w common="true" l="salt" pws="yes" id="w4268" p="NNP" headn="yes" group="I-NP">Salt</w> <w pws="yes" id="w4273" p="," headn="yes" group="I-NP">,</w> <w pws="yes" id="w4275" p="CC" headn="yes" group="I-NP">and</w> <w common="true" l="rosemary" pws="yes" id="w4279" p="NNP" pername="true" wfirstn="true" headn="yes" group="I-NP">Rosemary</w> <w pws="yes" id="w4288" p="," group="O">,</w> <w pws="yes" id="w4290" p="TO" group="B-VP">to</w> <w l="make" pws="yes" id="w4293" p="VB" headv="yes" group="I-VP">make</w> <w common="true" l="holy" pws="yes" id="w4298" p="NNP" headn="yes" group="B-NP">Holy</w> <w common="true" l="water" pws="yes" id="w4303" p="NNP" headn="yes" group="I-NP">Water</w> <w pws="yes" id="w4309" p=":" group="O">;</w> <w pws="yes" id="w4311" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w4316" p="PRP" group="B-NP">he</w> <w l="bring" pws="yes" id="w4319" p="VBD" headv="yes" group="B-VP">brought</w> <w pws="yes" id="w4327" p="RP" group="I-VP">up</w> <w pws="yes" id="w4330" p="DT" group="B-NP">the</w> <w common="true" l="water" pws="yes" id="w4334" p="NNP" headn="yes" group="I-NP">Water</w> <w pws="yes" id="w4340" p="CC" headn="yes" group="I-NP">and</w> <w common="true" l="salt" pws="yes" id="w4344" p="NNP" headn="yes" group="I-NP">Salt</w> <w pws="yes" id="w4349" p="," group="O">,</w> <w pws="yes" id="w4351" p="CC" group="O">but</w> <w l="could" pws="yes" id="w4355" p="MD" group="B-VP">could</w> <w l="procure" pws="yes" id="w4361" p="VB" headv="yes" group="I-VP">procure</w> <w pws="yes" id="w4369" p="DT" group="B-NP">no</w> <w common="true" l="rosemary" pws="yes" id="w4372" p="NN" pername="true" wfirstn="true" headn="yes" group="I-NP">Rosemary</w> <w pws="yes" id="w4381" p=":" group="O">:</w> <w l="bowcher" pws="yes" id="w4383" p="NNP" headn="yes" group="B-NP">Bowcher</w> <w l="be" pws="yes" id="w4391" p="VBG" group="B-VP">being</w> <w l="send" pws="yes" id="w4397" p="VBN" headv="yes" group="I-VP">sent</w> <w pws="yes" id="w4402" p="RB" group="B-ADVP">away</w> <w pws="yes" id="w4407" p="," group="O">,</w> <w pws="yes" id="w4409" p="DT" group="B-NP">the</w> <w state="true" common="true" vstem="marry" l="marriage" pws="yes" id="w4413" p="NNP" headn="yes" group="I-NP">Marriage</w> <w l="be" pws="yes" id="w4422" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w4426" p="JJ" group="B-NP">solemniz</w> <w l="'d" pws="yes" id="w4435" p="NNP" headn="yes" group="I-NP">'d</w> <w pws="yes" id="w4438" p="IN" group="B-PP">in</w> <w l="mr" pws="yes" id="w4441" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w4444" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w4446" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" qut="s" id="w4455" p="''" group="O">'</w><w l="s" pws="no" id="w4456" p="VBZ" headv="yes" group="B-VP">s</w> <w common="true" l="bed" pws="yes" id="w4458" p="NNP" headn="yes" group="B-NP">Bed</w> <w common="true" l="chamber" pws="yes" id="w4462" p="NNP" headn="yes" group="I-NP">Chamber</w> <w pws="yes" id="w4470" p="," group="O">,</w> <w pws="yes" id="w4472" p="EX" headn="yes" group="B-NP">there</w> <w l="be" pws="yes" id="w4478" p="VBG" headv="yes" group="B-VP">being</w> <w l="none" pws="yes" id="w4484" p="NN" headn="yes" group="B-NP">none</w> <w pws="yes" id="w4489" p="JJ" group="B-ADJP">present</w> <w pws="yes" id="w4497" p="CC" group="O">but</w> <w pws="yes" id="w4501" p="DT" group="B-NP">the</w> <w common="true" l="bride" pws="yes" id="w4505" p="NNP" group="I-NP">Bride</w> <w pws="yes" id="w4511" p="CC" group="O">and</w> <w common="true" l="bridegroom" pws="yes" id="w4515" p="NNP" group="B-NP">Bridegroom</w> <w pws="yes" id="w4526" p="," group="O">,</w> <w pws="yes" id="w4528" p="DT" group="B-NP">the</w> <w common="true" pws="yes" id="w4532" p="NN" headn="yes" prevtag="JJS" group="I-NP">Priest</w> <w pws="yes" id="w4539" p="CC" group="O">and</w> <w pws="yes" id="w4543" p="PRP$" group="B-NP">her</w> <w state="true" common="true" l="self" pws="yes" id="w4547" p="NN" headn="yes" group="I-NP">Self</w> <w pws="yes" id="w4552" p=":" group="O">;</w> <w pws="yes" id="w4554" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w4559" p="PRP" group="B-NP">she</w> <w l="remembr" pws="yes" id="w4563" p="VBD" headv="yes" group="B-VP">remembred</w> <w pws="yes" id="w4573" p="," group="O">,</w> <w pws="yes" id="w4575" p="DT" group="B-NP">the</w> <w common="true" l="ceremony" pws="yes" id="w4579" p="NN" event="true" group="I-NP">Ceremony</w> <w pws="yes" id="w4588" p="IN" group="I-NP">of</w> <w pws="yes" id="w4591" p="DT" group="I-NP">the</w> <w common="true" l="ring" pws="yes" id="w4595" p="NN" group="I-NP">Ring</w> <w pws="yes" id="w4600" p="," group="O">,</w> <w pws="yes" id="w4602" p="DT" group="B-NP">the</w> <w common="true" pws="yes" id="w4606" p="JJS" group="I-NP">Priest</w> <w vstem="bless" l="blessing" pws="yes" id="w4613" p="NN" event="true" tmln="true" headn="yes" group="I-NP">blessing</w> <w pws="yes" id="w4622" p="PRP" group="B-NP">it</w> <w pws="yes" id="w4625" p="," group="O">,</w> <w pws="yes" id="w4627" p="CC" group="O">and</w> <w l="cross" pws="yes" id="w4631" p="VBG" headv="yes" group="B-VP">crossing</w> <w pws="yes" id="w4640" p="PRP" group="B-NP">himself</w> <w pws="yes" id="w4648" p="," group="O">,</w> <w pws="yes" id="w4650" p="CC" group="O">and</w> <w pws="yes" id="w4654" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w4659" p="DT" group="B-NP">the</w> <w common="true" l="sacrament" pws="yes" id="w4663" p="NN" event="true" group="I-NP">Sacrament</w> <w pws="yes" id="w4673" p="IN" group="I-NP">of</w> <w state="true" common="true" vstem="marry" l="marriage" pws="yes" id="w4676" p="NNP" group="I-NP">Marriage</w> <w l="be" pws="yes" id="w4685" p="VBD" group="B-VP">was</w> <w l="read" pws="yes" id="w4689" p="VBN" headv="yes" group="I-VP">read</w> <w pws="yes" id="w4694" p="IN" group="B-PP">in</w> <w l="latin" pws="yes" id="w4697" p="NNP" headn="yes" group="B-NP">Latin</w> <w pws="yes" id="w4703" p="." group="O">.</w> <w pws="yes" id="w4705" p="PRP" group="B-NP">She</w> <w pws="yes" id="w4709" p="RB" group="B-ADVP">farther</w> <w l="depose" pws="yes" id="w4717" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w4725" p="," group="O">,</w> <w pws="yes" id="w4727" p="IN" group="B-SBAR">that</w> <w l="mrs." pws="yes" id="w4732" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="wadsworth" pws="yes" id="w4737" p="NNP" group="I-NP">Wadsworth</w> <w pws="yes" id="w4747" p="," group="O">,</w> <w pws="yes" id="w4749" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w4754" p="PRP" group="B-NP">they</w> <w l="come" pws="yes" id="w4759" p="VBD" headv="yes" group="B-VP">came</w> <w pws="yes" id="w4764" p="TO" group="B-PP">to</w> <w pws="yes" id="w4767" p="DT" group="B-NP">this</w> <w l="part" pws="yes" id="w4772" p="NN" tmln="true" headn="yes" group="I-NP">part</w> <w pws="yes" id="w4777" p="," group="O">,</w> <w state="true" common="true" l="wilt" pws="yes" id="w4779" p="NNP" headn="yes" group="B-NP">Wilt</w> <w l="thou" pws="yes" id="w4784" p="NNP" headn="yes" group="I-NP">thou</w> <w l="take" pws="yes" id="w4789" p="VB" headv="yes" group="B-VP">take</w> <w pws="yes" id="w4794" p="DT" group="B-NP">this</w> <w common="true" l="woman" pws="yes" id="w4799" p="NNP" headn="yes" group="I-NP">Woman</w> <w pws="yes" id="w4805" p="TO" group="B-VP">to</w> <w l="be" pws="yes" id="w4808" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w4811" p="JJ" group="B-NP">thy</w> <w common="true" vstem="wed" l="wedded" pws="yes" id="w4815" p="JJ" group="I-NP">Wedded</w> <w common="true" l="wife" pws="yes" id="w4822" p="NNP" headn="yes" group="I-NP">Wife</w> <w pws="yes" id="w4827" p="," group="O">,</w> <w l="desire" pws="yes" id="w4829" p="VBD" headv="yes" group="B-VP">desired</w> <w pws="yes" id="w4837" p="PRP" group="B-NP">it</w> <w l="might" pws="yes" id="w4840" p="MD" group="B-VP">might</w> <w l="be" pws="yes" id="w4846" p="VB" group="I-VP">be</w> <w l="read" pws="yes" id="w4849" p="VBN" headv="yes" group="I-VP">read</w> <w pws="yes" id="w4854" p="IN" group="B-PP">in</w> <w wlastn="true" l="english" pws="yes" id="w4857" p="NNP" locadj="true" headn="yes" group="B-NP">English</w> <w pws="yes" id="w4865" p="," group="O">,</w> <w pws="yes" id="w4867" p="IN" group="B-PP">at</w> <w pws="yes" id="w4870" p="WDT" headn="yes" group="B-NP">which</w> <w l="mr" pws="yes" id="w4876" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w4879" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w4881" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="cause" pws="yes" id="w4890" p="VBD" headv="yes" group="B-VP">caused</w> <w pws="yes" id="w4897" p="PRP" group="B-NP">him</w> <w pws="yes" id="w4901" p="RB" group="B-ADVP">not</w> <w pws="yes" id="w4905" p="TO" group="B-VP">to</w> <w l="proceed" pws="yes" id="w4908" p="VB" headv="yes" group="I-VP">proceed</w> <w pws="yes" id="w4916" p=":" group="O">;</w> <w pws="yes" id="w4918" p="CC" group="O">but</w> <w pws="yes" id="w4922" p="DT" group="B-NP">the</w> <w common="true" pws="yes" id="w4926" p="NN" headn="yes" prevtag="JJS" group="I-NP">Priest</w> <w pws="yes" id="w4933" p="RB" group="B-ADVP">not</w> <w l="understand" pws="yes" id="w4937" p="VBG" headv="yes" group="B-VP">understanding</w> <w wlastn="true" l="english" pws="yes" id="w4951" p="NNP" locadj="true" headn="yes" group="B-NP">English</w> <w pws="yes" id="w4959" p="," group="O">,</w> <w l="mr" pws="yes" id="w4961" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w4964" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w4966" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="supply" pws="yes" id="w4975" p="VBD" headv="yes" group="B-VP">supplied</w> <w pws="yes" id="w4984" p="IN" group="B-SBAR">that</w> <w state="true" common="true" l="defect" pws="yes" id="w4989" p="NNP" headn="yes" group="B-NP">Defect</w> <w pws="yes" id="w4996" p="," group="O">,</w> <w pws="yes" id="w4998" p="CC" group="O">and</w> <w l="say" pws="yes" id="w5002" p="VBD" class="reporting" headv="yes" group="B-VP">said</w> <w pws="yes" id="w5007" p="DT" group="B-NP">the</w> <w pws="yes" id="w5011" p="JJ" group="I-NP">same</w> <w common="true" l="word" pws="yes" id="w5016" p="NNS" headn="yes" group="I-NP">Words</w> <w pws="yes" id="w5022" p="," group="O">,</w> <w pws="yes" id="w5024" p="IN" group="B-PP">with</w> <w pws="yes" id="w5029" p="DT" group="B-NP">this</w> <w common="true" vstem="add" l="addition" pws="yes" id="w5034" p="NN" tmln="true" headn="yes" group="I-NP">Addition</w> <w pws="yes" id="w5043" p=":" group="O">;</w> <w pws="yes" id="w5045" p="IN" group="B-PP">With</w> <w pws="yes" id="w5050" p="DT" headn="yes" group="B-NP">all</w> <w pws="yes" id="w5054" p="PRP$" group="I-NP">my</w> <w common="true" l="heart" pws="yes" id="w5057" p="NNP" headn="yes" group="I-NP">Heart</w> <w pws="yes" id="w5063" p="," group="O">,</w> <w pws="yes" id="w5065" p="CC" group="O">and</w> <w pws="yes" id="w5069" p="IN" group="B-PP">with</w> <w pws="yes" id="w5074" p="DT" headn="yes" group="B-NP">all</w> <w pws="yes" id="w5078" p="PRP$" group="I-NP">my</w> <w common="true" l="soul" pws="yes" id="w5081" p="NNP" headn="yes" group="I-NP">Soul</w> <w pws="yes" id="w5086" p="," group="O">,</w> <w pws="yes" id="w5088" p="CC" group="O">and</w> <w l="require" pws="yes" id="w5092" p="VBD" class="istate" headv="yes" group="B-VP">required</w> <w l="mrs." pws="yes" id="w5101" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="wadsworth" pws="yes" id="w5106" p="NNP" group="I-NP">Wadsworth</w> <w pws="yes" id="w5116" p="TO" group="B-VP">to</w> <w l="do" pws="yes" id="w5119" p="VB" headv="yes" group="I-VP">do</w> <w pws="yes" id="w5122" p="DT" group="B-NP">the</w> <w pws="yes" id="w5126" p="NN" headn="yes" prevtag="JJ" group="I-NP">same</w> <w pws="yes" id="w5131" p=":" group="O">;</w> <w pws="yes" id="w5133" p="CC" group="O">but</w> <w pws="yes" id="w5137" p="PRP" group="B-NP">she</w> <w l="speak" pws="yes" id="w5141" p="VBG" headv="yes" group="B-VP">speaking</w> <w pws="yes" id="w5150" p="PRP" group="B-NP">it</w> <w pws="yes" id="w5153" p="RB" group="B-ADVP">faintly</w> <w pws="yes" id="w5161" p=":" group="O">:</w> <w pws="yes" id="w5163" p="PRP" group="B-NP">he</w> <w l="desire" pws="yes" id="w5166" p="VBD" headv="yes" group="B-VP">desired</w> <w pws="yes" id="w5174" p="PRP" group="B-NP">her</w> <w pws="yes" id="w5178" p="TO" group="B-VP">to</w> <w l="speak" pws="yes" id="w5181" p="VB" headv="yes" group="I-VP">speak</w> <w pws="yes" id="w5187" p="PRP" group="B-NP">it</w> <w pws="yes" id="w5190" p="RB" group="B-ADVP">as</w> <w pws="yes" id="w5193" p="RB" group="I-ADVP">heartily</w> <w pws="yes" id="w5202" p="IN" group="B-PP">as</w> <w pws="yes" id="w5205" p="PRP" group="B-NP">he</w> <w pws="yes" id="w5208" p="PRP" group="B-NP">himself</w> <w l="do" pws="yes" id="w5216" p="VBD" headv="yes" group="B-VP">did</w> <w pws="yes" id="w5220" p="." group="O">.</w> <w pws="yes" id="w5222" p="RB" group="B-ADVP">Then</w> <w pws="yes" id="w5227" p="PRP" group="B-NP">she</w> <w l="utter" pws="yes" id="w5231" p="VBD" headv="yes" group="B-VP">uttered</w> <w pws="yes" id="w5239" p="DT" group="B-NP">these</w> <w common="true" l="word" pws="yes" id="w5245" p="NNS" headn="yes" group="I-NP">Words</w> <w pws="yes" id="w5251" p=":" group="O">;</w> <w pws="yes" id="w5253" p="PRP" group="B-NP">I</w> <w l="take" pws="yes" id="w5255" p="VBP" headv="yes" group="B-VP">take</w> <w pws="yes" id="w5260" p="DT" group="B-NP">this</w> <w l="man" pws="yes" id="w5265" p="NN" wfirstn="true" headn="yes" group="I-NP">Man</w> <w pws="yes" id="w5269" p="TO" group="B-VP">to</w> <w l="be" pws="yes" id="w5272" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w5275" p="PRP$" group="O">my</w> <w l="wed" pws="yes" id="w5278" p="VBN" headv="yes" group="B-NP">Wedded</w> <w common="true" l="husband" pws="yes" id="w5285" p="NNP" headn="yes" group="I-NP">Husband</w> <w pws="yes" id="w5293" p="," group="O">,</w> <w pws="yes" id="w5295" p="IN" group="B-PP">with</w> <w pws="yes" id="w5300" p="DT" headn="yes" group="B-NP">all</w> <w pws="yes" id="w5304" p="PRP$" group="I-NP">my</w> <w common="true" l="heart" pws="yes" id="w5307" p="NNP" headn="yes" group="I-NP">Heart</w> <w pws="yes" id="w5313" p="," group="O">,</w> <w pws="yes" id="w5315" p="CC" group="O">and</w> <w pws="yes" id="w5319" p="IN" group="B-PP">with</w> <w pws="yes" id="w5324" p="DT" headn="yes" group="B-NP">all</w> <w pws="yes" id="w5328" p="PRP$" group="I-NP">my</w> <w common="true" l="soul" pws="yes" id="w5331" p="NNP" headn="yes" group="I-NP">Soul</w> <w pws="yes" id="w5336" p="." group="O">.</w> <w pws="yes" id="w5338" p="PRP" group="B-NP">She</w> <w pws="yes" id="w5342" p="RB" group="B-ADVP">farther</w> <w l="depose" pws="yes" id="w5350" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w5358" p="," group="O">,</w> <w pws="yes" id="w5360" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w5365" p="DT" group="B-NP">the</w> <w state="true" common="true" vstem="marry" l="marriage" pws="yes" id="w5369" p="NN" headn="yes" group="I-NP">Marriage</w> <w l="be" pws="yes" id="w5378" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w5382" p="RB" group="B-ADVP">over</w> <w pws="yes" id="w5387" p="," group="O">,</w> <w pws="yes" id="w5389" p="DT" group="B-NP">the</w> <w state="true" common="true" l="priest" pws="yes" id="w5393" p="NNP" headn="yes" group="I-NP">Priest</w> <w l="be" pws="yes" id="w5400" p="VBD" group="B-VP">was</w> <w l="discharge" pws="yes" id="w5404" p="VBN" headv="yes" group="I-VP">discharged</w> <w pws="yes" id="w5415" p="," group="O">,</w> <w pws="yes" id="w5417" p="CC" group="O">and</w> <w pws="yes" id="w5421" p="PRP" group="B-NP">she</w> <w l="put" pws="yes" id="w5425" p="VBD" headv="yes" group="B-VP">put</w> <w pws="yes" id="w5429" p="DT" group="B-NP">the</w> <w common="true" l="lady" pws="yes" id="w5433" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w pws="yes" id="w5438" p="TO" group="B-PP">to</w> <w common="true" l="bed" pws="yes" id="w5441" p="NNP" headn="yes" group="B-NP">Bed</w> <w pws="yes" id="w5445" p="." group="O">.</w> <w pws="yes" id="w5447" p="DT" group="B-NP">This</w> <w common="true" l="evidence" pws="yes" id="w5452" p="NN" orgname="brand" tmln="true" group="I-NP">Evidence</w> <w pws="yes" id="w5461" p="RB" group="B-ADJP">farther</w> <w l="depose" pws="yes" id="w5469" p="VBN" group="I-ADJP">deposed</w> <w pws="yes" id="w5477" p="," group="O">,</w> <w pws="yes" id="w5479" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w5484" p="PRP" group="B-NP">she</w> <w l="see" pws="yes" id="w5488" p="VBD" class="istate" headv="yes" group="B-VP">saw</w> <w pws="yes" id="w5492" p="PRP" group="B-NP">them</w> <w pws="yes" id="w5497" p="IN" group="B-PP">in</w> <w vstem="nake" l="naked" pws="yes" id="w5500" p="JJ" group="B-ADJP">naked</w> <w l="bed" pws="yes" id="w5506" p="VBN" headv="yes" group="B-VP">Bed</w> <w pws="yes" id="w5510" p="RB" group="B-ADVP">together</w> <w pws="yes" id="w5519" p="DT" group="B-NP">the</w> <w pws="yes" id="w5523" p="JJ" trel="after" quty="1" group="B-NP">next</w> <w vstem="morn" l="morning" pws="yes" id="w5528" p="NN" group="I-NP">Morning</w> <w pws="yes" id="w5536" p=":" group="O">;</w> <w pws="yes" id="w5538" p="CC" group="O">and</w> <w l="have" pws="yes" id="w5542" p="VBD" group="B-VP">had</w> <w l="see" pws="yes" id="w5546" p="VBN" class="istate" headv="yes" group="I-VP">seen</w> <w pws="yes" id="w5551" p="PRP" group="B-NP">them</w> <w l="dress" pws="yes" id="w5556" p="VB" headv="yes" group="B-VP">dress</w> <w l="'d" pws="yes" id="w5562" p="NNP" headn="yes" group="B-NP">'d</w> <w pws="yes" id="w5565" p="CC" headn="yes" group="I-NP">and</w> <w l="undress" pws="yes" id="w5569" p="NNP" headn="yes" group="I-NP">undress</w> <w l="'d" pws="yes" id="w5577" p="NNP" headn="yes" group="I-NP">'d</w> <w pws="yes" id="w5580" p="CD" quty="4" group="B-NP">4</w> <w l="time" pws="yes" id="w5582" p="NNS" event="true" tmln="true" headn="yes" group="I-NP">times</w> <w pws="yes" id="w5588" p="IN" group="B-PP">in</w> <w pws="yes" id="w5591" p="DT" group="B-NP">the</w> <w l="space" pws="yes" id="w5595" p="NN" headn="yes" group="I-NP">space</w> <w pws="yes" id="w5601" p="IN" group="B-PP">of</w> <w pws="yes" id="w5604" p="CD" quty="7" group="B-NP">seven</w> <w l="week" pws="yes" id="w5610" p="NNS" unit="week" group="I-NP">Weeks</w> <w pws="yes" id="w5616" p="." group="O">.</w> <w pws="yes" id="w5618" p="TO" group="B-VP">To</w> <w l="strengthen" pws="yes" id="w5621" p="VB" headv="yes" group="I-VP">strengthen</w> <w l="mrs." pws="yes" id="w5632" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w5637" p="NNP" group="I-NP">Villar</w> <w pws="yes" qut="s" id="w5644" p="POS" group="I-NP">'</w><w l="s" pws="no" id="w5645" p="VBZ" headv="yes" group="B-VP">s</w> <w common="true" l="evidence" pws="yes" id="w5647" p="NN" orgname="brand" tmln="true" group="B-NP">Evidence</w> <w pws="yes" id="w5656" p="," group="O">,</w> <w l="bowcher" pws="yes" id="w5658" p="NNP" headn="yes" group="B-NP">Bowcher</w> <w l="be" pws="yes" id="w5666" p="VBD" group="B-VP">was</w> <w l="call" pws="yes" id="w5670" p="VBN" headv="yes" group="I-VP">called</w> <w pws="yes" id="w5677" p="," group="O">,</w> <w pws="yes" id="w5679" p="WP" headn="yes" group="B-NP">who</w> <w l="depose" pws="yes" id="w5683" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w5691" p="," group="O">,</w> <w pws="yes" id="w5693" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w5698" p="PRP" group="B-NP">he</w> <w l="see" pws="yes" id="w5701" p="VBD" class="istate" headv="yes" group="B-VP">saw</w> <w pws="yes" id="w5705" p="DT" group="B-NP">the</w> <w state="true" common="true" l="priest" pws="yes" id="w5709" p="NNP" headn="yes" group="I-NP">Priest</w> <w pws="yes" id="w5716" p="," group="O">,</w> <w pws="yes" id="w5718" p="CC" group="O">and</w> <w l="bring" pws="yes" id="w5722" p="VBD" headv="yes" group="B-VP">brought</w> <w pws="yes" id="w5730" p="DT" group="B-NP">the</w> <w common="true" l="salt" pws="yes" id="w5734" p="NNP" headn="yes" group="I-NP">Salt</w> <w pws="yes" id="w5739" p="CC" headn="yes" group="I-NP">and</w> <w common="true" l="water" pws="yes" id="w5743" p="NNP" headn="yes" group="I-NP">Water</w> <w pws="yes" id="w5749" p="," group="O">,</w> <w pws="yes" id="w5751" p="CC" group="O">and</w> <w pws="yes" id="w5755" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w5760" p="PRP" group="B-NP">he</w> <w l="see" pws="yes" id="w5763" p="VBD" class="istate" headv="yes" group="B-VP">saw</w> <w pws="yes" id="w5767" p="PRP" group="B-NP">them</w> <w pws="yes" id="w5772" p="IN" group="B-PP">in</w> <w l="bed" pws="yes" id="w5775" p="VBN" headv="yes" group="B-VP">Bed</w> <w pws="yes" id="w5779" p="RB" group="B-ADVP">together</w> <w pws="yes" id="w5788" p="IN" group="B-PP">after</w> <w pws="yes" id="w5794" p="DT" group="B-NP">this</w> <w pws="yes" id="w5799" p="," group="O">,</w> <w l="diver" pws="yes" id="w5801" p="NNS" headn="yes" group="B-NP">divers</w> <w l="time" pws="yes" id="w5808" p="NNS" event="true" tmln="true" headn="yes" group="I-NP">times</w> <w pws="yes" id="w5814" p="," group="O">,</w> <w pws="yes" id="w5816" p="CC" group="O">and</w> <w l="take" pws="yes" id="w5820" p="VBD" headv="yes" group="B-VP">took</w> <w pws="yes" id="w5825" p="PRP" group="B-NP">them</w> <w pws="yes" id="w5830" p="TO" group="B-VP">to</w> <w l="be" pws="yes" id="w5833" p="VB" headv="yes" group="I-VP">be</w> <w l="man" pws="yes" id="w5836" p="NN" wfirstn="true" headn="yes" group="B-NP">Man</w> <w pws="yes" id="w5840" p="CC" headn="yes" group="I-NP">and</w> <w common="true" l="wife" pws="yes" id="w5844" p="NNP" headn="yes" group="I-NP">Wife</w> <w pws="yes" id="w5849" p="." group="O">.</w> <w pws="yes" id="w5851" p="EX" headn="yes" group="B-NP">There</w> <w l="be" pws="yes" id="w5857" p="VBD" headv="yes" group="B-VP">were</w> <w pws="yes" id="w5862" p="JJ" group="B-NP">several</w> <w l="other" pws="yes" id="w5870" p="NNS" headn="yes" group="I-NP">others</w> <w pws="yes" id="w5877" p="WDT" group="B-NP">that</w> <w l="prov" pws="yes" id="w5882" p="VBP" headv="yes" group="B-VP">prov</w> <w l="'d" pws="yes" id="w5887" p="MD" group="O">'d</w> <w pws="yes" id="w5890" p="DT" group="B-NP">the</w> <w pws="yes" id="w5894" p="NN" headn="yes" prevtag="JJ" group="I-NP">same</w> <w pws="yes" id="w5899" p="." group="O">.</w> <w pws="yes" id="w5901" p="DT" group="B-NP">Another</w> <w l="piece" pws="yes" id="w5909" p="NN" headn="yes" group="I-NP">piece</w> <w pws="yes" id="w5915" p="IN" group="B-PP">of</w> <w common="true" l="evidence" pws="yes" id="w5918" p="NN" orgname="brand" tmln="true" group="B-NP">Evidence</w> <w l="be" pws="yes" id="w5927" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w5931" p="DT" group="B-NP">the</w> <w common="true" l="ring" pws="yes" id="w5935" p="NN" headn="yes" group="I-NP">Ring</w> <w pws="yes" id="w5940" p="," group="O">,</w> <w pws="yes" id="w5942" p="WDT" headn="yes" group="B-NP">which</w> <w l="be" pws="yes" id="w5948" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w5952" p="JJ" group="B-NP">produc</w> <w l="'d" pws="yes" id="w5959" p="NNP" headn="yes" group="I-NP">'d</w> <w pws="yes" id="w5962" p="IN" group="B-PP">by</w> <w pws="yes" id="w5965" p="DT" group="B-NP">the</w> <w common="true" l="proctor" pws="yes" id="w5969" p="NNP" group="I-NP">Proctor</w> <w pws="yes" id="w5977" p="IN" group="I-NP">of</w> <w common="true" l="doctor" pws="yes" id="w5980" p="NNP" group="I-NP">Doctors</w> <w common="true" l="common" pws="yes" id="w5988" p="NNP" group="I-NP">Commons</w> <w pws="yes" id="w5996" p="," group="O">,</w> <w pws="yes" id="w5998" p="IN" group="B-PP">with</w> <w pws="yes" id="w6003" p="DT" group="B-NP">this</w> <w common="true" l="device" pws="yes" id="w6008" p="NN" headn="yes" group="I-NP">Device</w> <w l="engraven" pws="yes" id="w6015" p="NN" headn="yes" group="I-NP">engraven</w> <w pws="yes" id="w6024" p="IN" group="B-PP">in</w> <w pws="yes" id="w6027" p="PRP" group="B-NP">it</w> <w pws="yes" id="w6030" p="JJ" group="B-NP">tibi</w> <w locname="single" common="true" l="solo" pws="yes" id="w6035" p="NNP" event="true" headn="yes" group="I-NP">Soli</w> <w pws="yes" id="w6040" p="," group="O">,</w> <w pws="yes" id="w6042" p="IN" group="B-PP">for</w> <w l="thee" pws="yes" id="w6046" p="NN" headn="yes" group="B-NP">thee</w> <w pws="yes" id="w6051" p="RB" group="B-ADVP">alone</w> <w pws="yes" id="w6057" p="." group="O">.</w> <w pws="yes" id="w6059" p="DT" group="B-NP">The</w> <w common="true" l="goldsmith" pws="yes" id="w6063" p="NNP" headn="yes" group="I-NP">Goldsmith</w> <w pws="yes" id="w6073" p="WDT" group="B-NP">that</w> <w l="make" pws="yes" id="w6078" p="VBD" headv="yes" group="B-VP">made</w> <w pws="yes" id="w6083" p="DT" group="B-NP">the</w> <w common="true" l="ring" pws="yes" id="w6087" p="NN" headn="yes" group="I-NP">Ring</w> <w pws="yes" id="w6092" p="," group="O">,</w> <w l="depose" pws="yes" id="w6094" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w6102" p="PRP" group="B-NP">he</w> <w l="make" pws="yes" id="w6105" p="VBD" headv="yes" group="B-VP">made</w> <w pws="yes" id="w6110" p="PRP" group="B-NP">it</w> <w pws="yes" id="w6113" p="IN" group="B-PP">by</w> <w l="mr" pws="yes" id="w6116" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w6119" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w6121" p="NNP" wfirstn="true" group="I-NP">Fielding</w><w qut="s" pws="no" id="w6129" p="POS" group="I-NP">'</w><w l="t" pws="no" id="w6130" p="NN" headn="yes" group="I-NP">t</w> <w l="order" pws="yes" id="w6132" p="NN" tmln="true" headn="yes" group="I-NP">Order</w> <w pws="yes" id="w6138" p="," group="O">,</w> <w pws="yes" id="w6140" p="CC" group="O">and</w> <w pws="yes" id="w6144" p="DT" group="B-NP">the</w> <w common="true" l="device" pws="yes" id="w6148" p="NN" headn="yes" group="I-NP">Device</w> <w l="be" pws="yes" id="w6155" p="VBD" headv="yes" group="B-VP">was</w> <w l="mr." pws="yes" id="w6159" p="NNP" group="B-NP">Mr.</w> <w l="fielding" pws="yes" id="w6163" p="NNP" group="I-NP">Fieldings</w> <w pws="yes" id="w6173" p="." group="O">.</w> <w pws="yes" id="w6175" p="DT" group="O">Another</w> <w pws="yes" id="w6183" p="WDT" group="B-NP">that</w> <w l="be" pws="yes" id="w6188" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w6192" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w6197" p="DT" group="B-NP">the</w> <w common="true" l="ring" pws="yes" id="w6201" p="NN" headn="yes" group="I-NP">Ring</w> <w l="be" pws="yes" id="w6206" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w6210" p="JJ" group="B-ADJP">bespoke</w> <w pws="yes" id="w6218" p="," group="O">,</w> <w l="depose" pws="yes" id="w6220" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w6228" p="DT" group="B-NP">the</w> <w pws="yes" id="w6232" p="NN" headn="yes" prevtag="JJ" group="I-NP">same</w> <w pws="yes" id="w6237" p="." group="O">.</w> <w pws="yes" id="w6239" p="EX" headn="yes" group="B-NP">There</w> <w l="be" pws="yes" id="w6245" p="VBD" headv="yes" group="B-VP">were</w> <w pws="yes" id="w6250" p="RB" group="B-NP">likewise</w> <w pws="yes" id="w6259" p="JJ" group="I-NP">produc</w> <w l="'d" pws="yes" id="w6266" p="NNP" headn="yes" group="I-NP">'d</w> <w l="diver" pws="yes" id="w6269" p="NNS" headn="yes" group="I-NP">divers</w> <w common="true" l="piece" pws="yes" id="w6276" p="NNP" group="B-NP">Pieces</w> <w pws="yes" id="w6283" p="IN" group="I-NP">of</w> <w common="true" l="written" pws="yes" id="w6286" p="NNP" group="I-NP">Written</w> <w common="true" l="evidence" pws="yes" id="w6294" p="NNP" orgname="brand" tmln="true" group="I-NP">Evidence</w> <w pws="yes" id="w6303" p="WDT" headn="yes" group="B-NP">which</w> <w l="be" pws="yes" id="w6309" p="VBD" group="B-VP">were</w> <w l="prov" pws="yes" id="w6314" p="VBN" headv="yes" group="I-VP">prov</w> <w l="'d" pws="yes" id="w6319" p="MD" group="B-VP">'d</w> <w pws="yes" id="w6322" p="TO" group="I-VP">to</w> <w l="be" pws="yes" id="w6325" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w6328" p="PRP$" group="B-NP">his</w> <w common="true" l="hand" pws="yes" id="w6332" p="NNP" tmln="true" headn="yes" group="I-NP">Hand</w> <w pws="yes" id="w6337" p="," group="O">,</w> <w l="wherein" pws="yes" id="w6339" p="NN" headn="yes" group="B-NP">wherein</w> <w l="mr" pws="yes" id="w6347" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w6350" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w6352" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w l="do" pws="yes" id="w6361" p="VBZ" group="B-VP">does</w> <w l="acknowledge" pws="yes" id="w6366" p="VB" headv="yes" group="I-VP">acknowledge</w> <w l="mrs." pws="yes" id="w6378" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="wadsworth" pws="yes" id="w6383" p="NNP" group="I-NP">Wadsworth</w> <w pws="yes" id="w6393" p="TO" group="B-VP">to</w> <w l="be" pws="yes" id="w6396" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w6399" p="PRP$" group="B-NP">his</w> <w prof="true" common="true" l="wife" pws="yes" id="w6403" p="NN" headn="yes" group="I-NP">Wife</w> <w pws="yes" id="w6408" p=":" group="O">;</w> <w pws="yes" id="w6410" p="CC" group="O">and</w> <w pws="yes" id="w6414" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w6418" p="IN" group="B-PP">in</w> <w pws="yes" id="w6421" p="DT" group="B-NP">an</w> <w pws="yes" id="w6424" p="JJ" group="I-NP">especial</w> <w l="manner" pws="yes" id="w6433" p="NN" headn="yes" group="I-NP">manner</w> <w pws="yes" id="w6440" p="," group="O">,</w> <w pws="yes" id="w6442" p="DT" group="B-NP">a</w> <w common="true" l="copy" pws="yes" id="w6444" p="NN" headn="yes" group="I-NP">Copy</w> <w pws="yes" id="w6449" p="IN" group="B-PP">of</w> <w pws="yes" id="w6452" p="WDT" headn="yes" group="B-NP">which</w> <w l="be" pws="yes" id="w6458" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w6461" p="IN" group="B-PP">as</w> <w l="followeth" pws="yes" id="w6464" p="NN" headn="yes" group="B-NP">followeth</w> <w pws="yes" id="w6474" p=":" group="O">:</w> <w pws="yes" id="w6476" p="DT" group="B-NP">A</w> <w common="true" l="letter" pws="yes" id="w6478" p="NN" headn="yes" group="I-NP">LETTER</w> <w pws="yes" id="w6485" p=":" group="O">:</w> <w l="direct" pws="yes" id="w6487" p="VBN" headv="yes" group="B-VP">Directed</w> <w pws="yes" id="w6496" p="TO" group="B-PP">to</w> <w pws="yes" id="w6499" p="DT" group="B-NP">the</w> <w pws="yes" id="w6503" p="NN" headn="yes" prevtag="JJS" group="I-NP">best</w> <w pws="yes" id="w6508" p="IN" group="B-PP">of</w> <w prof="true" common="true" l="wife" pws="yes" id="w6511" p="NNS" group="B-NP">Wives</w> <w pws="yes" id="w6517" p="," group="I-NP">,</w> <w l="anne" pws="yes" id="w6519" p="NNP" pername="true" wfirstn="true" group="I-NP">Anne</w> <w common="true" l="countess" pws="yes" id="w6524" p="NNP" wfirstn="true" headn="yes" group="I-NP">Countess</w> <w pws="yes" id="w6533" p="IN" group="B-PP">of</w> <w vstem="field" l="fielding" pws="yes" id="w6536" p="NNP" wfirstn="true" group="B-NP">Fielding</w> <w pws="yes" id="w6545" p="," group="O">,</w> <w pws="yes" id="w6547" p="IN" group="B-PP">at</w> <w locname="single" l="waddon" pws="yes" id="w6550" p="NNP" group="B-NP">Waddon</w> <w pws="yes" id="w6557" p="." group="O">.</w> <w l="novemb" pws="yes" id="w6559" p="NNP" headn="yes" group="B-NP">Novemb</w> <w pws="yes" id="w6566" p="." group="O">.</w> <w pws="yes" id="w6568" p="CD" quty="14" headn="yes" group="B-NP">14</w> <w pws="yes" id="w6571" p="." group="O">.</w> <w pws="yes" qut="d" id="w6573" p="``" group="O">``</w> <w l="there" pws="yes" id="w6576" p="NNP" headn="yes" group="B-NP">THere</w> <w l="be" pws="yes" id="w6582" p="VBZ" headv="yes" group="B-VP">is</w> <w l="nothing" pws="yes" id="w6585" p="NN" headn="yes" group="B-NP">nothing</w> <w l="can" pws="yes" id="w6593" p="MD" group="B-VP">can</w> <w l="please" pws="yes" id="w6597" p="VB" headv="yes" group="I-VP">please</w> <w pws="yes" id="w6604" p="PRP" group="B-NP">me</w> <w pws="yes" id="w6607" p="RBR" group="B-ADVP">more</w> <w pws="yes" id="w6612" p="IN" group="B-PP">upon</w> <w pws="yes" id="w6617" p="DT" group="B-NP">this</w> <w common="true" l="occasion" pws="yes" id="w6622" p="NN" event="true" headn="yes" group="I-NP">Occasion</w> <w pws="yes" id="w6631" p="," group="O">,</w> <w pws="yes" id="w6633" p="IN" group="B-PP">than</w> <w pws="yes" id="w6638" p="TO" group="B-VP">to</w> <w l="hear" pws="yes" id="w6641" p="VB" headv="yes" group="I-VP">hear</w> <w pws="yes" id="w6646" p="PRP$" group="B-NP">my</w> <w l="dear" pws="yes" id="w6649" p="NN" headn="yes" group="I-NP">Dear</w> <w pws="yes" qut="d" id="w6654" p="``" group="O">``</w> <w common="true" l="wife" pws="yes" id="w6657" p="NNP" headn="yes" group="B-NP">Wife</w> <w l="say" pws="yes" id="w6662" p="VBP" class="reporting" headv="yes" group="B-VP">say</w> <w pws="yes" id="w6666" p="," group="O">,</w> <w pws="yes" id="w6668" p="PRP" group="B-NP">I</w> <w l="have" pws="yes" id="w6670" p="VBD" group="B-VP">had</w> <w l="make" pws="yes" id="w6674" p="VBN" headv="yes" group="I-VP">made</w> <w pws="yes" id="w6679" p="PRP$" group="B-NP">her</w> <w pws="yes" id="w6683" p="NN" headn="yes" prevtag="JJ" group="I-NP">sick</w> <w pws="yes" id="w6688" p="IN" group="B-PP">by</w> <w l="turn" pws="yes" id="w6691" p="VBG" headv="yes" group="B-VP">turning</w> <w pws="yes" id="w6699" p="PRP$" group="B-NP">her</w> <w common="true" l="liver" pws="yes" id="w6703" p="NN" headn="yes" group="I-NP">Liver</w> <w pws="yes" id="w6709" p="," group="O">,</w> <w pws="yes" id="w6711" p="IN" group="B-PP">for</w> <w pws="yes" id="w6715" p="IN" group="B-PP">without</w> <w pws="yes" id="w6723" p="DT" headn="yes" group="B-NP">that</w> <w pws="yes" id="w6728" p="PRP" group="B-NP">we</w> <w l="could" pws="yes" id="w6731" p="MD" group="B-VP">could</w> <w pws="yes" qut="d" id="w6737" p="``" group="I-VP">``</w> <w pws="yes" id="w6740" p="RB" neg="yes" group="I-VP">not</w> <w l="hope" pws="yes" id="w6744" p="VB" class="istate" headv="yes" group="I-VP">hope</w> <w pws="yes" id="w6749" p="IN" group="B-PP">for</w> <w pws="yes" id="w6753" p="DT" group="B-NP">a</w> <w pws="yes" id="w6755" p="NN" headn="yes" prevtag="JJ" group="I-NP">young</w> <w wlastn="true" common="true" l="lord" pws="yes" id="w6761" p="NNP" group="B-NP">Lord</w> <w locname="single" l="tunbridge" pws="yes" id="w6766" p="NNP" group="I-NP">Tunbridge</w> <w pws="yes" id="w6776" p="," group="O">,</w> <w pws="yes" id="w6778" p="WDT" headn="yes" group="B-NP">which</w> <w l="would" pws="yes" id="w6784" p="MD" group="B-VP">would</w> <w l="be" pws="yes" id="w6790" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w6793" p="JJ" group="B-ADJP">next</w> <w pws="yes" id="w6798" p="TO" group="B-PP">to</w> <w pws="yes" id="w6801" p="PRP$" group="B-NP">my</w> <w l="dear" pws="yes" id="w6804" p="NN" headn="yes" group="I-NP">Dear</w> <w pws="yes" id="w6809" p="PRP" group="B-NP">herself</w> <w pws="yes" id="w6817" p="DT" group="O">the</w> <w pws="yes" id="w6821" p="RBS" group="B-ADVP">most</w> <w pws="yes" qut="d" id="w6826" p="``" group="O">``</w> <w pws="yes" id="w6829" p="JJ" group="B-NP">welcome</w> <w common="true" l="present" pws="yes" id="w6837" p="NN" headn="yes" group="I-NP">Present</w> <w pws="yes" id="w6845" p="TO" group="B-PP">to</w> <w pws="yes" id="w6848" p="PRP$" group="B-NP">my</w> <w common="true" l="arm" pws="yes" id="w6851" p="NNS" headn="yes" group="I-NP">Arms</w> <w pws="yes" id="w6856" p=":" group="O">;</w> <w l="make" pws="yes" id="w6858" p="VB" headv="yes" group="B-VP">make</w> <w l="hast" pws="yes" id="w6863" p="NN" headn="yes" group="B-NP">hast</w> <w pws="yes" id="w6868" p="RB" group="B-ADVP">then</w> <w pws="yes" id="w6873" p="PRP$" group="B-NP">my</w> <w l="dearest" pws="yes" id="w6876" p="NNP" group="I-NP">Dearest</w> <w state="true" common="true" l="life" pws="yes" id="w6884" p="NNP" tmln="true" group="I-NP">Life</w> <w pws="yes" id="w6889" p="," group="O">,</w> <w pws="yes" id="w6891" p="TO" group="B-VP">to</w> <w l="cultivate" pws="yes" id="w6894" p="VB" headv="yes" group="I-VP">Cultivate</w> <w pws="yes" id="w6904" p="DT" group="O">the</w> <w pws="yes" qut="d" id="w6908" p="``" group="O">``</w> <w pws="yes" id="w6911" p="JJ" group="B-NP">young</w> <w common="true" l="spark" pws="yes" id="w6917" p="NN" event="true" headn="yes" group="I-NP">Spark</w> <w pws="yes" id="w6923" p="," group="O">,</w> <w pws="yes" id="w6925" p="CC" group="O">and</w> <w l="besure" pws="yes" id="w6929" p="VB" headv="yes" group="B-VP">besure</w> <w pws="yes" id="w6936" p="PRP" group="B-NP">you</w> <w l="do" pws="yes" id="w6940" p="VBP" neg="yes" group="B-VP">do</w> <w pws="yes" id="w6943" p="RB" neg="yes" group="I-VP">not</w> <w l="starve" pws="yes" id="w6947" p="VB" headv="yes" group="I-VP">starve</w> <w pws="yes" id="w6954" p="PRP$" group="B-NP">my</w> <w l="boy" pws="yes" id="w6957" p="NNP" wfirstn="true" headn="yes" group="I-NP">Boy</w> <w pws="yes" id="w6961" p=":" group="O">;</w> <w pws="yes" id="w6963" p="IN" group="B-PP">as</w> <w pws="yes" id="w6966" p="IN" group="B-PP">for</w> <w pws="yes" id="w6970" p="PRP$" group="O">your</w> <w l="come" pws="yes" id="w6975" p="VBG" headv="yes" group="B-VP">coming</w> <w pws="yes" id="w6982" p="TO" group="B-PP">to</w> <w pws="yes" id="w6985" p="PRP" group="B-NP">me</w> <w pws="yes" id="w6988" p="," group="O">,</w> <w pws="yes" id="w6990" p="PRP" group="B-NP">it</w> <w pws="yes" qut="d" id="w6993" p="``" group="O">``</w> <w pws="yes" id="w6996" p="RB" group="B-ADVP">wholly</w> <w l="depend" pws="yes" id="w7003" p="VBZ" headv="yes" group="B-VP">depends</w> <w pws="yes" id="w7011" p="IN" group="B-PP">upon</w> <w pws="yes" id="w7016" p="PRP$" group="B-NP">your</w> <w state="true" l="self" pws="yes" id="w7021" p="NN" headn="yes" group="I-NP">self</w> <w pws="yes" id="w7026" p="," group="O">,</w> <w pws="yes" id="w7028" p="WP" headn="yes" group="B-NP">who</w> <w l="can" pws="yes" id="w7032" p="MD" headv="yes" group="B-VP">can</w> <w pws="yes" id="w7036" p="RB" group="B-ADVP">best</w> <w l="judge" pws="yes" id="w7041" p="VB" group="O">Judge</w> <w pws="yes" id="w7047" p="WRB" group="B-ADVP">when</w> <w pws="yes" id="w7052" p="PRP" group="B-NP">it</w> <w l="be" pws="yes" id="w7055" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w7058" p="RBS" group="B-ADJP">most</w> <w pws="yes" id="w7063" p="JJ" group="I-ADJP">proper</w> <w pws="yes" id="w7070" p="TO" group="B-VP">to</w> <w l="come" pws="yes" id="w7073" p="VB" headv="yes" group="I-VP">come</w> <w pws="yes" id="w7078" p="TO" group="B-PP">to</w> <w pws="yes" qut="d" id="w7081" p="``" group="O">``</w> <w pws="yes" id="w7084" p="PRP" group="B-NP">me</w> <w pws="yes" id="w7087" p="," group="O">,</w> <w pws="yes" id="w7089" p="WDT" headn="yes" group="B-NP">which</w> <w pws="yes" id="w7095" p="PRP" group="B-NP">you</w> <w l="can" pws="yes" id="w7099" p="MD" group="B-VP">can</w> <w l="do" pws="yes" id="w7103" p="VB" headv="yes" group="I-VP">do</w> <w pws="yes" id="w7106" p="," group="O">,</w> <w pws="yes" id="w7108" p="IN" group="B-PP">by</w> <w pws="yes" id="w7111" p="PRP$" group="O">your</w> <w l="give" pws="yes" id="w7116" p="VBG" headv="yes" group="B-VP">giving</w> <w pws="yes" id="w7123" p="RP" group="O">out</w> <w pws="yes" id="w7127" p="PRP" group="B-NP">you</w> <w l="be" pws="yes" id="w7131" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w7135" p="TO" group="B-VP">to</w> <w l="stay" pws="yes" id="w7138" p="VB" headv="yes" group="I-VP">stay</w> <w pws="yes" id="w7143" p="DT" headn="yes" group="B-NP">all</w> <w common="true" l="night" pws="yes" id="w7147" p="NNP" tmln="true" headn="yes" group="I-NP">Night</w> <w pws="yes" id="w7153" p="IN" group="B-PP">in</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w7156" p="NNP" wfirstn="true" group="B-NP">London</w> <w pws="yes" id="w7163" p=":" group="O">;</w> <w pws="yes" id="w7165" p="CC" group="O">and</w> <w pws="yes" qut="d" id="w7169" p="``" group="O">``</w> <w pws="yes" id="w7172" p="RB" group="B-ADVP">then</w> <w pws="yes" id="w7177" p="PRP" group="B-NP">you</w> <w pws="yes" id="w7181" p="CC" group="O">and</w> <w l="puggy" pws="yes" id="w7185" p="NNP" headn="yes" group="B-NP">Puggy</w> <w l="have" pws="yes" id="w7191" p="VBP" headv="yes" group="B-VP">have</w> <w l="nothing" pws="yes" id="w7196" p="NN" headn="yes" group="B-NP">nothing</w> <w pws="yes" id="w7204" p="TO" group="B-VP">to</w> <w l="do" pws="yes" id="w7207" p="VB" headv="yes" group="I-VP">do</w> <w pws="yes" id="w7210" p="CC" group="O">but</w> <w pws="yes" id="w7214" p="TO" group="B-VP">to</w> <w l="come" pws="yes" id="w7217" p="VB" headv="yes" group="I-VP">come</w> <w pws="yes" id="w7222" p="IN" group="B-PP">at</w> <w common="true" vstem="bed" l="bed" pws="yes" id="w7225" p="JJ" group="B-NP">Bed</w> <w l="time" pws="yes" id="w7229" p="NN" event="true" tmln="true" headn="yes" group="I-NP">time</w> <w pws="yes" id="w7234" p="," group="O">,</w> <w pws="yes" id="w7236" p="CC" group="O">and</w> <w pws="yes" id="w7240" p="RB" group="B-ADVP">so</w> <w pws="yes" id="w7243" p="PRP" group="B-NP">we</w> <w l="may" pws="yes" id="w7246" p="MD" group="B-VP">may</w> <w l="go" pws="yes" id="w7250" p="VB" headv="yes" group="I-VP">go</w> <w pws="yes" qut="d" id="w7253" p="``" group="O">``</w> <w pws="yes" id="w7256" p="TO" group="B-VP">to</w> <w l="bed" pws="yes" id="w7259" p="VB" headv="yes" group="I-VP">Bed</w> <w pws="yes" id="w7263" p="CC" group="I-VP">and</w> <w l="lye" pws="yes" id="w7267" p="VB" headv="yes" group="I-VP">lye</w> <w pws="yes" id="w7271" p="IN" group="B-PP">till</w> <w common="true" vstem="morn" l="morning" pws="yes" id="w7276" p="NN" headn="yes" group="B-NP">Morning</w> <w pws="yes" id="w7284" p="," group="O">,</w> <w pws="yes" id="w7286" p="WRB" group="B-ADVP">when</w> <w l="puggy" pws="yes" id="w7291" p="NNP" headn="yes" group="B-NP">Puggy</w> <w l="may" pws="yes" id="w7297" p="MD" group="B-VP">may</w> <w l="come" pws="yes" id="w7301" p="VB" headv="yes" group="I-VP">come</w> <w pws="yes" id="w7306" p="RB" group="B-ADVP">again</w> <w pws="yes" id="w7312" p="CC" group="O">and</w> <w l="call" pws="yes" id="w7316" p="VB" headv="yes" group="B-VP">call</w> <w pws="yes" id="w7321" p="PRP" group="B-NP">you</w> <w pws="yes" id="w7325" p="." group="O">.</w> <w l="adieu" pws="yes" id="w7327" p="NNP" headn="yes" group="B-NP">Adieu</w> <w pws="yes" id="w7333" p="PRP$" group="B-NP">my</w> <w common="true" l="soul" pws="yes" id="w7336" p="NNP" headn="yes" group="I-NP">Souls</w> <w wlastn="true" state="true" common="true" l="love" pws="yes" id="w7342" p="NNP" headn="yes" group="I-NP">Love</w> <w pws="yes" id="w7347" p="," group="O">,</w> <w pws="yes" id="w7349" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w7354" p="PRP" group="B-NP">I</w> <w l="must" pws="yes" id="w7356" p="MD" group="B-VP">must</w> <w pws="yes" id="w7361" p="RB" group="I-VP">ever</w> <w l="value" pws="yes" id="w7366" p="VB" headv="yes" group="I-VP">value</w> <w pws="yes" id="w7372" p="JJR" headn="yes" group="B-NP">more</w> <w pws="yes" id="w7377" p="IN" group="B-PP">than</w> <w state="true" common="true" l="life" pws="yes" id="w7382" p="NNP" tmln="true" headn="yes" group="B-NP">Life</w> <w pws="yes" id="w7387" p="." group="O">.</w> <w l="mr" pws="yes" id="w7389" p="NNP" group="B-NP">Mr</w> <w pws="yes" id="w7392" p="." group="I-NP">.</w> <w vstem="field" l="fielding" pws="yes" id="w7394" p="NNP" wfirstn="true" group="I-NP">Fielding</w> <w pws="yes" id="w7403" p="," group="O">,</w> <w pws="yes" id="w7405" p="IN" group="B-PP">in</w> <w pws="yes" id="w7408" p="PRP$" group="B-NP">his</w> <w common="true" vstem="defend" l="defence" pws="yes" id="w7412" p="NN" headn="yes" group="I-NP">Defence</w> <w pws="yes" id="w7420" p="," group="O">,</w> <w l="endeavour" pws="yes" id="w7422" p="NN" event="true" headn="yes" group="B-NP">endeavour</w> <w l="'d" pws="yes" id="w7432" p="VBD" group="B-VP">'d</w> <w pws="yes" id="w7435" p="TO" group="I-VP">to</w> <w l="prove" pws="yes" id="w7438" p="VB" headv="yes" group="I-VP">prove</w> <w pws="yes" id="w7444" p="IN" group="B-SBAR">that</w> <w l="mrs." pws="yes" id="w7449" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="wadsworth" pws="yes" id="w7454" p="NNP" group="I-NP">Wadsworth</w> <w l="be" pws="yes" id="w7464" p="VBD" headv="yes" group="B-VP">was</w> <w l="marry" pws="yes" id="w7468" p="NNP" headn="yes" group="B-NP">Marry</w> <w l="'d" pws="yes" id="w7474" p="NNP" headn="yes" group="I-NP">'d</w> <w pws="yes" id="w7477" p="TO" group="B-PP">to</w> <w pws="yes" id="w7480" p="CD" quty="1" group="B-NP">one</w> <w common="true" l="lily" pws="yes" id="w7484" p="NNP" pername="true" wfirstn="true" group="I-NP">Lily</w> <w wlastn="true" l="bradley" pws="yes" id="w7489" p="NNP" pername="true" wfirstn="true" group="I-NP">Bradley</w> <w pws="yes" id="w7497" p="," group="O">,</w> <w pws="yes" id="w7499" p="TO" group="B-VP">to</w> <w l="do" pws="yes" id="w7502" p="VB" headv="yes" group="I-VP">do</w> <w pws="yes" id="w7505" p="WDT" headn="yes" group="B-NP">which</w> <w pws="yes" id="w7511" p="," group="O">,</w> <w pws="yes" id="w7513" p="DT" group="B-NP">the</w> <w common="true" l="register" pws="yes" id="w7517" p="NNP" group="I-NP">Register</w> <w common="true" l="book" pws="yes" id="w7526" p="NNP" group="I-NP">Book</w> <w pws="yes" id="w7531" p="IN" group="I-NP">of</w> <w pws="yes" id="w7534" p="DT" group="I-NP">the</w> <w common="true" l="fleet" pws="yes" id="w7538" p="NNP" group="I-NP">Fleet</w> <w l="be" pws="yes" id="w7544" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w7548" p="JJ" group="B-NP">produc</w> <w l="'d" pws="yes" id="w7555" p="NNP" headn="yes" group="I-NP">'d</w> <w pws="yes" id="w7558" p="," group="O">,</w> <w pws="yes" id="w7560" p="CC" group="O">and</w> <w pws="yes" id="w7564" p="EX" headn="yes" group="B-NP">there</w> <w l="be" pws="yes" id="w7570" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w7574" p="DT" group="B-NP">a</w> <w common="true" l="certificate" pws="yes" id="w7576" p="NN" headn="yes" group="I-NP">Certificate</w> <w pws="yes" id="w7588" p="IN" group="B-PP">of</w> <w pws="yes" id="w7591" p="DT" group="B-NP">a</w> <w state="true" common="true" vstem="marry" l="marriage" pws="yes" id="w7593" p="NN" headn="yes" group="I-NP">Marriage</w> <w pws="yes" id="w7602" p="IN" group="B-PP">between</w> <w common="true" l="lily" pws="yes" id="w7610" p="NNP" pername="true" wfirstn="true" group="B-NP">Lily</w> <w wlastn="true" l="bradley" pws="yes" id="w7615" p="NNP" pername="true" wfirstn="true" group="I-NP">Bradley</w> <w pws="yes" id="w7623" p="CC" group="O">and</w> <w l="mary" pws="yes" id="w7627" p="NNP" pername="true" wfirstn="true" group="B-NP">Mary</w> <w locname="single" l="wadsworth" pws="yes" id="w7632" p="NNP" group="I-NP">Wadsworth</w> <w pws="yes" id="w7642" p=":" group="O">;</w> <w pws="yes" id="w7644" p="CC" group="O">but</w> <w pws="yes" id="w7648" p="DT" group="B-NP">the</w> <w common="true" l="place" pws="yes" id="w7652" p="NNP" tmln="true" headn="yes" group="I-NP">Place</w> <w pws="yes" id="w7658" p="WRB" group="B-ADVP">where</w> <w pws="yes" id="w7664" p="PRP" group="B-NP">it</w> <w l="be" pws="yes" id="w7667" p="VBD" group="B-VP">was</w> <w l="write" pws="yes" id="w7671" p="VBN" headv="yes" group="I-VP">written</w> <w pws="yes" id="w7679" p="," group="O">,</w> <w pws="yes" id="w7681" p="PRP" group="B-NP">it</w> <w l="be" pws="yes" id="w7684" p="VBG" headv="yes" group="B-VP">being</w> <w pws="yes" id="w7690" p="IN" group="B-PP">at</w> <w pws="yes" id="w7693" p="DT" group="B-NP">the</w> <w common="true" vstem="bottom" l="bottom" pws="yes" id="w7697" p="NNP" headn="yes" group="I-NP">Bottom</w> <w pws="yes" id="w7704" p="IN" group="B-PP">of</w> <w pws="yes" id="w7707" p="DT" group="B-NP">a</w> <w common="true" l="leaf" pws="yes" id="w7709" p="NNP" headn="yes" group="I-NP">Leaf</w> <w pws="yes" id="w7714" p="," group="O">,</w> <w pws="yes" id="w7716" p="DT" group="B-NP">the</w> <w common="true" l="colour" pws="yes" id="w7720" p="NN" group="I-NP">Colour</w> <w pws="yes" id="w7727" p="IN" group="I-NP">of</w> <w pws="yes" id="w7730" p="DT" group="I-NP">the</w> <w common="true" l="ink" pws="yes" id="w7734" p="NNP" group="I-NP">Ink</w> <w pws="yes" id="w7738" p="," group="O">,</w> <w pws="yes" id="w7740" p="CC" group="O">and</w> <w pws="yes" id="w7744" p="DT" group="B-NP">the</w> <w common="true" l="difference" pws="yes" id="w7748" p="NN" group="I-NP">Difference</w> <w pws="yes" id="w7759" p="IN" group="I-NP">of</w> <w pws="yes" id="w7762" p="DT" group="I-NP">the</w> <w common="true" l="hand" pws="yes" id="w7766" p="NNP" tmln="true" group="I-NP">Hand</w> <w pws="yes" id="w7771" p="," group="O">,</w> <w pws="yes" id="w7773" p="IN" group="B-PP">with</w> <w l="diver" pws="yes" id="w7778" p="NNS" headn="yes" group="B-NP">divers</w> <w pws="yes" id="w7785" p="JJ" group="B-NP">other</w> <w state="true" common="true" l="circumstance" pws="yes" id="w7791" p="NNS" headn="yes" group="I-NP">Circumstances</w> <w pws="yes" id="w7805" p="," group="O">,</w> <w l="give" pws="yes" id="w7807" p="VBD" headv="yes" group="B-VP">gave</w> <w tmla="true" pws="yes" id="w7812" p="JJ" group="B-NP">sufficient</w> <w common="true" l="reason" pws="yes" id="w7823" p="NN" tmln="true" headn="yes" group="I-NP">Reason</w> <w pws="yes" id="w7830" p="TO" group="B-VP">to</w> <w l="suspect" pws="yes" id="w7833" p="VB" headv="yes" group="I-VP">suspect</w> <w pws="yes" id="w7841" p="DT" group="B-NP">the</w> <w common="true" l="truth" pws="yes" id="w7845" p="NNP" tmln="true" headn="yes" group="I-NP">Truth</w> <w pws="yes" id="w7851" p="IN" group="B-PP">of</w> <w pws="yes" id="w7854" p="PRP" group="B-NP">it</w> <w pws="yes" id="w7857" p="." group="O">.</w> <w common="true" l="evidence" pws="yes" id="w7859" p="NN" orgname="brand" tmln="true" group="B-NP">Evidence</w> <w l="be" pws="yes" id="w7868" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w7872" p="JJ" group="B-ADJP">call</w> <w l="'d" pws="yes" id="w7877" p="NNP" group="B-VP">'d</w> <w pws="yes" id="w7880" p="TO" group="I-VP">to</w> <w l="prove" pws="yes" id="w7883" p="VB" headv="yes" group="I-VP">prove</w> <w l="mrs." pws="yes" id="w7889" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w7894" p="NNP" group="I-NP">Villars</w> <w pws="yes" id="w7902" p="TO" group="B-VP">to</w> <w l="be" pws="yes" id="w7905" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w7908" p="DT" group="B-NP">a</w> <w locname="single" l="leud" pws="yes" id="w7910" p="NNP" headn="yes" group="I-NP">Leud</w> <w common="true" l="woman" pws="yes" id="w7915" p="NNP" headn="yes" group="I-NP">Woman</w> <w pws="yes" id="w7921" p="." group="O">.</w> <w pws="yes" id="w7923" p="CC" group="O">And</w> <w pws="yes" id="w7927" p="IN" group="B-PP">among</w> <w pws="yes" id="w7933" p="DT" group="B-NP">the</w> <w common="true" l="rest" pws="yes" id="w7937" p="NNP" headn="yes" group="I-NP">Rest</w> <w pws="yes" id="w7942" p="," group="O">,</w> <w pws="yes" id="w7944" p="CD" quty="1" group="B-NP">one</w> <w l="mrs." pws="yes" id="w7948" p="NNP" group="I-NP">Mrs.</w> <w wlastn="true" locname="single" common="true" l="fletcher" pws="yes" id="w7953" p="NNP" wfirstn="true" group="I-NP">Fletcher</w> <w pws="yes" id="w7962" p=":" group="O">;</w> <w pws="yes" id="w7964" p="PRP" group="B-NP">She</w> <w l="depose" pws="yes" id="w7968" p="VBD" headv="yes" group="B-VP">deposed</w> <w pws="yes" id="w7976" p="IN" group="B-SBAR">that</w> <w l="mrs." pws="yes" id="w7981" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="villar" pws="yes" id="w7986" p="NNP" group="I-NP">Villars</w> <w l="confess" pws="yes" id="w7994" p="VBZ" headv="yes" group="B-VP">confess</w> <w l="'d" pws="yes" id="w8002" p="MD" group="O">'d</w> <w pws="yes" id="w8005" p="TO" group="B-PP">to</w> <w pws="yes" id="w8008" p="PRP" group="B-NP">her</w> <w pws="yes" id="w8012" p="," group="O">,</w> <w pws="yes" id="w8014" p="IN" group="B-SBAR">That</w> <w pws="yes" id="w8019" p="PRP" group="B-NP">she</w> <w l="have" pws="yes" id="w8023" p="VBD" group="B-VP">had</w> <w l="have" pws="yes" id="w8027" p="VBN" headv="yes" group="I-VP">had</w> <w pws="yes" id="w8031" p="CD" quty="2" group="B-NP">two</w> <w common="true" l="bastard" pws="yes" id="w8035" p="NNS" headn="yes" group="I-NP">Bastards</w> <w pws="yes" id="w8044" p=":" group="O">;</w> <w pws="yes" id="w8046" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w8050" p="IN" group="B-PP">by</w> <w pws="yes" id="w8053" p="DT" group="B-NP">the</w> <w wlastn="true" common="true" l="lord" pws="yes" id="w8057" p="NNP" group="I-NP">Lord</w> <w locname="single" l="torrington" pws="yes" id="w8062" p="NNP" group="I-NP">Torrington</w> <w pws="yes" id="w8073" p="," group="O">,</w> <w pws="yes" id="w8075" p="CC" group="O">and</w> <w pws="yes" id="w8079" p="DT" group="B-NP">the</w> <w pws="yes" id="w8083" p="NN" headn="yes" prevtag="JJ" group="I-NP">other</w> <w pws="yes" id="w8089" p="IN" group="B-PP">by</w> <w pws="yes" id="w8092" p="DT" group="B-NP">the</w> <w wlastn="true" common="true" l="lord" pws="yes" id="w8096" p="NNP" group="I-NP">Lord</w> <w locname="single" l="stamford" pws="yes" id="w8101" p="NNP" group="I-NP">Stamford</w> <w pws="yes" id="w8110" p="." group="O">.</w> <w pws="yes" id="w8112" p="DT" group="B-NP">This</w> <w common="true" l="evidence" pws="yes" id="w8117" p="NN" orgname="brand" tmln="true" group="I-NP">Evidence</w> <w l="be" pws="yes" id="w8126" p="VBD" group="B-VP">was</w> <w l="confront" pws="yes" id="w8130" p="VBN" headv="yes" group="I-VP">confronted</w> <w pws="yes" id="w8141" p="IN" group="B-PP">by</w> <w pws="yes" id="w8144" p="DT" group="B-NP">a</w> <w common="true" l="letter" pws="yes" id="w8146" p="NN" headn="yes" group="I-NP">Letter</w> <w pws="yes" id="w8153" p="WDT" group="B-NP">that</w> <w l="be" pws="yes" id="w8158" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w8162" p="JJ" group="B-NP">produc</w> <w l="'d" pws="yes" id="w8169" p="NNP" headn="yes" group="I-NP">'d</w> <w pws="yes" id="w8172" p="IN" group="B-PP">by</w> <w pws="yes" id="w8175" p="DT" group="B-NP">the</w> <w pws="yes" id="w8179" p="JJ" group="I-NP">other</w> <w l="side" pws="yes" id="w8185" p="NN" headn="yes" group="I-NP">side</w> <w pws="yes" id="w8190" p="," group="O">,</w> <w pws="yes" id="w8192" p="WDT" headn="yes" group="B-NP">which</w> <w l="mr." pws="yes" id="w8198" p="NNP" group="B-NP">Mr.</w> <w wlastn="true" locname="single" common="true" l="fletcher" pws="yes" id="w8202" p="NNP" wfirstn="true" group="I-NP">Fletcher</w> <w tmla="true" pws="yes" id="w8211" p="JJ" group="B-ADJP">own</w> <w l="'d" pws="yes" id="w8215" p="MD" group="B-VP">'d</w> <w pws="yes" id="w8218" p="TO" group="I-VP">to</w> <w l="be" pws="yes" id="w8221" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w8224" p="PRP$" group="B-NP">her</w> <w common="true" l="hand" pws="yes" id="w8228" p="NN" tmln="true" headn="yes" group="I-NP">Hand</w> <w pws="yes" id="w8233" p="." group="O">.</w> <w l="tuesday" pws="yes" id="w8235" p="NNP" day="Tuesday" wdaynum="2" group="B-NP">Tuesday</w> <w vstem="morn" l="morning" pws="yes" id="w8243" p="NNP" group="I-NP">Morning</w> <w pws="yes" id="w8251" p="." group="O">.</w> <w pws="yes" qut="d" id="w8253" p="``" group="O">``</w> <w common="true" l="all" pws="yes" id="w8256" p="NNP" headn="yes" group="B-NP">ALL</w> <w pws="yes" id="w8260" p="WDT" group="B-NP">that</w> <w l="know" pws="yes" id="w8265" p="VBZ" class="istate" headv="yes" group="B-VP">knows</w> <w pws="yes" id="w8271" p="DT" group="B-NP">the</w> <w common="true" l="name" pws="yes" id="w8275" p="NN" group="I-NP">Name</w> <w pws="yes" id="w8280" p="IN" group="I-NP">of</w> <w common="true" l="major" pws="yes" id="w8283" p="NNP" group="I-NP">Major</w> <w common="true" l="general" pws="yes" id="w8289" p="NNP" group="I-NP">General</w> <w vstem="field" l="fielding" pws="yes" id="w8297" p="NNP" wfirstn="true" group="B-NP">Fielding</w> <w pws="yes" id="w8306" p="," group="O">,</w> <w l="must" pws="yes" id="w8308" p="MD" group="B-VP">must</w> <w l="own" pws="yes" id="w8313" p="VB" class="state" headv="yes" group="I-VP">own</w> <w pws="yes" id="w8317" p="DT" group="B-NP">the</w> <w common="true" pws="yes" id="w8321" p="NN" headn="yes" prevtag="JJ" group="I-NP">Generous</w> <w pws="yes" qut="d" id="w8330" p="``" group="O">``</w> <w pws="yes" id="w8333" p="CC" group="O">and</w> <w common="true" pws="yes" id="w8337" p="JJ" group="B-NP">Charitable</w> <w l="action" pws="yes" id="w8348" p="NNS" tmln="true" headn="yes" group="I-NP">Actions</w> <w pws="yes" id="w8356" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w8361" p="PRP$" group="B-NP">your</w> <w state="true" common="true" l="honour" pws="yes" id="w8366" p="NNP" headn="yes" group="I-NP">Honour</w> <w pws="yes" id="w8373" p="JJ" group="I-NP">daily</w> <w l="bestow" pws="yes" id="w8379" p="NNS" headn="yes" group="I-NP">bestows</w> <w pws="yes" id="w8387" p="IN" group="B-PP">upon</w> <w pws="yes" id="w8392" p="PRP" group="B-NP">them</w> <w pws="yes" id="w8397" p=":" group="O">;</w> <w pws="yes" id="w8399" p="CC" group="O">and</w> <w pws="yes" id="w8403" p="PRP" group="B-NP">I</w> <w pws="yes" qut="d" id="w8405" p="``" group="O">``</w> <w pws="yes" id="w8408" p="IN" group="B-PP">among</w> <w pws="yes" id="w8414" p="DT" group="B-NP">the</w> <w common="true" pws="yes" id="w8418" p="NN" headn="yes" prevtag="JJS" group="I-NP">Rest</w> <w pws="yes" id="w8423" p="," group="O">,</w> <w l="shall" pws="yes" id="w8425" p="MD" group="B-VP">shall</w> <w pws="yes" id="w8431" p="RB" group="I-VP">ever</w> <w l="acknowledge" pws="yes" id="w8436" p="VB" headv="yes" group="I-VP">acknowledge</w> <w pws="yes" id="w8448" p="PRP$" group="B-NP">your</w> <w l="goodness" pws="yes" id="w8453" p="NN" headn="yes" group="I-NP">Goodness</w> <w pws="yes" id="w8462" p=":" group="O">;</w> <w pws="yes" id="w8464" p="PRP" group="B-NP">it</w> <w pws="yes" qut="s" id="w8467" p="''" group="O">'</w><w l="s" pws="no" id="w8468" p="VBZ" headv="yes" group="B-VP">s</w> <w state="true" l="necessity" pws="yes" id="w8470" p="NN" headn="yes" group="B-NP">necessity</w> <w pws="yes" id="w8480" p="WDT" group="B-NP">that</w> <w l="force" pws="yes" id="w8485" p="VBZ" headv="yes" group="B-VP">forces</w> <w pws="yes" id="w8492" p="PRP" group="B-NP">me</w> <w pws="yes" qut="d" id="w8495" p="``" group="O">``</w> <w pws="yes" id="w8498" p="TO" group="B-VP">to</w> <w l="dispose" pws="yes" id="w8501" p="VB" headv="yes" group="I-VP">dispose</w> <w pws="yes" id="w8509" p="IN" group="B-PP">of</w> <w pws="yes" id="w8512" p="DT" group="B-NP">this</w> <w common="true" l="picture" pws="yes" id="w8517" p="NN" headn="yes" group="I-NP">Picture</w> <w pws="yes" id="w8525" p="," group="O">,</w> <w pws="yes" id="w8527" p="PRP$" group="B-NP">your</w> <w state="true" common="true" l="honour" pws="yes" id="w8532" p="NNP" headn="yes" group="I-NP">Honour</w> <w pws="yes" qut="s" id="w8539" p="POS" group="I-NP">'</w><w l="s" pws="no" id="w8540" p="VBZ" headv="yes" group="B-VP">s</w> <w pws="yes" id="w8542" p="DT" group="B-NP">a</w> <w l="nice" pws="yes" id="w8544" p="NNP" headn="yes" group="I-NP">Nice</w> <w common="true" l="judge" pws="yes" id="w8549" p="NNP" group="O">Judge</w> <w pws="yes" id="w8555" p="IN" group="B-PP">of</w> <w l="paint" pws="yes" id="w8558" p="VBG" headn="yes" group="B-NP">Painting</w> <w pws="yes" id="w8567" p="," group="O">,</w> <w pws="yes" id="w8569" p="RB" group="B-PP">as</w> <w pws="yes" id="w8572" p="RB" group="I-PP">well</w> <w pws="yes" id="w8577" p="IN" group="I-PP">as</w> <w pws="yes" id="w8580" p="DT" group="B-NP">an</w> <w common="true" l="admirer" pws="yes" id="w8583" p="NN" headn="yes" group="I-NP">Admirer</w> <w pws="yes" qut="d" id="w8591" p="``" group="O">``</w> <w pws="yes" id="w8594" p="CC" group="O">and</w> <w pws="yes" id="w8598" p="JJ" group="B-NP">true</w> <w common="true" l="lover" pws="yes" id="w8603" p="NN" headn="yes" group="I-NP">Lover</w> <w pws="yes" id="w8609" p="IN" group="B-PP">of</w> <w pws="yes" id="w8612" p="JJ" group="B-NP">such</w> <w common="true" l="piece" pws="yes" id="w8617" p="NNS" headn="yes" group="I-NP">Pieces</w> <w pws="yes" id="w8624" p=":" group="O">;</w> <w pws="yes" id="w8626" p="WDT" headn="yes" group="B-NP">which</w> <w l="make" pws="yes" id="w8632" p="VBZ" headv="yes" group="B-VP">makes</w> <w pws="yes" id="w8638" p="PRP" group="B-NP">me</w> <w pws="yes" id="w8641" p="RB" group="B-ADJP">humbly</w> <w pws="yes" id="w8648" p="JJ" group="I-ADJP">present</w> <w pws="yes" id="w8656" p="TO" group="B-PP">to</w> <w pws="yes" id="w8659" p="PRP" group="B-NP">you</w> <w pws="yes" id="w8663" p="RB" quty="1" group="B-ADVP">first</w> <w pws="yes" id="w8669" p="," group="O">,</w> <w pws="yes" qut="d" id="w8671" p="``" group="O">``</w> <w pws="yes" id="w8674" p="CC" group="O">and</w> <w pws="yes" id="w8678" p="IN" group="B-PP">in</w> <w l="accept" pws="yes" id="w8681" p="VBG" headv="yes" group="B-VP">accepting</w> <w pws="yes" id="w8691" p="DT" group="B-NP">the</w> <w pws="yes" id="w8695" p="NN" headn="yes" prevtag="JJ" group="I-NP">same</w> <w pws="yes" id="w8700" p="," group="O">,</w> <w pws="yes" id="w8702" p="PRP$" group="B-NP">your</w> <w state="true" common="true" l="honour" pws="yes" id="w8707" p="NNP" headn="yes" group="I-NP">Honour</w> <w l="will" pws="yes" id="w8714" p="MD" group="B-VP">will</w> <w pws="yes" id="w8719" p="RB" group="I-VP">highly</w> <w l="oblige" pws="yes" id="w8726" p="VB" headv="yes" group="I-VP">oblige</w> <w pws="yes" id="w8733" p="," group="O">,</w> <w pws="yes" id="w8735" p="RB" group="B-PP">as</w> <w pws="yes" id="w8738" p="RB" group="I-PP">well</w> <w pws="yes" id="w8743" p="IN" group="I-PP">as</w> <w l="serve" pws="yes" id="w8746" p="VB" headv="yes" group="B-VP">serve</w> <w pws="yes" id="w8752" p="," group="O">,</w> <w pws="yes" id="w8754" p="PRP$" group="B-NP">Your</w> <w pws="yes" id="w8759" p="JJ" group="I-NP">humble</w> <w common="true" l="servant" pws="yes" id="w8766" p="NNP" group="I-NP">Servant</w> <w pws="yes" id="w8774" p="," group="I-NP">,</w> <w l="m." pws="yes" id="w8776" p="NNP" group="I-NP">M.</w> <w locname="single" common="true" l="fletcher" pws="yes" id="w8779" p="NNP" headn="yes" group="I-NP">FLETCHER</w></s> <w pws="yes" id="w8788" group="O">.</w> <s id="s4"><w pws="yes" qut="d" id="w8790" p="``" group="O">``</w> <w pws="yes" id="w8793" p="PRP" group="B-NP">I</w> <w pws="yes" id="w8795" p="RB" group="B-ADVP">long</w> <w pws="yes" id="w8800" p="TO" group="B-VP">to</w> <w l="see" pws="yes" id="w8803" p="VB" class="istate" headv="yes" group="I-VP">see</w> <w pws="yes" id="w8807" p="PRP" group="B-NP">you</w> <w pws="yes" id="w8811" p="," group="O">,</w> <w pws="yes" id="w8813" p="IN" group="B-PP">for</w> <w pws="yes" id="w8817" p="PRP$" group="B-NP">your</w> <w common="true" vstem="encourage" l="encouragement" pws="yes" id="w8822" p="NN" tmln="true" headn="yes" group="I-NP">Encouragement</w> <w pws="yes" id="w8836" p="TO" group="B-VP">to</w> <w l="grant" pws="yes" id="w8839" p="VB" headv="yes" group="I-VP">grant</w> <w pws="yes" id="w8845" p="PRP" group="B-NP">me</w> <w pws="yes" id="w8848" p="IN" group="B-SBAR">that</w> <w state="true" common="true" l="favour" pws="yes" id="w8853" p="NNP" headn="yes" group="B-NP">Favour</w> <w pws="yes" id="w8860" p=":" group="O">;</w> <w pws="yes" id="w8862" p="PRP" group="B-NP">I</w> <w l="be" pws="yes" id="w8864" p="VBP" headv="yes" group="B-VP">am</w> <w pws="yes" id="w8867" p="RB" tref="present" group="B-NP">now</w> <w l="acquaint" pws="yes" id="w8871" p="VBN" headv="yes" group="B-VP">acquainted</w> <w pws="yes" qut="d" id="w8882" p="``" group="O">``</w> <w pws="yes" id="w8885" p="IN" group="B-PP">with</w> <w pws="yes" id="w8890" p="DT" group="B-NP">a</w> <w pws="yes" id="w8892" p="JJ" group="I-NP">young</w> <w prof="true" common="true" l="lady" pws="yes" id="w8898" p="NN" wfirstn="true" headn="yes" group="I-NP">Lady</w> <w pws="yes" id="w8903" p="WDT" group="B-NP">that</w> <w l="be" pws="yes" id="w8908" p="VBZ" headv="yes" group="B-VP">is</w> <w common="true" pws="yes" id="w8911" p="JJ" group="B-ADJP">Pretty</w> <w pws="yes" id="w8918" p="," group="O">,</w> <w pws="yes" id="w8920" p="CC" group="O">and</w> <w state="true" l="life" pws="yes" id="w8924" p="NNS" tmln="true" headn="yes" group="B-NP">lives</w> <w pws="yes" id="w8930" p="IN" group="B-PP">in</w> <w tmla="true" pws="yes" id="w8933" p="JJ" group="B-NP">good</w> <w common="true" l="fashion" pws="yes" id="w8938" p="NN" headn="yes" group="I-NP">Fashion</w> <w pws="yes" id="w8946" p=":" group="O">;</w> <w pws="yes" id="w8948" p="PRP$" group="B-NP">your</w> <w state="true" common="true" l="honour" pws="yes" id="w8953" p="NNP" headn="yes" group="I-NP">Honour</w> <w l="will" pws="yes" id="w8960" p="MD" group="B-VP">will</w> <w pws="yes" qut="d" id="w8965" p="``" group="I-VP">``</w> <w l="oblige" pws="yes" id="w8968" p="VB" headv="yes" group="I-VP">oblige</w> <w pws="yes" id="w8975" p="PRP" group="B-NP">me</w> <w pws="yes" id="w8978" p="," group="O">,</w> <w pws="yes" id="w8980" p="IN" group="B-PP">in</w> <w l="let" pws="yes" id="w8983" p="VBG" headv="yes" group="B-VP">letting</w> <w pws="yes" id="w8991" p="PRP" group="B-NP">me</w> <w l="receive" pws="yes" id="w8994" p="VB" headv="yes" group="B-VP">receive</w> <w pws="yes" id="w9002" p="PRP$" group="B-NP">your</w> <w common="true" vstem="command" l="command" pws="yes" id="w9007" p="NNS" event="true" headn="yes" group="I-NP">Commands</w> <w pws="yes" id="w9016" p="." group="O">.</w> <w pws="yes" id="w9018" p="DT" group="B-NP">The</w> <w locname="single" l="tryal" pws="yes" id="w9022" p="NNP" group="I-NP">Tryal</w> <w l="last" pws="yes" id="w9028" p="VBD" headv="yes" group="B-VP">lasted</w> <w pws="yes" id="w9035" p="RB" group="B-ADJP">very</w> <w pws="yes" id="w9040" p="JJ" group="I-ADJP">long</w> <w pws="yes" id="w9045" p="," group="O">,</w> <w pws="yes" id="w9047" p="CC" group="O">and</w> <w pws="yes" id="w9051" p="DT" group="B-NP">the</w> <w common="true" l="jury" pws="yes" id="w9055" p="NNP" headn="yes" group="I-NP">Jury</w> <w l="have" pws="yes" id="w9060" p="VBG" headv="yes" group="B-VP">having</w> <w pws="yes" id="w9067" p="RB" group="B-ADVP">maturely</w> <w l="weigh" pws="yes" id="w9076" p="VB" headv="yes" group="B-VP">weigh</w> <w l="'d" pws="yes" id="w9082" p="MD" group="O">'d</w> <w pws="yes" id="w9085" p="DT" group="B-NP">the</w> <w common="true" l="evidence" pws="yes" id="w9089" p="NN" orgname="brand" tmln="true" group="I-NP">Evidence</w> <w pws="yes" id="w9098" p="IN" group="B-PP">on</w> <w pws="yes" id="w9101" p="DT" headn="yes" group="B-NP">both</w> <w l="side" pws="yes" id="w9106" p="NNS" headn="yes" group="I-NP">sides</w> <w pws="yes" id="w9112" p="," group="O">,</w> <w pws="yes" id="w9114" p="PRP" group="B-NP">they</w> <w l="bring" pws="yes" id="w9119" p="VBD" headv="yes" group="B-VP">brought</w> <w pws="yes" id="w9127" p="PRP" group="B-NP">him</w> <w pws="yes" id="w9131" p="IN" group="B-PP">in</w> <w pws="yes" id="w9134" p="JJ" group="B-ADJP">guilty</w> <w pws="yes" id="w9141" p="IN" group="B-PP">of</w> <w common="true" l="felony" pws="yes" id="w9144" p="NNP" event="true" headn="yes" group="B-NP">Felony</w> <w pws="yes" id="w9151" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w23" sw="w23">Tryal</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w33" sw="w33">Examination</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="person">
+    <parts>
+      <part ew="w57" sw="w50">Robert Fielding</part>
+    </parts>
+  </ent>
+  <ent day-number="739225" sdate="2024-12-06" year="2024" id="rb4" wdaynum="5" day="Friday" date="06" month="12" type="date">
+    <parts>
+      <part ew="w130" sw="w112">Friday , December 6</part>
+    </parts>
+  </ent>
+  <ent id="rb5" type="date" year="1706">
+    <parts>
+      <part ew="w134" sw="w134">1706</part>
+    </parts>
+  </ent>
+  <ent id="rb6" type="person">
+    <parts>
+      <part ew="w261" sw="w243">ROBERT Fielding , Esq</part>
+    </parts>
+  </ent>
+  <ent day="Wednesday" day-number="622701" sdate="1705-11-25" id="rb7" year="1705" date="25" month="11" type="date">
+    <parts>
+      <part ew="w316" sw="w300">25th Day of Nov 1705</part>
+    </parts>
+  </ent>
+  <ent id="rb8" type="person">
+    <parts>
+      <part ew="w358" sw="w358">Barbara</part>
+    </parts>
+  </ent>
+  <ent id="rb9" type="person">
+    <parts>
+      <part ew="w379" sw="w368">Duchess of Cleveland</part>
+    </parts>
+  </ent>
+  <ent id="rb11" type="person">
+    <parts>
+      <part ew="w504" sw="w499">Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent id="rb12" type="person">
+    <parts>
+      <part ew="w540" sw="w535">Mrs. Streat</part>
+    </parts>
+  </ent>
+  <ent id="rb13" type="person">
+    <parts>
+      <part ew="w592" sw="w587">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb14" type="person">
+    <parts>
+      <part ew="w639" sw="w634">Mrs. Deleau</part>
+    </parts>
+  </ent>
+  <ent id="rb15" type="location" contained-by="rb16" lat="" long="" gazref="">
+    <parts>
+      <part ew="w669" sw="w669">Waddon</part>
+    </parts>
+  </ent>
+  <ent id="rb16" type="location" contains="rb15" lat="" long="" gazref="">
+    <parts>
+      <part ew="w679" sw="w679">Surrey</part>
+    </parts>
+  </ent>
+  <ent id="rb17" type="person">
+    <parts>
+      <part ew="w719" sw="w714">Mrs. Streat</part>
+    </parts>
+  </ent>
+  <ent id="rb18" type="person">
+    <parts>
+      <part ew="w794" sw="w789">Mrs. Deleau</part>
+    </parts>
+  </ent>
+  <ent id="rb19" type="person">
+    <parts>
+      <part ew="w820" sw="w815">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb20" type="person">
+    <parts>
+      <part ew="w865" sw="w860">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb21" type="person">
+    <parts>
+      <part ew="w1190" sw="w1185">Mrs. Deleau</part>
+    </parts>
+  </ent>
+  <ent id="rb22" type="person">
+    <parts>
+      <part ew="w1352" sw="w1347">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb23" type="person">
+    <parts>
+      <part ew="w1403" sw="w1398">Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent id="rb24" type="person">
+    <parts>
+      <part ew="w1463" sw="w1459">Mr. Fieldings</part>
+    </parts>
+  </ent>
+  <ent id="rb25" type="person">
+    <parts>
+      <part ew="w1524" sw="w1519">Mrs. Streat</part>
+    </parts>
+  </ent>
+  <ent id="rb26" type="person">
+    <parts>
+      <part ew="w1596" sw="w1591">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb27" type="person">
+    <parts>
+      <part ew="w1613" sw="w1608">Mrs. Deleau</part>
+    </parts>
+  </ent>
+  <ent id="rb28" type="person">
+    <parts>
+      <part ew="w1801" sw="w1774">Mrs. Mary Wadsworth , Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent id="rb29" type="person">
+    <parts>
+      <part ew="w1863" sw="w1858">Mrs. Deleau</part>
+    </parts>
+  </ent>
+  <ent id="rb30" type="person">
+    <parts>
+      <part ew="w2103" sw="w2098">Mrs. Deleau</part>
+    </parts>
+  </ent>
+  <ent id="rb31" type="person">
+    <parts>
+      <part ew="w2117" sw="w2112">Mrs. Wadsworth</part>
+    </parts>
+  </ent>
+  <ent id="rb32" type="person">
+    <parts>
+      <part ew="w2242" sw="w2237">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb33" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w2468" sw="w2468">Margaretta</part>
+    </parts>
+  </ent>
+  <ent id="rb34" type="person">
+    <parts>
+      <part ew="w2529" sw="w2524">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb35" type="person">
+    <parts>
+      <part ew="w2855" sw="w2850">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb36" subtype="otf" type="person">
+    <parts>
+      <part ew="w2977" sw="w2972">Holy Father</part>
+    </parts>
+  </ent>
+  <ent id="rb37" type="person">
+    <parts>
+      <part ew="w3049" sw="w3044">Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent day="Saturday" day-number="739198" sdate="2024-11-09" year="2024" id="rb38" date="09" month="11" type="date">
+    <parts>
+      <part ew="w3094" sw="w3087">9th of November</part>
+    </parts>
+  </ent>
+  <ent id="rb39" type="person">
+    <parts>
+      <part ew="w3110" sw="w3105">Mrs. Wadsworth</part>
+    </parts>
+  </ent>
+  <ent id="rb40" type="person">
+    <parts>
+      <part ew="w3148" sw="w3143">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb41" type="person">
+    <parts>
+      <part ew="w3181" sw="w3176">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb42" type="person">
+    <parts>
+      <part ew="w3563" sw="w3559">Red Father</part>
+    </parts>
+  </ent>
+  <ent id="rb44" type="person">
+    <parts>
+      <part ew="w3648" sw="w3643">Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent id="rb45" type="person">
+    <parts>
+      <part ew="w3684" sw="w3679">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb46" subtype="otf" type="person">
+    <parts>
+      <part ew="w3717" sw="w3712">Holy Father</part>
+    </parts>
+  </ent>
+  <ent id="rb47" type="person">
+    <parts>
+      <part ew="w3846" sw="w3841">Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent id="rb50" type="person">
+    <parts>
+      <part ew="w4446" sw="w4441">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb51" type="person">
+    <parts>
+      <part ew="w4505" sw="w4505">Bride</part>
+    </parts>
+  </ent>
+  <ent id="rb52" type="person">
+    <parts>
+      <part ew="w4515" sw="w4515">Bridegroom</part>
+    </parts>
+  </ent>
+  <ent id="rb55" type="person">
+    <parts>
+      <part ew="w4737" sw="w4732">Mrs. Wadsworth</part>
+    </parts>
+  </ent>
+  <ent id="rb56" type="person">
+    <parts>
+      <part ew="w4881" sw="w4876">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb57" type="person">
+    <parts>
+      <part ew="w4966" sw="w4961">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb58" type="person">
+    <parts>
+      <part ew="w5106" sw="w5101">Mrs. Wadsworth</part>
+    </parts>
+  </ent>
+  <ent id="rb60" tval="1" trel="after" type="time">
+    <parts>
+      <part ew="w5528" sw="w5523">next Morning</part>
+    </parts>
+  </ent>
+  <ent id="rb61" quty="7" unit="week" type="date">
+    <parts>
+      <part ew="w5610" sw="w5604">seven Weeks</part>
+    </parts>
+  </ent>
+  <ent id="rb62" type="person">
+    <parts>
+      <part ew="w5637" sw="w5632">Mrs. Villar</part>
+    </parts>
+  </ent>
+  <ent id="rb66" type="person">
+    <parts>
+      <part ew="w6121" sw="w6116">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb67" type="person">
+    <parts>
+      <part ew="w6163" sw="w6159">Mr. Fieldings</part>
+    </parts>
+  </ent>
+  <ent id="rb69" type="person">
+    <parts>
+      <part ew="w6352" sw="w6347">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb70" type="person">
+    <parts>
+      <part ew="w6383" sw="w6378">Mrs. Wadsworth</part>
+    </parts>
+  </ent>
+  <ent id="rb71" type="person">
+    <parts>
+      <part ew="w6519" sw="w6511">Wives , Anne</part>
+    </parts>
+  </ent>
+  <ent id="rb72" subtype="otf" type="person">
+    <parts>
+      <part ew="w6536" sw="w6536">Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb73" subtype="otf" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w6550" sw="w6550">Waddon</part>
+    </parts>
+  </ent>
+  <ent id="rb74" type="person">
+    <parts>
+      <part ew="w6766" sw="w6761">Lord Tunbridge</part>
+    </parts>
+  </ent>
+  <ent id="rb76" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w7156" sw="w7156">London</part>
+    </parts>
+  </ent>
+  <ent id="rb77" type="person">
+    <parts>
+      <part ew="w7394" sw="w7389">Mr . Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb78" type="person">
+    <parts>
+      <part ew="w7454" sw="w7449">Mrs. Wadsworth</part>
+    </parts>
+  </ent>
+  <ent id="rb79" type="person">
+    <parts>
+      <part ew="w7489" sw="w7484">Lily Bradley</part>
+    </parts>
+  </ent>
+  <ent id="rb81" type="person">
+    <parts>
+      <part ew="w7615" sw="w7610">Lily Bradley</part>
+    </parts>
+  </ent>
+  <ent id="rb82" type="person">
+    <parts>
+      <part ew="w7632" sw="w7627">Mary Wadsworth</part>
+    </parts>
+  </ent>
+  <ent id="rb86" type="person">
+    <parts>
+      <part ew="w7894" sw="w7889">Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent id="rb87" type="person">
+    <parts>
+      <part ew="w7953" sw="w7948">Mrs. Fletcher</part>
+    </parts>
+  </ent>
+  <ent id="rb88" type="person">
+    <parts>
+      <part ew="w7986" sw="w7981">Mrs. Villars</part>
+    </parts>
+  </ent>
+  <ent id="rb89" type="person">
+    <parts>
+      <part ew="w8062" sw="w8057">Lord Torrington</part>
+    </parts>
+  </ent>
+  <ent id="rb90" type="person">
+    <parts>
+      <part ew="w8101" sw="w8096">Lord Stamford</part>
+    </parts>
+  </ent>
+  <ent id="rb92" type="person">
+    <parts>
+      <part ew="w8202" sw="w8198">Mr. Fletcher</part>
+    </parts>
+  </ent>
+  <ent date="03" month="12" year="2024" sdate="2024-12-03" day-number="739222" id="rb93" time="Morning" wdaynum="2" day="Tuesday" type="date">
+    <parts>
+      <part ew="w8243" sw="w8235">Tuesday Morning</part>
+    </parts>
+  </ent>
+  <ent id="rb95" subtype="otf" type="person">
+    <parts>
+      <part ew="w8297" sw="w8297">Fielding</part>
+    </parts>
+  </ent>
+  <ent id="rb96" type="person">
+    <parts>
+      <part ew="w8776" sw="w8766">Servant , M.</part>
+    </parts>
+  </ent>
+  <ent id="rb97" tref="present" type="date">
+    <parts>
+      <part ew="w8867" sw="w8867">now</part>
+    </parts>
+  </ent>
+  <ent id="rb98" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w9022" sw="w9022">Tryal</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev1" subtype="produce" type="event"><parts><part ew="w200" sw="w200">produced</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev2" subtype="print" type="event"><parts><part ew="w220" sw="w220">Printed</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev3" subtype="indict" type="event"><parts><part ew="w271" sw="w271">Indicted</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev4" subtype="heon" type="event"><parts><part ew="w291" sw="w291">heon</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev5" subtype="take" type="event"><parts><part ew="w338" sw="w338">take</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev6" subtype="prove" type="event"><parts><part ew="w480" sw="w480">Prove</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev7" subtype="depose" type="event"><parts><part ew="w518" sw="w518">deposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev8" subtype="come" type="event"><parts><part ew="w547" sw="w547">came</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev9" subtype="acquaint" type="event"><parts><part ew="w565" sw="w565">acquainted</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev10" subtype="desire" type="event"><parts><part ew="w726" sw="w726">desired</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev11" subtype="use" type="event"><parts><part ew="w741" sw="w741">use</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev12" subtype="s" type="event"><parts><part ew="w802" sw="w802">s</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev13" subtype="bring" type="event"><parts><part ew="w809" sw="w809">bring</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev14" subtype="go" type="event"><parts><part ew="w874" sw="w874">went</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev15" subtype="doubt" type="event"><parts><part ew="w902" sw="w902">doubting</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev16" subtype="come" type="event"><parts><part ew="w1035" sw="w1035">came</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev17" subtype="desire" type="event"><parts><part ew="w1051" sw="w1051">desired</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev18" subtype="see" type="event"><parts><part ew="w1062" sw="w1062">see</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev19" subtype="see" type="event"><parts><part ew="w1129" sw="w1129">saw</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev20" subtype="think" type="event"><parts><part ew="w1171" sw="w1171">thought</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev21" subtype="please" type="event"><parts><part ew="w1261" sw="w1261">pleased</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev22" subtype="take" type="event"><parts><part ew="w1272" sw="w1272">take</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev23" subtype="turn" type="event"><parts><part ew="w1284" sw="w1284">Turns</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev24" subtype="set" type="event"><parts><part ew="w1310" sw="w1310">set</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev25" subtype="'d" type="event"><parts><part ew="w1368" sw="w1368">'d</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev26" subtype="acquaint" type="event"><parts><part ew="w1387" sw="w1387">acquainted</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev27" subtype="take" type="event"><parts><part ew="w1504" sw="w1504">take</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev28" subtype="propo" type="event"><parts><part ew="w1531" sw="w1531">propos</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="yes" neg="yes" id="ev29" subtype="help" type="event"><parts><part ew="w1586" sw="w1586">help</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev30" subtype="impose" type="event"><parts><part ew="w1643" sw="w1643">impose</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev31" subtype="personate" type="event"><parts><part ew="w1675" sw="w1675">personate</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev32" subtype="fix" type="event"><parts><part ew="w1746" sw="w1746">fix</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev33" subtype="depose" type="event"><parts><part ew="w1817" sw="w1817">deposed</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev34" subtype="promi" type="event"><parts><part ew="w1836" sw="w1836">promis</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev35" subtype="persuade" type="event"><parts><part ew="w1849" sw="w1849">persuade</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev36" subtype="come" type="event"><parts><part ew="w1873" sw="w1873">come</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev37" subtype="come" type="event"><parts><part ew="w1973" sw="w1973">come</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev38" subtype="make" type="event"><parts><part ew="w1985" sw="w1985">make</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev39" subtype="come" type="event"><parts><part ew="w2022" sw="w2022">coming</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev40" subtype="appoint" type="event"><parts><part ew="w2070" sw="w2070">appointed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev41" subtype="come" type="event"><parts><part ew="w2080" sw="w2080">came</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev42" subtype="appear" type="event"><parts><part ew="w2127" sw="w2127">appeared</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev43" subtype="come" type="event"><parts><part ew="w2231" sw="w2231">comes</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev44" subtype="surprize" type="event"><parts><part ew="w2265" sw="w2265">surprized</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev45" subtype="see" type="event"><parts><part ew="w2287" sw="w2287">see</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev46" subtype="make" type="event"><parts><part ew="w2316" sw="w2316">made</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev47" subtype="entertain" type="event"><parts><part ew="w2387" sw="w2387">entertained</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev48" subtype="sing" type="event"><parts><part ew="w2460" sw="w2460">sung</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev49" subtype="send" type="event"><parts><part ew="w2489" sw="w2489">sent</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev50" subtype="propose" type="event"><parts><part ew="w2538" sw="w2538">proposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev51" subtype="seem" type="event"><parts><part ew="w2576" sw="w2576">seemed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev52" subtype="entertain" type="event"><parts><part ew="w2593" sw="w2593">entertained</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev53" subtype="go" type="event"><parts><part ew="w2673" sw="w2673">went</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev54" subtype="let" type="event"><parts><part ew="w2684" sw="w2684">let</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev55" subtype="know" type="event"><parts><part ew="w2692" sw="w2692">know</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev56" subtype="see" type="event"><parts><part ew="w2711" sw="w2711">see</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev57" subtype="come" type="event"><parts><part ew="w2746" sw="w2746">coming</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev58" subtype="send" type="event"><parts><part ew="w2782" sw="w2782">sent</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev59" subtype="excuse" type="event"><parts><part ew="w2803" sw="w2803">excuse</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev60" subtype="appoint" type="event"><parts><part ew="w2825" sw="w2825">appointed</part></parts></ent>
+  <ent id="ev61" subtype="" nominal="true" type="event"><parts><part ew="w2843" sw="w2843">time</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev62" subtype="'d" type="event"><parts><part ew="w2871" sw="w2871">'d</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev63" subtype="express" type="event"><parts><part ew="w2898" sw="w2898">express</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev64" subtype="say" type="event"><parts><part ew="w2936" sw="w2936">said</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev65" subtype="want" type="event"><parts><part ew="w2949" sw="w2949">wanted</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev66" subtype="make" type="event"><parts><part ew="w2987" sw="w2987">make</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev67" subtype="depose" type="event"><parts><part ew="w3065" sw="w3065">deposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev68" subtype="come" type="event"><parts><part ew="w3135" sw="w3135">came</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev69" subtype="s" type="event"><parts><part ew="w3158" sw="w3158">s</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev70" subtype="come" type="event"><parts><part ew="w3216" sw="w3216">came</part></parts></ent>
+  <ent id="ev71" subtype="" nominal="true" type="event"><parts><part ew="w3239" sw="w3239">time</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev72" subtype="come" type="event"><parts><part ew="w3247" sw="w3247">came</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev73" subtype="take" type="event"><parts><part ew="w3258" sw="w3258">took</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev74" subtype="say" type="event"><parts><part ew="w3292" sw="w3292">said</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev75" subtype="fetch" type="event"><parts><part ew="w3308" sw="w3308">fetch</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev76" subtype="put" type="event"><parts><part ew="w3354" sw="w3354">put</part></parts></ent>
+  <ent id="ev77" subtype="" nominal="true" type="event"><parts><part ew="w3375" sw="w3375">time</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="yes" neg="yes" id="ev78" subtype="persuade" type="event"><parts><part ew="w3400" sw="w3400">persuade</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev79" subtype="go" type="event"><parts><part ew="w3434" sw="w3434">went</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev80" subtype="lock" type="event"><parts><part ew="w3447" sw="w3447">lock</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev81" subtype="come" type="event"><parts><part ew="w3512" sw="w3512">came</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev82" subtype="bring" type="event"><parts><part ew="w3529" sw="w3529">brought</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev83" subtype="call" type="event"><parts><part ew="w3548" sw="w3548">called</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev84" subtype="depose" type="event"><parts><part ew="w3664" sw="w3664">deposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev85" subtype="say" type="event"><parts><part ew="w3693" sw="w3693">said</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev86" subtype="make" type="event"><parts><part ew="w3735" sw="w3735">make</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev87" subtype="order" type="event"><parts><part ew="w3779" sw="w3779">ordered</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev88" subtype="bring" type="event"><parts><part ew="w3790" sw="w3790">bring</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev89" subtype="depose" type="event"><parts><part ew="w3862" sw="w3862">deposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev90" subtype="question" type="event"><parts><part ew="w3892" sw="w3892">questioned</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev91" subtype="say" type="event"><parts><part ew="w3920" sw="w3920">said</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev92" subtype="shall" type="event"><parts><part ew="w3931" sw="w3931">shall</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev93" subtype="know" type="event"><parts><part ew="w3939" sw="w3939">know</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev94" subtype="put" type="event"><parts><part ew="w3984" sw="w3984">put</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev95" subtype="pull" type="event"><parts><part ew="w4017" sw="w4017">pull</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev96" subtype="s" type="event"><parts><part ew="w4050" sw="w4050">s</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev97" subtype="say" type="event"><parts><part ew="w4103" sw="w4103">said</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev98" subtype="priest" type="event"><parts><part ew="w4124" sw="w4124">Priests</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev99" subtype="carry" type="event"><parts><part ew="w4141" sw="w4141">carry</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev100" subtype="desire" type="event"><parts><part ew="w4178" sw="w4178">desired</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev101" subtype="shew" type="event"><parts><part ew="w4217" sw="w4217">shew</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev102" subtype="send" type="event"><parts><part ew="w4251" sw="w4251">sent</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev103" subtype="make" type="event"><parts><part ew="w4293" sw="w4293">make</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev104" subtype="bring" type="event"><parts><part ew="w4319" sw="w4319">brought</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev105" subtype="procure" type="event"><parts><part ew="w4361" sw="w4361">procure</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev106" subtype="send" type="event"><parts><part ew="w4397" sw="w4397">sent</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev107" subtype="s" type="event"><parts><part ew="w4456" sw="w4456">s</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev108" subtype="remembr" type="event"><parts><part ew="w4563" sw="w4563">remembred</part></parts></ent>
+  <ent id="ev109" subtype="bless" nominal="true" type="event"><parts><part ew="w4613" sw="w4613">blessing</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev110" subtype="cross" type="event"><parts><part ew="w4631" sw="w4631">crossing</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev111" subtype="read" type="event"><parts><part ew="w4689" sw="w4689">read</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev112" subtype="depose" type="event"><parts><part ew="w4717" sw="w4717">deposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev113" subtype="come" type="event"><parts><part ew="w4759" sw="w4759">came</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev114" subtype="take" type="event"><parts><part ew="w4789" sw="w4789">take</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev115" subtype="desire" type="event"><parts><part ew="w4829" sw="w4829">desired</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="yes" id="ev116" subtype="read" type="event"><parts><part ew="w4849" sw="w4849">read</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev117" subtype="cause" type="event"><parts><part ew="w4890" sw="w4890">caused</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev118" subtype="proceed" type="event"><parts><part ew="w4908" sw="w4908">proceed</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev119" subtype="understand" type="event"><parts><part ew="w4937" sw="w4937">understanding</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev120" subtype="supply" type="event"><parts><part ew="w4975" sw="w4975">supplied</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev121" subtype="say" type="event"><parts><part ew="w5002" sw="w5002">said</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev122" subtype="require" type="event"><parts><part ew="w5092" sw="w5092">required</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev123" subtype="speak" type="event"><parts><part ew="w5141" sw="w5141">speaking</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev124" subtype="desire" type="event"><parts><part ew="w5166" sw="w5166">desired</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev125" subtype="speak" type="event"><parts><part ew="w5181" sw="w5181">speak</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev126" subtype="utter" type="event"><parts><part ew="w5231" sw="w5231">uttered</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev127" subtype="take" type="event"><parts><part ew="w5255" sw="w5255">take</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev128" subtype="depose" type="event"><parts><part ew="w5350" sw="w5350">deposed</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev129" subtype="discharge" type="event"><parts><part ew="w5404" sw="w5404">discharged</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev130" subtype="put" type="event"><parts><part ew="w5425" sw="w5425">put</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev131" subtype="see" type="event"><parts><part ew="w5488" sw="w5488">saw</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev132" subtype="bed" type="event"><parts><part ew="w5506" sw="w5506">Bed</part></parts></ent>
+  <ent tense="past" voice="act" asp="perf" modal="no" id="ev133" subtype="see" type="event"><parts><part ew="w5546" sw="w5546">seen</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev134" subtype="dress" type="event"><parts><part ew="w5556" sw="w5556">dress</part></parts></ent>
+  <ent id="ev135" subtype="" nominal="true" type="event"><parts><part ew="w5582" sw="w5582">times</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev136" subtype="strengthen" type="event"><parts><part ew="w5621" sw="w5621">strengthen</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev137" subtype="s" type="event"><parts><part ew="w5645" sw="w5645">s</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev138" subtype="call" type="event"><parts><part ew="w5670" sw="w5670">called</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev139" subtype="depose" type="event"><parts><part ew="w5683" sw="w5683">deposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev140" subtype="see" type="event"><parts><part ew="w5701" sw="w5701">saw</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev141" subtype="bring" type="event"><parts><part ew="w5722" sw="w5722">brought</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev142" subtype="see" type="event"><parts><part ew="w5763" sw="w5763">saw</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev143" subtype="bed" type="event"><parts><part ew="w5775" sw="w5775">Bed</part></parts></ent>
+  <ent id="ev144" subtype="" nominal="true" type="event"><parts><part ew="w5808" sw="w5808">times</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev145" subtype="take" type="event"><parts><part ew="w5820" sw="w5820">took</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev146" subtype="prov" type="event"><parts><part ew="w5882" sw="w5882">prov</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev147" subtype="make" type="event"><parts><part ew="w6078" sw="w6078">made</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev148" subtype="depose" type="event"><parts><part ew="w6094" sw="w6094">deposed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev149" subtype="make" type="event"><parts><part ew="w6105" sw="w6105">made</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev150" subtype="depose" type="event"><parts><part ew="w6220" sw="w6220">deposed</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev151" subtype="prov" type="event"><parts><part ew="w6314" sw="w6314">prov</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev152" subtype="acknowledge" type="event"><parts><part ew="w6366" sw="w6366">acknowledge</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev153" subtype="direct" type="event"><parts><part ew="w6487" sw="w6487">Directed</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev154" subtype="please" type="event"><parts><part ew="w6597" sw="w6597">please</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev155" subtype="hear" type="event"><parts><part ew="w6641" sw="w6641">hear</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev156" subtype="say" type="event"><parts><part ew="w6662" sw="w6662">say</part></parts></ent>
+  <ent tense="past" voice="act" asp="perf" modal="no" id="ev157" subtype="make" type="event"><parts><part ew="w6674" sw="w6674">made</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev158" subtype="turn" type="event"><parts><part ew="w6691" sw="w6691">turning</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" neg="yes" id="ev159" subtype="hope" type="event"><parts><part ew="w6744" sw="w6744">hope</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev160" subtype="make" type="event"><parts><part ew="w6858" sw="w6858">make</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev161" subtype="cultivate" type="event"><parts><part ew="w6894" sw="w6894">Cultivate</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev162" subtype="besure" type="event"><parts><part ew="w6929" sw="w6929">besure</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" neg="yes" id="ev163" subtype="starve" type="event"><parts><part ew="w6947" sw="w6947">starve</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev164" subtype="come" type="event"><parts><part ew="w6975" sw="w6975">coming</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev165" subtype="depend" type="event"><parts><part ew="w7003" sw="w7003">depends</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev166" subtype="can" type="event"><parts><part ew="w7032" sw="w7032">can</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev167" subtype="come" type="event"><parts><part ew="w7073" sw="w7073">come</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev168" subtype="give" type="event"><parts><part ew="w7116" sw="w7116">giving</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev169" subtype="stay" type="event"><parts><part ew="w7138" sw="w7138">stay</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev170" subtype="come" type="event"><parts><part ew="w7217" sw="w7217">come</part></parts></ent>
+  <ent id="ev171" subtype="" nominal="true" type="event"><parts><part ew="w7229" sw="w7229">time</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev172" subtype="go" type="event"><parts><part ew="w7250" sw="w7250">go</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev173" subtype="lye" type="event"><parts><part ew="w7267" sw="w7267">lye</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev174" subtype="come" type="event"><parts><part ew="w7301" sw="w7301">come</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev175" subtype="call" type="event"><parts><part ew="w7316" sw="w7316">call</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev176" subtype="value" type="event"><parts><part ew="w7366" sw="w7366">value</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev177" subtype="prove" type="event"><parts><part ew="w7438" sw="w7438">prove</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev178" subtype="write" type="event"><parts><part ew="w7671" sw="w7671">written</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev179" subtype="give" type="event"><parts><part ew="w7807" sw="w7807">gave</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev180" subtype="suspect" type="event"><parts><part ew="w7833" sw="w7833">suspect</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev181" subtype="prove" type="event"><parts><part ew="w7883" sw="w7883">prove</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev182" subtype="depose" type="event"><parts><part ew="w7968" sw="w7968">deposed</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev183" subtype="confess" type="event"><parts><part ew="w7994" sw="w7994">confess</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev184" subtype="confront" type="event"><parts><part ew="w8130" sw="w8130">confronted</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev185" subtype="know" type="event"><parts><part ew="w8265" sw="w8265">knows</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev186" subtype="own" type="event"><parts><part ew="w8313" sw="w8313">own</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev187" subtype="acknowledge" type="event"><parts><part ew="w8436" sw="w8436">acknowledge</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev188" subtype="s" type="event"><parts><part ew="w8468" sw="w8468">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev189" subtype="force" type="event"><parts><part ew="w8485" sw="w8485">forces</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev190" subtype="dispose" type="event"><parts><part ew="w8501" sw="w8501">dispose</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev191" subtype="s" type="event"><parts><part ew="w8540" sw="w8540">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev192" subtype="make" type="event"><parts><part ew="w8632" sw="w8632">makes</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev193" subtype="accept" type="event"><parts><part ew="w8681" sw="w8681">accepting</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev194" subtype="oblige" type="event"><parts><part ew="w8726" sw="w8726">oblige</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev195" subtype="serve" type="event"><parts><part ew="w8746" sw="w8746">serve</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev196" subtype="see" type="event"><parts><part ew="w8803" sw="w8803">see</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev197" subtype="grant" type="event"><parts><part ew="w8839" sw="w8839">grant</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev198" subtype="acquaint" type="event"><parts><part ew="w8871" sw="w8871">acquainted</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev199" subtype="oblige" type="event"><parts><part ew="w8968" sw="w8968">oblige</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev200" subtype="let" type="event"><parts><part ew="w8983" sw="w8983">letting</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev201" subtype="receive" type="event"><parts><part ew="w8994" sw="w8994">receive</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev202" subtype="last" type="event"><parts><part ew="w9028" sw="w9028">lasted</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev203" subtype="weigh" type="event"><parts><part ew="w9076" sw="w9076">weigh</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev204" subtype="bring" type="event"><parts><part ew="w9119" sw="w9119">brought</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="1706 . For having TWO WIVES . WITH The True COPIES of the Letters produced">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="rb5"/>
+  </relation>
+  <relation id="rbr2" type="beforeorincl" text="was Indicted">
+    <argument arg1="true" ref="ev3"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr3" type="simultaneous" text="heon the 25th Day of Nov 1705">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="rb7"/>
+  </relation>
+  <relation id="rbr4" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev7"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr5" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev8"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr6" type="beforeorincl" text="acquainted">
+    <argument arg1="true" ref="ev9"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr7" type="beforeorincl" text="desired">
+    <argument arg1="true" ref="ev10"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr8" type="beforeorincl" text="went">
+    <argument arg1="true" ref="ev14"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr9" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev16"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr10" type="beforeorincl" text="desired">
+    <argument arg1="true" ref="ev17"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr11" type="beforeorincl" text="saw">
+    <argument arg1="true" ref="ev19"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr12" type="beforeorincl" text="thought">
+    <argument arg1="true" ref="ev20"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr13" type="beforeorincl" text="was pleased">
+    <argument arg1="true" ref="ev21"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr14" type="beforeorincl" text="set">
+    <argument arg1="true" ref="ev24"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr15" type="beforeorincl" text="'d">
+    <argument arg1="true" ref="ev25"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr16" type="beforeorincl" text="acquainted">
+    <argument arg1="true" ref="ev26"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr17" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev41"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr18" type="beforeorincl" text="appeared">
+    <argument arg1="true" ref="ev42"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr19" type="beforeorincl" text="made">
+    <argument arg1="true" ref="ev46"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr20" type="beforeorincl" text="entertained">
+    <argument arg1="true" ref="ev47"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr21" type="beforeorincl" text="sent">
+    <argument arg1="true" ref="ev49"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr22" type="beforeorincl" text="proposed">
+    <argument arg1="true" ref="ev50"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr23" type="beforeorincl" text="seemed">
+    <argument arg1="true" ref="ev51"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr24" type="beforeorincl" text="entertained">
+    <argument arg1="true" ref="ev52"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr25" type="beforeorincl" text="went">
+    <argument arg1="true" ref="ev53"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr26" type="beforeorincl" text="let">
+    <argument arg1="true" ref="ev54"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr27" type="beforeorincl" text="sent">
+    <argument arg1="true" ref="ev58"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr28" type="beforeorincl" text="'d">
+    <argument arg1="true" ref="ev62"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr29" type="beforeorincl" text="said">
+    <argument arg1="true" ref="ev64"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr30" type="beforeorincl" text="wanted">
+    <argument arg1="true" ref="ev65"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr31" type="simultaneous" text="deposed , that on the 9th of November">
+    <argument arg1="true" ref="ev67"/>
+    <argument arg2="true" ref="rb38"/>
+  </relation>
+  <relation id="rbr32" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev68"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr33" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev70"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr34" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev72"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr35" type="beforeorincl" text="took">
+    <argument arg1="true" ref="ev73"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr36" type="beforeorincl" text="said">
+    <argument arg1="true" ref="ev74"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr37" type="beforeorincl" text="put off">
+    <argument arg1="true" ref="ev76"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr38" type="beforeorincl" text="went">
+    <argument arg1="true" ref="ev79"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr39" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev81"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr40" type="beforeorincl" text="brought">
+    <argument arg1="true" ref="ev82"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr41" type="beforeorincl" text="called">
+    <argument arg1="true" ref="ev83"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr42" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev84"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr43" type="beforeorincl" text="said">
+    <argument arg1="true" ref="ev85"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr44" type="beforeorincl" text="was ordered">
+    <argument arg1="true" ref="ev87"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr45" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev89"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr46" type="beforeorincl" text="questioned">
+    <argument arg1="true" ref="ev90"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr47" type="beforeorincl" text="said">
+    <argument arg1="true" ref="ev91"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr48" type="beforeorincl" text="put">
+    <argument arg1="true" ref="ev94"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr49" type="beforeorincl" text="said">
+    <argument arg1="true" ref="ev97"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr50" type="beforeorincl" text="desired">
+    <argument arg1="true" ref="ev100"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr51" type="beforeorincl" text="shew">
+    <argument arg1="true" ref="ev101"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr52" type="beforeorincl" text="was sent">
+    <argument arg1="true" ref="ev102"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr53" type="beforeorincl" text="brought up">
+    <argument arg1="true" ref="ev104"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr54" type="beforeorincl" text="remembred">
+    <argument arg1="true" ref="ev108"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr55" type="beforeorincl" text="was read">
+    <argument arg1="true" ref="ev111"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr56" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev112"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr57" type="beforeorincl" text="came">
+    <argument arg1="true" ref="ev113"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr58" type="beforeorincl" text="desired">
+    <argument arg1="true" ref="ev115"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr59" type="beforeorincl" text="caused">
+    <argument arg1="true" ref="ev117"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr60" type="beforeorincl" text="supplied">
+    <argument arg1="true" ref="ev120"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr61" type="beforeorincl" text="said">
+    <argument arg1="true" ref="ev121"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr62" type="beforeorincl" text="required">
+    <argument arg1="true" ref="ev122"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr63" type="beforeorincl" text="desired">
+    <argument arg1="true" ref="ev124"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr64" type="beforeorincl" text="uttered">
+    <argument arg1="true" ref="ev126"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr65" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev128"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr66" type="beforeorincl" text="was discharged">
+    <argument arg1="true" ref="ev129"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr67" type="beforeorincl" text="put">
+    <argument arg1="true" ref="ev130"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr68" type="beforeorincl" text="saw">
+    <argument arg1="true" ref="ev131"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr69" type="simultaneous" text="4 times in the space of seven Weeks">
+    <argument arg1="true" ref="ev135"/>
+    <argument arg2="true" ref="rb61"/>
+  </relation>
+  <relation id="rbr70" type="beforeorincl" text="was called">
+    <argument arg1="true" ref="ev138"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr71" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev139"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr72" type="beforeorincl" text="saw">
+    <argument arg1="true" ref="ev140"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr73" type="beforeorincl" text="brought">
+    <argument arg1="true" ref="ev141"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr74" type="beforeorincl" text="saw">
+    <argument arg1="true" ref="ev142"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr75" type="beforeorincl" text="took">
+    <argument arg1="true" ref="ev145"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr76" type="beforeorincl" text="made">
+    <argument arg1="true" ref="ev147"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr77" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev148"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr78" type="beforeorincl" text="made">
+    <argument arg1="true" ref="ev149"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr79" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev150"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr80" type="beforeorincl" text="were prov">
+    <argument arg1="true" ref="ev151"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr81" type="beforeorincl" text="was written">
+    <argument arg1="true" ref="ev178"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr82" type="beforeorincl" text="gave">
+    <argument arg1="true" ref="ev179"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr83" type="beforeorincl" text="deposed">
+    <argument arg1="true" ref="ev182"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr84" type="simultaneous" text="was confronted by a Letter that was produc 'd by the other side , which Mr. Fletcher own 'd to be her Hand . Tuesday Morning">
+    <argument arg1="true" ref="ev184"/>
+    <argument arg2="true" ref="rb93"/>
+  </relation>
+  <relation id="rbr85" type="simultaneous" text="now acquainted">
+    <argument arg1="true" ref="ev198"/>
+    <argument arg2="true" ref="rb97"/>
+  </relation>
+  <relation id="rbr86" type="beforeorincl" text="lasted">
+    <argument arg1="true" ref="ev202"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr87" type="beforeorincl" text="brought">
+    <argument arg1="true" ref="ev204"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

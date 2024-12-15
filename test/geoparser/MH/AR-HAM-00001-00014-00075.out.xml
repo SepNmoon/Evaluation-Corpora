@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="send" pws="yes" id="w13" p="VB" headv="yes" group="B-VP">Send</w> <w pws="yes" id="w18" p="PRP" group="B-NP">me</w> <w l="word" pws="yes" id="w21" p="NN" headn="yes" group="B-NP">word</w> <w pws="yes" id="w26" p="WRB" group="B-ADVP">how</w> <w pws="yes" id="w30" p="PRP" group="B-NP">you</w> <w l="do" pws="yes" id="w34" p="VBP" headv="yes" group="B-VP">do</w> <w pws="yes" id="w37" p="," group="O">,</w> <w pws="yes" id="w39" p="IN" group="B-SBAR">if</w> <w pws="yes" id="w42" p="PRP" group="B-NP">you</w> <w l="want" pws="yes" id="w46" p="VBP" class="istate" headv="yes" group="B-VP">want</w> <w pws="yes" id="w51" p="DT" group="B-NP">any</w> <w l="slop" pws="yes" id="w55" p="NNS" headn="yes" group="I-NP">Slops</w> <w pws="yes" id="w61" p="PRP$" group="B-NP">my</w> <w prof="true" common="true" l="servant" pws="yes" id="w64" p="NN" headn="yes" group="I-NP">Servant</w> <w l="make" pws="yes" id="w72" p="VBZ" headv="yes" group="B-VP">makes</w> <w pws="yes" id="w78" p="PRP" group="B-NP">them</w> <w pws="yes" id="w83" p="RB" group="B-ADVP">very</w> <w pws="yes" id="w88" p="RB" group="I-ADVP">well</w> <w pws="yes" id="w93" p="." group="O">.</w> <w common="true" l="god" pws="yes" id="w95" p="NNP" headn="yes" group="B-NP">God</w> <w l="Bleſs" pws="yes" id="w99" p="NNPS" headn="yes" group="I-NP">Bleſs</w> <w pws="yes" id="w105" p="PRP" group="B-NP">you</w> <w pws="yes" id="w109" p="PRP$" group="B-NP">my</w> <w l="dear" pws="yes" id="w112" p="NNP" headn="yes" group="I-NP">Dear</w> <w l="good" pws="yes" id="w117" p="NNP" headn="yes" group="I-NP">Good</w> <w common="true" l="night" pws="yes" id="w122" p="NNP" tmln="true" headn="yes" group="I-NP">Night</w> <w l="affly" pws="yes" id="w128" p="NNP" headn="yes" group="I-NP">Affly</w> <w l="yr" pws="yes" id="w134" p="NNP" headn="yes" group="I-NP">Yr</w><w pws="no" id="w136" p=":" group="O">-</w> <w l="mcg" pws="yes" id="w138" p="NNP" headn="yes" group="B-NP">MCG</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="send" type="event"><parts><part ew="w13" sw="w13">Send</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="want" type="event"><parts><part ew="w46" sw="w46">want</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev3" subtype="make" type="event"><parts><part ew="w72" sw="w72">makes</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

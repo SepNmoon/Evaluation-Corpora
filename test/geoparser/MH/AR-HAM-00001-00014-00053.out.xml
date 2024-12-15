@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">My</w> <w l="dr" pws="yes" id="w16" p="NN" headn="yes" group="I-NP">dr</w> <w l="Prſs" pws="yes" id="w19" p="NNP" headn="yes" group="B-NP">Prſs</w> <w l="elizth" pws="yes" id="w24" p="NNP" headn="yes" group="I-NP">Elizth</w> <w l="speak" pws="yes" id="w31" p="VBD" headv="yes" group="B-VP">spoke</w> <w pws="yes" id="w37" p="TO" group="B-PP">to</w> <w pws="yes" id="w40" p="PRP" group="B-NP">me</w> <w pws="yes" id="w43" p="CC" group="O">&amp;</w> <w pws="yes" id="w45" p="PRP" group="B-NP">I</w> <w l="have" pws="yes" id="w47" p="VBP" group="B-VP">have</w> <w l="present" pws="yes" id="w52" p="VBN" headv="yes" group="I-VP">presented</w> <w pws="yes" id="w62" p="JJ" group="B-NP">yr</w> <w common="true" l="request" pws="yes" id="w65" p="NN" tmln="true" headn="yes" group="I-NP">Request</w> <w pws="yes" id="w73" p="TO" group="B-PP">to</w> <w pws="yes" id="w76" p="PRP$" group="B-NP">Her</w> <w common="true" l="majesty" pws="yes" id="w80" p="NNP" headn="yes" group="I-NP">Majesty</w> <w pws="yes" id="w88" p="WP" headn="yes" group="B-NP">who</w> <w l="have" pws="yes" id="w92" p="VBZ" group="B-VP">has</w> <w l="consent" pws="yes" id="w96" p="VBN" headv="yes" group="I-VP">consented</w> <w pws="yes" id="w106" p="TO" group="B-PP">to</w> <w pws="yes" id="w109" p="PRP" group="B-NP">it</w> <w pws="yes" id="w112" p=":" group="O">--</w> <w l="adieu" pws="yes" id="w115" p="NNP" headn="yes" group="B-NP">Adieu</w> <w pws="yes" id="w121" p="PRP$" group="B-NP">my</w> <w l="dr" pws="yes" id="w124" p="NN" headn="yes" group="I-NP">dr</w> <w l="beaucoup" pws="yes" id="w127" p="NN" headn="yes" group="I-NP">beaucoup</w> <w pws="yes" id="w136" p="IN" group="B-PP">de</w> <w locname="single" l="plaisir" pws="yes" id="w139" p="NNP" group="B-NP">Plaisir</w> <w pws="yes" id="w147" p="," group="O">,</w> <w l="et" pws="yes" id="w149" p="NN" headn="yes" group="B-NP">et</w> <w l="Succeſs" pws="yes" id="w152" p="NNS" headn="yes" group="I-NP">Succeſs</w> <w pws="yes" id="w160" p=":" group="O">--</w> <w pws="yes" id="w163" p="RB" group="B-ADVP">Affly</w> <w pws="yes" id="w169" p="SYM" group="O">Yr</w><w pws="no" id="w171" p=":" group="O">-</w> <w l="mcg" pws="yes" id="w173" p="NNP" headn="yes" group="B-NP">MCG</w> <w pws="yes" id="w177" p="CD" quty="20" headn="yes" group="I-NP">20</w> <w l="m" pws="yes" id="w180" p="NNP" headn="yes" group="B-NP">Ms</w> <w l="pt" pws="yes" id="w183" p="NN" headn="yes" group="I-NP">pt</w> <w pws="yes" id="w186" p="CD" quty="11" headn="yes" group="I-NP">11</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w139" sw="w139">Plaisir</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev1" subtype="speak" type="event"><parts><part ew="w31" sw="w31">spoke</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="perf" modal="no" id="ev2" subtype="present" type="event"><parts><part ew="w52" sw="w52">presented</part></parts></ent>
+  <ent tense="pres" voice="act" asp="perf" modal="no" id="ev3" subtype="consent" type="event"><parts><part ew="w96" sw="w96">consented</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="spoke">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

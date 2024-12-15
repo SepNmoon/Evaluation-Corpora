@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="william" pws="yes" id="w13" p="NNP" pername="true" wfirstn="true" group="B-NP">William</w> <w locname="single" l="cel" pws="yes" id="w21" p="NNP" group="I-NP">Cel</w> <w l="l" pws="yes" id="w25" p="NNP" headn="yes" group="I-NP">L</w><w qut="s" pws="no" id="w26" p="POS" group="I-NP">'</w><w pws="no" id="w27" p="JJ" group="I-NP">amitié</w> <w pws="yes" id="w34" p="JJ" group="I-NP">nous</w> <w l="uniè" pws="yes" id="w39" p="NN" headn="yes" group="I-NP">uniè</w> <w l="le" pws="yes" id="w44" p="VBZ" headv="yes" group="B-VP">Les</w> <w l="bagatelle" pws="yes" id="w48" p="NNS" headn="yes" group="B-NP">bagatelles</w> <w pws="yes" id="w59" p="JJ" group="B-NP">montrent</w> <w vstem="respect" l="respect" pws="yes" id="w68" p="NN" headn="yes" group="I-NP">respect</w> <w common="true" l="written" pws="yes" id="w76" p="NNP" headn="yes" group="B-NP">Written</w> <w pws="yes" id="w84" p="CC" group="O">&amp;</w> <w l="give" pws="yes" id="w86" p="VBN" headv="yes" group="B-VP">given</w> <w pws="yes" id="w92" p="TO" group="B-PP">to</w> <w pws="yes" id="w95" p="PRP" group="B-NP">me</w> <w pws="yes" id="w98" p="IN" group="B-PP">by</w> <w pws="yes" id="w101" p="DT" group="B-NP">The</w> <w common="true" l="queen" pws="yes" id="w105" p="NNP" group="I-NP">Queen</w> <w l="mary" pws="yes" id="w111" p="NNP" pername="true" wfirstn="true" group="I-NP">Mary</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w116" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w> <w common="true" l="queen" pws="yes" id="w125" p="NNP" headn="yes" group="I-NP">Queens</w> <w common="true" l="lodge" pws="yes" id="w132" p="NNP" headn="yes" group="I-NP">Lodge</w> <w locname="single" l="windsor" pws="yes" id="w138" p="NNP" wfirstn="true" headn="yes" group="I-NP">Windsor</w> <w l="march" pws="yes" id="w146" p="NNP" month="03" group="B-NP">March</w> <w pws="yes" id="w152" p="CD" quty="1781" year="1781" group="I-NP">1781</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w21" sw="w13">William Cel</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w111" sw="w105">Queen Mary</part>
+    </parts>
+  </ent>
+  <ent id="rb3" year="1781" month="03" type="date" edate="1781-03-31" sdate="1781-03-01">
+    <parts>
+      <part ew="w152" sw="w146">March 1781</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="le" type="event"><parts><part ew="w44" sw="w44">Les</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev2" subtype="give" type="event"><parts><part ew="w86" sw="w86">given</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="given to me by The Queen Mary Hamilton Queens Lodge Windsor March 1781">
+    <argument arg1="true" ref="ev2"/>
+    <argument arg2="true" ref="rb3"/>
+  </relation>
+</relations></standoff></document>

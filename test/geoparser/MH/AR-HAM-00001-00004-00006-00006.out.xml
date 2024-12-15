@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="mr." pws="yes" id="w13" p="NNP" group="B-NP">Mr.</w> <w wlastn="true" locname="single" l="dickinson" pws="yes" id="w17" p="NNP" group="I-NP">Dickinson</w> <w l="will" pws="yes" id="w27" p="MD" group="O">Will</w> <w pws="yes" id="w32" p="PRP" group="B-NP">you</w> <w l="meet" pws="yes" id="w36" p="VB" headv="yes" group="B-VP">meet</w> <w pws="yes" id="w41" p="PRP" group="B-NP">me</w> <w pws="yes" id="w44" p="IN" group="B-PP">in</w> <w locname="single" l="portman" pws="yes" id="w47" p="NNP" headn="yes" group="B-NP">Portman</w> <w common="true" l="square" pws="yes" id="w55" p="NNP" headn="yes" group="I-NP">Square</w> <w pws="yes" id="w62" p="IN" group="B-PP">at</w> <w common="true" l="nine" pws="yes" id="w65" p="NNP" quty="9" group="B-NP">Nine</w> <w l="o'clock" pws="yes" id="w70" p="NNP" group="I-NP">O'Clock</w> <w pws="yes" id="w78" p="PRP" group="B-NP">I</w> <w l="wish" pws="yes" id="w80" p="VBP" headv="yes" group="B-VP">wish</w> <w pws="yes" id="w85" p="TO" group="B-VP">to</w> <w l="speak" pws="yes" id="w88" p="VB" headv="yes" group="I-VP">speak</w> <w pws="yes" id="w94" p="TO" group="B-PP">to</w> <w pws="yes" id="w97" p="PRP" group="B-NP">you</w> <w pws="yes" id="w101" p="IN" group="B-PP">for</w> <w pws="yes" id="w105" p="CD" quty="5" group="B-NP">five</w> <w l="minute" pws="yes" id="w110" p="NNS" unit="minute" group="I-NP">Minutes</w> <w pws="yes" id="w118" p="JJ" group="B-NP">yo</w><w l=".s" pws="no" id="w120" p="NNS" headn="yes" group="I-NP">.s</w> <w pws="yes" id="w123" p="." group="O">.</w> <w pws="yes" id="w125" p="RB" group="B-ADVP">Sincerely</w> <w locname="single" l="rach" pws="yes" id="w135" p="NNP" group="B-NP">Rach</w> <w pws="yes" id="w140" p="." group="O">.</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w142" p="NNP" wfirstn="true" group="B-NP">Hamilton</w> <w l="mrs." pws="yes" id="w151" p="NNP" group="I-NP">Mrs.</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w156" p="NNP" wfirstn="true" group="I-NP">Hamilton</w> <w common="true" l="orchard" pws="yes" id="w165" p="NNP" group="I-NP">Orchard</w> <w wlastn="true" common="true" l="street" pws="yes" id="w173" p="NNP" headn="yes" group="I-NP">Street</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w17" sw="w13">Mr. Dickinson</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w70" sw="w65">Nine O'Clock</part>
+    </parts>
+  </ent>
+  <ent id="rb3" tval="5" quty="5" unit="minute" type="time">
+    <parts>
+      <part ew="w110" sw="w105">five Minutes</part>
+    </parts>
+  </ent>
+  <ent id="rb4" type="location" lat="47.17548" long="14.59002" gazref="geonames:11592967" in-country="AT" feat-type="ppl">
+    <parts>
+      <part ew="w135" sw="w135">Rach</part>
+    </parts>
+  </ent>
+  <ent id="rb5" subtype="otf" type="person">
+    <parts>
+      <part ew="w142" sw="w142">Hamilton</part>
+    </parts>
+  </ent>
+  <ent id="rb6" type="person">
+    <parts>
+      <part ew="w165" sw="w151">Mrs. Hamilton Orchard</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="meet" type="event"><parts><part ew="w36" sw="w36">meet</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="wish" type="event"><parts><part ew="w80" sw="w80">wish</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev3" subtype="speak" type="event"><parts><part ew="w88" sw="w88">speak</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

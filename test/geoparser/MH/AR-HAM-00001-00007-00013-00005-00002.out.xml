@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w locname="single" common="true" l="favor" pws="yes" id="w13" p="NNP" event="true" headn="yes" group="B-NP">Favor</w> <w pws="yes" id="w19" p="PRP" group="B-NP">me</w> <w pws="yes" id="w22" p="PRP$" group="B-NP">my</w> <w l="dear" pws="yes" id="w25" p="NNP" headn="yes" group="I-NP">Dear</w> <w l="mrs." pws="yes" id="w30" p="NNP" group="B-NP">Mrs.</w> <w l="hagerdorn" pws="yes" id="w35" p="NNP" group="I-NP">Hagerdorn</w> <w pws="yes" id="w45" p="IN" group="B-PP">by</w> <w pws="yes" id="w48" p="PRP$" group="B-NP">your</w> <w common="true" vstem="accept" l="acceptance" pws="yes" id="w53" p="NNP" tmln="true" headn="yes" group="I-NP">Acceptance</w> <w pws="yes" id="w64" p="IN" group="B-PP">of</w> <w pws="yes" id="w67" p="DT" group="B-NP">this</w> <w pws="yes" id="w72" p="JJ" group="I-NP">little</w> <w l="picture" pws="yes" id="w79" p="NN" headn="yes" group="I-NP">picture</w> <w pws="yes" id="w87" p="," group="O">,</w> <w pws="yes" id="w89" p="IN" group="B-PP">as</w> <w pws="yes" id="w92" p="DT" group="B-NP">the</w> <w l="subject" pws="yes" id="w96" p="NN" headn="yes" group="I-NP">subject</w> <w pws="yes" id="w104" p="IN" group="B-PP">of</w> <w pws="yes" id="w107" p="PRP" group="B-NP">it</w> <w l="will" pws="yes" id="w110" p="MD" group="B-VP">will</w> <w l="remind" pws="yes" id="w115" p="VB" headv="yes" group="I-VP">remind</w> <w pws="yes" id="w122" p="PRP" group="B-NP">you</w> <w pws="yes" id="w126" p="IN" group="B-PP">of</w> <w pws="yes" id="w129" p="DT" group="B-NP">a</w> <w common="true" l="country" pws="yes" id="w131" p="NN" headn="yes" group="I-NP">Country</w> <w pws="yes" id="w139" p="WDT" group="B-NP">that</w> <w l="be" pws="yes" id="w144" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w147" p="JJ" group="B-ADJP">dear</w> <w pws="yes" id="w152" p="TO" group="B-PP">to</w> <w pws="yes" id="w155" p="PRP" group="B-NP">you</w> <w pws="yes" id="w159" p="," group="O">,</w> <w pws="yes" id="w161" p="RB" group="B-ADVP">so</w> <w pws="yes" id="w164" p="RB" group="I-ADVP">also</w> <w l="let" pws="yes" id="w169" p="VB" headv="yes" group="B-VP">let</w> <w pws="yes" id="w173" p="DT" group="B-NP">this</w> <w common="true" vstem="give" l="gift" pws="yes" id="w178" p="NNP" wfirstn="true" headn="yes" group="I-NP">Gift</w> <w pws="yes" id="w183" p="IN" group="B-PP">though</w> <w pws="yes" id="w190" p="IN" group="B-PP">of</w> <w pws="yes" id="w193" p="JJ" group="B-NP">small</w> <w common="true" l="value" pws="yes" id="w199" p="NN" tmln="true" headn="yes" group="I-NP">Value</w> <w pws="yes" id="w205" p="," group="O">,</w> <w l="remind" pws="yes" id="w207" p="VB" headv="yes" group="B-VP">remind</w> <w pws="yes" id="w214" p="PRP" group="B-NP">you</w> <w pws="yes" id="w218" p="RB" group="B-ADVP">sometimes</w> <w pws="yes" id="w228" p="IN" group="B-PP">of</w> <w pws="yes" id="w231" p="PRP$" group="B-NP">Your</w> <w pws="yes" id="w236" p="JJ" group="I-NP">affectionate</w> <w prof="true" l="friend" pws="yes" id="w249" p="NN" headn="yes" group="I-NP">friend</w> <w l="mary" pws="yes" id="w256" p="NNP" pername="true" wfirstn="true" group="B-NP">Mary</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w261" p="NNP" wfirstn="true" group="I-NP">Hamilton</w> <w pws="yes" id="w270" p="CD" quty="9" group="B-NP">9</w> <w l="th" pws="yes" id="w272" p="NN" headn="yes" group="I-NP">th</w> <w pws="yes" id="w275" p="." group="O">.</w> <w l="decbr" pws="yes" id="w277" p="NNP" headn="yes" group="B-NP">Decbr</w> <w pws="yes" id="w283" p="." group="O">.</w> <w pws="yes" id="w285" p="CD" quty="1782" group="B-NP">1782</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w35" sw="w30">Mrs. Hagerdorn</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w261" sw="w256">Mary Hamilton</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="date" year="1782">
+    <parts>
+      <part ew="w285" sw="w285">1782</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev1" subtype="remind" type="event"><parts><part ew="w115" sw="w115">remind</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="let" type="event"><parts><part ew="w169" sw="w169">let</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev3" subtype="remind" type="event"><parts><part ew="w207" sw="w207">remind</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="remind you sometimes of Your affectionate friend Mary Hamilton 9 th . Decbr . 1782">
+    <argument arg1="true" ref="ev3"/>
+    <argument arg2="true" ref="rb3"/>
+  </relation>
+</relations></standoff></document>

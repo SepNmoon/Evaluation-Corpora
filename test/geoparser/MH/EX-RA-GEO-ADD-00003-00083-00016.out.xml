@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP" group="B-NP">I</w> <w l="ask" pws="yes" id="w15" p="VBP" headv="yes" group="B-VP">ask</w> <w pws="yes" id="w19" p="IN" group="B-SBAR">if</w> <w pws="yes" id="w22" p="PRP" group="B-NP">you</w> <w l="think" pws="yes" id="w26" p="VBP" class="istate" headv="yes" group="B-VP">think</w> <w pws="yes" id="w32" p="PRP" group="B-NP">you</w> <w l="think" pws="yes" id="w36" p="VBP" class="istate" headv="yes" group="B-VP">think</w> <w pws="yes" id="w42" p="PRP" group="B-NP">you</w> <w l="gain" pws="yes" id="w46" p="VBD" class="state" headv="yes" group="B-VP">gained</w> <w l="credit" pws="yes" id="w53" p="NN" tmln="true" headn="yes" group="B-NP">credit</w> <w pws="yes" id="w60" p="IN" group="B-PP">by</w> <w l="shew" pws="yes" id="w63" p="VBG" headv="yes" group="B-VP">shewing</w> <w pws="yes" id="w71" p="PRP" group="B-NP">yourself</w> <w pws="yes" id="w80" p="DT" group="B-NP">a</w> <w tmla="true" pws="yes" id="w82" p="JJ" group="I-NP">good</w> <w common="true" l="horseman" pws="yes" id="w87" p="NN" headn="yes" group="I-NP">Horseman</w> <w pws="yes" id="w96" p=":" group="O">--</w> <w l="remember" pws="yes" id="w99" p="VB" headv="yes" group="B-VP">Remember</w> <w pws="yes" id="w108" p="PRP" group="B-NP">I</w> <w l="will" pws="yes" id="w110" p="MD" neg="yes" group="B-VP">will</w> <w pws="yes" id="w115" p="RB" neg="yes" group="I-VP">not</w> <w l="allow" pws="yes" id="w119" p="VB" class="istate" headv="yes" group="I-VP">allow</w> <w pws="yes" id="w125" p="PRP" group="B-NP">you</w> <w pws="yes" id="w129" p="DT" group="B-NP">a</w> <w l="fault" pws="yes" id="w131" p="NN" event="true" headn="yes" group="I-NP">fault</w> <w pws="yes" id="w137" p="CC" group="O">either</w> <w pws="yes" id="w144" p="JJ" group="B-ADJP">exterior</w> <w pws="yes" id="w153" p="CC" group="O">or</w> <w pws="yes" id="w156" p="JJ" group="B-ADJP">mental</w> <w pws="yes" id="w163" p="IN" group="B-PP">with</w> <w pws="yes" id="w168" p="DT" group="B-NP">a</w> <w pws="yes" id="w170" p="JJ" group="I-NP">little</w> <w l="care" pws="yes" id="w177" p="NN" event="true" headn="yes" group="I-NP">care</w> <w pws="yes" id="w182" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="time" pws="yes" id="w184" p="NN" event="true" tmln="true" headn="yes" group="I-NP">time</w> <w pws="yes" id="w189" p="PRP" group="B-NP">I</w> <w l="expect" pws="yes" id="w191" p="VBP" class="istate" headv="yes" group="B-VP">expect</w> <w pws="yes" id="w198" p="JJ" group="B-NP">great</w> <w state="true" l="thing" pws="yes" id="w204" p="NNS" tmln="true" headn="yes" group="I-NP">things</w> <w pws="yes" id="w211" p="IN" group="B-PP">of</w> <w pws="yes" id="w214" p="PRP$" group="B-NP">my</w> <w prof="true" l="friend" pws="yes" id="w217" p="NN" headn="yes" group="I-NP">friend</w> <w l="octbr" pws="yes" id="w224" p="NNP" headn="yes" group="B-NP">Octbr</w><w pws="no" id="w229" p=":" group="O">-</w> <w pws="yes" id="w231" p="CD" quty="14" group="O">14</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="ask" type="event"><parts><part ew="w15" sw="w15">ask</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="think" type="event"><parts><part ew="w26" sw="w26">think</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev3" subtype="think" type="event"><parts><part ew="w36" sw="w36">think</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev4" subtype="gain" type="event"><parts><part ew="w46" sw="w46">gained</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev5" subtype="shew" type="event"><parts><part ew="w63" sw="w63">shewing</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev6" subtype="remember" type="event"><parts><part ew="w99" sw="w99">Remember</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" neg="yes" id="ev7" subtype="allow" type="event"><parts><part ew="w119" sw="w119">allow</part></parts></ent>
+  <ent id="ev8" subtype="" nominal="true" type="event"><parts><part ew="w184" sw="w184">time</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev9" subtype="expect" type="event"><parts><part ew="w191" sw="w191">expect</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="gained">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

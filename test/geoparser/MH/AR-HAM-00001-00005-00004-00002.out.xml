@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="ld" pws="yes" id="w13" p="NNP" headn="yes" group="B-NP">Ld</w> <w pws="yes" id="w16" p="." group="O">.</w> <w locname="single" l="warwick" pws="yes" id="w18" p="NNP" wfirstn="true" group="B-NP">Warwick</w> <w l="present" pws="yes" id="w26" p="VBZ" headv="yes" group="B-VP">presents</w> <w pws="yes" id="w35" p="PRP$" group="B-NP">his</w> <w common="true" l="compliment" pws="yes" id="w39" p="NNS" headn="yes" group="I-NP">Compliments</w> <w pws="yes" id="w51" p="TO" group="B-PP">to</w> <w l="mr." pws="yes" id="w54" p="NNP" group="B-NP">Mr.</w> <w locname="single" l="dickenson" pws="yes" id="w58" p="NNP" group="I-NP">Dickenson</w> <w pws="yes" id="w68" p="CC" group="O">&amp;</w> <w l="beg" pws="yes" id="w70" p="NNS" headn="yes" group="B-NP">begs</w> <w l="leave" pws="yes" id="w75" p="VBP" headv="yes" group="B-VP">leave</w> <w pws="yes" id="w81" p="TO" group="B-VP">to</w> <w l="inform" pws="yes" id="w84" p="VB" headv="yes" group="I-VP">inform</w> <w pws="yes" id="w91" p="PRP" group="B-NP">him</w> <w pws="yes" id="w95" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w100" p="DT" group="B-NP">the</w> <w common="true" l="levee" pws="yes" id="w104" p="NNP" headn="yes" group="I-NP">Levee</w> <w l="be" pws="yes" id="w110" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w113" p="IN" group="B-PP">on</w> <w l="wednesday" pws="yes" id="w116" p="NNP" day="Wednesday" wdaynum="3" group="B-NP">Wednesday</w> <w pws="yes" id="w126" p="IN" group="B-PP">next</w> <w pws="yes" id="w131" p="WRB" group="B-ADVP">when</w> <w l="ld" pws="yes" id="w136" p="NNP" headn="yes" group="B-NP">Ld</w> <w l="w" pws="yes" id="w139" p="NNP" headn="yes" group="I-NP">W</w> <w pws="yes" id="w141" p="." group="O">.</w> <w l="will" pws="yes" id="w143" p="MD" group="B-VP">will</w> <w l="be" pws="yes" id="w148" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w151" p="RB" group="B-ADJP">very</w> <w tmla="true" pws="yes" id="w156" p="JJ" group="I-ADJP">glad</w> <w pws="yes" id="w161" p="TO" group="B-VP">to</w> <w l="attend" pws="yes" id="w164" p="VB" headv="yes" group="I-VP">attend</w> <w pws="yes" id="w171" p="PRP" group="B-NP">him</w> <w pws="yes" id="w175" p="CC" group="O">&amp;</w> <w l="will" pws="yes" id="w177" p="MD" group="B-VP">will</w> <w l="call" pws="yes" id="w182" p="VB" headv="yes" group="I-VP">call</w> <w pws="yes" id="w187" p="IN" group="B-PP">on</w> <w pws="yes" id="w190" p="PRP" group="B-NP">him</w> <w pws="yes" id="w194" p="IN" group="B-NP">about</w> <w pws="yes" id="w200" p="CD" quty="1" group="I-NP">1</w> <w l="o" pws="yes" id="w202" p="NNS" headn="yes" group="I-NP">o</w><w qut="s" pws="no" id="w203" p="POS" group="I-NP">'</w><w common="true" l="clock" pws="no" id="w204" p="NNP" headn="yes" group="I-NP">Clock</w> <w l="monday" pws="yes" id="w210" p="NNP" day="Monday" wdaynum="1" group="B-NP">Monday</w> <w l="morg" pws="yes" id="w217" p="NN" headn="yes" group="B-NP">morg</w> <w l="june" pws="yes" id="w222" p="NNP" month="06" group="B-NP">June</w> <w pws="yes" id="w227" p="CD" quty="18" date="18" group="I-NP">18</w> <w l="th" pws="yes" id="w230" p="NN" headn="yes" group="B-NP">th</w> <w pws="yes" id="w233" p="." group="O">.</w> <w wlastn="true" l="john" pws="yes" id="w235" p="NNP" pername="true" wfirstn="true" group="B-NP">John</w> <w locname="single" l="dickenson" pws="yes" id="w240" p="NNP" group="I-NP">Dickenson</w> <w l="esqr" pws="yes" id="w250" p="NNP" headn="yes" group="I-NP">Esqr</w> <w pws="yes" id="w255" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w18" sw="w18">Warwick</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w58" sw="w54">Mr. Dickenson</part>
+    </parts>
+  </ent>
+  <ent date="11" month="12" year="2024" sdate="2024-12-11" day-number="739230" id="rb3" wdaynum="3" day="Wednesday" type="date">
+    <parts>
+      <part ew="w116" sw="w116">Wednesday</part>
+    </parts>
+  </ent>
+  <ent date="09" month="12" year="2024" sdate="2024-12-09" day-number="739228" id="rb4" wdaynum="1" day="Monday" type="date">
+    <parts>
+      <part ew="w210" sw="w210">Monday</part>
+    </parts>
+  </ent>
+  <ent day="Wednesday" day-number="739419" sdate="2025-06-18" year="2025" id="rb5" date="18" month="06" type="date">
+    <parts>
+      <part ew="w227" sw="w222">June 18</part>
+    </parts>
+  </ent>
+  <ent id="rb6" type="person">
+    <parts>
+      <part ew="w240" sw="w235">John Dickenson</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="present" type="event"><parts><part ew="w26" sw="w26">presents</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="leave" type="event"><parts><part ew="w75" sw="w75">leave</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev3" subtype="inform" type="event"><parts><part ew="w84" sw="w84">inform</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev4" subtype="be" type="event"><parts><part ew="w148" sw="w148">be</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev5" subtype="attend" type="event"><parts><part ew="w164" sw="w164">attend</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev6" subtype="call" type="event"><parts><part ew="w182" sw="w182">call</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="Wednesday next when Ld W . will be">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="rb3"/>
+  </relation>
+  <relation id="rbr2" type="simultaneous" text="will call on him about 1 o'Clock Monday">
+    <argument arg1="true" ref="ev6"/>
+    <argument arg2="true" ref="rb4"/>
+  </relation>
+</relations></standoff></document>

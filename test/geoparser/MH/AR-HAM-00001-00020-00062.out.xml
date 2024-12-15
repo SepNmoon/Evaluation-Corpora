@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">Your</w> <w common="true" l="letter" pws="yes" id="w18" p="NN" headn="yes" group="I-NP">Letter</w> <w l="be" pws="yes" id="w25" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w29" p="JJ" group="B-ADJP">welcome</w> <w pws="yes" id="w37" p="," group="O">,</w> <w pws="yes" id="w39" p="CC" group="O">and</w> <w pws="yes" id="w43" p="RB" group="B-ADVP">so</w> <w l="be" pws="yes" id="w46" p="VBD" headv="yes" group="B-VP">were</w> <w pws="yes" id="w51" p="PRP$" group="B-NP">your</w> <w common="true" l="verse" pws="yes" id="w56" p="NNS" headn="yes" group="I-NP">Verses</w> <w pws="yes" id="w63" p="," group="O">,</w> <w state="true" common="true" l="fit" pws="yes" id="w65" p="NNP" headn="yes" group="B-NP">Fit</w> <w l="poem" pws="yes" id="w69" p="NNS" headn="yes" group="I-NP">poems</w> <w pws="yes" id="w75" p="IN" group="B-PP">for</w> <w prof="true" common="true" l="prince" pws="yes" id="w79" p="NNS" headn="yes" group="B-NP">Princes</w> <w pws="yes" id="w87" p="," headn="yes" group="I-NP">,</w> <w pws="yes" id="w89" p="CC" headn="yes" group="I-NP">and</w> <w l="eke" pws="yes" id="w93" p="NN" headn="yes" group="I-NP">eke</w> <w pws="yes" id="w97" p="IN" group="B-PP">for</w> <w pws="yes" id="w101" p="PRP$" group="B-NP">their</w> <w prof="true" common="true" l="nurse" pws="yes" id="w107" p="NNS" headn="yes" group="I-NP">Nurses</w> <w pws="yes" id="w114" p="," group="O">,</w> <w pws="yes" id="w116" p="DT" group="B-NP">The</w> <w l="subject" pws="yes" id="w120" p="NN" headn="yes" group="I-NP">subject</w> <w l="be" pws="yes" id="w128" p="VBZ" headv="yes" group="B-VP">is</w> <w tmla="true" pws="yes" id="w131" p="JJ" group="B-ADJP">clear</w> <w pws="yes" id="w137" p="," group="O">,</w> <w pws="yes" id="w139" p="JJ" group="B-ADJP">tho</w> <w pws="yes" qut="s" id="w143" p="POS" group="O">'</w> <w pws="yes" id="w145" p="PRP" group="B-NP">You</w> <w l="chuse" pws="yes" id="w149" p="VBP" headv="yes" group="B-VP">chuse</w> <w pws="yes" id="w155" p="TO" group="B-VP">to</w> <w l="deny" pws="yes" id="w158" p="VB" headv="yes" group="I-VP">deny</w> <w pws="yes" id="w163" p="PRP" group="B-NP">it</w> <w pws="yes" id="w166" p="," group="O">,</w> <w pws="yes" id="w168" p="PRP$" group="B-NP">Your</w> <w l="closet" pws="yes" id="w173" p="NN" headn="yes" group="I-NP">closet</w> <w pws="yes" qut="s" id="w180" p="''" group="O">'</w><w pws="no" id="w181" p="PRP" group="B-NP">s</w> <w l="describe" pws="yes" id="w183" p="VBD" headv="yes" group="B-VP">described</w> <w pws="yes" id="w193" p="," group="O">,</w> <w pws="yes" id="w195" p="PDT" group="O">half</w> <w pws="yes" id="w200" p="DT" group="B-NP">an</w> <w common="true" l="eye" pws="yes" id="w203" p="NN" headn="yes" group="I-NP">Eye</w> <w l="can" pws="yes" id="w207" p="MD" group="B-VP">can</w> <w pws="yes" id="w211" p="RB" group="I-VP">soon</w> <w l="spy" pws="yes" id="w216" p="VB" headv="yes" group="I-VP">spy</w> <w pws="yes" id="w220" p="PRP" group="B-NP">it</w> <w pws="yes" id="w223" p="." group="O">.</w> <w l="n" pws="yes" id="w225" p="NNP" headn="yes" group="B-NP">N</w><w l="—" pws="no" id="w226" p="NNP" headn="yes" group="I-NP">—</w><w l="—" pws="no" id="w227" p="NNP" headn="yes" group="I-NP">—</w> <w pws="yes" id="w229" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="chuse" type="event"><parts><part ew="w149" sw="w149">chuse</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev2" subtype="deny" type="event"><parts><part ew="w158" sw="w158">deny</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev3" subtype="describe" type="event"><parts><part ew="w183" sw="w183">described</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev4" subtype="spy" type="event"><parts><part ew="w216" sw="w216">spy</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="described">
+    <argument arg1="true" ref="ev3"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

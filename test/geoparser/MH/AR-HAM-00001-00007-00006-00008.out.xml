@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP" group="B-NP">I</w> <w l="have" pws="yes" id="w15" p="VBP" group="B-VP">have</w> <w l="receive" pws="yes" id="w20" p="VBN" headv="yes" group="I-VP">received</w> <w pws="yes" id="w29" p="PRP$" group="B-NP">your</w> <w pws="yes" id="w34" p="CD" quty="2" group="I-NP">two</w> <w l="parcel" pws="yes" id="w38" p="NNS" headn="yes" group="I-NP">parcels</w> <w pws="yes" id="w46" p="," group="O">,</w> <w pws="yes" id="w48" p="CC" group="O">&amp;</w> <w l="think" pws="yes" id="w50" p="VB" class="istate" headv="yes" group="B-VP">think</w> <w pws="yes" id="w56" p="PRP" group="B-NP">myself</w> <w pws="yes" id="w63" p="CC" group="O">&amp;</w> <w l="mr." pws="yes" id="w65" p="NNP" headn="yes" group="B-NP">Mr.</w> <w l="b" pws="yes" id="w69" p="NNP" headn="yes" group="I-NP">B</w> <w pws="yes" id="w71" p="IN" group="B-PP">in</w> <w state="true" l="luck" pws="yes" id="w74" p="NN" headn="yes" group="B-NP">luck</w> <w pws="yes" id="w79" p="TO" group="B-VP">to</w> <w l="have" pws="yes" id="w82" p="VB" headv="yes" group="I-VP">have</w> <w pws="yes" id="w87" p="PRP$" group="B-NP">our</w> <w common="true" vstem="cause" l="cause" pws="yes" id="w91" p="NN" event="true" headn="yes" group="I-NP">Cause</w> <w pws="yes" id="w97" p="IN" group="B-PP">in</w> <w pws="yes" id="w100" p="JJ" group="B-NP">such</w> <w tmla="true" pws="yes" id="w105" p="JJ" group="I-NP">excellent</w> <w l="hand" pws="yes" id="w115" p="NNS" event="true" tmln="true" headn="yes" group="I-NP">hands</w> <w pws="yes" id="w121" p="." group="O">.</w> <w pws="yes" id="w123" p="PRP" group="B-NP">I</w> <w l="hope" pws="yes" id="w125" p="VBP" class="istate" headv="yes" group="B-VP">hope</w> <w pws="yes" id="w130" p="PRP$" group="B-NP">my</w> <w common="true" l="fever" pws="yes" id="w133" p="NN" tmln="true" headn="yes" group="I-NP">Fever</w> <w l="have" pws="yes" id="w139" p="VBZ" group="B-VP">has</w> <w l="leave" pws="yes" id="w143" p="VBN" headv="yes" group="I-VP">left</w> <w pws="yes" id="w148" p="PRP" group="B-NP">me</w> <w pws="yes" id="w151" p=":" group="O">:</w> <w pws="yes" id="w153" p="PRP" group="B-NP">I</w> <w pws="yes" id="w155" p="RB" group="B-ADVP">long</w> <w pws="yes" id="w160" p="TO" group="B-VP">to</w> <w l="thank" pws="yes" id="w163" p="VB" headv="yes" group="I-VP">thank</w> <w pws="yes" id="w169" p="PRP" group="B-NP">you</w> <w pws="yes" id="w173" p="IN" group="B-PP">in</w> <w prof="true" l="person" pws="yes" id="w176" p="NN" headn="yes" group="B-NP">person</w> <w l="j" pws="yes" id="w183" p="NNP" headn="yes" group="B-NP">J</w> <w l="f" pws="yes" id="w185" p="NNP" headn="yes" group="I-NP">F</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="perf" modal="no" id="ev1" subtype="receive" type="event"><parts><part ew="w20" sw="w20">received</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="think" type="event"><parts><part ew="w50" sw="w50">think</part></parts></ent>
+  <ent id="ev3" subtype="" nominal="true" type="event"><parts><part ew="w115" sw="w115">hands</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev4" subtype="hope" type="event"><parts><part ew="w125" sw="w125">hope</part></parts></ent>
+  <ent tense="pres" voice="act" asp="perf" modal="no" id="ev5" subtype="leave" type="event"><parts><part ew="w143" sw="w143">left</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev6" subtype="thank" type="event"><parts><part ew="w163" sw="w163">thank</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

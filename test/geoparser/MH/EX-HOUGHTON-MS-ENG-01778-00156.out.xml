@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP" group="B-NP">We</w> <w l="leave" pws="yes" id="w16" p="VBP" headv="yes" group="B-VP">leave</w> <w pws="yes" id="w22" p="DT" group="B-NP">this</w> <w pws="yes" id="w27" p="IN" group="B-PP">in</w> <w pws="yes" id="w30" p="PRP$" group="B-NP">our</w> <w l="way" pws="yes" id="w34" p="NN" tmln="true" headn="yes" group="I-NP">way</w> <w pws="yes" id="w38" p="TO" group="B-PP">to</w> <w pws="yes" id="w41" p="DT" group="B-NP">the</w> <w locname="single" l="adelphus" pws="yes" id="w45" p="NNP" group="I-NP">Adelphi</w> <w pws="yes" id="w53" p=":" group="O">--</w> <w l="hope" pws="yes" id="w56" p="VBP" class="istate" headv="yes" group="B-VP">hope</w> <w pws="yes" id="w61" p="PRP" group="B-NP">you</w> <w l="have" pws="yes" id="w65" p="VBD" headv="yes" group="B-VP">had</w> <w pws="yes" id="w69" p="DT" group="B-NP">the</w> <w l="letter" pws="yes" id="w73" p="NN" headn="yes" group="I-NP">letter</w> <w pws="yes" id="w80" p=":" group="O">--</w> <w pws="yes" id="w83" p="PRP" group="B-NP">We</w> <w l="expect" pws="yes" id="w86" p="VBP" class="istate" headv="yes" group="B-VP">expect</w> <w pws="yes" id="w93" p="PRP" group="B-NP">You</w> <w pws="yes" id="w97" p="CC" group="O">and</w> <w l="mr." pws="yes" id="w101" p="NNP" headn="yes" group="B-NP">Mr.</w> <w l="d" pws="yes" id="w105" p="NNP" tmln="true" headn="yes" group="I-NP">D</w> <w pws="yes" id="w107" p="." group="O">.</w> <w pws="yes" id="w109" p="IN" group="B-PP">at</w> <w pws="yes" id="w112" p="CD" quty="5" headn="yes" group="B-NP">5</w> <w pws="yes" id="w114" p="TO" group="B-PP">to</w> <w l="day" pws="yes" id="w117" p="NN" tmln="true" headn="yes" group="B-NP">day</w> <w l="h" pws="yes" id="w121" p="NN" headn="yes" group="I-NP">H</w> <w pws="yes" id="w123" p="RBR" group="B-ADVP">More</w> <w l="Miſs" pws="yes" id="w128" p="NNPS" headn="yes" group="B-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w133" p="NNP" wfirstn="true" group="B-NP">Hamilton</w> <w l="clarge" pws="yes" id="w142" p="NNP" group="I-NP">Clarges</w> <w wlastn="true" common="true" l="street" pws="yes" id="w150" p="NNP" headn="yes" group="I-NP">Street</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w45" sw="w45">Adelphi</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w142" sw="w133">Hamilton Clarges</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="leave" type="event"><parts><part ew="w16" sw="w16">leave</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="hope" type="event"><parts><part ew="w56" sw="w56">hope</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev3" subtype="expect" type="event"><parts><part ew="w86" sw="w86">expect</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

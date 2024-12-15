@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="p" pws="yes" id="w13" p="NNP" group="B-NP">P</w> <w l="p" pws="yes" id="w15" p="NNP" group="I-NP">P</w> <w wlastn="true" l="george" pws="yes" id="w17" p="NNP" pername="true" wfirstn="true" group="I-NP">George</w> <w l="p" pws="yes" id="w24" p="NNP" group="I-NP">P</w> <w wlastn="true" l="george" pws="yes" id="w26" p="NNP" pername="true" wfirstn="true" group="I-NP">George</w> <w l="p" pws="yes" id="w33" p="NNP" group="I-NP">P</w> <w wlastn="true" l="george" pws="yes" id="w35" p="NNP" pername="true" wfirstn="true" group="I-NP">George</w> <w l="p" pws="yes" id="w42" p="NNP" headn="yes" group="I-NP">P</w> <w wlastn="true" common="true" l="prince" pws="yes" id="w44" p="NNP" wfirstn="true" group="B-NP">Prince</w> <w pws="yes" id="w51" p="IN" group="I-NP">of</w> <w l="wale" pws="yes" id="w54" p="NNP" country="true" group="I-NP">Wales</w> <w locname="single" l="windsor" pws="yes" id="w60" p="NNP" wfirstn="true" group="I-NP">Windsor</w> <w l="novbr" pws="yes" id="w68" p="NNP" group="I-NP">Novbr</w> <w pws="yes" id="w74" p="." group="O">.</w> <w pws="yes" id="w76" p="CD" quty="1802" headn="yes" group="B-NP">1802</w> <w pws="yes" id="w81" p="CD" quty="1782" headn="yes" group="I-NP">1782</w> <w l="d" pws="yes" id="w86" p="NNP" tmln="true" headn="yes" group="B-NP">D</w> <w pws="yes" id="w88" p="DT" group="O">a</w> <w l="be" pws="yes" id="w90" p="VBZ" headv="yes" group="B-VP">is</w> <w locname="single" l="dartrey" pws="yes" id="w93" p="NNP" group="B-NP">Dartrey</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w35" sw="w13">P P George P George P George</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w68" sw="w44">Prince of Wales Windsor Novbr</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w93" sw="w93">Dartrey</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">My</w> <w l="dear" pws="yes" id="w16" p="NN" headn="yes" group="I-NP">Dear</w> <w l="Miſs" pws="yes" id="w21" p="NNP" headn="yes" group="B-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w26" p="NNP" wfirstn="true" group="B-NP">Hamilton</w> <w pws="yes" id="w35" p="PRP" group="B-NP">I</w> <w l="speak" pws="yes" id="w37" p="VBD" headv="yes" group="B-VP">spoke</w> <w pws="yes" id="w43" p="TO" group="B-PP">to</w> <w pws="yes" id="w46" p="PRP$" group="B-NP">her</w> <w common="true" l="majesty" pws="yes" id="w50" p="NN" headn="yes" group="I-NP">Majesty</w> <w pws="yes" id="w58" p="IN" group="B-PP">as</w> <w pws="yes" id="w61" p="PRP" group="B-NP">you</w> <w l="desir" pws="yes" id="w65" p="VBP" headv="yes" group="B-VP">desir</w> <w l="'d" pws="yes" id="w71" p="NNP" headn="yes" group="B-NP">'d</w> <w pws="yes" id="w74" p="," group="O">,</w> <w pws="yes" id="w76" p="CC" group="O">&amp;</w> <w pws="yes" id="w78" p="PRP" group="B-NP">she</w> <w vstem="consent" l="consent" pws="yes" id="w82" p="NNS" headn="yes" group="B-NP">consents</w> <w pws="yes" id="w91" p="RB" group="B-ADVP">very</w> <w pws="yes" id="w96" p="RB" group="I-ADVP">readily</w> <w pws="yes" id="w104" p="TO" group="B-PP">to</w> <w pws="yes" id="w107" p="PRP$" group="O">your</w> <w l="go" pws="yes" id="w112" p="VBG" headv="yes" group="B-VP">going</w> <w pws="yes" id="w118" p="TO" group="B-PP">to</w> <w common="true" l="town" pws="yes" id="w121" p="NNP" headn="yes" group="B-NP">Town</w> <w l="tomorrow" pws="yes" id="w126" p="NN" trel="after" unit="day" quty="1" group="B-NP">tomorrow</w> <w pws="yes" id="w135" p="." group="O">.</w> <w pws="yes" id="w137" p="PRP" group="B-NP">I</w> <w pws="yes" id="w139" p="RB" group="B-ADVP">sincerely</w> <w l="hope" pws="yes" id="w149" p="VBP" class="istate" headv="yes" group="B-VP">hope</w> <w pws="yes" id="w154" p="PRP" group="B-NP">you</w> <w l="will" pws="yes" id="w158" p="MD" group="B-VP">will</w> <w l="find" pws="yes" id="w163" p="VB" headv="yes" group="I-VP">find</w> <w l="mr" pws="yes" id="w168" p="NNP" wfirstn="true" group="B-NP">Mrs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w172" p="NNP" wfirstn="true" group="I-NP">Hamilton</w> <w pws="yes" id="w181" p="RB" group="B-ADVP">better</w> <w pws="yes" id="w188" p="." group="O">.</w> <w pws="yes" id="w190" p="RB" group="B-ADVP">Ever</w> <w pws="yes" id="w195" p="RBS" group="I-ADVP">most</w> <w pws="yes" id="w200" p="RB" group="I-ADVP">Affly</w> <w pws="yes" id="w206" p="." group="O">.</w> <w l="yr" pws="yes" id="w208" p="NNPS" headn="yes" group="B-NP">Yrs</w> <w pws="yes" id="w212" p="." group="O">.</w> <w l="cfinch" pws="yes" id="w214" p="NNP" headn="yes" group="B-NP">CFinch</w> <w locname="single" l="kew" pws="yes" id="w221" p="NNP" group="B-NP">Kew</w> <w l="saturday" pws="yes" id="w225" p="NNP" day="Saturday" wdaynum="6" group="B-NP">Saturday</w> <w l="night" pws="yes" id="w234" p="NNP" group="I-NP">Night</w> <w pws="yes" id="w240" p="CD" quty="10" group="B-NP">10</w> <w l="o" pws="yes" id="w243" p="NNP" headn="yes" group="I-NP">o</w><w qut="s" pws="no" id="w244" p="POS" group="I-NP">'</w><w common="true" l="clock" pws="no" id="w245" p="NNP" headn="yes" group="I-NP">Clock</w> <w pws="yes" id="w251" p="TO" group="B-PP">To</w> <w l="Miſs" pws="yes" id="w254" p="NNP" headn="yes" group="B-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w259" p="NNP" wfirstn="true" group="B-NP">Hamilton</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" subtype="otf" type="person">
+    <parts>
+      <part ew="w26" sw="w26">Hamilton</part>
+    </parts>
+  </ent>
+  <ent wdaynum="5" day="Friday" date="06" month="12" year="2024" sdate="2024-12-06" day-number="739225" id="rb2" quty="1" unit="day" trel="after" type="date">
+    <parts>
+      <part ew="w126" sw="w126">tomorrow</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="person">
+    <parts>
+      <part ew="w172" sw="w168">Mrs Hamilton</part>
+    </parts>
+  </ent>
+  <ent id="rb4" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w221" sw="w221">Kew</part>
+    </parts>
+  </ent>
+  <ent date="07" month="12" year="2024" sdate="2024-12-07" day-number="739226" id="rb5" time="Night" wdaynum="6" day="Saturday" type="date">
+    <parts>
+      <part ew="w234" sw="w225">Saturday Night</part>
+    </parts>
+  </ent>
+  <ent id="rb6" subtype="otf" type="person">
+    <parts>
+      <part ew="w259" sw="w259">Hamilton</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev1" subtype="speak" type="event"><parts><part ew="w37" sw="w37">spoke</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="desir" type="event"><parts><part ew="w65" sw="w65">desir</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev3" subtype="go" type="event"><parts><part ew="w112" sw="w112">going</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev4" subtype="hope" type="event"><parts><part ew="w149" sw="w149">hope</part></parts></ent>
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev5" subtype="find" type="event"><parts><part ew="w163" sw="w163">find</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="spoke">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr2" type="simultaneous" text="tomorrow . I sincerely hope">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="rb2"/>
+  </relation>
+  <relation id="rbr3" type="simultaneous" text="will find Mrs Hamilton better . Ever most Affly . Yrs . CFinch Kew Saturday Night">
+    <argument arg1="true" ref="ev5"/>
+    <argument arg2="true" ref="rb5"/>
+  </relation>
+</relations></standoff></document>

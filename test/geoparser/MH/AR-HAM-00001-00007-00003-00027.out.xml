@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="honble" pws="yes" id="w13" p="NNP" headn="yes" group="B-NP">Honble</w> <w pws="yes" id="w20" p="." group="O">.</w> <w l="Miſs" pws="yes" id="w22" p="NNP" headn="yes" group="B-NP">Miſs</w> <w locname="single" l="egerton" pws="yes" id="w27" p="NNP" wfirstn="true" headn="yes" group="I-NP">Egerton</w> <w common="true" l="maid" pws="yes" id="w35" p="NNP" headn="yes" group="I-NP">Maid</w> <w pws="yes" id="w40" p="IN" group="B-PP">of</w> <w l="honr" pws="yes" id="w43" p="NNP" headn="yes" group="B-NP">Honr</w> <w pws="yes" id="w48" p="." group="O">.</w> <w pws="yes" id="w50" p="TO" group="B-VP">to</w> <w l="ye" pws="yes" id="w53" p="VB" headv="yes" group="I-VP">ye</w> <w pws="yes" id="w56" p="." group="O">.</w> <w pws="yes" id="w58" p="JJ" group="B-NP">late</w> <w l="Princeſs" pws="yes" id="w63" p="NNS" headn="yes" group="I-NP">Princeſs</w> <w pws="yes" id="w72" p="IN" group="B-PP">of</w> <w l="wale" pws="yes" id="w75" p="NNP" country="true" group="B-NP">Wales</w> <w pws="yes" id="w81" p="CC" group="O">&amp;</w> <w pws="yes" id="w83" p="RB" tref="present" group="B-NP">now</w> <w l="bed" pws="yes" id="w87" p="VBN" headv="yes" group="B-NP">Bed</w> <w l="c" pws="yes" id="w91" p="NNP" tmln="true" headn="yes" group="I-NP">C</w> <w l="create" pws="yes" id="w93" p="VBD" headv="yes" group="B-VP">created</w> <w common="true" l="bed" pws="yes" id="w101" p="NNP" headn="yes" group="B-NP">Bed</w> <w common="true" l="chamber" pws="yes" id="w105" p="NNP" headn="yes" group="I-NP">Chamber</w> <w common="true" l="woman" pws="yes" id="w113" p="NNP" headn="yes" group="I-NP">Woman</w> <w pws="yes" id="w119" p="TO" group="B-VP">to</w> <w l="ye" pws="yes" id="w122" p="VB" headv="yes" group="I-VP">ye</w> <w pws="yes" id="w125" p="." group="O">.</w> <w common="true" l="queen" pws="yes" id="w127" p="NNP" headn="yes" group="B-NP">Queen</w> <w pws="yes" id="w133" p="IN" group="B-PP">in</w> <w pws="yes" id="w136" p="CD" quty="1784" group="B-NP">1784</w> <w pws="yes" id="w141" p="CC" group="O">or</w> <w pws="yes" id="w144" p="CD" quty="5" group="B-NP">5</w> <w l="keep" pws="yes" id="w146" p="VBG" class="aspectual" headn="yes" group="I-NP">Keeping</w> <w pws="yes" id="w154" p="PRP$" group="B-NP">her</w> <w common="true" pws="yes" id="w158" p="NN" headn="yes" prevtag="JJ" group="I-NP">Salary</w> <w pws="yes" id="w165" p="IN" group="B-PP">as</w> <w l="md" pws="yes" id="w168" p="NNP" wfirstn="true" headn="yes" group="B-NP">Md</w> <w pws="yes" id="w171" p="." group="O">.</w> <w pws="yes" id="w173" p="IN" group="B-PP">of</w> <w l="hr" pws="yes" id="w176" p="NNP" headn="yes" group="B-NP">Hr</w> <w pws="yes" id="w179" p="TO" group="B-VP">to</w> <w l="ye" pws="yes" id="w182" p="VB" headv="yes" group="I-VP">ye</w> <w pws="yes" id="w185" p="." group="O">.</w> <w l="Princeſs" pws="yes" id="w187" p="NNPS" headn="yes" group="B-NP">Princeſs</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w75" sw="w75">Wales</part>
+    </parts>
+  </ent>
+  <ent id="rb2" tref="present" type="date">
+    <parts>
+      <part ew="w83" sw="w83">now</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="date" year="1784">
+    <parts>
+      <part ew="w136" sw="w136">1784</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev1" subtype="ye" type="event"><parts><part ew="w53" sw="w53">ye</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev2" subtype="create" type="event"><parts><part ew="w93" sw="w93">created</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev3" subtype="ye" type="event"><parts><part ew="w122" sw="w122">ye</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev4" subtype="ye" type="event"><parts><part ew="w182" sw="w182">ye</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="now Bed C created">
+    <argument arg1="true" ref="ev2"/>
+    <argument arg2="true" ref="rb2"/>
+  </relation>
+</relations></standoff></document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">My</w> <w l="dear" pws="yes" id="w16" p="NN" headn="yes" group="I-NP">dear</w> <w common="true" l="madam" pws="yes" id="w21" p="NNP" headn="yes" group="I-NP">Madam</w> <w l="i" pws="yes" id="w27" p="NNP" headn="yes" group="I-NP">i</w> <w l="beg" pws="yes" id="w29" p="NN" headn="yes" group="I-NP">beg</w> <w pws="yes" id="w33" p="PRP" group="B-NP">you</w> <w l="will" pws="yes" id="w37" p="MD" group="B-VP">will</w> <w l="give" pws="yes" id="w42" p="VB" headv="yes" group="I-VP">give</w> <w pws="yes" id="w47" p="PRP" group="B-NP">me</w> <w l="live" pws="yes" id="w50" p="VB" headv="yes" group="B-VP">live</w> <w pws="yes" id="w55" p="TO" group="B-VP">to</w> <w l="com" pws="yes" id="w58" p="VB" headv="yes" group="I-VP">com</w> <w pws="yes" id="w62" p="TO" group="B-VP">to</w> <w l="se" pws="yes" id="w65" p="VB" headv="yes" group="I-VP">se</w> <w pws="yes" id="w68" p="PRP" group="B-NP">you</w> <w pws="yes" id="w72" p="TO" group="B-PP">to</w> <w l="night" pws="yes" id="w75" p="NN" tmln="true" headn="yes" group="B-NP">night</w> <w locname="single" l="eliz" pws="yes" id="w81" p="NNP" headn="yes" group="B-NP">Eliz</w> <w l="h" pws="yes" id="w86" p="NNP" headn="yes" group="I-NP">h</w> <w pws="yes" id="w88" p="TO" group="B-VP">To</w> <w l="miſs" pws="yes" id="w91" p="VB" headv="yes" group="I-VP">miſs</w> <w l="hamilton" pws="yes" id="w96" p="NN" headn="yes" group="B-NP">hamilton</w> <w pws="yes" id="w105" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="fut" voice="act" asp="simple" modal="yes" id="ev1" subtype="give" type="event"><parts><part ew="w42" sw="w42">give</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="live" type="event"><parts><part ew="w50" sw="w50">live</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev3" subtype="com" type="event"><parts><part ew="w58" sw="w58">com</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev4" subtype="se" type="event"><parts><part ew="w65" sw="w65">se</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev5" subtype="miſs" type="event"><parts><part ew="w91" sw="w91">miſs</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

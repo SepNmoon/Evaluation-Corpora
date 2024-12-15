@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w wlastn="true" locname="single" l="london" pws="yes" id="w13" p="NNP" wfirstn="true" headn="yes" group="B-NP">London</w> <w l="decr" pws="yes" id="w20" p="NNP" headn="yes" group="I-NP">Decr</w> <w pws="yes" id="w25" p="." group="O">.</w> <w pws="yes" id="w27" p="CD" quty="20" group="O">Twenty</w> <w pws="yes" id="w34" p="JJ" quty="1" group="O">first</w> <w l="mrs." pws="yes" id="w40" p="NNP" group="B-NP">Mrs.</w> <w locname="single" l="dickenson" pws="yes" id="w45" p="NNP" group="I-NP">Dickenson</w> <w wlastn="true" common="true" l="birch" pws="yes" id="w55" p="NNP" group="I-NP">Birch</w> <w wlastn="true" common="true" l="hall" pws="yes" id="w61" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hall</w> <w locname="single" l="manchester" pws="yes" id="w66" p="NNP" headn="yes" group="I-NP">Manchester</w> <w l="jmurray" pws="yes" id="w77" p="NNP" headn="yes" group="I-NP">JMurray</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w55" sw="w40">Mrs. Dickenson Birch</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

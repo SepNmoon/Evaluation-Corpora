@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="mr." pws="yes" id="w13" p="NNP" group="B-NP">Mr.</w> <w wlastn="true" common="true" l="fisher" pws="yes" id="w17" p="NNP" wfirstn="true" group="I-NP">Fisher</w> <w l="present" pws="yes" id="w24" p="VBZ" headv="yes" group="B-VP">presents</w> <w pws="yes" id="w33" p="PRP$" group="B-NP">his</w> <w locname="single" common="true" l="comp" pws="yes" id="w37" p="NNS" event="true" headn="yes" group="I-NP">Comps</w> <w pws="yes" id="w43" p="." group="O">.</w> <w pws="yes" id="w45" p="TO" group="B-PP">to</w> <w l="Miſs" pws="yes" id="w48" p="NNP" headn="yes" group="B-NP">Miſs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w53" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hamilton</w> <w pws="yes" id="w62" p="," group="O">,</w> <w l="beg" pws="yes" id="w64" p="VBZ" headv="yes" group="B-VP">begs</w> <w pws="yes" id="w69" p="TO" group="B-VP">to</w> <w l="know" pws="yes" id="w72" p="VB" class="istate" headv="yes" group="I-VP">know</w> <w pws="yes" id="w77" p="WRB" group="B-ADVP">how</w> <w pws="yes" id="w81" p="PRP" group="B-NP">she</w> <w l="be" pws="yes" id="w85" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w88" p="IN" group="B-PP">after</w> <w pws="yes" id="w94" p="DT" group="B-NP">the</w> <w state="true" l="fatigue" pws="yes" id="w98" p="NNS" headn="yes" group="I-NP">fatigues</w> <w pws="yes" id="w107" p="IN" group="B-PP">of</w> <w l="yesterday" pws="yes" id="w110" p="NN" trel="before" unit="day" quty="1" group="B-NP">yesterday</w> <w pws="yes" id="w120" p="." group="O">.</w> <w l="mr." pws="yes" id="w122" p="NNP" headn="yes" group="B-NP">Mr.</w> <w l="f" pws="yes" id="w126" p="NNP" headn="yes" group="I-NP">F</w> <w pws="yes" id="w128" p="." group="O">.</w> <w l="be" pws="yes" id="w130" p="VBZ" group="B-VP">is</w> <w l="confine" pws="yes" id="w133" p="VBN" headv="yes" group="I-VP">confined</w> <w pws="yes" id="w142" p="IN" group="B-PP">at</w> <w l="home" pws="yes" id="w145" p="NN" headn="yes" group="B-NP">home</w> <w pws="yes" id="w150" p="DT" trel="same" quty="1" group="B-NP">this</w> <w vstem="morn" l="morning" pws="yes" id="w155" p="NN" group="I-NP">morning</w> <w pws="yes" id="w163" p="," group="O">,</w> <w pws="yes" id="w165" p="CC" group="O">&amp;</w> <w l="be" pws="yes" id="w167" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w170" p="JJ" group="B-ADJP">sorry</w> <w pws="yes" id="w176" p="PRP" group="B-NP">he</w> <w l="can" pws="yes" id="w179" p="MD" neg="yes" group="B-VP">can</w> <w pws="yes" id="w183" p="RB" neg="yes" group="I-VP">not</w> <w l="have" pws="yes" id="w187" p="VB" headv="yes" group="I-VP">have</w> <w pws="yes" id="w192" p="DT" group="B-NP">the</w> <w state="true" l="pleasure" pws="yes" id="w196" p="NN" headn="yes" group="I-NP">pleasure</w> <w pws="yes" id="w205" p="IN" group="B-PP">of</w> <w l="see" pws="yes" id="w208" p="VBG" class="istate" headv="yes" group="B-VP">seeing</w> <w l="Miſs" pws="yes" id="w215" p="NNP" headn="yes" group="B-NP">Miſs</w> <w l="h" pws="yes" id="w220" p="NNP" headn="yes" group="I-NP">H</w> <w pws="yes" id="w222" p="." group="O">.</w> <w pws="yes" id="w224" p=":" group="O">--</w> <w l="s" pws="yes" id="w227" p="NNP" headn="yes" group="B-NP">S</w> <w l="t" pws="yes" id="w229" p="NN" headn="yes" group="I-NP">t</w> <w pws="yes" id="w231" p="." group="O">.</w> <w l="jamess" pws="yes" id="w233" p="NNP" headn="yes" group="B-NP">Jamess</w> <w pws="yes" id="w240" p="." group="O">.</w> <w common="true" l="sat" pws="yes" id="w242" p="NNP" headn="yes" group="B-NP">Sat</w> <w pws="yes" id="w246" p=":" group="O">:</w> <w common="true" l="morn" pws="yes" id="w248" p="NNP" headn="yes" group="B-NP">Morn</w> <w pws="yes" id="w253" p=":" group="O">:</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w17" sw="w13">Mr. Fisher</part>
+    </parts>
+  </ent>
+  <ent wdaynum="3" day="Wednesday" date="04" month="12" year="2024" sdate="2024-12-04" day-number="739223" id="rb2" quty="1" unit="day" trel="before" type="date">
+    <parts>
+      <part ew="w110" sw="w110">yesterday</part>
+    </parts>
+  </ent>
+  <ent id="rb3" tval="1" trel="same" type="time">
+    <parts>
+      <part ew="w155" sw="w150">this morning</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="present" type="event"><parts><part ew="w24" sw="w24">presents</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev2" subtype="beg" type="event"><parts><part ew="w64" sw="w64">begs</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev3" subtype="know" type="event"><parts><part ew="w72" sw="w72">know</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="no" id="ev4" subtype="confine" type="event"><parts><part ew="w133" sw="w133">confined</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev5" subtype="see" type="event"><parts><part ew="w208" sw="w208">seeing</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="yesterday . Mr. F . is confined">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="rb2"/>
+  </relation>
+</relations></standoff></document>

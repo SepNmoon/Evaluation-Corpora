@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP" group="B-NP">I</w> <w l="think" pws="yes" id="w15" p="VBD" class="istate" headv="yes" group="B-VP">thought</w> <w pws="yes" id="w23" p="PRP" group="B-NP">I</w> <w l="hear" pws="yes" id="w25" p="VBD" headv="yes" group="B-VP">heard</w> <w pws="yes" id="w31" p="DT" group="B-NP">the</w> <w l="k" pws="yes" id="w35" p="NNP" headn="yes" group="I-NP">K</w><w l="—" pws="no" id="w36" p="NN" headn="yes" group="I-NP">—</w><w l="—" pws="no" id="w37" p="NNS" headn="yes" group="I-NP">—</w> <w l="find" pws="yes" id="w39" p="VBP" headv="yes" group="B-VP">find</w> <w l="fault" pws="yes" id="w44" p="NN" event="true" headn="yes" group="B-NP">fault</w> <w l="wth" pws="yes" id="w50" p="NN" headn="yes" group="I-NP">wth</w> <w pws="yes" id="w54" p="." group="O">.</w> <w pws="yes" id="w56" p="PRP$" group="B-NP">your</w> <w common="true" l="hat" pws="yes" id="w61" p="NN" headn="yes" group="I-NP">Hat</w> <w l="have" pws="yes" id="w65" p="VBG" group="B-VP">having</w> <w l="be" pws="yes" id="w72" p="VBN" group="I-VP">been</w> <w l="blow" pws="yes" id="w77" p="VBN" headv="yes" group="I-VP">blown</w> <w pws="yes" id="w83" p="RP" group="I-VP">off</w> <w pws="yes" id="w87" p="RB" group="B-ADVP">once</w> <w pws="yes" id="w92" p="CC" group="O">or</w> <w pws="yes" id="w95" p="RB" group="B-ADVP">twice</w> <w pws="yes" id="w101" p="IN" group="B-PP">during</w> <w pws="yes" id="w108" p="PRP$" group="B-NP">your</w> <w vstem="ride" l="ride" pws="yes" id="w113" p="NN" event="true" headn="yes" group="I-NP">ride</w> <w pws="yes" id="w118" p="IN" group="B-PP">in</w> <w pws="yes" id="w121" p="DT" group="B-NP">the</w> <w l="morng" pws="yes" id="w125" p="NNP" headn="yes" group="I-NP">Morng</w> <w pws="yes" id="w131" p=":" group="O">--</w> <w l="can" pws="yes" id="w134" p="MD" headv="yes" group="B-VP">ca</w> <w pws="yes" id="w137" p="RB" neg="yes" group="I-VP">n't</w> <w pws="yes" id="w141" p="PRP" group="B-NP">you</w> <w l="avoid" pws="yes" id="w145" p="VB" headv="yes" group="B-VP">avoid</w> <w pws="yes" id="w151" p="DT" group="B-NP">this</w> <w pws="yes" id="w156" p="IN" group="B-PP">in</w> <w l="future" pws="yes" id="w159" p="NN" headn="yes" group="B-NP">future</w> <w pws="yes" id="w166" p="IN" group="B-PP">by</w> <w l="tie" pws="yes" id="w169" p="VBG" headv="yes" group="B-VP">tying</w> <w pws="yes" id="w175" p="DT" group="B-NP">the</w> <w l="band" pws="yes" id="w179" p="NN" headn="yes" group="I-NP">band</w> <w pws="yes" id="w184" p="JJR" group="B-ADJP">tighter</w> <w pws="yes" id="w192" p="." group="O">?</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+</ents>
+<ents source="events">
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev1" subtype="think" type="event"><parts><part ew="w15" sw="w15">thought</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev2" subtype="hear" type="event"><parts><part ew="w25" sw="w25">heard</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev3" subtype="find" type="event"><parts><part ew="w39" sw="w39">find</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="perf" modal="no" id="ev4" subtype="blow" type="event"><parts><part ew="w77" sw="w77">blown</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" neg="yes" id="ev5" subtype="can" type="event"><parts><part ew="w134" sw="w134">ca</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev6" subtype="avoid" type="event"><parts><part ew="w145" sw="w145">avoid</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev7" subtype="tie" type="event"><parts><part ew="w169" sw="w169">tying</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="thought">
+    <argument arg1="true" ref="ev1"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr2" type="beforeorincl" text="heard">
+    <argument arg1="true" ref="ev2"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

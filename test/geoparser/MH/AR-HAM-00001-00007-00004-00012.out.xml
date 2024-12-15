@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">My</w> <w l="dear" pws="yes" id="w16" p="NN" headn="yes" group="I-NP">dear</w> <w common="true" l="madam" pws="yes" id="w21" p="NNP" headn="yes" group="B-NP">Madam</w> <w pws="yes" id="w27" p="PRP" group="B-NP">It</w> <w l="be" pws="yes" id="w30" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w34" p="PRP$" group="B-NP">my</w> <w vstem="intend" l="intention" pws="yes" id="w37" p="NN" tmln="true" headn="yes" group="I-NP">intention</w> <w pws="yes" id="w47" p="TO" group="B-VP">to</w> <w l="have" pws="yes" id="w50" p="VB" group="I-VP">have</w> <w l="pay" pws="yes" id="w55" p="VBN" headv="yes" group="I-VP">paid</w> <w pws="yes" id="w60" p="PRP" group="B-NP">you</w> <w pws="yes" id="w64" p="IN" group="B-PP">in</w> <w prof="true" l="person" pws="yes" id="w67" p="NN" headn="yes" group="B-NP">person</w> <w pws="yes" id="w74" p="DT" group="B-NP">the</w> <w common="true" l="compliment" pws="yes" id="w78" p="NNS" group="I-NP">Compliments</w> <w pws="yes" id="w90" p="IN" group="I-NP">of</w> <w pws="yes" id="w93" p="DT" group="I-NP">the</w> <w common="true" l="season" pws="yes" id="w97" p="NNP" group="I-NP">Season</w> <w pws="yes" id="w104" p="." group="O">.</w> <w pws="yes" id="w106" p="DT" group="B-NP">A</w> <w pws="yes" id="w108" p="RB" group="I-NP">very</w> <w pws="yes" id="w113" p="JJ" group="I-NP">violent</w> <w state="true" common="true" l="cold" pws="yes" id="w121" p="NNP" headn="yes" group="I-NP">Cold</w> <w pws="yes" id="w126" p="CC" group="O">&amp;</w> <w pws="yes" id="w128" p="JJ" group="B-NP">severe</w> <w common="true" l="pain" pws="yes" id="w135" p="NNS" event="true" headn="yes" group="I-NP">Pains</w> <w pws="yes" id="w141" p="IN" group="B-PP">in</w> <w pws="yes" id="w144" p="PRP$" group="B-NP">my</w> <w common="true" l="limb" pws="yes" id="w147" p="NNS" headn="yes" group="I-NP">Limbs</w> <w l="prevent" pws="yes" id="w153" p="VBP" headv="yes" group="B-VP">prevent</w> <w pws="yes" id="w161" p="PRP$" group="O">my</w> <w l="leave" pws="yes" id="w164" p="VBG" headv="yes" group="B-VP">leaving</w> <w pws="yes" id="w172" p="DT" group="B-NP">the</w> <w l="house" pws="yes" id="w176" p="NN" headn="yes" group="I-NP">house</w> <w pws="yes" id="w182" p="." group="O">.</w> <w pws="yes" id="w184" p="PRP" group="B-NP">I</w> <w l="shall" pws="yes" id="w186" p="MD" group="B-VP">shall</w> <w l="seize" pws="yes" id="w192" p="VB" headv="yes" group="I-VP">seize</w> <w pws="yes" id="w198" p="DT" group="B-NP">the</w> <w pws="yes" id="w202" p="JJ" quty="1" group="I-NP">first</w> <w state="true" l="opportunity" pws="yes" id="w208" p="NN" tmln="true" headn="yes" group="I-NP">opportunity</w> <w pws="yes" id="w220" p="IN" group="B-PP">of</w> <w l="pay" pws="yes" id="w223" p="VBG" headv="yes" group="B-VP">paying</w> <w pws="yes" id="w230" p="PRP$" group="B-NP">my</w> <w l="respects" pws="yes" id="w233" p="NNS" headn="yes" group="I-NP">respects</w> <w pws="yes" id="w242" p="TO" group="B-PP">to</w> <w pws="yes" id="w245" p="PRP" group="B-NP">you</w> <w pws="yes" id="w249" p="." group="O">.</w> <w pws="yes" id="w251" p="RB" group="B-ADVP">Sincerely</w> <w l="yr" pws="yes" id="w261" p="VBZ" headv="yes" group="B-VP">yrs</w> <w wlastn="true" l="john" pws="yes" id="w265" p="NNP" pername="true" wfirstn="true" group="B-NP">John</w> <w locname="single" l="farhill" pws="yes" id="w270" p="NNP" group="I-NP">Farhill</w> <w pws="yes" id="w278" p="CD" quty="25" group="B-NP">25</w> <w pws="yes" id="w281" p="JJ" group="I-NP">th</w> <w l="decbr" pws="yes" id="w284" p="NN" headn="yes" group="I-NP">Decbr</w> <w pws="yes" id="w290" p=":" group="O">:</w> <w pws="yes" id="w292" p="CD" quty="1783" group="B-NP">1783</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb2" type="person">
+    <parts>
+      <part ew="w270" sw="w265">John Farhill</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="date" year="1783">
+    <parts>
+      <part ew="w292" sw="w292">1783</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="inf" voice="act" asp="perf" modal="no" id="ev1" subtype="pay" type="event"><parts><part ew="w55" sw="w55">paid</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev2" subtype="prevent" type="event"><parts><part ew="w153" sw="w153">prevent</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev3" subtype="leave" type="event"><parts><part ew="w164" sw="w164">leaving</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev4" subtype="seize" type="event"><parts><part ew="w192" sw="w192">seize</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev5" subtype="pay" type="event"><parts><part ew="w223" sw="w223">paying</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev6" subtype="yr" type="event"><parts><part ew="w261" sw="w261">yrs</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="yrs John Farhill 25 th Decbr : 1783">
+    <argument arg1="true" ref="ev6"/>
+    <argument arg2="true" ref="rb3"/>
+  </relation>
+</relations></standoff></document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="PRP$" group="B-NP">My</w> <w pws="yes" id="w16" p="NN" headn="yes" prevtag="JJS" group="I-NP">dearest</w> <w pws="yes" id="w24" p="PRP" group="B-NP">I</w> <w l="wish" pws="yes" id="w26" p="VBP" headv="yes" group="B-VP">wish</w> <w pws="yes" id="w31" p="JJ" headn="yes" group="B-NP">much</w> <w pws="yes" id="w36" p="TO" group="B-VP">to</w> <w l="know" pws="yes" id="w39" p="VB" class="istate" headv="yes" group="I-VP">know</w> <w pws="yes" id="w44" p="WRB" group="B-ADVP">how</w> <w l="mr" pws="yes" id="w48" p="NNP" wfirstn="true" group="B-NP">Mrs</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w52" p="NNP" wfirstn="true" group="I-NP">Hamilton</w> <w l="be" pws="yes" id="w61" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w64" p="RB" tval="" group="B-NP">tonight</w> <w pws="yes" id="w72" p="CC" group="O">&amp;</w> <w pws="yes" id="w74" p="WRB" group="B-ADVP">how</w> <w pws="yes" id="w78" p="PRP" group="B-NP">you</w> <w l="be" pws="yes" id="w82" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w86" p="PRP$" group="B-NP">your</w> <w state="true" l="self" pws="yes" id="w91" p="NN" headn="yes" group="I-NP">self</w> <w pws="yes" id="w96" p="IN" group="B-SBAR">if</w> <w vstem="think" l="thinking" pws="yes" id="w99" p="NN" headn="yes" group="B-NP">thinking</w> <w pws="yes" id="w108" p="IN" group="B-PP">of</w> <w pws="yes" id="w111" p="PRP" group="B-NP">you</w> <w l="could" pws="yes" id="w115" p="MD" group="B-VP">could</w> <w l="be" pws="yes" id="w121" p="VB" headv="yes" group="I-VP">be</w> <w pws="yes" id="w124" p="IN" group="B-PP">of</w> <w pws="yes" id="w127" p="DT" group="B-NP">any</w> <w common="true" vstem="serve" l="service" pws="yes" id="w131" p="NN" event="true" tmln="true" headn="yes" group="I-NP">Service</w> <w pws="yes" id="w139" p="PRP" group="B-NP">I</w> <w l="have" pws="yes" id="w141" p="VBP" headv="yes" group="B-VP">have</w> <w pws="yes" id="w146" p="RB" group="B-ADVP">allmost</w> <w pws="yes" id="w154" p="RB" group="I-ADVP">constantly</w> <w pws="yes" id="w165" p="DT" trel="same" quty="1" group="B-NP">this</w> <w l="afternoon" pws="yes" id="w170" p="NN" group="I-NP">afternoon</w> <w pws="yes" id="w180" p="IN" group="B-PP">with</w> <w state="true" common="true" vstem="affect" l="affection" pws="yes" id="w185" p="NNP" headn="yes" group="B-NP">Affection</w> <w pws="yes" id="w195" p="CC" group="O">&amp;</w> <w pws="yes" id="w197" p="JJ" group="B-NP">sincere</w> <w state="true" vstem="feel" l="feeling" pws="yes" id="w205" p="NN" headn="yes" group="I-NP">feeling</w> <w l="mcg" pws="yes" id="w213" p="NNP" headn="yes" group="B-NP">MCG</w> <w l="tuesday" pws="yes" id="w217" p="NNP" day="Tuesday" wdaynum="2" group="B-NP">Tuesday</w> <w l="night" pws="yes" id="w225" p="NNP" group="I-NP">Night</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w52" sw="w48">Mrs Hamilton</part>
+    </parts>
+  </ent>
+  <ent id="rb2" tval="" type="time">
+    <parts>
+      <part ew="w64" sw="w64">tonight</part>
+    </parts>
+  </ent>
+  <ent id="rb3" tval="1" trel="same" type="time">
+    <parts>
+      <part ew="w170" sw="w165">this afternoon</part>
+    </parts>
+  </ent>
+  <ent date="03" month="12" year="2024" sdate="2024-12-03" day-number="739222" id="rb4" time="Night" wdaynum="2" day="Tuesday" type="date">
+    <parts>
+      <part ew="w225" sw="w217">Tuesday Night</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="wish" type="event"><parts><part ew="w26" sw="w26">wish</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev2" subtype="know" type="event"><parts><part ew="w39" sw="w39">know</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

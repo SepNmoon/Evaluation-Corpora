@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2024" month="12" date="05" sdate="2024-12-05" day-number="739224" day="Thursday" wdaynum="4">20241205</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="DT" group="B-NP">This</w> <w l="scrap" pws="yes" id="w18" p="NN" headn="yes" group="I-NP">scrap</w> <w pws="yes" id="w24" p="IN" group="B-PP">of</w> <w l="paper" pws="yes" id="w27" p="NN" headn="yes" group="B-NP">paper</w> <w l="state" pws="yes" id="w33" p="NNS" tmln="true" headn="yes" group="I-NP">states</w> <w pws="yes" id="w40" p="IN" group="B-SBAR">that</w> <w common="true" l="miss" pws="yes" id="w45" p="NNP" group="B-NP">Miss</w> <w locname="single" common="true" vstem="gun" l="gunning" pws="yes" id="w50" p="NNP" wfirstn="true" group="I-NP">Gunning</w> <w l="s" pws="yes" id="w58" p="VBZ" headv="yes" group="B-VP">s</w> <w state="true" l="friendship" pws="yes" id="w60" p="NN" headn="yes" group="B-NP">friendship</w> <w pws="yes" id="w71" p="CC" headn="yes" group="I-NP">and</w> <w vstem="correspond" l="correspondence" pws="yes" id="w75" p="NN" headn="yes" group="I-NP">correspondence</w> <w l="commence" pws="yes" id="w90" p="VBD" headv="yes" group="B-VP">commenced</w> <w pws="yes" id="w100" p="IN" group="B-PP">in</w> <w pws="yes" id="w103" p="CD" quty="1779" group="B-NP">1779</w> <w l="Miſs" pws="yes" id="w108" p="NNS" headn="yes" group="B-NP">Miſs</w> <w locname="single" l="gun" pws="yes" id="w113" p="VBG" group="B-NP">Gunning</w> <w pws="yes" id="w121" p="PRP" group="B-NP">s</w> <w state="true" l="friendship" pws="yes" id="w123" p="NN" headn="yes" group="B-NP">friendship</w> <w pws="yes" id="w134" p="CC" headn="yes" group="I-NP">&amp;</w> <w vstem="correspond" l="correspondence" pws="yes" id="w136" p="NN" headn="yes" group="I-NP">correspondence</w> <w l="begin" pws="yes" id="w151" p="VBD" class="aspectual" headv="yes" group="B-VP">began</w> <w pws="yes" id="w157" p="IN" group="B-PP">in</w> <w l="ye" pws="yes" id="w160" p="NN" headn="yes" group="B-NP">ye</w> <w pws="yes" id="w163" p="." group="O">.</w> <w l="year" pws="yes" id="w165" p="NN" year="1779" group="B-NP">year</w> <w pws="yes" id="w170" p="CD" quty="1779" year="1779" group="I-NP">1779</w> <w common="true" l="miss" pws="yes" id="w175" p="NNP" group="B-NP">Miss</w> <w locname="single" common="true" vstem="gun" l="gunning" pws="yes" id="w180" p="NNP" wfirstn="true" group="I-NP">Gunning</w> <w l="sign" pws="yes" id="w188" p="VBD" headv="yes" group="B-VP">signed</w> <w pws="yes" id="w195" p="PRP" group="B-NP">herself</w> <w pws="yes" id="w203" p="RB" group="B-ADVP">sometimes</w> <w pws="yes" id="w213" p="IN" group="B-PP">as</w> <w locname="single" l="astrea" pws="yes" id="w216" p="NNP" group="B-NP">Astrea</w> <w pws="yes" id="w223" p="CC" group="O">&amp;</w> <w common="true" l="miss" pws="yes" id="w225" p="NNP" group="B-NP">Miss</w> <w wlastn="true" locname="single" l="hamilton" pws="yes" id="w230" p="NNP" wfirstn="true" group="I-NP">Hamilton</w> <w pws="yes" id="w239" p="IN" group="B-PP">as</w> <w wlastn="true" l="miranda" pws="yes" id="w242" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Miranda</w> <w pws="yes" id="w250" p="CC" group="O">and</w> <w pws="yes" id="w254" p="PRP" group="B-NP">they</w> <w pws="yes" id="w259" p="RB" group="B-ADVP">so</w> <w l="address" pws="yes" id="w262" p="VBD" headv="yes" group="B-VP">addressed</w> <w pws="yes" id="w272" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w276" p="DT" group="O">another</w> <w pws="yes" id="w284" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="person">
+    <parts>
+      <part ew="w50" sw="w45">Miss Gunning</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="date" year="1779">
+    <parts>
+      <part ew="w103" sw="w103">1779</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w113" sw="w113">Gunning</part>
+    </parts>
+  </ent>
+  <ent id="rb4" year="1779" type="date">
+    <parts>
+      <part ew="w170" sw="w165">year 1779</part>
+    </parts>
+  </ent>
+  <ent id="rb5" type="person">
+    <parts>
+      <part ew="w180" sw="w175">Miss Gunning</part>
+    </parts>
+  </ent>
+  <ent id="rb6" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w216" sw="w216">Astrea</part>
+    </parts>
+  </ent>
+  <ent id="rb7" type="person">
+    <parts>
+      <part ew="w230" sw="w225">Miss Hamilton</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="s" type="event"><parts><part ew="w58" sw="w58">s</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev2" subtype="commence" type="event"><parts><part ew="w90" sw="w90">commenced</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev3" subtype="begin" type="event"><parts><part ew="w151" sw="w151">began</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev4" subtype="sign" type="event"><parts><part ew="w188" sw="w188">signed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev5" subtype="address" type="event"><parts><part ew="w262" sw="w262">addressed</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="simultaneous" text="commenced in 1779">
+    <argument arg1="true" ref="ev2"/>
+    <argument arg2="true" ref="rb2"/>
+  </relation>
+  <relation id="rbr2" type="simultaneous" text="began in ye . year 1779">
+    <argument arg1="true" ref="ev3"/>
+    <argument arg2="true" ref="rb4"/>
+  </relation>
+  <relation id="rbr3" type="beforeorincl" text="signed">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr4" type="beforeorincl" text="addressed">
+    <argument arg1="true" ref="ev5"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>
